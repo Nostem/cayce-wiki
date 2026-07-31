@@ -1,0 +1,18 @@
+---
+entity: "monastery"
+entity_type: "place"
+reading_count: 2
+mention_count: 2
+tags: [entity, place]
+---
+
+# monastery
+
+**monastery** (place) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+
+## Readings mentioning monastery
+
+[[288-5]], [[900-114]]
+
+---
+*Auto-generated place index via LLM extraction. Verify before citing.*

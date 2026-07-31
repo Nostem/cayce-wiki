@@ -1,0 +1,18 @@
+---
+entity: "calcium excess"
+entity_type: "condition"
+reading_count: 2
+mention_count: 2
+tags: [entity, condition]
+---
+
+# calcium excess
+
+**calcium excess** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+
+## Readings mentioning calcium excess
+
+[[51-1]], [[2351-1]]
+
+---
+*Auto-generated condition index via LLM extraction. Verify before citing.*

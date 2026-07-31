@@ -1,0 +1,18 @@
+---
+entity: "soda and salt"
+entity_type: "remedy"
+reading_count: 2
+mention_count: 2
+tags: [entity, remedy]
+---
+
+# soda and salt
+
+**soda and salt** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+
+## Readings mentioning soda and salt
+
+[[1467-11]], [[2890-3]]
+
+---
+*Auto-generated remedy index via LLM extraction. Verify before citing.*

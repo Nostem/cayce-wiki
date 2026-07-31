@@ -1,0 +1,18 @@
+---
+entity: "osteopathic relaxations"
+entity_type: "remedy"
+reading_count: 4
+mention_count: 4
+tags: [entity, remedy]
+---
+
+# osteopathic relaxations
+
+**osteopathic relaxations** (remedy) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+
+## Readings mentioning osteopathic relaxations
+
+[[2921-2]], [[2995-2]], [[3096-1]], [[5273-1]]
+
+---
+*Auto-generated remedy index via LLM extraction. Verify before citing.*
