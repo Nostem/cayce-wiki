@@ -105,12 +105,16 @@ plugins:
   - source: "@quartz-community/tag-page"
     enabled: true
   - source: "@quartz-community/explorer"
-    enabled: true
-    layout:
-      position: left
-      priority: 50
+    enabled: false
   - source: "@quartz-community/graph"
     enabled: true
+    options:
+      localGraph:
+        depth: 1
+        showTags: false
+      globalGraph:
+        depth: -1
+        showTags: false
     layout:
       position: right
       priority: 10

@@ -29,13 +29,16 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Apply large-vault client performance patches
+        run: node scripts/patch-quartz-performance.mjs
+
       - name: Build Quartz
         run: npx quartz build
         env:
           NODE_OPTIONS: "--max-old-space-size=6144"
 
-      - name: Shrink contentIndex.json (search/graph payload)
-        run: node scripts/strip-content-index.mjs public/static/contentIndex.json 300
+      - name: Split and shrink search/graph indexes
+        run: node scripts/strip-content-index.mjs public/static/contentIndex.json 180 120 4 8
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
