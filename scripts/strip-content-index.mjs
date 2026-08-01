@@ -43,10 +43,20 @@ function bump(map, key, amount = 1) {
 const before = statSync(target).size
 const source = JSON.parse(readFileSync(target, "utf8"))
 const slugs = new Set(Object.keys(source).map(normalizeSlug))
+const localAdjacency = new Map([...slugs].map((slug) => [slug, new Set()]))
 const entityCounts = new Map()
 const readingEntities = new Map()
 const readingSeries = new Map()
 const seriesSlugByTag = new Map()
+
+for (const [rawSlug, item] of Object.entries(source)) {
+  const slug = normalizeSlug(rawSlug)
+  for (const link of (item.links ?? []).map(normalizeSlug)) {
+    if (link === slug || !slugs.has(link)) continue
+    localAdjacency.get(slug)?.add(link)
+    localAdjacency.get(link)?.add(slug)
+  }
+}
 
 for (const rawSlug of Object.keys(source)) {
   const slug = normalizeSlug(rawSlug)
@@ -139,7 +149,7 @@ for (const [rawSlug, item] of Object.entries(source)) {
   const node = {
     title: item.title ?? "",
     tags: item.tags ?? [],
-    links: [...new Set((item.links ?? []).map(normalizeSlug).filter((link) => slugs.has(link)))],
+    links: [...(localAdjacency.get(slug) ?? [])].sort(),
   }
   if (globalEntities.has(slug) || globalSeries.has(slug)) {
     node.global = true

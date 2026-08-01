@@ -61,7 +61,15 @@ test("splits search data from a scoped graph index", () => {
 
     assert.deepEqual(Object.keys(search["readings/1-1"]).sort(), ["content", "tags", "title"])
     assert.ok(search["readings/1-1"].content.length <= 25)
-    assert.deepEqual(graph["readings/1-1"].links.sort(), ["entities/a", "entities/b"])
+    assert.deepEqual(graph["readings/1-1"].links.sort(), [
+      "entities/a",
+      "entities/b",
+      "series/1-1-test",
+    ])
+    assert.ok(
+      graph["entities/a"].links.includes("readings/1-2"),
+      "graph links include incoming neighbors so the client never scans the full index",
+    )
     assert.equal(graph["readings/1-1"].global, undefined)
     assert.equal(graph["entities/a"].global, true)
     assert.ok(graph["entities/a"].globalLinks.includes("entities/b"))
