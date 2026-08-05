@@ -29,17 +29,26 @@ function patchFile(relativePath, transforms) {
   console.log(`patched ${relativePath}`)
 }
 
+const searchInitBefore = "var Rt=!1;async function Ti(){Rt||(Z=await bi(),await ki(),Rt=!0)}"
+export const searchInitAfter =
+  "var Rt=!1,cayceSearchInitPromise;async function Ti(){Rt||(cayceSearchInitPromise||(cayceSearchInitPromise=(async()=>{Z=await bi(),await ki(),Rt=!0})().catch(t=>{cayceSearchInitPromise=void 0;throw t})),await cayceSearchInitPromise)}"
+
+const searchInputBefore = "nt=async _=>{let E=_.target.value;"
+export const searchInputAfter =
+  'nt=async _=>{let E=_.target.value,cayceRequest=window.__cayceSearchRequest=(window.__cayceSearchRequest||0)+1;E.trim()!==""&&(s.classList.add("display-results"),f.textContent="Loading search…");await Ti();if(cayceRequest!==window.__cayceSearchRequest)return;'
+const searchResultsBefore = ":K=[];let ct="
+export const searchResultsAfter =
+  ":K=[];if(cayceRequest!==window.__cayceSearchRequest)return;let ct="
+
 const searchTransforms = [
+  [searchInitBefore, searchInitAfter, "coalesce concurrent search initialization"],
   [
     "async function Mn(){Ai(),await Ti(),await wi(),Li()}",
     "async function Mn(){Ai(),await wi(),Li()}",
     "do not build FlexSearch during page startup",
   ],
-  [
-    "nt=async _=>{let E=_.target.value;",
-    "nt=async _=>{await Ti();let E=_.target.value;",
-    "initialize search on first query",
-  ],
+  [searchInputBefore, searchInputAfter, "initialize search once and keep only the latest query"],
+  [searchResultsBefore, searchResultsAfter, "discard stale asynchronous search results"],
 ]
 
 const graphFetchBefore = "var Ku=await fetchData;eu=new Map;for(var Ju in Ku)eu.set(Fu(Ju),Ku[Ju])"
