@@ -23,7 +23,7 @@ test("Vercel build uses the production deployment host as Quartz baseUrl", () =>
 
 test("Vercel serves the generated public directory with clean URLs", () => {
   assert.equal(packageJson.scripts["vercel-build"], "node scripts/vercel-build.mjs")
-  assert.equal(vercelConfig.buildCommand, "npm run vercel-build")
+  assert.equal(vercelConfig.buildCommand, "npm ci && npm run vercel-build")
   assert.equal(vercelConfig.outputDirectory, "public")
   assert.equal(vercelConfig.cleanUrls, true)
 })
