@@ -3,6 +3,11 @@ import assert from "node:assert/strict"
 import { readFileSync } from "node:fs"
 
 const buildScript = readFileSync(new URL("./vercel-build.mjs", import.meta.url), "utf8")
+const outputScript = readFileSync(new URL("./prepare-vercel-output.mjs", import.meta.url), "utf8")
+const deployWorkflow = readFileSync(
+  new URL("../.github/workflows/deploy.yml", import.meta.url),
+  "utf8",
+)
 const vercelConfig = JSON.parse(readFileSync(new URL("../vercel.json", import.meta.url), "utf8"))
 const packageJson = JSON.parse(readFileSync(new URL("../package.json", import.meta.url), "utf8"))
 
@@ -26,4 +31,13 @@ test("Vercel serves the generated public directory with clean URLs", () => {
   assert.equal(vercelConfig.buildCommand, "npm ci && npm run vercel-build")
   assert.equal(vercelConfig.outputDirectory, "public")
   assert.equal(vercelConfig.cleanUrls, true)
+})
+
+test("GitHub Actions deploys the completed Quartz build as a prebuilt artifact", () => {
+  assert.match(outputScript, /\.vercel\/output/)
+  assert.match(outputScript, /version: 3/)
+  assert.match(deployWorkflow, /prepare-vercel-output\.mjs/)
+  assert.match(deployWorkflow, /vercel deploy --prebuilt --prod/)
+  assert.match(deployWorkflow, /secrets\.VERCEL_TOKEN/)
+  assert.match(deployWorkflow, /VERCEL_PROJECT_ID: prj_qoOG7HRXdkOWcjRhMBdfMPFnVdSl/)
 })

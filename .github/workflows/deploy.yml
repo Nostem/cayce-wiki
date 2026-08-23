@@ -1,4 +1,4 @@
-name: Verify Quartz site
+name: Build and deploy Quartz to Vercel
 
 on:
   push:
@@ -9,12 +9,13 @@ permissions:
   contents: read
 
 concurrency:
-  group: "quartz-verification"
+  group: "quartz-production"
   cancel-in-progress: false
 
 jobs:
-  verify:
+  deploy:
     runs-on: ubuntu-22.04
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
         with:
@@ -37,3 +38,16 @@ jobs:
 
       - name: Split and shrink search/graph indexes
         run: node scripts/strip-content-index.mjs public/static/contentIndex.json 180 120 4 8
+
+      - name: Prepare Vercel Build Output API artifact
+        run: node scripts/prepare-vercel-output.mjs
+
+      - name: Install Vercel CLI
+        run: npm install --global vercel@59.3.0
+
+      - name: Deploy prebuilt site to Vercel
+        run: vercel deploy --prebuilt --prod --yes --token "$VERCEL_TOKEN" --scope noizy1234-1628s-projects
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_ORG_ID: team_QGe1wJf02vnl2A2sjKQV0LTq
+          VERCEL_PROJECT_ID: prj_qoOG7HRXdkOWcjRhMBdfMPFnVdSl
