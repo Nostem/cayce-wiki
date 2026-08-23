@@ -38,6 +38,7 @@ test("GitHub Actions deploys the completed Quartz build as a prebuilt artifact",
   assert.match(outputScript, /version: 3/)
   assert.match(deployWorkflow, /prepare-vercel-output\.mjs/)
   assert.match(deployWorkflow, /vercel deploy --prebuilt --prod/)
+  assert.match(deployWorkflow, /--archive=tgz/)
   assert.match(deployWorkflow, /secrets\.VERCEL_TOKEN/)
   assert.match(deployWorkflow, /VERCEL_PROJECT_ID: prj_qoOG7HRXdkOWcjRhMBdfMPFnVdSl/)
 })
