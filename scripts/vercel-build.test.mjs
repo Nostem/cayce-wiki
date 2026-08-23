@@ -33,6 +33,11 @@ test("Vercel serves the generated public directory with clean URLs", () => {
   assert.equal(vercelConfig.cleanUrls, true)
 })
 
+test("GitHub Actions builds canonical URLs for the Vercel production host", () => {
+  assert.match(deployWorkflow, /run: npm run vercel-build/)
+  assert.match(deployWorkflow, /VERCEL_PROJECT_PRODUCTION_URL: cayce-wiki\.vercel\.app/)
+})
+
 test("GitHub Actions deploys the completed Quartz build as a prebuilt artifact", () => {
   assert.match(outputScript, /\.vercel\/output/)
   assert.match(outputScript, /version: 3/)
