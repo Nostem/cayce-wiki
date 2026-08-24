@@ -9,7 +9,7 @@
     "./package.json": "./package.json"
   },
   "scripts": {
-    "build": "../../node_modules/.bin/esbuild src/index.ts src/components/index.ts --bundle --format=esm --outbase=src --outdir=dist --external:preact --external:@quartz-community/types"
+    "build": "../../node_modules/.bin/esbuild src/index.ts src/components/index.ts --bundle --format=esm --outbase=src --outdir=dist --external:preact --external:@quartz-community/types && ../../node_modules/.bin/prettier --write dist"
   },
   "peerDependencies": {
     "preact": "^10.0.0"

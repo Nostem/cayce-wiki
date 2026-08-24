@@ -1,11 +1,11 @@
 // src/components/index.ts
-import { h } from "preact";
+import { h } from "preact"
 var browseLinks = [
   { label: "Home", href: "/" },
   { label: "All readings", href: "/readings" },
   { label: "Entities & concepts", href: "/entities" },
-  { label: "Reading series", href: "/series" }
-];
+  { label: "Reading series", href: "/series" },
+]
 var conceptLinks = [
   { label: "Atlantis", href: "/entities/atlantis" },
   { label: "Soul", href: "/entities/soul" },
@@ -16,29 +16,31 @@ var conceptLinks = [
   { label: "Reincarnation", href: "/entities/reincarnation" },
   { label: "Astrology", href: "/entities/astrology" },
   { label: "Egypt", href: "/entities/egypt" },
-  { label: "Jesus Christ", href: "/entities/jesus-christ" }
-];
-var list = (links, className) => h(
-  "ul",
-  { class: className },
-  links.map(({ label, href }) => h("li", null, h("a", { href, class: "internal" }, label)))
-);
+  { label: "Jesus Christ", href: "/entities/jesus-christ" },
+]
+var list = (links, className) =>
+  h(
+    "ul",
+    { class: className },
+    links.map(({ label, href }) => h("li", null, h("a", { href, class: "internal" }, label))),
+  )
 var BrowseSidebar = () => {
-  const Component = ({ displayClass }) => h(
-    "nav",
-    {
-      class: [displayClass, "browse-sidebar"].filter(Boolean).join(" "),
-      "aria-label": "Browse the Cayce wiki"
-    },
-    h("h2", null, "Browse"),
-    list(browseLinks, "browse-sections"),
+  const Component = ({ displayClass }) =>
     h(
-      "details",
-      { open: true },
-      h("summary", null, "Key concepts"),
-      list(conceptLinks, "browse-concepts")
+      "nav",
+      {
+        class: [displayClass, "browse-sidebar"].filter(Boolean).join(" "),
+        "aria-label": "Browse the Cayce wiki",
+      },
+      h("h2", null, "Browse"),
+      list(browseLinks, "browse-sections"),
+      h(
+        "details",
+        { open: true },
+        h("summary", null, "Key concepts"),
+        list(conceptLinks, "browse-concepts"),
+      ),
     )
-  );
   Component.css = `
 .browse-sidebar { margin-top: 1.25rem; }
 .browse-sidebar h2 { margin: 0 0 0.5rem; font-size: 1rem; color: var(--dark); }
@@ -50,9 +52,7 @@ var BrowseSidebar = () => {
 .browse-sidebar details { margin-top: 0.65rem; }
 .browse-sidebar summary { color: var(--dark); font-size: 0.88rem; font-weight: 600; cursor: pointer; user-select: none; }
 .browse-sidebar .browse-concepts { margin-top: 0.35rem; padding-left: 0.85rem; border-left: 1px solid var(--lightgray); }
-`;
-  return Component;
-};
-export {
-  BrowseSidebar
-};
+`
+  return Component
+}
+export { BrowseSidebar }
