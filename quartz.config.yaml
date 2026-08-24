@@ -104,6 +104,12 @@ plugins:
     enabled: true
   - source: "@quartz-community/tag-page"
     enabled: true
+  - source: "./plugins/browse-sidebar"
+    enabled: true
+    layout:
+      position: left
+      priority: 50
+      display: desktop-only
   - source: "@quartz-community/explorer"
     enabled: false
   - source: "@quartz-community/graph"
