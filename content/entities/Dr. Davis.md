@@ -1,18 +1,21 @@
 ---
-entity: "Dr. Davis"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "dr. davis"
+entity_types: ["person"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# Dr. Davis
+# dr. davis
 
-**Dr. Davis** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**dr. davis** (person) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning Dr. Davis
+## Readings mentioning dr. davis
 
-[[635-5]], [[2946-5]]
+[[635-5]], [[678-2]], [[2946-5]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

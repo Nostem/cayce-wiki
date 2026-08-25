@@ -1,18 +1,21 @@
 ---
 entity: "kal-dak"
-entity_type: "remedy"
-reading_count: 6
-mention_count: 6
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # kal-dak
 
-**kal-dak** (remedy) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**kal-dak** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning kal-dak
 
-[[849-74]], [[2072-13]], [[3469-1]], [[3484-1]], [[3686-1]], [[3686-2]]
+[[759-23]], [[3053-4]], [[3469-1]], [[3481-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

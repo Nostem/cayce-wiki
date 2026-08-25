@@ -1,18 +1,21 @@
 ---
 entity: "pain in legs"
-entity_type: "condition"
-reading_count: 5
-mention_count: 5
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # pain in legs
 
-**pain in legs** (condition) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**pain in legs** (condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning pain in legs
 
-[[257-224]], [[900-167]], [[2883-1]], [[5491-4]], [[5657-1]]
+[[742-1]], [[1196-16]], [[2159-1]], [[2514-9]], [[2883-1]], [[3249-1]], [[5129-1]], [[5491-4]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

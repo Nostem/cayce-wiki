@@ -1,18 +1,21 @@
 ---
 entity: "mucus"
-entity_type: "condition"
-reading_count: 8
-mention_count: 8
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # mucus
 
-**mucus** (condition) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**mucus** (condition) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mucus
 
-[[279-16]], [[582-2]], [[900-465]], [[943-14]], [[1112-4]], [[1117-1]], [[1173-3]], [[1447-2]]
+[[147-36]], [[244-4]], [[279-20]], [[304-22]], [[378-11]], [[591-3]], [[953-23]], [[1112-4]], [[1173-3]], [[1703-2]], [[3480-2]], [[4769-3]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

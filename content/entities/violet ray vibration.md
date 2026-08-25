@@ -1,18 +1,21 @@
 ---
 entity: "violet ray vibration"
-entity_type: "remedy"
-reading_count: 3
-mention_count: 3
-tags: [entity, remedy]
+entity_types: ["concept", "remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # violet ray vibration
 
-**violet ray vibration** (remedy) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**violet ray vibration** (concept, remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning violet ray vibration
 
-[[482-3]], [[1093-2]], [[3876-1]]
+[[482-3]], [[1093-2]], [[4244-1]], [[4629-1]], [[5739-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

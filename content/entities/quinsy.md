@@ -1,18 +1,21 @@
 ---
 entity: "quinsy"
-entity_type: "condition"
-reading_count: 5
-mention_count: 5
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # quinsy
 
-**quinsy** (condition) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**quinsy** (condition) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning quinsy
 
-[[137-16]], [[137-19]], [[369-6]], [[2661-1]], [[4847-1]]
+[[137-16]], [[369-6]], [[4847-1]], [[5300-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

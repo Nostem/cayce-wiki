@@ -1,18 +1,21 @@
 ---
-entity: "oneness with the father"
-entity_type: "concept"
-reading_count: 3
-mention_count: 3
-tags: [entity, concept]
+entity: "oneness with the Father"
+entity_types: ["concept"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
-# oneness with the father
+# oneness with the Father
 
-**oneness with the father** (concept) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**oneness with the Father** (concept) appears in **6 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning oneness with the father
+## Readings mentioning oneness with the Father
 
-[[262-67]], [[262-93]], [[378-32]]
+[[262-93]], [[378-32]], [[849-17]], [[900-269]], [[900-315]], [[900-328]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

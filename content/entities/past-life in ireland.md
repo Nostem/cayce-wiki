@@ -1,18 +1,21 @@
 ---
-entity: "past-life in ireland"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity: "past-life in Ireland"
+entity_types: ["concept"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
-# past-life in ireland
+# past-life in Ireland
 
-**past-life in ireland** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**past-life in Ireland** (concept) appears in **9 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning past-life in ireland
+## Readings mentioning past-life in Ireland
 
-[[470-2]], [[2108-1]]
+[[143-1]], [[470-2]], [[470-29]], [[1156-1]], [[1463-2]], [[2005-1]], [[2108-1]], [[2454-3]], [[2717-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

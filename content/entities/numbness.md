@@ -1,18 +1,21 @@
 ---
 entity: "numbness"
-entity_type: "condition"
-reading_count: 68
-mention_count: 68
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 26
+literal_reading_count: 0
+semantic_reading_count: 26
+literal_mention_count: 0
+semantic_mention_count: 26
+tags: [entity, semantic]
 ---
 
 # numbness
 
-**numbness** (condition) appears in **68 readings** (68 mentions) — extracted by LLM semantic analysis.
+**numbness** (condition) appears in **26 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning numbness
 
-[[53-4]], [[264-24]], [[303-22]], [[306-2]], [[310-3]], [[372-8]], [[404-10]], [[413-7]], [[413-14]], [[482-6]], [[538-12]], [[539-3]], [[601-10]], [[646-3]], [[733-1]], [[734-1]], [[796-1]], [[800-1]], [[805-1]], [[838-1]], [[844-1]], [[868-1]], [[920-11]], [[988-2]], [[1018-1]], [[1079-2]], [[1086-1]], [[1092-1]], [[1100-16]], [[1100-30]], [[1196-5]], [[1280-1]], [[1467-1]], [[1532-3]], [[1657-3]], [[1711-2]], [[1713-10]], [[1765-1]], [[1779-2]], [[1779-4]], [[1779-5]], [[1810-1]], [[1810-4]], [[2038-1]], [[2038-2]], [[2046-1]], [[2243-1]], [[2333-1]], [[2389-2]], [[2407-1]], [[2434-3]], [[2472-1]], [[2504-15]], [[2772-4]], [[2945-1]], [[3068-1]], [[3490-1]], [[3826-1]], [[3874-1]], [[4457-1]], [[4571-1]], [[4848-4]], [[5158-1]], [[5475-2]], [[5475-3]], [[5519-2]], [[5618-18]], [[5730-1]]
+[[413-7]], [[538-11]], [[538-12]], [[539-3]], [[550-6]], [[550-7]], [[794-1]], [[1018-1]], [[1079-2]], [[1086-1]], [[1092-1]], [[1152-5]], [[1158-3]], [[1194-2]], [[1280-1]], [[1453-1]], [[1467-1]], [[1567-3]], [[1779-2]], [[2094-1]], [[2243-1]], [[2504-15]], [[4638-1]], [[4848-1]], [[4848-4]], [[4928-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "lithia tablets"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # lithia tablets
 
-**lithia tablets** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**lithia tablets** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning lithia tablets
 
-[[2067-10]], [[4585-1]]
+[[482-2]], [[2067-10]], [[2518-1]], [[2518-2]], [[4585-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

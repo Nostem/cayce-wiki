@@ -1,18 +1,21 @@
 ---
 entity: "falling hair"
-entity_type: "condition"
-reading_count: 7
-mention_count: 7
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 15
+literal_reading_count: 0
+semantic_reading_count: 15
+literal_mention_count: 0
+semantic_mention_count: 15
+tags: [entity, semantic]
 ---
 
 # falling hair
 
-**falling hair** (condition) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**falling hair** (condition) appears in **15 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning falling hair
 
-[[658-6]], [[849-6]], [[1467-11]], [[5165-1]], [[5334-1]], [[5504-2]], [[5504-3]]
+[[257-212_id852|257-212]], [[263-1]], [[658-6]], [[849-6]], [[984-5]], [[1467-1]], [[1467-11]], [[1467-15]], [[1566-4]], [[1736-4]], [[2301-5]], [[2998-1]], [[4722-1]], [[5334-1]], [[5504-3]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

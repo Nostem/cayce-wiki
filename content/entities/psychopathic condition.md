@@ -1,18 +1,21 @@
 ---
 entity: "psychopathic condition"
-entity_type: "condition"
-reading_count: 12
-mention_count: 12
-tags: [entity, condition]
+entity_types: ["concept", "condition"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 16
+tags: [entity, semantic]
 ---
 
 # psychopathic condition
 
-**psychopathic condition** (condition) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**psychopathic condition** (concept, condition) appears in **14 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning psychopathic condition
 
-[[130-1]], [[522-1]], [[686-1]], [[886-1]], [[1024-1]], [[1108-1]], [[1118-1]], [[2155-1]], [[3462-1]], [[3536-1]], [[5664-3]], [[5699-1]]
+[[130-1]], [[522-1]], [[673-1]], [[686-1]], [[886-1]], [[968-1]], [[1000-1]], [[1108-1]], [[2149-1]], [[2155-1]], [[5502-1]], [[5664-3]], [[5699-1]], [[5708-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

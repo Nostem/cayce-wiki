@@ -1,18 +1,21 @@
 ---
 entity: "cerebrospinal coordination"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # cerebrospinal coordination
 
-**cerebrospinal coordination** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**cerebrospinal coordination** (concept) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning cerebrospinal coordination
 
-[[1760-2]], [[1801-1]], [[3238-1]], [[5204-1]], [[5562-2]]
+[[308-7]], [[1000-4]], [[1042-1]], [[2293-4]], [[2833-1]], [[2865-1]], [[3925-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

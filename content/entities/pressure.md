@@ -1,18 +1,21 @@
 ---
 entity: "pressure"
-entity_type: "concept"
+entity_types: ["concept", "condition", "remedy"]
 reading_count: 8
-mention_count: 8
-tags: [entity, concept]
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # pressure
 
-**pressure** (concept) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**pressure** (concept, condition, remedy) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning pressure
 
-[[116-2]], [[758-39]], [[1447-1]], [[2744-3]], [[2825-1]], [[4004-1]], [[5458-1]], [[5573-1]]
+[[632-13]], [[1010-15]], [[1318-1]], [[1646-5]], [[3160-3]], [[3531-1]], [[4004-1]], [[4452-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

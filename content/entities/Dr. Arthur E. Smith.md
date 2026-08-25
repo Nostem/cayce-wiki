@@ -1,18 +1,21 @@
 ---
-entity: "dr. arthur e. smith"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Dr. Arthur E. Smith"
+entity_types: ["person"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
-# dr. arthur e. smith
+# Dr. Arthur E. Smith
 
-**dr. arthur e. smith** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Dr. Arthur E. Smith** (person) appears in **9 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning dr. arthur e. smith
+## Readings mentioning Dr. Arthur E. Smith
 
-[[470-20]], [[2304-2]]
+[[470-20]], [[2304-2]], [[2341-1]], [[2529-1]], [[2609-1]], [[2745-1]], [[3267-1]], [[3574-1]], [[5727-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

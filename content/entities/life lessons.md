@@ -1,18 +1,21 @@
 ---
 entity: "life lessons"
-entity_type: "concept"
-reading_count: 9
-mention_count: 9
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # life lessons
 
-**life lessons** (concept) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**life lessons** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning life lessons
 
-[[136-70]], [[137-63]], [[137-100]], [[294-66]], [[294-159]], [[341-13]], [[538-13]], [[900-160]], [[3307-1]]
+[[137-84]], [[294-66]], [[538-13]], [[900-55]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

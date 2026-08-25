@@ -1,18 +1,21 @@
 ---
-entity: "mr. t. r. wirsing"
-entity_type: "person"
-reading_count: 3
-mention_count: 3
-tags: [entity, person]
+entity: "Mr. T. R. Wirsing"
+entity_types: ["person"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
-# mr. t. r. wirsing
+# Mr. T. R. Wirsing
 
-**mr. t. r. wirsing** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Mr. T. R. Wirsing** (person) appears in **11 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning mr. t. r. wirsing
+## Readings mentioning Mr. T. R. Wirsing
 
-[[4015-1]], [[5174-1]], [[5376-1]]
+[[3467-1]], [[3606-1]], [[3627-1]], [[4015-1]], [[4048-1]], [[4079-1]], [[5232-1]], [[5237-1]], [[5280-1]], [[5287-1]], [[5376-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "mandrake root"
-entity_type: "remedy"
-reading_count: 63
-mention_count: 63
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 31
+literal_reading_count: 0
+semantic_reading_count: 31
+literal_mention_count: 0
+semantic_mention_count: 31
+tags: [entity, semantic]
 ---
 
 # mandrake root
 
-**mandrake root** (remedy) appears in **63 readings** (63 mentions) — extracted by LLM semantic analysis.
+**mandrake root** (remedy) appears in **31 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mandrake root
 
-[[16-1]], [[46-1]], [[47-1]], [[59-1]], [[95-1]], [[129-1]], [[144-1]], [[150-1]], [[159-1]], [[163-1]], [[185-1]], [[216-1]], [[250-1]], [[814-1]], [[878-1]], [[979-2]], [[1005-17]], [[1690-1]], [[3847-1]], [[3857-1]], [[3942-1]], [[3959-1]], [[3961-2]], [[4120-1]], [[4133-3]], [[4138-1]], [[4151-1]], [[4216-1]], [[4218-3]], [[4231-1]], [[4288-1]], [[4302-1]], [[4305-1]], [[4306-1]], [[4365-1]], [[4367-1]], [[4383-2]], [[4383-3]], [[4401-1]], [[4419-1]], [[4436-1]], [[4518-1]], [[4649-1]], [[4698-1]], [[4709-3]], [[4728-1]], [[4736-1]], [[4748-1]], [[4793-1]], [[4796-1]], [[4831-2]], [[4848-1]], [[4868-1]], [[4883-2]], [[4988-1]], [[4990-1]], [[5313-2]], [[5421-4]], [[5455-1]], [[5477-1]], [[5521-1]], [[5580-1]], [[5657-1]]
+[[16-1]], [[144-1]], [[643-1]], [[758-31]], [[814-1]], [[979-2]], [[1541-10]], [[3766-1]], [[3847-1]], [[3942-1]], [[3951-1]], [[3961-2]], [[4133-2]], [[4133-3]], [[4218-3]], [[4231-1]], [[4302-1]], [[4306-1]], [[4365-1]], [[4367-1]], [[4383-1]], [[4383-3]], [[4451-1]], [[4456-1]], [[4748-1]], [[4815-1]], [[4988-1]], [[4990-1]], [[5421-4]], [[5444-1]], [[5455-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

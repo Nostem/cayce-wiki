@@ -1,18 +1,21 @@
 ---
-entity: "cairo"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity: "Cairo"
+entity_types: ["place"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
-# cairo
+# Cairo
 
-**cairo** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Cairo** (place) appears in **5 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning cairo
+## Readings mentioning Cairo
 
-[[342-1]], [[3629-2]], [[5748-5]]
+[[254-116]], [[342-1]], [[813-1]], [[3629-2]], [[5748-5]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

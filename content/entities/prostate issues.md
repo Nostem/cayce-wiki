@@ -1,18 +1,21 @@
 ---
 entity: "prostate issues"
-entity_type: "condition"
-reading_count: 7
-mention_count: 7
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # prostate issues
 
-**prostate issues** (condition) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**prostate issues** (condition) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning prostate issues
 
-[[592-2]], [[1196-13]], [[1375-1]], [[1961-1]], [[2392-2]], [[3137-2]], [[3190-3]]
+[[779-27]], [[1169-1]], [[1329-1]], [[1375-1]], [[1565-5]], [[1606-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

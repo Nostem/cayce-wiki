@@ -1,18 +1,21 @@
 ---
-entity: "middle west"
-entity_type: "place"
+entity: "Middle West"
+entity_types: ["place"]
 reading_count: 3
-mention_count: 3
-tags: [entity, place]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# middle west
+# Middle West
 
-**middle west** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Middle West** (place) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning middle west
+## Readings mentioning Middle West
 
-[[228-4]], [[361-14]], [[437-10]]
+[[228-4]], [[261-16]], [[2029-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

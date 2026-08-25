@@ -1,18 +1,21 @@
 ---
 entity: "tumors"
-entity_type: "condition"
-reading_count: 15
-mention_count: 15
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
 # tumors
 
-**tumors** (condition) appears in **15 readings** (15 mentions) — extracted by LLM semantic analysis.
+**tumors** (condition) appears in **13 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning tumors
 
-[[281-44]], [[303-8]], [[303-18]], [[596-1]], [[672-1]], [[988-1]], [[988-6]], [[1319-1]], [[1611-1]], [[2152-1]], [[2945-1]], [[3180-3]], [[3775-2]], [[4750-1]], [[5172-1]]
+[[165-12]], [[303-8]], [[303-18]], [[303-24]], [[596-1]], [[988-1]], [[998-1]], [[1319-1]], [[2063-1]], [[2152-1]], [[2830-1]], [[2945-1]], [[3451-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

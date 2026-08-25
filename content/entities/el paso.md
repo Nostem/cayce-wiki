@@ -1,18 +1,21 @@
 ---
-entity: "el paso"
-entity_type: "place"
-reading_count: 5
-mention_count: 5
-tags: [entity, place]
+entity: "El Paso"
+entity_types: ["place"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
-# el paso
+# El Paso
 
-**el paso** (place) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**El Paso** (place) appears in **9 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning el paso
+## Readings mentioning El Paso
 
-[[230-2]], [[609-1]], [[1027-1]], [[1324-1]], [[4077-1]]
+[[230-1]], [[230-2]], [[440-11]], [[609-1]], [[1027-1]], [[1324-1]], [[3279-3]], [[4077-1]], [[4874-3]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

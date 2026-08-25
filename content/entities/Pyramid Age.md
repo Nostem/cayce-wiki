@@ -1,17 +1,21 @@
 ---
 entity: "Pyramid Age"
-mention_count: 2
+entity_types: ["literal"]
 reading_count: 2
-tags: [entity]
+literal_reading_count: 2
+semantic_reading_count: 0
+literal_mention_count: 2
+semantic_mention_count: 0
+tags: [entity, semantic]
 ---
 
 # Pyramid Age
 
-**Pyramid Age** appears in **2 readings** (2 total mentions) across the corpus.
+**Pyramid Age** (literal) appears in **2 readings** — indexed through deterministic literal extraction.
 
 ## Readings mentioning Pyramid Age
 
 [[254-107]], [[263-17]]
 
 ---
-*Auto-generated entity index. 2 readings, 2 mentions.*
+*Auto-generated index. LLM classifications should be verified before citation.*

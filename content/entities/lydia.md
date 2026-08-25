@@ -1,18 +1,21 @@
 ---
-entity: "lydia"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Lydia"
+entity_types: ["person", "place"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
-# lydia
+# Lydia
 
-**lydia** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Lydia** (person, place) appears in **7 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning lydia
+## Readings mentioning Lydia
 
-[[3197-1]], [[5025-1]]
+[[254-116]], [[538-31]], [[808-18]], [[845-1]], [[1367-1]], [[2970-1]], [[5628-12]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

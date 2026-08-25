@@ -1,18 +1,21 @@
 ---
-entity: "Thomas House, Jr."
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Thomas House Jr."
+entity_types: ["person"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# Thomas House, Jr.
+# Thomas House Jr.
 
-**Thomas House, Jr.** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Thomas House Jr.** (person) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning Thomas House, Jr.
+## Readings mentioning Thomas House Jr.
 
-[[294-108]], [[3969-1]]
+[[195-29]], [[294-111]], [[900-406]], [[4611-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "soda water"
-entity_type: "remedy"
-reading_count: 13
-mention_count: 13
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # soda water
 
-**soda water** (remedy) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**soda water** (remedy) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning soda water
 
-[[257-92]], [[294-125]], [[404-9]], [[464-17]], [[900-380]], [[1001-2]], [[1014-2]], [[1409-3]], [[1446-3]], [[1505-5]], [[1676-1]], [[2504-7]], [[5425-1]]
+[[259-4]], [[404-9]], [[464-17]], [[949-6]], [[1001-2]], [[1014-2]], [[1505-5]], [[2504-7]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

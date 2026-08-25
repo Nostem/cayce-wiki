@@ -1,18 +1,21 @@
 ---
-entity: "dr. shorell"
-entity_type: "person"
-reading_count: 3
-mention_count: 3
-tags: [entity, person]
+entity: "Dr. Shorell"
+entity_types: ["person"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
-# dr. shorell
+# Dr. Shorell
 
-**dr. shorell** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Dr. Shorell** (person) appears in **12 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning dr. shorell
+## Readings mentioning Dr. Shorell
 
-[[592-3]], [[598-2]], [[943-15]]
+[[279-20]], [[495-1]], [[576-1]], [[576-3]], [[592-3]], [[596-1]], [[598-2]], [[715-1]], [[767-1]], [[841-1]], [[943-15]], [[2261-2]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "silver"
-entity_type: "remedy"
+entity_types: ["concept", "remedy"]
 reading_count: 3
-mention_count: 3
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # silver
 
-**silver** (remedy) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**silver** (concept, remedy) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning silver
 
-[[746-1]], [[2504-13]], [[5413-1]]
+[[907-1]], [[1196-8]], [[2504-13]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

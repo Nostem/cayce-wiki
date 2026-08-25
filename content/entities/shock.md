@@ -1,18 +1,21 @@
 ---
 entity: "shock"
-entity_type: "condition"
-reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+entity_types: ["concept", "condition"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # shock
 
-**shock** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**shock** (concept, condition) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning shock
 
-[[189-1]], [[264-27]], [[619-6]], [[759-12]], [[1123-3]], [[3068-1]]
+[[137-85]], [[604-1]], [[673-1]], [[759-12]], [[903-35]], [[1129-1]], [[1378-1]], [[2777-3]], [[3684-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

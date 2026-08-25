@@ -1,18 +1,21 @@
 ---
 entity: "mental and spiritual attitude"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
 # mental and spiritual attitude
 
-**mental and spiritual attitude** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**mental and spiritual attitude** (concept, remedy) appears in **13 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mental and spiritual attitude
 
-[[501-1]], [[2205-2]], [[2528-1]], [[2995-3]], [[3096-1]]
+[[264-59]], [[270-40]], [[338-9]], [[468-1]], [[1179-12]], [[1211-2]], [[1400-1]], [[1532-2]], [[2778-5]], [[3096-1]], [[3169-1]], [[3388-1]], [[4036-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

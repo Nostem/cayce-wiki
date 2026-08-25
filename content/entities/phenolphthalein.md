@@ -1,18 +1,21 @@
 ---
 entity: "phenolphthalein"
-entity_type: "remedy"
-reading_count: 12
-mention_count: 12
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # phenolphthalein
 
-**phenolphthalein** (remedy) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**phenolphthalein** (remedy) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning phenolphthalein
 
-[[265-6]], [[276-5]], [[294-129]], [[294-172]], [[303-5]], [[340-28]], [[381-2]], [[522-2]], [[538-29]], [[671-1]], [[3836-1]], [[5583-2]]
+[[265-6]], [[294-172]], [[303-5]], [[340-28]], [[671-1]], [[1048-3]], [[5583-2]], [[5660-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

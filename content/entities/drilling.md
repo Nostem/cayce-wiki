@@ -1,18 +1,21 @@
 ---
 entity: "drilling"
-entity_type: "concept"
-reading_count: 3
-mention_count: 3
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # drilling
 
-**drilling** (concept) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**drilling** (concept, remedy) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning drilling
 
-[[195-5]], [[4905-36]], [[4905-58]]
+[[195-7]], [[1561-9]], [[1561-19]], [[4417-1]], [[4905-17]], [[4905-21]], [[4905-52]], [[4905-64]], [[4905-68]], [[5741-3]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

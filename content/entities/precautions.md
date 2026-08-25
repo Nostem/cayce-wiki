@@ -1,18 +1,21 @@
 ---
 entity: "precautions"
-entity_type: "concept"
-reading_count: 9
-mention_count: 9
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # precautions
 
-**precautions** (concept) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**precautions** (concept) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning precautions
 
-[[23-4]], [[257-217]], [[257-228]], [[257-2229]], [[341-41]], [[391-17]], [[480-46]], [[601-20]], [[1521-7]]
+[[137-110]], [[257-215]], [[257-217]], [[257-2229]], [[341-41]], [[480-43]], [[481-3]], [[601-16]], [[735-2]], [[3120-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "mental training"
-entity_type: "concept"
-reading_count: 6
-mention_count: 6
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # mental training
 
-**mental training** (concept) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**mental training** (concept) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mental training
 
-[[276-1]], [[457-1]], [[566-7]], [[912-1]], [[1204-1]], [[4646-3]]
+[[261-7]], [[270-35]], [[287-3]], [[294-66]], [[457-1]], [[512-2]], [[900-85]], [[900-265]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

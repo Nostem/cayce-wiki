@@ -1,18 +1,21 @@
 ---
 entity: "gland condition"
-entity_type: "condition"
-reading_count: 7
-mention_count: 7
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # gland condition
 
-**gland condition** (condition) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**gland condition** (condition) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning gland condition
 
-[[263-12]], [[759-14]], [[4538-1]], [[4764-1]], [[4985-1]], [[5566-3]], [[5722-1]]
+[[223-1]], [[1734-5]], [[4030-1]], [[4764-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

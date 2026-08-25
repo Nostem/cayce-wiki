@@ -1,18 +1,21 @@
 ---
 entity: "lung trouble"
-entity_type: "condition"
-reading_count: 4
-mention_count: 4
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # lung trouble
 
-**lung trouble** (condition) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**lung trouble** (condition) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning lung trouble
 
-[[186-1]], [[1548-3]], [[1866-2]], [[1866-4]]
+[[233-1]], [[501-1]], [[3367-1]], [[4588-1]], [[4830-2]], [[4874-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

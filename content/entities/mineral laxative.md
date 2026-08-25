@@ -1,18 +1,21 @@
 ---
 entity: "mineral laxative"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 6
-mention_count: 6
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # mineral laxative
 
-**mineral laxative** (remedy) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**mineral laxative** (remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mineral laxative
 
-[[494-6]], [[1100-32]], [[1409-8]], [[2803-6]], [[3296-1]], [[3489-1]]
+[[494-6]], [[849-76]], [[1100-32]], [[1523-17]], [[3053-2]], [[3296-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

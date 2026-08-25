@@ -1,18 +1,21 @@
 ---
 entity: "mental mind"
-entity_type: "concept"
+entity_types: ["concept"]
 reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # mental mind
 
-**mental mind** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**mental mind** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mental mind
 
-[[137-52]], [[137-60]], [[137-99]], [[262-10]]
+[[136-50]], [[137-52]], [[140-11]], [[294-35]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "mental attunement"
-entity_type: "concept"
-reading_count: 8
-mention_count: 8
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # mental attunement
 
-**mental attunement** (concept) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**mental attunement** (concept) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mental attunement
 
-[[254-103]], [[262-90]], [[602-2]], [[900-457]], [[1122-5]], [[3821-1]], [[5420-1]], [[5642-4]]
+[[254-103]], [[262-90]], [[602-2]], [[900-400]], [[900-457]], [[2519-1]], [[3821-1]], [[5077-1]], [[5475-3]], [[5475-7]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

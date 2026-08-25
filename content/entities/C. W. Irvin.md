@@ -1,18 +1,21 @@
 ---
-entity: "c. w. irvin"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "C. W. Irvin"
+entity_types: ["person"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# c. w. irvin
+# C. W. Irvin
 
-**c. w. irvin** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**C. W. Irvin** (person) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning c. w. irvin
+## Readings mentioning C. W. Irvin
 
-[[934-12]], [[5010-1]]
+[[254-116]], [[578-11]], [[934-12]], [[5010-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

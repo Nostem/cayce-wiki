@@ -1,18 +1,21 @@
 ---
-entity: "pensacola"
-entity_type: "place"
+entity: "Pensacola"
+entity_types: ["place"]
 reading_count: 4
-mention_count: 4
-tags: [entity, place]
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# pensacola
+# Pensacola
 
-**pensacola** (place) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Pensacola** (place) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning pensacola
+## Readings mentioning Pensacola
 
-[[311-1]], [[410-2]], [[630-2]], [[768-4]]
+[[311-1]], [[410-2]], [[620-1]], [[630-2]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "ben block"
-entity_type: "person"
-reading_count: 9
-mention_count: 9
-tags: [entity, person]
+entity: "Ben Block"
+entity_types: ["person"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
-# ben block
+# Ben Block
 
-**ben block** (person) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**Ben Block** (person) appears in **14 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning ben block
+## Readings mentioning Ben Block
 
-[[137-24]], [[137-39]], [[137-44]], [[137-62]], [[900-106]], [[900-117]], [[900-195]], [[900-259]], [[900-294]]
+[[137-24]], [[137-39]], [[137-44]], [[137-62]], [[900-106]], [[900-117]], [[900-196]], [[900-207]], [[900-211]], [[900-259]], [[900-291]], [[900-294]], [[900-387]], [[3818-3]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

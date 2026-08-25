@@ -1,18 +1,21 @@
 ---
-entity: "hot springs"
-entity_type: "place"
-reading_count: 6
-mention_count: 6
-tags: [entity, place]
+entity: "Hot Springs"
+entity_types: ["place"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
-# hot springs
+# Hot Springs
 
-**hot springs** (place) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**Hot Springs** (place) appears in **9 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning hot springs
+## Readings mentioning Hot Springs
 
-[[133-1]], [[133-2]], [[270-5]], [[1055-3]], [[1512-2]], [[4286-2]]
+[[133-1]], [[133-2]], [[937-1]], [[1512-1]], [[1512-2]], [[1686-1]], [[1835-1]], [[3153-1]], [[3435-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

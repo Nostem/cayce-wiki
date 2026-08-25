@@ -1,18 +1,21 @@
 ---
 entity: "b-1 complex"
-entity_type: "remedy"
-reading_count: 8
-mention_count: 8
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # b-1 complex
 
-**b-1 complex** (remedy) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**b-1 complex** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning b-1 complex
 
-[[303-30]], [[2084-15]], [[2299-10]], [[2900-1]], [[3021-1]], [[3318-1]], [[5209-1]], [[5334-1]]
+[[294-210]], [[2299-10]], [[3021-1]], [[3120-2]], [[5209-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

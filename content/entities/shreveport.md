@@ -1,18 +1,21 @@
 ---
-entity: "shreveport"
-entity_type: "place"
-reading_count: 2
-mention_count: 2
-tags: [entity, place]
+entity: "Shreveport"
+entity_types: ["place"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
-# shreveport
+# Shreveport
 
-**shreveport** (place) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Shreveport** (place) appears in **8 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning shreveport
+## Readings mentioning Shreveport
 
-[[779-14]], [[5213-1]]
+[[412-2]], [[417-3]], [[779-14]], [[3514-1]], [[5213-1]], [[5393-1]], [[5648-1]], [[5741-10]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

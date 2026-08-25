@@ -1,18 +1,21 @@
 ---
-entity: "reilly"
-entity_type: "person"
-reading_count: 15
-mention_count: 15
-tags: [entity, person]
+entity: "Reilly"
+entity_types: ["person"]
+reading_count: 34
+literal_reading_count: 0
+semantic_reading_count: 34
+literal_mention_count: 0
+semantic_mention_count: 34
+tags: [entity, semantic]
 ---
 
-# reilly
+# Reilly
 
-**reilly** (person) appears in **15 readings** (15 mentions) — extracted by LLM semantic analysis.
+**Reilly** (person) appears in **34 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning reilly
+## Readings mentioning Reilly
 
-[[257-135]], [[257-232]], [[849-14]], [[949-7]], [[1266-5]], [[1763-1]], [[2344-2]], [[2389-1]], [[2421-1]], [[2564-1]], [[2774-1]], [[2800-1]], [[2873-1]], [[2873-2]], [[4716-1]]
+[[257-165]], [[257-166]], [[257-226]], [[257-232]], [[325-52]], [[558-8]], [[903-25]], [[949-7]], [[1152-5]], [[1158-31]], [[1224-3]], [[1266-5]], [[1315-1]], [[1564-2]], [[1589-1]], [[1598-2]], [[1763-1]], [[1963-1]], [[2421-1]], [[2564-1]], [[2598-1]], [[2739-2]], [[2800-1]], [[2820-1]], [[2854-1]], [[2873-2]], [[3051-1]], [[3051-2]], [[3051-3]], [[3051-7]], [[4716-1]], [[5609-5]], [[5609-6]], [[5640-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

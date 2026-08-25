@@ -1,18 +1,21 @@
 ---
 entity: "Dr. Shackleford"
-entity_type: "person"
-reading_count: 7
-mention_count: 7
-tags: [entity, person]
+entity_types: ["person"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # Dr. Shackleford
 
-**Dr. Shackleford** (person) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**Dr. Shackleford** (person) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Dr. Shackleford
 
-[[340-39]], [[482-9]], [[482-10]], [[1508-1]], [[1645-2]], [[2293-4]], [[2726-1]]
+[[340-39]], [[482-9]], [[482-10]], [[1508-1]], [[1645-2]], [[2293-4]], [[2693-1]], [[2846-1]], [[4798-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

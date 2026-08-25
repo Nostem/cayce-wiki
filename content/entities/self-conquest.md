@@ -1,18 +1,21 @@
 ---
 entity: "self-conquest"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # self-conquest
 
-**self-conquest** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**self-conquest** (concept) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning self-conquest
 
-[[115-1]], [[422-1]], [[3343-1]], [[3976-22]], [[5056-1]]
+[[5-2]], [[257-53]], [[271-7]], [[1089-6]], [[2670-1]], [[3344-1]], [[3657-1]], [[3976-22]], [[4162-2]], [[5056-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

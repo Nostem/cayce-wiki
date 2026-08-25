@@ -1,18 +1,21 @@
 ---
-entity: "santa barbara"
-entity_type: "place"
-reading_count: 5
-mention_count: 5
-tags: [entity, place]
+entity: "Santa Barbara"
+entity_types: ["place"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
-# santa barbara
+# Santa Barbara
 
-**santa barbara** (place) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**Santa Barbara** (place) appears in **10 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning santa barbara
+## Readings mentioning Santa Barbara
 
-[[1430-1]], [[1432-1]], [[1947-5]], [[1947-6]], [[5243-1]]
+[[509-1]], [[1432-1]], [[1438-2]], [[1597-2]], [[1919-2]], [[1947-5]], [[1947-6]], [[2072-16]], [[2246-2]], [[5243-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "disturbed metabolism"
-entity_type: "condition"
-reading_count: 10
-mention_count: 10
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 15
+literal_reading_count: 0
+semantic_reading_count: 15
+literal_mention_count: 0
+semantic_mention_count: 15
+tags: [entity, semantic]
 ---
 
 # disturbed metabolism
 
-**disturbed metabolism** (condition) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**disturbed metabolism** (condition) appears in **15 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning disturbed metabolism
 
-[[506-1]], [[834-1]], [[1020-1]], [[1398-2]], [[2017-3]], [[2077-2]], [[2177-1]], [[2185-2]], [[4628-1]], [[5518-1]]
+[[306-1]], [[506-1]], [[644-1]], [[741-1]], [[789-1]], [[875-1]], [[1020-1]], [[1398-2]], [[1603-2]], [[2017-3]], [[2077-2]], [[2306-1]], [[2638-1]], [[5509-1]], [[5518-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

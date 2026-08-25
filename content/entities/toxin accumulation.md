@@ -1,18 +1,21 @@
 ---
 entity: "toxin accumulation"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # toxin accumulation
 
-**toxin accumulation** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**toxin accumulation** (condition) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning toxin accumulation
 
-[[4152-1]], [[5580-1]]
+[[265-5]], [[1005-1]], [[1323-1]], [[2233-2]], [[2889-2]], [[4119-1]], [[5580-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

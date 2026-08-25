@@ -1,18 +1,21 @@
 ---
 entity: "Harmon Bro"
-entity_type: "person"
-reading_count: 4
-mention_count: 4
-tags: [entity, person]
+entity_types: ["person"]
+reading_count: 73
+literal_reading_count: 0
+semantic_reading_count: 73
+literal_mention_count: 0
+semantic_mention_count: 73
+tags: [entity, semantic]
 ---
 
 # Harmon Bro
 
-**Harmon Bro** (person) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Harmon Bro** (person) appears in **73 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Harmon Bro
 
-[[308-12]], [[3377-1]], [[3597-1]], [[3638-1]]
+[[254-114]], [[254-115]], [[254-116]], [[308-12]], [[318-2]], [[341-53]], [[462-18]], [[849-74]], [[987-5]], [[1563-3]], [[2072-13]], [[2072-14]], [[2308-4]], [[2542-4]], [[2746-2]], [[2778-6]], [[2823-3]], [[2982-2]], [[2988-5]], [[2998-2]], [[3005-1]], [[3063-3]], [[3085-2]], [[3217-2]], [[3273-1]], [[3351-1]], [[3356-2]], [[3359-1]], [[3364-1]], [[3370-1]], [[3374-1]], [[3377-1]], [[3382-1]], [[3386-1]], [[3389-1]], [[3419-1]], [[3423-1]], [[3432-1]], [[3436-1]], [[3445-1]], [[3466-1]], [[3471-1]], [[3477-1]], [[3479-1]], [[3480-1]], [[3481-1]], [[3483-1]], [[3484-1]], [[3490-1]], [[3525-1]], [[3526-1]], [[3531-1]], [[3542-1]], [[3547-1]], [[3562-1]], [[3579-1]], [[3588-1]], [[3597-1]], [[3600-1]], [[3607-1]], [[3638-1]], [[3639-1]], [[3641-1]], [[3644-1]], [[3645-1]], [[3675-1]], [[3906-1]], [[4007-1]], [[5055-1]], [[5129-1]], [[5147-1]], [[5148-1]], [[5164-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

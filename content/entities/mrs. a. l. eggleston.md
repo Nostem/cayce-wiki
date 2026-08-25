@@ -1,18 +1,21 @@
 ---
-entity: "mrs. a. l. eggleston"
-entity_type: "person"
+entity: "Mrs. A. L. Eggleston"
+entity_types: ["person"]
 reading_count: 3
-mention_count: 3
-tags: [entity, person]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# mrs. a. l. eggleston
+# Mrs. A. L. Eggleston
 
-**mrs. a. l. eggleston** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Mrs. A. L. Eggleston** (person) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning mrs. a. l. eggleston
+## Readings mentioning Mrs. A. L. Eggleston
 
 [[2586-1]], [[2590-1]], [[2606-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

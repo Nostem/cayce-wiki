@@ -1,18 +1,21 @@
 ---
 entity: "run-down condition"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # run-down condition
 
-**run-down condition** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**run-down condition** (condition) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning run-down condition
 
-[[2417-1]], [[2653-5]]
+[[243-1]], [[482-1]], [[808-9]], [[852-17]], [[2653-5]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "mental depression"
-entity_type: "condition"
-reading_count: 9
-mention_count: 9
-tags: [entity, condition]
+entity_types: ["concept", "condition"]
+reading_count: 22
+literal_reading_count: 0
+semantic_reading_count: 22
+literal_mention_count: 0
+semantic_mention_count: 23
+tags: [entity, semantic]
 ---
 
 # mental depression
 
-**mental depression** (condition) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**mental depression** (concept, condition) appears in **22 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mental depression
 
-[[243-28]], [[667-14]], [[1100-34]], [[1887-1]], [[1952-2]], [[2478-1]], [[2899-2]], [[3762-1]], [[5618-15]]
+[[243-28]], [[601-23]], [[849-44]], [[1100-34]], [[1773-3]], [[1773-4]], [[1887-1]], [[2084-15]], [[2478-1]], [[2670-1]], [[2899-1]], [[2899-2]], [[3053-1]], [[3386-2]], [[3538-1]], [[3762-1]], [[4376-1]], [[4854-1]], [[5127-1]], [[5304-1]], [[5318-1]], [[5618-15]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

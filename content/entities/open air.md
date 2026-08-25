@@ -1,18 +1,21 @@
 ---
 entity: "open air"
-entity_type: "concept"
-reading_count: 6
-mention_count: 6
-tags: [entity, concept]
+entity_types: ["remedy"]
+reading_count: 59
+literal_reading_count: 0
+semantic_reading_count: 59
+literal_mention_count: 0
+semantic_mention_count: 59
+tags: [entity, semantic]
 ---
 
 # open air
 
-**open air** (concept) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**open air** (remedy) appears in **59 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning open air
 
-[[325-48]], [[428-7]], [[3776-15]], [[3819-1]], [[4018-1]], [[4534-1]]
+[[106-11]], [[136-13]], [[137-129]], [[137-132]], [[230-1]], [[243-2]], [[259-3]], [[294-3]], [[294-5]], [[294-16]], [[301-1]], [[325-48]], [[389-11]], [[421-6]], [[460-7]], [[538-1]], [[538-2]], [[714-1]], [[773-7]], [[850-7]], [[900-371]], [[900-452]], [[1000-1]], [[1368-2]], [[1712-1]], [[1925-1]], [[2500-1]], [[2565-2]], [[2663-2]], [[2943-1]], [[3222-1]], [[3776-15]], [[3848-2]], [[3931-1]], [[3964-1]], [[4032-1]], [[4095-1]], [[4125-1]], [[4159-3]], [[4170-1]], [[4271-1]], [[4280-9]], [[4534-1]], [[4569-1]], [[4579-1]], [[4642-1]], [[4645-1]], [[4648-1]], [[4683-1]], [[5310-1]], [[5413-2]], [[5478-1]], [[5497-1]], [[5526-1]], [[5535-2]], [[5554-2]], [[5618-6]], [[5618-7]], [[5642-4]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

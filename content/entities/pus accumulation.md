@@ -1,18 +1,21 @@
 ---
 entity: "pus accumulation"
-entity_type: "condition"
+entity_types: ["condition"]
 reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # pus accumulation
 
-**pus accumulation** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**pus accumulation** (condition) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning pus accumulation
 
-[[257-218]], [[894-1]], [[987-5]]
+[[257-218]], [[287-8]], [[394-5]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

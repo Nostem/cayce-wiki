@@ -1,18 +1,21 @@
 ---
-entity: "mt. sinai hospital"
-entity_type: "place"
-reading_count: 11
-mention_count: 11
-tags: [entity, place]
+entity: "Mt. Sinai Hospital"
+entity_types: ["place"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
-# mt. sinai hospital
+# Mt. Sinai Hospital
 
-**mt. sinai hospital** (place) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**Mt. Sinai Hospital** (place) appears in **7 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning mt. sinai hospital
+## Readings mentioning Mt. Sinai Hospital
 
-[[139-7]], [[139-8]], [[139-10]], [[139-11]], [[139-12]], [[140-24]], [[415-1]], [[651-1]], [[1864-1]], [[2456-1]], [[3159-1]]
+[[139-8]], [[139-12]], [[257-217]], [[257-219]], [[547-1]], [[1111-2]], [[1864-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

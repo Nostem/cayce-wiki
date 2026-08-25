@@ -1,18 +1,21 @@
 ---
 entity: "Dr. Theodore Berger"
-entity_type: "person"
-reading_count: 4
-mention_count: 4
-tags: [entity, person]
+entity_types: ["person"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # Dr. Theodore Berger
 
-**Dr. Theodore Berger** (person) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Dr. Theodore Berger** (person) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Dr. Theodore Berger
 
-[[3843-1]], [[5420-2]], [[5450-2]], [[5610-6]]
+[[275-1]], [[1083-1]], [[3843-1]], [[4661-1]], [[5420-2]], [[5450-2]], [[5610-6]], [[5640-3]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

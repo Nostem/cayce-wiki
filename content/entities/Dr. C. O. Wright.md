@@ -1,18 +1,21 @@
 ---
-entity: "Dr. C. O. Wright"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "dr. c. o. wright"
+entity_types: ["person"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# Dr. C. O. Wright
+# dr. c. o. wright
 
-**Dr. C. O. Wright** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**dr. c. o. wright** (person) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning Dr. C. O. Wright
+## Readings mentioning dr. c. o. wright
 
-[[348-2]], [[348-3]]
+[[348-3]], [[480-3]], [[806-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

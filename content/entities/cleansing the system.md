@@ -1,18 +1,21 @@
 ---
 entity: "cleansing the system"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # cleansing the system
 
-**cleansing the system** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**cleansing the system** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning cleansing the system
 
-[[1315-5]], [[3385-1]]
+[[3798-2]], [[4218-2]], [[4727-1]], [[5579-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

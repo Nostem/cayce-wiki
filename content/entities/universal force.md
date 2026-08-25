@@ -1,18 +1,21 @@
 ---
 entity: "universal force"
-entity_type: "concept"
-reading_count: 11
-mention_count: 11
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # universal force
 
-**universal force** (concept) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**universal force** (concept) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning universal force
 
-[[137-64]], [[195-56]], [[257-20]], [[294-10]], [[538-20]], [[900-20]], [[900-288]], [[1462-1]], [[3796-1]], [[3976-4]], [[5755-2]]
+[[195-56]], [[212-1]], [[254-30]], [[538-20]], [[900-357]], [[1593-1]], [[3744-1]], [[5747-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

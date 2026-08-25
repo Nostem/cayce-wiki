@@ -1,18 +1,21 @@
 ---
-entity: "danville"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity: "Danville"
+entity_types: ["place"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
-# danville
+# Danville
 
-**danville** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Danville** (place) appears in **7 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning danville
+## Readings mentioning Danville
 
-[[416-1]], [[543-29]], [[2175-8]]
+[[416-1]], [[543-12]], [[543-29]], [[1343-2]], [[1343-3]], [[1552-1]], [[2175-5]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

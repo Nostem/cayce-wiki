@@ -1,18 +1,21 @@
 ---
 entity: "debility"
-entity_type: "condition"
-reading_count: 10
-mention_count: 10
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 20
+literal_reading_count: 0
+semantic_reading_count: 20
+literal_mention_count: 0
+semantic_mention_count: 20
+tags: [entity, semantic]
 ---
 
 # debility
 
-**debility** (condition) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**debility** (condition) appears in **20 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning debility
 
-[[89-1]], [[342-3]], [[420-3]], [[551-13]], [[900-452]], [[2672-1]], [[3632-1]], [[3861-1]], [[4164-1]], [[4372-1]]
+[[86-1]], [[90-1]], [[230-1]], [[254-27]], [[306-1]], [[591-1]], [[1372-1]], [[1411-1]], [[1700-2]], [[2039-1]], [[2227-1]], [[3863-1]], [[3999-1]], [[4165-1]], [[4314-1]], [[4372-1]], [[4692-1]], [[4809-1]], [[4821-1]], [[5703-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

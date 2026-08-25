@@ -1,18 +1,21 @@
 ---
 entity: "throat disturbances"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # throat disturbances
 
-**throat disturbances** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**throat disturbances** (condition) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning throat disturbances
 
-[[1100-8]], [[1131-1]]
+[[322-3]], [[464-24]], [[1100-8]], [[1110-2]], [[1131-1]], [[1992-2]], [[3619-1]], [[3957-1]], [[5473-4]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

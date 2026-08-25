@@ -1,18 +1,21 @@
 ---
 entity: "eucalyptus oil inhalation"
-entity_type: "remedy"
-reading_count: 3
-mention_count: 3
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # eucalyptus oil inhalation
 
-**eucalyptus oil inhalation** (remedy) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**eucalyptus oil inhalation** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning eucalyptus oil inhalation
 
-[[29-1]], [[903-16]], [[5347-1]]
+[[357-10]], [[1045-2]], [[2321-3]], [[3846-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "metaphysics"
-entity_type: "concept"
-reading_count: 10
-mention_count: 10
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # metaphysics
 
-**metaphysics** (concept) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**metaphysics** (concept) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning metaphysics
 
-[[264-22]], [[1500-4]], [[1849-1]], [[2655-1]], [[2992-1]], [[3530-1]], [[5113-1]], [[5137-1]], [[5244-1]], [[5392-1]]
+[[849-4]], [[1800-5]], [[1849-1]], [[2982-1]], [[3032-1]], [[3242-1]], [[3530-1]], [[3900-1]], [[5229-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

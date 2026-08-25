@@ -1,18 +1,21 @@
 ---
 entity: "positive and negative forces"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # positive and negative forces
 
-**positive and negative forces** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**positive and negative forces** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning positive and negative forces
 
-[[621-1]], [[1602-5]]
+[[281-46]], [[2750-1]], [[3798-3]], [[4321-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

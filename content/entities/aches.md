@@ -1,18 +1,21 @@
 ---
 entity: "aches"
-entity_type: "condition"
-reading_count: 12
-mention_count: 12
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # aches
 
-**aches** (condition) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**aches** (condition) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning aches
 
-[[765-4]], [[994-2]], [[1112-8]], [[1319-1]], [[1678-1]], [[2020-1]], [[2051-7]], [[2621-3]], [[3311-1]], [[3902-1]], [[4281-7]], [[4796-1]]
+[[315-7]], [[667-12]], [[1319-1]], [[2085-5]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

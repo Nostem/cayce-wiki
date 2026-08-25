@@ -1,18 +1,21 @@
 ---
-entity: "harbor acres"
-entity_type: "place"
-reading_count: 4
-mention_count: 4
-tags: [entity, place]
+entity: "Harbor Acres"
+entity_types: ["place"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# harbor acres
+# Harbor Acres
 
-**harbor acres** (place) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Harbor Acres** (place) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning harbor acres
+## Readings mentioning Harbor Acres
 
-[[480-12]], [[566-3]], [[587-2]], [[772-4]]
+[[261-21]], [[480-12]], [[772-4]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

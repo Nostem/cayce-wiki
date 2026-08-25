@@ -1,18 +1,21 @@
 ---
 entity: "nerve pressure"
-entity_type: "concept"
-reading_count: 8
-mention_count: 8
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 70
+literal_reading_count: 0
+semantic_reading_count: 70
+literal_mention_count: 0
+semantic_mention_count: 70
+tags: [entity, semantic]
 ---
 
 # nerve pressure
 
-**nerve pressure** (concept) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**nerve pressure** (concept, condition) appears in **70 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning nerve pressure
 
-[[287-9]], [[325-11]], [[578-5]], [[1548-1]], [[4101-1]], [[4520-4]], [[4572-1]], [[5496-2]]
+[[106-16]], [[143-10]], [[261-3]], [[264-1]], [[265-7]], [[292-1]], [[295-2]], [[301-7]], [[307-19]], [[313-6]], [[325-11]], [[349-20]], [[357-13]], [[389-1]], [[404-5]], [[454-8]], [[492-1]], [[556-13]], [[557-1]], [[613-1]], [[646-4]], [[667-5]], [[772-1]], [[822-1]], [[861-1]], [[885-1]], [[934-2]], [[997-2]], [[1030-1]], [[1122-9]], [[1192-6]], [[1411-1]], [[1490-1]], [[1545-1]], [[1601-1]], [[2146-1]], [[2210-1]], [[2250-1]], [[2363-1]], [[2366-4]], [[2544-1]], [[2702-1]], [[2713-4]], [[2722-5]], [[2825-1]], [[3276-1]], [[3413-1]], [[3776-4]], [[3867-1]], [[3968-1]], [[3999-1]], [[4150-1]], [[4300-1]], [[4414-1]], [[4514-1]], [[4604-1]], [[4612-1]], [[4679-1]], [[4762-1]], [[4875-1]], [[5048-1]], [[5048-2]], [[5425-1]], [[5455-1]], [[5459-4]], [[5496-2]], [[5556-1]], [[5561-1]], [[5626-1]], [[5711-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

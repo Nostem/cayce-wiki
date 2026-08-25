@@ -1,18 +1,21 @@
 ---
 entity: "atomidine spray"
-entity_type: "remedy"
-reading_count: 5
-mention_count: 5
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # atomidine spray
 
-**atomidine spray** (remedy) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**atomidine spray** (remedy) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning atomidine spray
 
-[[480-31]], [[850-5]], [[1100-14]], [[1100-29]], [[1210-4]]
+[[363-1]], [[480-31]], [[528-11]], [[557-1]], [[816-8]], [[1100-8]], [[1100-14]], [[1131-4]], [[1210-4]], [[1291-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

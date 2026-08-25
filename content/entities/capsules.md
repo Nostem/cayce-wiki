@@ -1,18 +1,21 @@
 ---
 entity: "capsules"
-entity_type: "remedy"
-reading_count: 9
-mention_count: 9
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # capsules
 
-**capsules** (remedy) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**capsules** (remedy) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning capsules
 
-[[177-2]], [[288-32]], [[348-3]], [[468-1]], [[850-5]], [[1352-2]], [[2710-3]], [[2810-1]], [[2942-1]]
+[[9-8]], [[40-1]], [[99-2]], [[177-2]], [[2356-1]], [[2675-8]], [[4177-2]], [[4664-1]], [[5453-2]], [[5656-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

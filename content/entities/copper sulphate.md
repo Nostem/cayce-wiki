@@ -1,18 +1,21 @@
 ---
 entity: "copper sulphate"
-entity_type: "remedy"
-reading_count: 11
-mention_count: 11
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 20
+literal_reading_count: 0
+semantic_reading_count: 20
+literal_mention_count: 0
+semantic_mention_count: 20
+tags: [entity, semantic]
 ---
 
 # copper sulphate
 
-**copper sulphate** (remedy) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**copper sulphate** (remedy) appears in **20 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning copper sulphate
 
-[[1146-1]], [[2614-1]], [[2971-1]], [[3278-1]], [[3854-4]], [[4061-1]], [[4495-1]], [[4504-1]], [[4656-1]], [[4790-2]], [[5193-1]]
+[[147-8]], [[161-5]], [[229-1]], [[233-1]], [[849-70]], [[1146-1]], [[1448-1]], [[2614-1]], [[2937-1]], [[2971-1]], [[3278-1]], [[3431-1]], [[3766-1]], [[3923-1]], [[4355-1]], [[5048-1]], [[5073-1]], [[5081-1]], [[5193-1]], [[5235-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

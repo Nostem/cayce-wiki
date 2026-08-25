@@ -1,18 +1,21 @@
 ---
 entity: "depleted condition"
-entity_type: "condition"
+entity_types: ["condition"]
 reading_count: 5
-mention_count: 5
-tags: [entity, condition]
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # depleted condition
 
-**depleted condition** (condition) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**depleted condition** (condition) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning depleted condition
 
-[[1112-3]], [[1331-1]], [[1389-1]], [[3888-1]], [[4456-1]]
+[[257-30]], [[478-3]], [[1112-3]], [[3888-1]], [[3989-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

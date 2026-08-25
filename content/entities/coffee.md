@@ -1,18 +1,21 @@
 ---
 entity: "coffee"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # coffee
 
-**coffee** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**coffee** (remedy) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning coffee
 
-[[288-41]], [[538-55]]
+[[13-2]], [[257-9]], [[265-9]], [[288-22]], [[337-22]], [[538-55]], [[1703-2]], [[3876-1]], [[5664-4]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "beef extract"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # beef extract
 
-**beef extract** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**beef extract** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning beef extract
 
-[[257-220]], [[2553-2]]
+[[257-220]], [[396-1]], [[568-3]], [[2553-7]], [[4175-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

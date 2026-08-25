@@ -1,18 +1,21 @@
 ---
 entity: "Frank E. Mohr"
-entity_type: "person"
-reading_count: 8
-mention_count: 8
-tags: [entity, person]
+entity_types: ["person"]
+reading_count: 29
+literal_reading_count: 0
+semantic_reading_count: 29
+literal_mention_count: 0
+semantic_mention_count: 29
+tags: [entity, semantic]
 ---
 
 # Frank E. Mohr
 
-**Frank E. Mohr** (person) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**Frank E. Mohr** (person) appears in **29 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Frank E. Mohr
 
-[[254-9]], [[1181-2]], [[1866-11]], [[3940-3]], [[3940-5]], [[4263-1]], [[4756-1]], [[5706-2]]
+[[13-1]], [[13-2]], [[105-1]], [[147-6]], [[226-1]], [[254-8]], [[254-9]], [[269-1]], [[313-13]], [[900-254]], [[943-2]], [[1112-1]], [[3190-2]], [[3740-1]], [[3790-1]], [[3814-1]], [[3934-1]], [[4150-1]], [[4263-1]], [[4347-1]], [[4472-1]], [[4504-1]], [[4538-1]], [[4686-1]], [[4752-1]], [[4851-1]], [[4905-67]], [[4960-1]], [[5710-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

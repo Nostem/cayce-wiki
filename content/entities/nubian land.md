@@ -1,18 +1,21 @@
 ---
-entity: "nubian land"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity: "Nubian land"
+entity_types: ["place"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# nubian land
+# Nubian land
 
-**nubian land** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Nubian land** (place) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning nubian land
+## Readings mentioning Nubian land
 
-[[294-150]], [[538-30]], [[845-9]]
+[[294-149]], [[294-150]], [[294-153]], [[538-30]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

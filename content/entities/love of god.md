@@ -1,18 +1,21 @@
 ---
-entity: "love of god"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity: "love of God"
+entity_types: ["concept"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
-# love of god
+# love of God
 
-**love of god** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**love of God** (concept) appears in **6 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning love of god
+## Readings mentioning love of God
 
-[[262-103]], [[300-1]], [[705-1]], [[2454-4]], [[5308-1]]
+[[262-51]], [[262-97]], [[262-106]], [[262-118]], [[557-3]], [[2454-4]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

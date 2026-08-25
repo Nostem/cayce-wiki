@@ -1,18 +1,21 @@
 ---
 entity: "digestive system disturbance"
-entity_type: "condition"
-reading_count: 11
-mention_count: 11
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
 # digestive system disturbance
 
-**digestive system disturbance** (condition) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**digestive system disturbance** (condition) appears in **13 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning digestive system disturbance
 
-[[323-1]], [[559-6]], [[679-1]], [[1783-1]], [[1960-1]], [[2189-1]], [[2546-1]], [[3094-1]], [[3776-4]], [[4245-1]], [[5065-1]]
+[[106-19]], [[294-180]], [[433-2]], [[583-6]], [[604-1]], [[817-1]], [[1521-3]], [[1703-1]], [[3452-2]], [[3479-1]], [[4042-1]], [[5535-1]], [[5638-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

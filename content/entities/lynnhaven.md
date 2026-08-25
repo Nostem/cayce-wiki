@@ -1,18 +1,21 @@
 ---
-entity: "lynnhaven"
-entity_type: "place"
-reading_count: 2
-mention_count: 2
-tags: [entity, place]
+entity: "Lynnhaven"
+entity_types: ["place"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# lynnhaven
+# Lynnhaven
 
-**lynnhaven** (place) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Lynnhaven** (place) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning lynnhaven
+## Readings mentioning Lynnhaven
 
-[[357-2]], [[2303-1]]
+[[357-2]], [[802-1]], [[1523-6]], [[1650-2]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

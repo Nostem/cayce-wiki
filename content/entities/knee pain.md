@@ -1,18 +1,21 @@
 ---
 entity: "knee pain"
-entity_type: "condition"
-reading_count: 7
-mention_count: 7
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 18
+literal_reading_count: 0
+semantic_reading_count: 18
+literal_mention_count: 0
+semantic_mention_count: 18
+tags: [entity, semantic]
 ---
 
 # knee pain
 
-**knee pain** (condition) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**knee pain** (condition) appears in **18 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning knee pain
 
-[[415-5]], [[2182-1]], [[2514-7]], [[2778-6]], [[2946-4]], [[5388-1]], [[5432-1]]
+[[307-19]], [[488-1]], [[849-13]], [[849-75]], [[1676-2]], [[1990-2]], [[2225-1]], [[2233-1]], [[2514-7]], [[2514-14]], [[2803-4]], [[2988-1]], [[3296-1]], [[3412-1]], [[3719-1]], [[3917-1]], [[4001-1]], [[5312-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

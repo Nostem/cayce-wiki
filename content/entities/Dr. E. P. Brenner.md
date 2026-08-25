@@ -1,18 +1,21 @@
 ---
-entity: "dr. e. p. brenner"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Dr. E. P. Brenner"
+entity_types: ["person"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
-# dr. e. p. brenner
+# Dr. E. P. Brenner
 
-**dr. e. p. brenner** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Dr. E. P. Brenner** (person) appears in **10 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning dr. e. p. brenner
+## Readings mentioning Dr. E. P. Brenner
 
-[[4742-1]], [[5464-1]]
+[[264-13]], [[264-16]], [[264-17]], [[264-28]], [[264-34]], [[1804-1]], [[3622-1]], [[4742-1]], [[4866-1]], [[5464-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

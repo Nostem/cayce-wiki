@@ -1,18 +1,21 @@
 ---
 entity: "removal of tonsils"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 3
-mention_count: 3
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # removal of tonsils
 
-**removal of tonsils** (remedy) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**removal of tonsils** (remedy) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning removal of tonsils
 
-[[578-10]], [[759-7]], [[3571-2]]
+[[25-2]], [[759-7]], [[4290-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

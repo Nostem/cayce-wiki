@@ -1,18 +1,21 @@
 ---
-entity: "alexandria"
-entity_type: "place"
-reading_count: 13
-mention_count: 13
-tags: [entity, place]
+entity: "Alexandria"
+entity_types: ["person", "place"]
+reading_count: 82
+literal_reading_count: 81
+semantic_reading_count: 62
+literal_mention_count: 107
+semantic_mention_count: 62
+tags: [entity, semantic]
 ---
 
-# alexandria
+# Alexandria
 
-**alexandria** (place) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**Alexandria** (person, place) appears in **82 readings** — indexed through hybrid literal and LLM extraction.
 
-## Readings mentioning alexandria
+## Readings mentioning Alexandria
 
-[[333-11]], [[452-5]], [[877-27]], [[1010-17]], [[1318-1]], [[1332-1]], [[1994-3]], [[2291-1]], [[2784-1]], [[3187-1]], [[3297-1]], [[5000-1]], [[5254-1]]
+[[31-1]], [[281-59]], [[294-142]], [[315-4]], [[333-11]], [[340-44]], [[341-16]], [[345-4]], [[349-8]], [[358-3]], [[412-5]], [[452-5]], [[603-1]], [[721-1]], [[805-4]], [[808-17]], [[813-1]], [[815-2]], [[815-6]], [[816-4]], [[849-1]], [[863-1]], [[877-1]], [[877-27]], [[1010-17]], [[1066-2]], [[1151-10]], [[1208-1]], [[1235-1]], [[1318-1]], [[1332-1]], [[1341-1]], [[1463-2]], [[1469-1]], [[1472-3]], [[1539-3]], [[1602-5]], [[1602-6]], [[1608-1]], [[1662-2]], [[1724-4]], [[1757-1]], [[1772-1]], [[1874-1]], [[1877-2]], [[1935-2]], [[1949-1]], [[1962-1]], [[1994-3]], [[2060-2]], [[2067-1]], [[2067-2]], [[2067-7]], [[2067-12]], [[2123-1]], [[2246-1]], [[2291-1]], [[2322-2]], [[2377-1]], [[2381-1]], [[2441-2]], [[2599-1]], [[2784-1]], [[2800-1]], [[2835-1]], [[2859-1]], [[2898-1]], [[2940-1]], [[3019-1]], [[3034-1]], [[3054-1]], [[3170-1]], [[3187-1]], [[3199-1]], [[3297-1]], [[4402-1]], [[5000-1]], [[5154-1]], [[5254-1]], [[5278-1]], [[5332-1]], [[5349-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "divine presence"
-entity_type: "concept"
-reading_count: 12
-mention_count: 12
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 18
+literal_reading_count: 0
+semantic_reading_count: 18
+literal_mention_count: 0
+semantic_mention_count: 18
+tags: [entity, semantic]
 ---
 
 # divine presence
 
-**divine presence** (concept) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**divine presence** (concept) appears in **18 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning divine presence
 
-[[533-18]], [[900-216]], [[954-6]], [[991-1]], [[1397-2]], [[1479-1]], [[2302-4]], [[2543-2]], [[3002-1]], [[3341-1]], [[3751-12]], [[5752-6]]
+[[262-26]], [[262-30]], [[278-1]], [[294-154]], [[378-33]], [[489-3]], [[533-18]], [[900-256]], [[1179-12]], [[1215-2]], [[1377-1]], [[2205-2]], [[3247-1]], [[3341-1]], [[3506-1]], [[3751-12]], [[5749-6]], [[5752-6]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

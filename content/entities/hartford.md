@@ -1,18 +1,21 @@
 ---
 entity: "Hartford"
-entity_type: "place"
-reading_count: 2
-mention_count: 2
-tags: [entity, place]
+entity_types: ["place"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # Hartford
 
-**Hartford** (place) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Hartford** (place) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Hartford
 
-[[1020-2]], [[4191-3]]
+[[412-2]], [[1020-2]], [[1497-10]], [[2129-1]], [[2241-1]], [[2744-2]], [[3114-1]], [[3356-1]], [[4009-1]], [[4191-3]], [[4191-6]], [[5088-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "spiritual purposes"
-entity_type: "concept"
-reading_count: 15
-mention_count: 15
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # spiritual purposes
 
-**spiritual purposes** (concept) appears in **15 readings** (15 mentions) — extracted by LLM semantic analysis.
+**spiritual purposes** (concept) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning spiritual purposes
 
-[[257-252]], [[984-5]], [[1701-1]], [[2035-1]], [[2784-1]], [[2915-1]], [[3025-1]], [[3174-1]], [[3463-1]], [[3513-1]], [[4046-1]], [[5034-1]], [[5203-1]], [[5262-1]], [[5295-1]]
+[[257-252]], [[1206-15]], [[3011-2]], [[3025-1]], [[3224-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

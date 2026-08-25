@@ -1,18 +1,21 @@
 ---
 entity: "body equilibrium"
-entity_type: "concept"
-reading_count: 10
-mention_count: 10
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # body equilibrium
 
-**body equilibrium** (concept) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**body equilibrium** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning body equilibrium
 
-[[224-1]], [[859-1]], [[1745-6]], [[2604-1]], [[2924-1]], [[3288-2]], [[4387-1]], [[4583-1]], [[4701-1]], [[4791-1]]
+[[279-6]], [[2051-6]], [[2961-1]], [[4311-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

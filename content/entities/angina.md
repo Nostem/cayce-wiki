@@ -1,18 +1,21 @@
 ---
 entity: "angina"
-entity_type: "condition"
-reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # angina
 
-**angina** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**angina** (condition) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning angina
 
-[[394-6]], [[794-1]], [[1010-16]], [[1010-18]], [[1884-1]], [[3454-1]]
+[[394-1]], [[394-6]], [[794-1]], [[1010-16]], [[1010-19]], [[1884-1]], [[3454-1]], [[4066-1]], [[4071-1]], [[4300-5]], [[5366-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

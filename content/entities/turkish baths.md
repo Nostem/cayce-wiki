@@ -1,18 +1,21 @@
 ---
 entity: "turkish baths"
-entity_type: "remedy"
-reading_count: 6
-mention_count: 6
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # turkish baths
 
-**turkish baths** (remedy) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**turkish baths** (remedy) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning turkish baths
 
-[[2-15]], [[165-1]], [[287-9]], [[294-16]], [[294-96]], [[2889-2]]
+[[2-15]], [[148-1]], [[165-1]], [[287-8]], [[287-9]], [[294-16]], [[294-96]], [[849-2]], [[1183-3]], [[1196-12]], [[1537-1]], [[2889-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

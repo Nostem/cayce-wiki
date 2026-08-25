@@ -1,18 +1,21 @@
 ---
-entity: "mr. [282]"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Mr. [282]"
+entity_types: ["person"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
-# mr. [282]
+# Mr. [282]
 
-**mr. [282]** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Mr. [282]** (person) appears in **7 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning mr. [282]
+## Readings mentioning Mr. [282]
 
-[[301-7]], [[314-2]]
+[[299-1]], [[299-4]], [[301-3]], [[301-5]], [[301-8]], [[314-3]], [[5637-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

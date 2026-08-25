@@ -1,18 +1,21 @@
 ---
 entity: "hepatic circulation"
-entity_type: "concept"
-reading_count: 13
-mention_count: 13
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 86
+literal_reading_count: 0
+semantic_reading_count: 86
+literal_mention_count: 0
+semantic_mention_count: 86
+tags: [entity, semantic]
 ---
 
 # hepatic circulation
 
-**hepatic circulation** (concept) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**hepatic circulation** (concept, condition) appears in **86 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning hepatic circulation
 
-[[402-1]], [[527-3]], [[674-1]], [[843-3]], [[1739-1]], [[3798-3]], [[4321-1]], [[4477-1]], [[4611-1]], [[4694-4]], [[5630-1]], [[5669-1]], [[5703-1]]
+[[12-1]], [[34-4]], [[60-1]], [[81-1]], [[99-5]], [[116-2]], [[184-2]], [[195-3]], [[246-1]], [[255-1]], [[255-9]], [[257-227]], [[269-2]], [[304-16]], [[313-1]], [[313-17]], [[322-4]], [[369-11]], [[378-1]], [[480-48]], [[527-3]], [[528-7]], [[538-4]], [[572-1]], [[578-1]], [[608-8]], [[618-1]], [[843-3]], [[900-383]], [[903-9]], [[937-1]], [[979-10]], [[1010-6]], [[1049-1]], [[1100-18]], [[1103-3]], [[1140-2]], [[1196-10]], [[1238-2]], [[1355-1]], [[1358-1]], [[1467-2]], [[1482-1]], [[1521-6]], [[1545-1]], [[1657-3]], [[1756-1]], [[1894-1]], [[2010-1]], [[2036-3]], [[2084-2]], [[2358-1]], [[2588-1]], [[2646-7]], [[2710-3]], [[2744-2]], [[3751-6]], [[3798-3]], [[3832-1]], [[3993-1]], [[4152-1]], [[4196-1]], [[4219-1]], [[4267-1]], [[4283-4]], [[4300-4]], [[4414-1]], [[4445-1]], [[4462-1]], [[4529-1]], [[4605-1]], [[4671-1]], [[4694-4]], [[4711-1]], [[4724-1]], [[4777-1]], [[4787-1]], [[4825-2]], [[4989-1]], [[4995-1]], [[5510-1]], [[5564-2]], [[5567-1]], [[5652-1]], [[5681-1]], [[5703-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

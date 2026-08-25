@@ -1,18 +1,21 @@
 ---
 entity: "calf liver"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # calf liver
 
-**calf liver** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**calf liver** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning calf liver
 
-[[958-2]], [[3535-1]]
+[[958-2]], [[5536-5]], [[5554-1]], [[5629-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "abnormal development"
-entity_type: "condition"
-reading_count: 5
-mention_count: 5
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # abnormal development
 
-**abnormal development** (condition) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**abnormal development** (condition) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning abnormal development
 
-[[41-1]], [[830-3]], [[4521-1]], [[5412-1]], [[5526-1]]
+[[23-13]], [[4613-1]], [[4655-1]], [[4749-1]], [[4816-1]], [[5483-1]], [[5702-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

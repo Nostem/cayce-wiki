@@ -1,18 +1,21 @@
 ---
 entity: "edema"
-entity_type: "condition"
-reading_count: 4
-mention_count: 4
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
 # edema
 
-**edema** (condition) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**edema** (condition) appears in **14 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning edema
 
-[[1160-1]], [[1209-1]], [[3025-1]], [[5618-16]]
+[[304-45]], [[327-4]], [[1209-1]], [[2195-1]], [[2262-1]], [[2434-3]], [[2503-1]], [[3499-1]], [[4752-1]], [[5099-1]], [[5514-2]], [[5555-1]], [[5618-16]], [[5618-17]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "mild laxative"
-entity_type: "remedy"
-reading_count: 8
-mention_count: 8
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # mild laxative
 
-**mild laxative** (remedy) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**mild laxative** (remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mild laxative
 
-[[409-25]], [[979-3]], [[1663-5]], [[1703-2]], [[4136-1]], [[4474-1]], [[4707-1]], [[5086-1]]
+[[409-25]], [[979-3]], [[1703-2]], [[3502-1]], [[4474-1]], [[4707-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "mrs. cooney"
-entity_type: "person"
-reading_count: 4
-mention_count: 4
-tags: [entity, person]
+entity: "Mrs. Cooney"
+entity_types: ["person"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# mrs. cooney
+# Mrs. Cooney
 
-**mrs. cooney** (person) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Mrs. Cooney** (person) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning mrs. cooney
+## Readings mentioning Mrs. Cooney
 
-[[1512-2]], [[1512-3]], [[1805-1]], [[4893-3]]
+[[1805-1]], [[4893-2]], [[4893-3]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

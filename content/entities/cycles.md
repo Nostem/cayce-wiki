@@ -1,18 +1,21 @@
 ---
 entity: "cycles"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # cycles
 
-**cycles** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**cycles** (concept) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning cycles
 
-[[487-17]], [[5749-8]]
+[[256-2]], [[257-59]], [[364-8]], [[900-137]], [[2207-1]], [[3286-2]], [[4407-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

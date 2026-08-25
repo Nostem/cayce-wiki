@@ -1,18 +1,21 @@
 ---
-entity: "samuel"
-entity_type: "person"
-reading_count: 3
-mention_count: 3
-tags: [entity, person]
+entity: "Samuel"
+entity_types: ["person"]
+reading_count: 15
+literal_reading_count: 0
+semantic_reading_count: 15
+literal_mention_count: 0
+semantic_mention_count: 15
+tags: [entity, semantic]
 ---
 
-# samuel
+# Samuel
 
-**samuel** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Samuel** (person) appears in **15 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning samuel
+## Readings mentioning Samuel
 
-[[281-54]], [[1521-2]], [[5752-5]]
+[[136-37]], [[254-109]], [[255-11]], [[257-71]], [[281-54]], [[707-6]], [[1341-1]], [[1472-3]], [[1521-1]], [[1521-2]], [[1927-1]], [[2067-11]], [[2072-8]], [[2072-10]], [[5752-5]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

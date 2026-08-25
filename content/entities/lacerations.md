@@ -1,18 +1,21 @@
 ---
 entity: "lacerations"
-entity_type: "condition"
-reading_count: 62
-mention_count: 62
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 25
+literal_reading_count: 0
+semantic_reading_count: 25
+literal_mention_count: 0
+semantic_mention_count: 25
+tags: [entity, semantic]
 ---
 
 # lacerations
 
-**lacerations** (condition) appears in **62 readings** (62 mentions) — extracted by LLM semantic analysis.
+**lacerations** (condition) appears in **25 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning lacerations
 
-[[69-3]], [[163-1]], [[199-2]], [[263-9]], [[270-49]], [[301-8]], [[301-9]], [[352-2]], [[377-1]], [[433-6]], [[468-1]], [[482-5]], [[482-7]], [[613-1]], [[635-10]], [[667-1]], [[730-1]], [[843-8]], [[961-2]], [[1055-1]], [[1263-1]], [[1280-1]], [[1311-1]], [[1422-1]], [[1481-1]], [[1563-3]], [[1586-1]], [[1880-1]], [[2025-1]], [[2039-1]], [[2276-2]], [[2682-2]], [[2839-1]], [[2888-1]], [[2889-3]], [[3394-1]], [[3725-1]], [[3739-1]], [[3853-1]], [[3916-1]], [[4148-1]], [[4410-1]], [[4420-1]], [[4450-1]], [[4464-1]], [[4638-1]], [[4698-1]], [[4704-1]], [[4752-1]], [[4766-1]], [[4787-1]], [[4790-1]], [[4795-1]], [[5422-1]], [[5422-2]], [[5434-1]], [[5541-1]], [[5545-1]], [[5559-1]], [[5575-1]], [[5632-1]], [[5688-1]]
+[[199-2]], [[263-9]], [[301-9]], [[482-7]], [[583-7]], [[643-1]], [[961-2]], [[1280-1]], [[1563-3]], [[1736-4]], [[1745-2]], [[2276-2]], [[2519-3]], [[2682-2]], [[3394-1]], [[3739-1]], [[3768-2]], [[4148-1]], [[4280-7]], [[4741-1]], [[5422-1]], [[5422-2]], [[5440-1]], [[5621-1]], [[5692-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

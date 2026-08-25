@@ -1,18 +1,21 @@
 ---
 entity: "camphor gum"
-entity_type: "remedy"
-reading_count: 10
-mention_count: 10
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # camphor gum
 
-**camphor gum** (remedy) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**camphor gum** (remedy) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning camphor gum
 
-[[137-103]], [[158-1]], [[166-1]], [[298-1]], [[1198-2]], [[1709-10]], [[2504-20]], [[3886-2]], [[4738-1]], [[4754-1]]
+[[158-1]], [[166-1]], [[585-1]], [[1198-2]], [[1591-1]], [[3886-2]], [[4287-1]], [[4738-1]], [[4754-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

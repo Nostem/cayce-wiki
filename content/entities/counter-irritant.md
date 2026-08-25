@@ -1,18 +1,21 @@
 ---
 entity: "counter-irritant"
-entity_type: "remedy"
-reading_count: 4
-mention_count: 4
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # counter-irritant
 
-**counter-irritant** (remedy) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**counter-irritant** (remedy) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning counter-irritant
 
-[[488-2]], [[556-6]], [[953-12]], [[2434-2]]
+[[488-2]], [[953-12]], [[4143-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

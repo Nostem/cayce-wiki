@@ -1,18 +1,21 @@
 ---
 entity: "vegetable broths"
-entity_type: "remedy"
-reading_count: 4
-mention_count: 4
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # vegetable broths
 
-**vegetable broths** (remedy) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**vegetable broths** (remedy) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning vegetable broths
 
-[[463-1]], [[779-21]], [[2976-1]], [[3715-1]]
+[[402-1]], [[463-1]], [[650-1]], [[658-15]], [[779-21]], [[1080-2]], [[1152-6]], [[1688-1]], [[2979-1]], [[5116-1]], [[5520-4]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

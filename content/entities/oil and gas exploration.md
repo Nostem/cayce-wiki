@@ -1,18 +1,21 @@
 ---
 entity: "oil and gas exploration"
-entity_type: "concept"
+entity_types: ["concept"]
 reading_count: 3
-mention_count: 3
-tags: [entity, concept]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # oil and gas exploration
 
-**oil and gas exploration** (concept) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**oil and gas exploration** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning oil and gas exploration
 
-[[707-4]], [[4203-5]], [[4416-2]]
+[[261-29]], [[370-1]], [[401-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

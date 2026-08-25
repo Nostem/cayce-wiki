@@ -1,18 +1,21 @@
 ---
-entity: "clearwater beach"
-entity_type: "place"
-reading_count: 17
-mention_count: 17
-tags: [entity, place]
+entity: "Clearwater Beach"
+entity_types: ["place"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
-# clearwater beach
+# Clearwater Beach
 
-**clearwater beach** (place) appears in **17 readings** (17 mentions) — extracted by LLM semantic analysis.
+**Clearwater Beach** (place) appears in **14 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning clearwater beach
+## Readings mentioning Clearwater Beach
 
-[[849-61]], [[849-63]], [[849-65]], [[849-66]], [[849-69]], [[849-70]], [[849-71]], [[849-72]], [[849-73]], [[849-74]], [[849-75]], [[849-76]], [[1536-3]], [[2873-2]], [[2966-2]], [[3247-2]], [[5335-1]]
+[[849-61]], [[849-63]], [[849-73]], [[849-74]], [[1536-3]], [[1770-8]], [[2582-4]], [[2873-1]], [[2873-2]], [[3247-2]], [[3344-3]], [[3521-1]], [[5335-1]], [[5375-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

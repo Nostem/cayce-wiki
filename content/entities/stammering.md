@@ -1,18 +1,21 @@
 ---
 entity: "stammering"
-entity_type: "condition"
-reading_count: 4
-mention_count: 4
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # stammering
 
-**stammering** (condition) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**stammering** (condition) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning stammering
 
-[[605-1]], [[605-2]], [[605-3]], [[605-4]]
+[[402-1]], [[605-1]], [[605-2]], [[605-3]], [[605-4]], [[1490-1]], [[1490-3]], [[2777-3]], [[3245-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

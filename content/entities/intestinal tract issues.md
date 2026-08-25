@@ -1,18 +1,21 @@
 ---
 entity: "intestinal tract issues"
-entity_type: "condition"
-reading_count: 10
-mention_count: 10
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
 # intestinal tract issues
 
-**intestinal tract issues** (condition) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**intestinal tract issues** (condition) appears in **13 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning intestinal tract issues
 
-[[257-243]], [[900-197]], [[900-289]], [[2262-1]], [[3860-1]], [[4466-2]], [[4671-1]], [[4727-3]], [[5566-3]], [[5704-1]]
+[[304-10]], [[340-29]], [[903-29]], [[2196-1]], [[3776-10]], [[3993-1]], [[4151-1]], [[4273-1]], [[4517-1]], [[4778-2]], [[4911-1]], [[5424-1]], [[5692-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

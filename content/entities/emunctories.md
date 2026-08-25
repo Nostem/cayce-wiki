@@ -1,18 +1,21 @@
 ---
 entity: "emunctories"
-entity_type: "concept"
-reading_count: 7
-mention_count: 7
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # emunctories
 
-**emunctories** (concept) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**emunctories** (concept) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning emunctories
 
-[[3629-1]], [[3879-1]], [[4103-1]], [[4300-5]], [[4302-1]], [[4516-1]], [[4571-2]]
+[[12-1]], [[337-14]], [[1323-1]], [[3265-1]], [[4103-1]], [[4300-4]], [[4302-1]], [[4414-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

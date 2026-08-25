@@ -1,18 +1,21 @@
 ---
-entity: "xenophon"
-entity_type: "person"
-reading_count: 3
-mention_count: 3
-tags: [entity, person]
+entity: "Xenophon"
+entity_types: ["person"]
+reading_count: 19
+literal_reading_count: 0
+semantic_reading_count: 19
+literal_mention_count: 0
+semantic_mention_count: 19
+tags: [entity, semantic]
 ---
 
-# xenophon
+# Xenophon
 
-**xenophon** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Xenophon** (person) appears in **19 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning xenophon
+## Readings mentioning Xenophon
 
-[[419-1]], [[760-4]], [[2903-1]]
+[[97-2]], [[339-1]], [[369-3]], [[419-1]], [[440-1]], [[538-59]], [[760-4]], [[943-2]], [[1519-8]], [[1792-2]], [[2004-1]], [[2331-1]], [[2399-1]], [[2861-1]], [[2893-1]], [[2903-1]], [[2986-1]], [[4765-1]], [[5249-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

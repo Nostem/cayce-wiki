@@ -1,18 +1,21 @@
 ---
 entity: "life work"
-entity_type: "concept"
-reading_count: 8
-mention_count: 8
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # life work
 
-**life work** (concept) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**life work** (concept) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning life work
 
-[[257-136]], [[361-13]], [[462-5]], [[670-10]], [[778-2]], [[2138-2]], [[4543-1]], [[4646-5]]
+[[462-3]], [[462-5]], [[670-10]], [[778-2]], [[4646-5]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

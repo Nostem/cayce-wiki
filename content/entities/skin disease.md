@@ -1,18 +1,21 @@
 ---
 entity: "skin disease"
-entity_type: "condition"
-reading_count: 7
-mention_count: 7
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # skin disease
 
-**skin disease** (condition) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**skin disease** (condition) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning skin disease
 
-[[988-1]], [[1523-12]], [[2876-1]], [[3942-1]], [[4039-1]], [[4073-1]], [[4295-1]]
+[[988-1]], [[1709-1]], [[2831-1]], [[3942-1]], [[4295-1]], [[5700-6]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

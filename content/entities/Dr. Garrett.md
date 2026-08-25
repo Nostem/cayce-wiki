@@ -1,18 +1,21 @@
 ---
-entity: "dr. garrett"
-entity_type: "person"
-reading_count: 3
-mention_count: 3
-tags: [entity, person]
+entity: "Dr. Garrett"
+entity_types: ["person"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
-# dr. garrett
+# Dr. Garrett
 
-**dr. garrett** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Dr. Garrett** (person) appears in **8 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning dr. garrett
+## Readings mentioning Dr. Garrett
 
-[[1553-5]], [[1773-1]], [[2312-1]]
+[[1206-9]], [[1553-4]], [[1553-5]], [[1553-6]], [[1553-7]], [[1553-8]], [[2865-1]], [[3125-3]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

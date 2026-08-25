@@ -1,18 +1,21 @@
 ---
 entity: "salts"
-entity_type: "remedy"
-reading_count: 23
-mention_count: 23
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 19
+literal_reading_count: 0
+semantic_reading_count: 19
+literal_mention_count: 0
+semantic_mention_count: 19
+tags: [entity, semantic]
 ---
 
 # salts
 
-**salts** (remedy) appears in **23 readings** (23 mentions) — extracted by LLM semantic analysis.
+**salts** (remedy) appears in **19 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning salts
 
-[[136-69]], [[136-74]], [[243-14]], [[294-194]], [[294-195]], [[294-199]], [[341-25]], [[349-24]], [[379-17]], [[487-10]], [[760-11]], [[760-12]], [[849-54]], [[1206-16]], [[1208-16]], [[1315-3]], [[2051-4]], [[2843-4]], [[3776-7]], [[3776-9]], [[4499-1]], [[5487-1]], [[5514-4]]
+[[2-12]], [[136-74]], [[243-14]], [[244-4]], [[294-92]], [[294-194]], [[294-199]], [[337-19]], [[349-24]], [[379-17]], [[487-10]], [[583-6]], [[760-11]], [[849-54]], [[849-66]], [[1196-15]], [[1208-16]], [[3776-9]], [[5514-4]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

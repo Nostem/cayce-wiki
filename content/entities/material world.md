@@ -1,18 +1,21 @@
 ---
 entity: "material world"
-entity_type: "concept"
-reading_count: 17
-mention_count: 17
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # material world
 
-**material world** (concept) appears in **17 readings** (17 mentions) — extracted by LLM semantic analysis.
+**material world** (concept) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning material world
 
-[[137-11]], [[137-30]], [[137-35]], [[189-3]], [[254-1]], [[358-3]], [[487-17]], [[867-1]], [[900-37]], [[900-97]], [[900-101]], [[900-134]], [[900-137]], [[900-138]], [[900-144]], [[1173-9]], [[1246-4]]
+[[137-30]], [[137-31]], [[137-45]], [[294-40]], [[378-40]], [[900-435]], [[1447-2]], [[4157-3]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

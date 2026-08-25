@@ -1,18 +1,21 @@
 ---
 entity: "wet cell treatments"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # wet cell treatments
 
-**wet cell treatments** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**wet cell treatments** (remedy) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning wet cell treatments
 
-[[2436-5]], [[3074-2]]
+[[2619-2]], [[3074-3]], [[3444-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

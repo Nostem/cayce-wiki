@@ -1,18 +1,21 @@
 ---
 entity: "bronchial condition"
-entity_type: "condition"
-reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
 # bronchial condition
 
-**bronchial condition** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**bronchial condition** (condition) appears in **13 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning bronchial condition
 
-[[136-66]], [[1728-1]], [[2015-8]], [[3713-1]], [[3776-9]], [[4235-1]]
+[[29-1]], [[136-66]], [[302-8]], [[558-2]], [[2015-8]], [[3100-1]], [[3995-2]], [[4293-1]], [[4414-1]], [[4431-1]], [[4669-1]], [[4769-2]], [[4810-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

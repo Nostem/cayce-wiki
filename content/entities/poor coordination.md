@@ -1,18 +1,21 @@
 ---
 entity: "poor coordination"
-entity_type: "condition"
+entity_types: ["condition"]
 reading_count: 5
-mention_count: 5
-tags: [entity, condition]
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # poor coordination
 
-**poor coordination** (condition) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**poor coordination** (condition) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning poor coordination
 
-[[731-1]], [[3024-1]], [[3595-1]], [[5127-1]], [[5282-1]]
+[[1893-1]], [[2499-2]], [[2642-2]], [[3236-1]], [[4031-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

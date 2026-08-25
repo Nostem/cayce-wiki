@@ -1,18 +1,21 @@
 ---
 entity: "inability to concentrate"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 15
+literal_reading_count: 0
+semantic_reading_count: 15
+literal_mention_count: 0
+semantic_mention_count: 15
+tags: [entity, semantic]
 ---
 
 # inability to concentrate
 
-**inability to concentrate** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**inability to concentrate** (condition) appears in **15 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning inability to concentrate
 
-[[361-5]], [[5014-1]]
+[[259-9]], [[413-12]], [[654-4]], [[811-1]], [[830-2]], [[995-1]], [[1005-12]], [[1134-1]], [[1173-1]], [[1688-5]], [[2250-1]], [[4863-2]], [[5015-1]], [[5098-1]], [[5104-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

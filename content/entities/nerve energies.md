@@ -1,18 +1,21 @@
 ---
 entity: "nerve energies"
-entity_type: "concept"
-reading_count: 21
-mention_count: 21
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # nerve energies
 
-**nerve energies** (concept) appears in **21 readings** (21 mentions) — extracted by LLM semantic analysis.
+**nerve energies** (concept) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning nerve energies
 
-[[294-130]], [[404-6]], [[458-2]], [[742-1]], [[811-1]], [[814-1]], [[1024-1]], [[1040-1]], [[1191-1]], [[1278-4]], [[1513-1]], [[1758-2]], [[1773-5]], [[2009-1]], [[2046-3]], [[2366-3]], [[2937-1]], [[3252-1]], [[3329-1]], [[4061-1]], [[4111-1]]
+[[795-4]], [[814-1]], [[1758-2]], [[1773-5]], [[2020-1]], [[2501-5]], [[2596-1]], [[2905-1]], [[3087-1]], [[3371-1]], [[5465-1]], [[5655-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

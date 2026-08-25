@@ -1,18 +1,21 @@
 ---
 entity: "short wave therapy"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 5
-mention_count: 5
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # short wave therapy
 
-**short wave therapy** (remedy) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**short wave therapy** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning short wave therapy
 
-[[849-25]], [[949-15]], [[2072-2]], [[4004-1]], [[5730-1]]
+[[826-13]], [[1519-4]], [[2072-2]], [[2313-1]], [[4004-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

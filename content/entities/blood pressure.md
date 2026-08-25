@@ -1,18 +1,21 @@
 ---
 entity: "blood pressure"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 21
+literal_reading_count: 0
+semantic_reading_count: 21
+literal_mention_count: 0
+semantic_mention_count: 21
+tags: [entity, semantic]
 ---
 
 # blood pressure
 
-**blood pressure** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**blood pressure** (concept, condition) appears in **21 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning blood pressure
 
-[[811-7]], [[1151-30]], [[1646-6]], [[2667-2]]
+[[99-1]], [[287-19]], [[327-3]], [[470-19]], [[480-48]], [[599-9]], [[1010-21]], [[1187-14]], [[1565-4]], [[1795-3]], [[1830-2]], [[1834-1]], [[2085-4]], [[2533-6]], [[3446-1]], [[3554-1]], [[4219-1]], [[4306-1]], [[4495-1]], [[4825-1]], [[5571-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,1 +1,3 @@
 * text=auto eol=lf
+# Reading transcripts preserve archival source whitespace verbatim.
+content/readings/*.md whitespace=-trailing-space

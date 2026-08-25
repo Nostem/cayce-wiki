@@ -1,18 +1,21 @@
 ---
-entity: "cornwall"
-entity_type: "place"
-reading_count: 4
-mention_count: 4
-tags: [entity, place]
+entity: "Cornwall"
+entity_types: ["place"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
-# cornwall
+# Cornwall
 
-**cornwall** (place) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Cornwall** (place) appears in **5 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning cornwall
+## Readings mentioning Cornwall
 
-[[833-1]], [[1334-1]], [[2522-1]], [[2887-1]]
+[[706-1]], [[833-1]], [[1334-1]], [[2522-1]], [[2887-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

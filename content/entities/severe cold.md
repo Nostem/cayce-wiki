@@ -1,18 +1,21 @@
 ---
 entity: "severe cold"
-entity_type: "condition"
-reading_count: 7
-mention_count: 7
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # severe cold
 
-**severe cold** (condition) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**severe cold** (condition) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning severe cold
 
-[[137-80]], [[257-16]], [[264-53]], [[304-40]], [[304-41]], [[480-25]], [[1005-5]]
+[[264-53]], [[304-14]], [[307-6]], [[379-6]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

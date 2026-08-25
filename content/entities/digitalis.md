@@ -1,18 +1,21 @@
 ---
 entity: "digitalis"
-entity_type: "remedy"
-reading_count: 12
-mention_count: 12
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 21
+literal_reading_count: 0
+semantic_reading_count: 21
+literal_mention_count: 0
+semantic_mention_count: 21
+tags: [entity, semantic]
 ---
 
 # digitalis
 
-**digitalis** (remedy) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**digitalis** (remedy) appears in **21 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning digitalis
 
-[[134-1]], [[265-11]], [[287-8]], [[394-11]], [[409-35]], [[1010-2]], [[1103-2]], [[2597-6]], [[2956-2]], [[4590-1]], [[4970-1]], [[5514-3]]
+[[120-3]], [[134-1]], [[287-7]], [[287-8]], [[294-1]], [[304-18]], [[372-5]], [[394-1]], [[394-6]], [[409-35]], [[1010-2]], [[1110-3]], [[1181-7]], [[2366-7]], [[2646-8]], [[2956-2]], [[4970-1]], [[5512-2]], [[5514-3]], [[5514-4]], [[5618-15]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

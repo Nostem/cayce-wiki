@@ -1,18 +1,21 @@
 ---
 entity: "New Orleans"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity_types: ["place"]
+reading_count: 73
+literal_reading_count: 0
+semantic_reading_count: 73
+literal_mention_count: 0
+semantic_mention_count: 73
+tags: [entity, semantic]
 ---
 
 # New Orleans
 
-**New Orleans** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**New Orleans** (place) appears in **73 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning New Orleans
 
-[[140-6]], [[900-34]], [[3284-1]]
+[[136-1]], [[136-4]], [[136-9]], [[136-12]], [[136-14]], [[136-16]], [[136-20]], [[136-24]], [[136-33]], [[136-60]], [[137-16]], [[139-2]], [[140-6]], [[140-30]], [[254-20]], [[257-216]], [[259-8]], [[262-16]], [[440-11]], [[630-2]], [[764-1]], [[887-4]], [[900-28]], [[900-32]], [[900-33]], [[900-35]], [[900-39]], [[900-76]], [[900-131]], [[900-198]], [[900-199]], [[900-201]], [[900-204]], [[900-222]], [[900-304]], [[954-6]], [[1073-3]], [[1272-2]], [[1629-2]], [[1635-3]], [[1811-1]], [[2084-9]], [[2111-1]], [[2191-1]], [[2350-1]], [[2370-1]], [[2390-9]], [[2441-3]], [[2454-3]], [[2659-1]], [[2675-8]], [[2733-3]], [[2801-5]], [[2872-2]], [[3017-1]], [[3098-2]], [[3280-1]], [[3280-2]], [[3284-1]], [[3358-1]], [[3358-2]], [[3579-1]], [[3624-1]], [[3638-1]], [[3663-1]], [[3674-1]], [[4270-1]], [[4683-1]], [[4905-14]], [[4926-1]], [[4950-1]], [[5710-1]], [[5782-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

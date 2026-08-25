@@ -1,18 +1,21 @@
 ---
 entity: "persecution"
-entity_type: "concept"
-reading_count: 14
-mention_count: 14
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # persecution
 
-**persecution** (concept) appears in **14 readings** (14 mentions) — extracted by LLM semantic analysis.
+**persecution** (concept) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning persecution
 
-[[294-192]], [[443-1]], [[509-1]], [[803-1]], [[1179-8]], [[1302-2]], [[1581-2]], [[2067-12]], [[2112-1]], [[2138-1]], [[2656-1]], [[2688-1]], [[2842-1]], [[3344-2]]
+[[257-203]], [[341-19]], [[900-90]], [[2067-12]], [[2496-1]], [[2688-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

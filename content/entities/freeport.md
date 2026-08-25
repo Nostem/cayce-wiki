@@ -1,18 +1,21 @@
 ---
-entity: "freeport"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity: "Freeport"
+entity_types: ["place"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
-# freeport
+# Freeport
 
-**freeport** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Freeport** (place) appears in **5 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning freeport
+## Readings mentioning Freeport
 
-[[602-3]], [[1158-20]], [[1546-2]]
+[[602-3]], [[1266-1]], [[1546-2]], [[2946-1]], [[3185-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "self-mastery"
-entity_type: "concept"
-reading_count: 6
-mention_count: 6
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # self-mastery
 
-**self-mastery** (concept) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**self-mastery** (concept) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning self-mastery
 
-[[137-35]], [[633-10]], [[1192-4]], [[1931-2]], [[4298-1]], [[4483-1]]
+[[137-35]], [[279-5]], [[876-1]], [[1001-2]], [[1056-2]], [[1341-1]], [[2127-1]], [[3595-1]], [[4159-3]], [[4298-1]], [[4483-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

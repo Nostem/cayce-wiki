@@ -1,18 +1,21 @@
 ---
 entity: "creative activity"
-entity_type: "concept"
-reading_count: 8
-mention_count: 8
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # creative activity
 
-**creative activity** (concept) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**creative activity** (concept, remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning creative activity
 
-[[338-7]], [[851-1]], [[1413-3]], [[3160-1]], [[3195-1]], [[3207-1]], [[5162-1]], [[5187-1]]
+[[2298-1]], [[3160-1]], [[3195-1]], [[5187-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

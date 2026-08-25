@@ -1,18 +1,21 @@
 ---
 entity: "sulphate of morphia"
-entity_type: "remedy"
-reading_count: 15
-mention_count: 15
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # sulphate of morphia
 
-**sulphate of morphia** (remedy) appears in **15 readings** (15 mentions) — extracted by LLM semantic analysis.
+**sulphate of morphia** (remedy) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning sulphate of morphia
 
-[[249-1]], [[287-1]], [[440-10]], [[2220-1]], [[2553-1]], [[2790-3]], [[3835-1]], [[4108-1]], [[4383-3]], [[4564-1]], [[4894-1]], [[5618-19]], [[5695-1]], [[5722-1]], [[5759-1]]
+[[37-3]], [[348-3]], [[440-10]], [[585-1]], [[2553-1]], [[2790-3]], [[4564-1]], [[4894-1]], [[5618-19]], [[5695-1]], [[5722-1]], [[5759-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

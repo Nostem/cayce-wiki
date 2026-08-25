@@ -1,18 +1,21 @@
 ---
 entity: "glory"
-entity_type: "concept"
-reading_count: 10
-mention_count: 10
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # glory
 
-**glory** (concept) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**glory** (concept) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning glory
 
-[[262-90]], [[262-91]], [[262-92]], [[262-93]], [[262-94]], [[262-95]], [[262-107]], [[397-1]], [[900-444]], [[3621-1]]
+[[262-89]], [[262-90]], [[262-91]], [[262-92]], [[262-94]], [[262-95]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

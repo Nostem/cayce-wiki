@@ -1,18 +1,21 @@
 ---
 entity: "skin eruption"
-entity_type: "condition"
-reading_count: 9
-mention_count: 9
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
 # skin eruption
 
-**skin eruption** (condition) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**skin eruption** (condition) appears in **13 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning skin eruption
 
-[[306-3]], [[678-4]], [[759-11]], [[1192-2]], [[1315-11]], [[2744-1]], [[2744-2]], [[3117-1]], [[4302-3]]
+[[366-1]], [[486-1]], [[543-30]], [[569-13]], [[633-1]], [[678-5]], [[759-11]], [[1192-2]], [[2744-1]], [[2744-2]], [[3112-1]], [[4299-1]], [[4905-70]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

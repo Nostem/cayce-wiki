@@ -1,18 +1,21 @@
 ---
 entity: "la crosse"
-entity_type: "place"
-reading_count: 11
-mention_count: 11
-tags: [entity, place]
+entity_types: ["place"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # la crosse
 
-**la crosse** (place) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**la crosse** (place) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning la crosse
 
-[[470-32]], [[1123-3]], [[1878-1]], [[2073-1]], [[2085-4]], [[2149-1]], [[2318-1]], [[2490-1]], [[3901-1]], [[5074-1]], [[5345-1]]
+[[2025-2]], [[2164-1]], [[2490-1]], [[2638-1]], [[2782-1]], [[3083-1]], [[3098-1]], [[5074-1]], [[5107-1]], [[5345-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

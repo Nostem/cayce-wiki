@@ -1,18 +1,21 @@
 ---
 entity: "honeyida water"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # honeyida water
 
-**honeyida water** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**honeyida water** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning honeyida water
 
-[[900-289]], [[2803-6]]
+[[99-5]], [[900-289]], [[2803-6]], [[3570-1]], [[5446-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "lemuria"
-entity_type: "place"
-reading_count: 2
-mention_count: 2
-tags: [entity, place]
+entity: "Lemuria"
+entity_types: ["concept", "person", "place"]
+reading_count: 84
+literal_reading_count: 84
+semantic_reading_count: 49
+literal_mention_count: 140
+semantic_mention_count: 51
+tags: [entity, semantic]
 ---
 
-# lemuria
+# Lemuria
 
-**lemuria** (place) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Lemuria** (concept, person, place) appears in **84 readings** — indexed through hybrid literal and LLM extraction.
 
-## Readings mentioning lemuria
+## Readings mentioning Lemuria
 
-[[364-13]], [[876-1]]
+[[254-88]], [[254-108]], [[262-39]], [[262-115]], [[274-1]], [[281-42]], [[294-183]], [[294-202]], [[328-1]], [[346-1]], [[364-1]], [[364-4]], [[364-6]], [[364-13]], [[378-14]], [[436-2]], [[440-11]], [[442-1]], [[509-1]], [[524-1]], [[557-2]], [[630-2]], [[691-1]], [[812-1]], [[816-3]], [[818-1]], [[823-1]], [[845-1]], [[851-2]], [[876-1]], [[877-10]], [[877-12]], [[877-15]], [[877-26]], [[934-11]], [[962-1]], [[980-1]], [[1159-1]], [[1179-2]], [[1183-1]], [[1273-1]], [[1283-1]], [[1292-1]], [[1301-1]], [[1341-1]], [[1347-1]], [[1353-1]], [[1387-1]], [[1397-1]], [[1423-1]], [[1431-1]], [[1434-1]], [[1472-10]], [[1473-1]], [[1494-1]], [[1505-1]], [[1592-1]], [[1602-3]], [[1604-1]], [[1616-1]], [[1648-1]], [[1650-1]], [[1695-1]], [[1847-1]], [[1938-2]], [[2000-3]], [[2067-1]], [[2067-4]], [[2132-1]], [[2205-1]], [[2441-4]], [[2513-1]], [[2697-1]], [[2698-1]], [[2795-1]], [[2850-1]], [[3188-1]], [[3653-1]], [[3823-1]], [[4035-1]], [[5154-1]], [[5456-1]], [[5748-6]], [[5750-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

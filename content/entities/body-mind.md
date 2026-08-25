@@ -1,18 +1,21 @@
 ---
 entity: "body-mind"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # body-mind
 
-**body-mind** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**body-mind** (concept) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning body-mind
 
-[[900-122]], [[906-4]], [[2905-2]], [[3123-1]]
+[[264-45]], [[294-75]], [[313-10]], [[618-2]], [[1208-18]], [[2905-2]], [[2971-2]], [[3099-1]], [[3123-1]], [[3380-1]], [[5192-1]], [[5309-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

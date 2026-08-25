@@ -1,18 +1,21 @@
 ---
 entity: "irregular menstruation"
-entity_type: "condition"
-reading_count: 7
-mention_count: 7
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 18
+literal_reading_count: 0
+semantic_reading_count: 18
+literal_mention_count: 0
+semantic_mention_count: 18
+tags: [entity, semantic]
 ---
 
 # irregular menstruation
 
-**irregular menstruation** (condition) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**irregular menstruation** (condition) appears in **18 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning irregular menstruation
 
-[[313-15]], [[313-16]], [[313-17]], [[850-5]], [[1713-9]], [[4105-1]], [[4509-1]]
+[[267-2]], [[313-15]], [[313-17]], [[369-14]], [[428-1]], [[653-2]], [[850-1]], [[850-5]], [[854-1]], [[921-1]], [[1573-3]], [[1713-9]], [[2084-3]], [[3462-1]], [[4105-1]], [[4509-1]], [[4676-1]], [[4890-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

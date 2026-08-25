@@ -1,18 +1,21 @@
 ---
 entity: "mercury light"
-entity_type: "remedy"
-reading_count: 4
-mention_count: 4
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # mercury light
 
-**mercury light** (remedy) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**mercury light** (remedy) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mercury light
 
-[[165-7]], [[1541-4]], [[3218-1]], [[5236-1]]
+[[633-9]], [[849-43]], [[1179-3]], [[1188-6]], [[1541-5]], [[1755-4]], [[2044-1]], [[2828-2]], [[2828-3]], [[2828-5]], [[3516-1]], [[5236-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

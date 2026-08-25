@@ -1,18 +1,21 @@
 ---
 entity: "general health"
-entity_type: "concept"
-reading_count: 14
-mention_count: 14
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # general health
 
-**general health** (concept) appears in **14 readings** (14 mentions) — extracted by LLM semantic analysis.
+**general health** (concept, condition) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning general health
 
-[[270-46]], [[302-10]], [[349-22]], [[357-4]], [[522-5]], [[903-36]], [[1306-2]], [[1322-2]], [[1772-1]], [[2016-1]], [[2519-7]], [[2711-2]], [[2912-1]], [[3252-1]]
+[[2912-1]], [[3233-2]], [[3267-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "honeycomb"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # honeycomb
 
-**honeycomb** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**honeycomb** (remedy) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning honeycomb
 
-[[361-2]], [[543-20]]
+[[440-17]], [[543-19]], [[780-12]], [[889-1]], [[1112-8]], [[1539-1]], [[2199-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

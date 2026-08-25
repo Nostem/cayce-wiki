@@ -1,18 +1,21 @@
 ---
 entity: "intestinal discomfort"
-entity_type: "condition"
+entity_types: ["condition"]
 reading_count: 4
-mention_count: 4
-tags: [entity, condition]
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # intestinal discomfort
 
-**intestinal discomfort** (condition) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**intestinal discomfort** (condition) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning intestinal discomfort
 
-[[326-15]], [[326-16]], [[348-13]], [[1807-3]]
+[[326-15]], [[326-16]], [[1561-22]], [[1807-3]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

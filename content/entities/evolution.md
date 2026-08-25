@@ -1,18 +1,21 @@
 ---
 entity: "evolution"
-entity_type: "concept"
-reading_count: 9
-mention_count: 9
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # evolution
 
-**evolution** (concept) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**evolution** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning evolution
 
-[[137-12]], [[195-54]], [[900-14]], [[900-23]], [[900-70]], [[900-88]], [[900-249]], [[1610-2]], [[2079-1]]
+[[900-14]], [[900-274]], [[900-340]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

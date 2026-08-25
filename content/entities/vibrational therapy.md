@@ -1,18 +1,21 @@
 ---
 entity: "vibrational therapy"
-entity_type: "concept"
-reading_count: 14
-mention_count: 14
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # vibrational therapy
 
-**vibrational therapy** (concept) appears in **14 readings** (14 mentions) — extracted by LLM semantic analysis.
+**vibrational therapy** (concept, remedy) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning vibrational therapy
 
-[[303-5]], [[323-1]], [[557-6]], [[1006-1]], [[1242-3]], [[2065-1]], [[2478-2]], [[2819-1]], [[3093-1]], [[3117-1]], [[4223-1]], [[4329-1]], [[4535-2]], [[4893-2]]
+[[849-43]], [[1139-1]], [[1475-1]], [[2249-1]], [[2465-1]], [[2640-1]], [[3186-1]], [[3854-2]], [[4453-1]], [[5048-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

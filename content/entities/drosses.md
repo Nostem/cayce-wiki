@@ -1,18 +1,21 @@
 ---
 entity: "drosses"
-entity_type: "condition"
-reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+entity_types: ["concept", "condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # drosses
 
-**drosses** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**drosses** (concept, condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning drosses
 
-[[760-11]], [[1925-3]], [[4666-1]], [[5488-1]], [[5556-1]], [[5650-1]]
+[[457-9]], [[2898-1]], [[3073-1]], [[4852-1]], [[5427-1]], [[5509-3]], [[5525-1]], [[5657-3]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "nerve disturbance"
-entity_type: "condition"
-reading_count: 11
-mention_count: 11
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 22
+literal_reading_count: 0
+semantic_reading_count: 22
+literal_mention_count: 0
+semantic_mention_count: 22
+tags: [entity, semantic]
 ---
 
 # nerve disturbance
 
-**nerve disturbance** (condition) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**nerve disturbance** (condition) appears in **22 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning nerve disturbance
 
-[[77-1]], [[255-1]], [[275-44]], [[758-25]], [[1865-2]], [[2515-1]], [[2678-1]], [[4222-1]], [[4598-1]], [[4978-1]], [[5458-1]]
+[[77-1]], [[94-1]], [[106-5]], [[135-1]], [[236-2]], [[255-1]], [[313-20]], [[433-1]], [[760-13]], [[855-1]], [[1158-32]], [[1187-11]], [[1897-2]], [[2050-1]], [[2051-2]], [[2515-1]], [[4238-1]], [[4532-1]], [[4584-1]], [[4598-1]], [[5211-1]], [[5502-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "Wilmington"
-entity_type: "place"
-reading_count: 2
-mention_count: 2
-tags: [entity, place]
+entity: "wilmington"
+entity_types: ["place"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
-# Wilmington
+# wilmington
 
-**Wilmington** (place) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**wilmington** (place) appears in **9 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning Wilmington
+## Readings mentioning wilmington
 
-[[257-98]], [[2087-5]]
+[[257-149]], [[576-1]], [[868-1]], [[1606-1]], [[1646-3]], [[2345-1]], [[2494-1]], [[2582-4]], [[2871-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

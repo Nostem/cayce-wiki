@@ -1,18 +1,21 @@
 ---
 entity: "normal development"
-entity_type: "concept"
-reading_count: 21
-mention_count: 21
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # normal development
 
-**normal development** (concept) appears in **21 readings** (21 mentions) — extracted by LLM semantic analysis.
+**normal development** (concept) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning normal development
 
-[[23-12]], [[23-13]], [[23-14]], [[301-4]], [[361-3]], [[578-9]], [[665-2]], [[781-1]], [[1206-11]], [[1339-1]], [[1521-7]], [[2005-2]], [[2015-5]], [[3751-6]], [[4128-2]], [[4299-1]], [[4677-1]], [[5362-1]], [[5412-1]], [[5609-3]], [[5702-1]]
+[[23-14]], [[136-47]], [[480-34]], [[480-36]], [[508-1]], [[628-2]], [[1179-11]], [[1190-1]], [[3789-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

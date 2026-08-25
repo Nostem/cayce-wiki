@@ -1,18 +1,21 @@
 ---
 entity: "pie plant"
-entity_type: "remedy"
-reading_count: 7
-mention_count: 7
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # pie plant
 
-**pie plant** (remedy) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**pie plant** (remedy) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning pie plant
 
-[[348-13]], [[618-7]], [[811-4]], [[849-39]], [[1628-2]], [[1779-3]], [[3051-6]]
+[[348-13]], [[811-4]], [[849-39]], [[1224-8]], [[1476-2]], [[1779-3]], [[2803-3]], [[3336-1]], [[3384-2]], [[4750-1]], [[5080-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

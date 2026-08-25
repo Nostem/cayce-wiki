@@ -1,18 +1,21 @@
 ---
-entity: "irving h. isaacs"
-entity_type: "person"
-reading_count: 5
-mention_count: 5
-tags: [entity, person]
+entity: "Irving H. Isaacs"
+entity_types: ["person"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
-# irving h. isaacs
+# Irving H. Isaacs
 
-**irving h. isaacs** (person) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**Irving H. Isaacs** (person) appears in **7 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning irving h. isaacs
+## Readings mentioning Irving H. Isaacs
 
-[[257-18]], [[257-21]], [[257-23]], [[257-25]], [[257-26]]
+[[257-18]], [[257-21]], [[257-23]], [[257-25]], [[257-26]], [[257-36]], [[257-40]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

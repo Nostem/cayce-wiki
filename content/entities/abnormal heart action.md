@@ -1,18 +1,21 @@
 ---
 entity: "abnormal heart action"
-entity_type: "condition"
-reading_count: 5
-mention_count: 5
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # abnormal heart action
 
-**abnormal heart action** (condition) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**abnormal heart action** (condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning abnormal heart action
 
-[[257-7]], [[3876-1]], [[4377-1]], [[4431-1]], [[4891-1]]
+[[257-7]], [[294-16]], [[412-1]], [[617-1]], [[717-1]], [[720-1]], [[4237-1]], [[4431-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

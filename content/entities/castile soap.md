@@ -1,18 +1,21 @@
 ---
 entity: "castile soap"
-entity_type: "remedy"
-reading_count: 6
-mention_count: 6
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # castile soap
 
-**castile soap** (remedy) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**castile soap** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning castile soap
 
-[[255-10]], [[270-35]], [[389-1]], [[1101-3]], [[1208-5]], [[2988-1]]
+[[365-2]], [[1101-3]], [[1208-5]], [[2998-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

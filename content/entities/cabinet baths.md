@@ -1,18 +1,21 @@
 ---
 entity: "cabinet baths"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 6
-mention_count: 6
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # cabinet baths
 
-**cabinet baths** (remedy) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**cabinet baths** (remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning cabinet baths
 
-[[257-193]], [[1196-4]], [[1420-1]], [[2189-4]], [[3335-1]], [[4142-2]]
+[[515-1]], [[515-2]], [[1196-4]], [[1420-1]], [[4142-2]], [[5215-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

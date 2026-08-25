@@ -1,18 +1,21 @@
 ---
 entity: "spinal massage"
-entity_type: "remedy"
-reading_count: 4
-mention_count: 4
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # spinal massage
 
-**spinal massage** (remedy) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**spinal massage** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning spinal massage
 
-[[216-1]], [[847-3]], [[5642-3]], [[5642-5]]
+[[608-3]], [[850-1]], [[1512-3]], [[2964-1]], [[5642-3]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

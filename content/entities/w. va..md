@@ -1,18 +1,21 @@
 ---
-entity: "w. va."
-entity_type: "place"
-reading_count: 12
-mention_count: 12
-tags: [entity, place]
+entity: "W. Va."
+entity_types: ["place"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
-# w. va.
+# W. Va.
 
-**w. va.** (place) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**W. Va.** (place) appears in **7 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning w. va.
+## Readings mentioning W. Va.
 
-[[146-6]], [[1170-3]], [[2104-1]], [[2153-1]], [[2153-11]], [[2307-1]], [[2330-1]], [[3715-1]], [[3790-1]], [[4202-1]], [[4315-1]], [[4750-1]]
+[[356-1]], [[356-2]], [[2104-1]], [[2307-1]], [[2330-1]], [[4202-1]], [[4770-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "emotional body"
-entity_type: "concept"
-reading_count: 14
-mention_count: 14
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # emotional body
 
-**emotional body** (concept) appears in **14 readings** (14 mentions) — extracted by LLM semantic analysis.
+**emotional body** (concept, condition) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning emotional body
 
-[[445-2]], [[1228-1]], [[1540-2]], [[1551-1]], [[2084-13]], [[3098-1]], [[3102-1]], [[3102-2]], [[3165-1]], [[3214-1]], [[3239-1]], [[3242-1]], [[3246-2]], [[3250-1]]
+[[1523-15]], [[1551-1]], [[1996-1]], [[2084-13]], [[2899-2]], [[3098-1]], [[3102-1]], [[3165-1]], [[3242-1]], [[3246-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

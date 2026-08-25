@@ -1,18 +1,21 @@
 ---
 entity: "rectified creosote"
-entity_type: "remedy"
-reading_count: 12
-mention_count: 12
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # rectified creosote
 
-**rectified creosote** (remedy) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**rectified creosote** (remedy) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning rectified creosote
 
-[[37-2]], [[265-12]], [[304-7]], [[357-10]], [[687-1]], [[1010-2]], [[1519-1]], [[2077-3]], [[3494-1]], [[4827-1]], [[5433-1]], [[5536-1]]
+[[243-30]], [[265-12]], [[337-19]], [[357-10]], [[666-2]], [[1519-1]], [[2975-1]], [[4281-17]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

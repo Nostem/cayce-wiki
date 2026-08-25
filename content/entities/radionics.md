@@ -1,18 +1,21 @@
 ---
 entity: "radionics"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # radionics
 
-**radionics** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**radionics** (concept, remedy) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning radionics
 
-[[1553-11]], [[5340-1]]
+[[589-3]], [[1397-2]], [[1500-1]], [[1853-2]], [[1997-3]], [[3011-1]], [[4081-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

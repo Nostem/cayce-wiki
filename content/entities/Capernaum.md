@@ -1,18 +1,21 @@
 ---
-entity: "capernaum"
-entity_type: "place"
-reading_count: 7
-mention_count: 7
-tags: [entity, place]
+entity: "Capernaum"
+entity_types: ["place"]
+reading_count: 18
+literal_reading_count: 18
+semantic_reading_count: 16
+literal_mention_count: 25
+semantic_mention_count: 16
+tags: [entity, semantic]
 ---
 
-# capernaum
+# Capernaum
 
-**capernaum** (place) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**Capernaum** (place) appears in **18 readings** — indexed through hybrid literal and LLM extraction.
 
-## Readings mentioning capernaum
+## Readings mentioning Capernaum
 
-[[603-2]], [[1158-4]], [[1158-9]], [[1179-8]], [[1602-4]], [[5749-2]], [[5749-16]]
+[[294-161]], [[537-1]], [[578-2]], [[603-2]], [[609-1]], [[781-5]], [[900-422]], [[1010-12]], [[1158-4]], [[1158-9]], [[1179-8]], [[1301-1]], [[1541-11]], [[1602-4]], [[3357-1]], [[5749-2]], [[5749-7]], [[5749-16]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "temper"
-entity_type: "concept"
-reading_count: 3
-mention_count: 3
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # temper
 
-**temper** (concept) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**temper** (concept, condition) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning temper
 
-[[569-8]], [[624-3]], [[1958-1]]
+[[294-53]], [[438-1]], [[3565-1]], [[4159-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

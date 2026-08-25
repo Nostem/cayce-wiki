@@ -1,18 +1,21 @@
 ---
 entity: "spiritual leadership"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # spiritual leadership
 
-**spiritual leadership** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**spiritual leadership** (concept) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning spiritual leadership
 
-[[294-147]], [[877-10]], [[900-285]], [[2067-11]]
+[[281-40]], [[538-32]], [[877-10]], [[900-243]], [[900-417]], [[1710-11]], [[2845-2]], [[2917-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

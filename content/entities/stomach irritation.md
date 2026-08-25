@@ -1,18 +1,21 @@
 ---
 entity: "stomach irritation"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # stomach irritation
 
-**stomach irritation** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**stomach irritation** (condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning stomach irritation
 
-[[482-4]], [[3695-1]]
+[[540-12]], [[555-4]], [[758-11]], [[1419-1]], [[1724-2]], [[3586-1]], [[3695-1]], [[3866-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "lack of blood supply"
-entity_type: "condition"
-reading_count: 9
-mention_count: 9
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # lack of blood supply
 
-**lack of blood supply** (condition) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**lack of blood supply** (condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning lack of blood supply
 
-[[263-3]], [[307-18]], [[313-6]], [[667-12]], [[806-1]], [[1838-5]], [[2336-2]], [[3785-1]], [[4301-1]]
+[[21-1]], [[263-3]], [[307-18]], [[667-12]], [[1783-2]], [[1838-5]], [[2336-2]], [[2514-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

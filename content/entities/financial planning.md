@@ -1,18 +1,21 @@
 ---
 entity: "financial planning"
-entity_type: "concept"
-reading_count: 7
-mention_count: 7
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # financial planning
 
-**financial planning** (concept) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**financial planning** (concept) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning financial planning
 
-[[257-74]], [[257-96]], [[416-12]], [[417-4]], [[578-10]], [[845-7]], [[4945-2]]
+[[165-18]], [[257-13]], [[257-27]], [[257-115]], [[257-141]], [[257-164]], [[261-6]], [[279-8]], [[4566-3]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

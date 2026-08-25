@@ -1,17 +1,21 @@
 ---
 entity: "Lemurian Destruction"
-mention_count: 1
-reading_count: 1
-tags: [entity]
+entity_types: ["literal"]
+reading_count: 2
+literal_reading_count: 2
+semantic_reading_count: 0
+literal_mention_count: 2
+semantic_mention_count: 0
+tags: [entity, semantic]
 ---
 
 # Lemurian Destruction
 
-**Lemurian Destruction** appears in **1 readings** (1 total mentions) across the corpus.
+**Lemurian Destruction** (literal) appears in **2 readings** — indexed through deterministic literal extraction.
 
 ## Readings mentioning Lemurian Destruction
 
-[[851-2]]
+[[281-42]], [[851-2]]
 
 ---
-*Auto-generated entity index. 1 readings, 1 mentions.*
+*Auto-generated index. LLM classifications should be verified before citation.*

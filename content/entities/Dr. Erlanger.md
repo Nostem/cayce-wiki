@@ -1,18 +1,21 @@
 ---
-entity: "dr. erlanger"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Dr. Erlanger"
+entity_types: ["person"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
-# dr. erlanger
+# Dr. Erlanger
 
-**dr. erlanger** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Dr. Erlanger** (person) appears in **9 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning dr. erlanger
+## Readings mentioning Dr. Erlanger
 
-[[773-12]], [[1844-2]]
+[[773-11]], [[773-12]], [[773-15]], [[1817-2]], [[1844-1]], [[1861-5]], [[2072-16]], [[2348-3]], [[2348-4]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

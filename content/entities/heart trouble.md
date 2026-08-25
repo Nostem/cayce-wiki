@@ -1,18 +1,21 @@
 ---
 entity: "heart trouble"
-entity_type: "condition"
-reading_count: 28
-mention_count: 28
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 38
+literal_reading_count: 0
+semantic_reading_count: 38
+literal_mention_count: 0
+semantic_mention_count: 38
+tags: [entity, semantic]
 ---
 
 # heart trouble
 
-**heart trouble** (condition) appears in **28 readings** (28 mentions) — extracted by LLM semantic analysis.
+**heart trouble** (condition) appears in **38 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning heart trouble
 
-[[106-2]], [[109-2]], [[222-1]], [[304-16]], [[325-37]], [[333-13]], [[409-35]], [[464-37]], [[711-1]], [[958-2]], [[959-1]], [[1181-7]], [[1181-9]], [[1439-2]], [[1795-1]], [[2263-1]], [[2356-2]], [[2817-2]], [[2993-1]], [[3830-1]], [[3894-1]], [[4032-1]], [[4201-1]], [[4238-1]], [[4283-1]], [[4691-2]], [[4694-4]], [[4776-1]]
+[[93-1]], [[106-2]], [[222-1]], [[265-3]], [[370-1]], [[391-5]], [[409-35]], [[464-13]], [[464-18]], [[464-29]], [[464-30]], [[464-32]], [[464-37]], [[483-1]], [[573-5]], [[711-1]], [[777-1]], [[900-263]], [[1141-1]], [[1181-7]], [[1181-9]], [[1795-1]], [[1884-1]], [[1947-10]], [[2000-2]], [[2263-1]], [[2275-1]], [[2508-1]], [[2817-2]], [[2921-1]], [[2959-1]], [[3773-1]], [[3830-1]], [[4283-1]], [[4283-2]], [[4691-2]], [[4694-4]], [[5608-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

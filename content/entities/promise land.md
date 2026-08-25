@@ -1,18 +1,21 @@
 ---
-entity: "promise land"
-entity_type: "place"
-reading_count: 4
-mention_count: 4
-tags: [entity, place]
+entity: "Promise Land"
+entity_types: ["place"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# promise land
+# Promise Land
 
-**promise land** (place) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Promise Land** (place) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning promise land
+## Readings mentioning Promise Land
 
-[[106-3]], [[2138-1]], [[4185-1]], [[4415-1]]
+[[476-1]], [[933-1]], [[2676-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

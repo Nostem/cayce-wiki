@@ -1,18 +1,21 @@
 ---
 entity: "sponge applicator"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # sponge applicator
 
-**sponge applicator** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**sponge applicator** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning sponge applicator
 
-[[483-2]], [[2619-2]]
+[[263-11]], [[413-5]], [[1196-9]], [[1633-1]], [[2501-7]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

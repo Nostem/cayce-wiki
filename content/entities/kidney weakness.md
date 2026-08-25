@@ -1,18 +1,21 @@
 ---
 entity: "kidney weakness"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # kidney weakness
 
-**kidney weakness** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**kidney weakness** (condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning kidney weakness
 
-[[540-11]], [[2780-2]]
+[[304-10]], [[514-4]], [[540-11]], [[1106-2]], [[2007-1]], [[2025-2]], [[2780-2]], [[5038-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

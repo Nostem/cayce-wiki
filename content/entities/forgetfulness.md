@@ -1,18 +1,21 @@
 ---
 entity: "forgetfulness"
-entity_type: "condition"
-reading_count: 7
-mention_count: 7
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # forgetfulness
 
-**forgetfulness** (condition) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**forgetfulness** (condition) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning forgetfulness
 
-[[415-8]], [[416-5]], [[589-4]], [[2366-3]], [[2366-7]], [[3303-1]], [[4828-1]]
+[[415-8]], [[416-5]], [[589-4]], [[2366-7]], [[2402-1]], [[2598-1]], [[3303-1]], [[3664-1]], [[3876-1]], [[4828-1]], [[5022-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

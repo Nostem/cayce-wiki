@@ -1,0 +1,21 @@
+---
+entity: "New Haven, Conn."
+entity_types: ["place"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
+---
+
+# New Haven, Conn.
+
+**New Haven, Conn.** (place) appears in **4 readings** — indexed through LLM semantic extraction.
+
+## Readings mentioning New Haven, Conn.
+
+[[2052-2]], [[2052-3]], [[2229-1]], [[4191-4]]
+
+---
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "diet adjustments"
-entity_type: "remedy"
-reading_count: 67
-mention_count: 67
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # diet adjustments
 
-**diet adjustments** (remedy) appears in **67 readings** (67 mentions) — extracted by LLM semantic analysis.
+**diet adjustments** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning diet adjustments
 
-[[119-2]], [[202-4]], [[243-12]], [[243-21]], [[257-9]], [[257-144]], [[257-234]], [[279-7]], [[279-12]], [[282-1]], [[294-109]], [[315-6]], [[321-2]], [[337-27]], [[341-31]], [[348-2]], [[403-2]], [[409-24]], [[437-8]], [[457-1]], [[538-12]], [[567-8]], [[599-7]], [[601-26]], [[667-4]], [[718-1]], [[749-1]], [[758-28]], [[795-1]], [[795-4]], [[952-2]], [[953-9]], [[953-11]], [[992-1]], [[1005-18]], [[1080-1]], [[1131-2]], [[1183-2]], [[1223-2]], [[1291-1]], [[1345-1]], [[1521-7]], [[1540-1]], [[1564-2]], [[1612-3]], [[1688-2]], [[1812-1]], [[1819-1]], [[1893-1]], [[2084-3]], [[2084-12]], [[2084-13]], [[2363-1]], [[2406-1]], [[2519-4]], [[2534-1]], [[2564-2]], [[2815-1]], [[2993-1]], [[3823-4]], [[3837-2]], [[4219-4]], [[4395-1]], [[5413-1]], [[5491-5]], [[5601-1]], [[5610-4]]
+[[243-21]], [[838-2]], [[1188-13]], [[2347-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

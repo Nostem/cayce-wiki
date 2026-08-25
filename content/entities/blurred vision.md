@@ -1,18 +1,21 @@
 ---
 entity: "blurred vision"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # blurred vision
 
-**blurred vision** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**blurred vision** (condition) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning blurred vision
 
-[[147-34]], [[1713-14]]
+[[147-25]], [[311-4]], [[341-23]], [[389-1]], [[1386-1]], [[1657-1]], [[1703-2]], [[1713-14]], [[2543-1]], [[2619-1]], [[3098-1]], [[4413-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

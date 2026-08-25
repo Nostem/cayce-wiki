@@ -1,18 +1,21 @@
 ---
-entity: "akashic records"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity: "Akashic Records"
+entity_types: ["concept"]
+reading_count: 68
+literal_reading_count: 66
+semantic_reading_count: 39
+literal_mention_count: 83
+semantic_mention_count: 39
+tags: [entity, semantic]
 ---
 
-# akashic records
+# Akashic Records
 
-**akashic records** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**Akashic Records** (concept) appears in **68 readings** — indexed through hybrid literal and LLM extraction.
 
-## Readings mentioning akashic records
+## Readings mentioning Akashic Records
 
-[[364-5]], [[364-6]], [[440-12]], [[1473-1]], [[1552-1]]
+[[169-1]], [[254-63]], [[255-11]], [[257-248]], [[281-36]], [[288-27]], [[294-19]], [[294-131]], [[294-161]], [[294-185]], [[294-189]], [[294-206]], [[364-5]], [[364-6]], [[364-13]], [[378-13]], [[440-12]], [[443-5]], [[507-1]], [[566-1]], [[877-21]], [[897-2]], [[903-23]], [[1158-6]], [[1158-7]], [[1215-4]], [[1223-4]], [[1292-1]], [[1334-1]], [[1378-1]], [[1402-1]], [[1404-1]], [[1444-1]], [[1472-1]], [[1472-3]], [[1472-13]], [[1473-1]], [[1510-1]], [[1523-16]], [[1552-1]], [[1650-1]], [[1662-2]], [[1885-2]], [[2012-1]], [[2035-1]], [[2067-2]], [[2067-3]], [[2067-11]], [[2072-12]], [[2110-1]], [[2279-1]], [[2329-1]], [[2420-1]], [[2441-2]], [[2522-1]], [[2533-8]], [[2791-1]], [[3042-1]], [[3126-1]], [[3174-1]], [[3308-1]], [[3361-1]], [[3506-1]], [[3514-1]], [[3902-2]], [[5253-1]], [[5366-1]], [[5756-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

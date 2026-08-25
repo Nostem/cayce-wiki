@@ -1,18 +1,21 @@
 ---
 entity: "Dr. McChesney"
-entity_type: "person"
-reading_count: 4
-mention_count: 4
-tags: [entity, person]
+entity_types: ["person"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # Dr. McChesney
 
-**Dr. McChesney** (person) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Dr. McChesney** (person) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Dr. McChesney
 
-[[120-6]], [[559-4]], [[2519-4]], [[5671-7]]
+[[65-1]], [[120-6]], [[372-3]], [[462-1]], [[1461-1]], [[4820-2]], [[5502-4]], [[5509-3]], [[5570-1]], [[5671-7]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

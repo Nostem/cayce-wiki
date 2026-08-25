@@ -1,18 +1,21 @@
 ---
 entity: "chronic asthma"
-entity_type: "condition"
-reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # chronic asthma
 
-**chronic asthma** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**chronic asthma** (condition) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning chronic asthma
 
-[[304-12]], [[304-14]], [[304-19]], [[304-32]], [[304-47]], [[304-48]]
+[[304-3]], [[304-14]], [[304-19]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

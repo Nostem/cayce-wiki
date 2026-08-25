@@ -1,18 +1,21 @@
 ---
-entity: "cromwell"
-entity_type: "person"
-reading_count: 4
-mention_count: 4
-tags: [entity, person]
+entity: "Cromwell"
+entity_types: ["person"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
-# cromwell
+# Cromwell
 
-**cromwell** (person) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Cromwell** (person) appears in **12 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning cromwell
+## Readings mentioning Cromwell
 
-[[261-5]], [[845-6]], [[2673-1]], [[3253-2]]
+[[261-5]], [[934-1]], [[943-2]], [[953-4]], [[1341-1]], [[1800-2]], [[2697-1]], [[2727-1]], [[3253-2]], [[3648-1]], [[3652-1]], [[5454-3]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

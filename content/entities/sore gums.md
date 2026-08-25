@@ -1,18 +1,21 @@
 ---
 entity: "sore gums"
-entity_type: "condition"
-reading_count: 4
-mention_count: 4
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # sore gums
 
-**sore gums** (condition) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**sore gums** (condition) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning sore gums
 
-[[3051-3]], [[3628-1]], [[4012-1]], [[4274-2]]
+[[482-5]], [[779-26]], [[1467-8]], [[2763-1]], [[2771-2]], [[3051-3]], [[3353-1]], [[3628-1]], [[4012-1]], [[4274-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

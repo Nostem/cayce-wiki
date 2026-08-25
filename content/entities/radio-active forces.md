@@ -1,18 +1,21 @@
 ---
 entity: "radio-active forces"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # radio-active forces
 
-**radio-active forces** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**radio-active forces** (concept, remedy) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning radio-active forces
 
-[[137-86]], [[147-35]]
+[[137-86]], [[147-35]], [[186-1]], [[1138-2]], [[2253-2]], [[2504-1]], [[5503-2]], [[5635-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

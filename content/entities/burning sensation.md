@@ -1,18 +1,21 @@
 ---
 entity: "burning sensation"
-entity_type: "condition"
-reading_count: 16
-mention_count: 16
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # burning sensation
 
-**burning sensation** (condition) appears in **16 readings** (16 mentions) — extracted by LLM semantic analysis.
+**burning sensation** (condition) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning burning sensation
 
-[[542-1]], [[584-1]], [[601-27]], [[1010-1]], [[1158-1]], [[1375-2]], [[1447-2]], [[2050-1]], [[2958-1]], [[4171-1]], [[4245-1]], [[4303-1]], [[4413-1]], [[4560-1]], [[5273-1]], [[5662-3]]
+[[1010-3]], [[1572-1]], [[1620-1]], [[2434-2]], [[3813-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "moe wallack"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Moe Wallack"
+entity_types: ["person"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
-# moe wallack
+# Moe Wallack
 
-**moe wallack** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Moe Wallack** (person) appears in **9 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning moe wallack
+## Readings mentioning Moe Wallack
 
-[[137-39]], [[900-219]]
+[[137-39]], [[900-107]], [[900-120]], [[900-219]], [[900-269]], [[900-286]], [[900-291]], [[900-297]], [[900-305]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

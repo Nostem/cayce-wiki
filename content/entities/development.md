@@ -1,18 +1,21 @@
 ---
 entity: "development"
-entity_type: "concept"
-reading_count: 41
-mention_count: 41
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # development
 
-**development** (concept) appears in **41 readings** (41 mentions) — extracted by LLM semantic analysis.
+**development** (concept) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning development
 
-[[136-30]], [[146-1]], [[169-1]], [[199-1]], [[276-3]], [[294-18]], [[294-87]], [[294-107]], [[299-2]], [[305-1]], [[378-3]], [[466-2]], [[487-4]], [[663-1]], [[670-5]], [[758-10]], [[758-33]], [[900-70]], [[900-120]], [[900-166]], [[900-183]], [[900-347]], [[903-10]], [[949-13]], [[2138-2]], [[2652-2]], [[2780-2]], [[2789-1]], [[2884-2]], [[3558-1]], [[4613-3]], [[4665-2]], [[4665-9]], [[4666-5]], [[4682-1]], [[4915-1]], [[5006-1]], [[5457-2]], [[5645-1]], [[5726-1]], [[5752-1]]
+[[195-17]], [[903-20]], [[943-5]], [[943-16]], [[1105-1]], [[1188-2]], [[1733-1]], [[1788-7]], [[2884-2]], [[4665-2]], [[5452-1]], [[5603-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

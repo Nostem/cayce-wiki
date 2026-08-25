@@ -1,18 +1,21 @@
 ---
 entity: "Richardson"
-entity_type: "person"
-reading_count: 5
-mention_count: 5
-tags: [entity, person]
+entity_types: ["person", "remedy"]
+reading_count: 24
+literal_reading_count: 0
+semantic_reading_count: 24
+literal_mention_count: 0
+semantic_mention_count: 24
+tags: [entity, semantic]
 ---
 
 # Richardson
 
-**Richardson** (person) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**Richardson** (person, remedy) appears in **24 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Richardson
 
-[[466-1]], [[1947-4]], [[2348-3]], [[3821-1]], [[4802-1]]
+[[416-18]], [[545-1]], [[668-1]], [[960-3]], [[1241-1]], [[1532-3]], [[1532-4]], [[2072-5]], [[2072-6]], [[2239-2]], [[2315-2]], [[2348-3]], [[2366-4]], [[2479-1]], [[2501-12]], [[2504-19]], [[2611-1]], [[2611-2]], [[2705-1]], [[3413-1]], [[3519-1]], [[3821-1]], [[4802-1]], [[5610-3]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

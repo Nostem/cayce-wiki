@@ -1,18 +1,21 @@
 ---
 entity: "senna base laxative"
-entity_type: "remedy"
-reading_count: 3
-mention_count: 3
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # senna base laxative
 
-**senna base laxative** (remedy) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**senna base laxative** (remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning senna base laxative
 
-[[308-12]], [[1532-3]], [[2970-2]]
+[[308-12]], [[2001-1]], [[2019-1]], [[2590-2]], [[2970-2]], [[5182-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

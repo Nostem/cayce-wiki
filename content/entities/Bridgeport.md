@@ -1,18 +1,21 @@
 ---
-entity: "bridgeport"
-entity_type: "place"
-reading_count: 8
-mention_count: 8
-tags: [entity, place]
+entity: "Bridgeport"
+entity_types: ["place"]
+reading_count: 17
+literal_reading_count: 0
+semantic_reading_count: 17
+literal_mention_count: 0
+semantic_mention_count: 17
+tags: [entity, semantic]
 ---
 
-# bridgeport
+# Bridgeport
 
-**bridgeport** (place) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**Bridgeport** (place) appears in **17 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning bridgeport
+## Readings mentioning Bridgeport
 
-[[257-151]], [[257-173]], [[257-191]], [[257-192]], [[257-207]], [[257-224]], [[1740-1]], [[5322-1]]
+[[257-147]], [[257-155]], [[257-180]], [[257-190]], [[257-191]], [[257-192]], [[257-207]], [[257-209]], [[257-211]], [[257-224]], [[257-232]], [[1472-13]], [[1740-1]], [[2774-1]], [[3114-1]], [[3221-1]], [[4191-3]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

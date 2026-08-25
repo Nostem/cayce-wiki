@@ -1,18 +1,21 @@
 ---
 entity: "mucous colitis"
-entity_type: "condition"
-reading_count: 16
-mention_count: 16
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 27
+literal_reading_count: 0
+semantic_reading_count: 27
+literal_mention_count: 0
+semantic_mention_count: 27
+tags: [entity, semantic]
 ---
 
 # mucous colitis
 
-**mucous colitis** (condition) appears in **16 readings** (16 mentions) — extracted by LLM semantic analysis.
+**mucous colitis** (condition) appears in **27 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mucous colitis
 
-[[340-6]], [[340-7]], [[340-8]], [[340-9]], [[340-10]], [[340-11]], [[340-12]], [[340-17]], [[340-21]], [[340-26]], [[340-34]], [[340-36]], [[340-38]], [[340-41]], [[340-43]], [[1196-14]]
+[[340-7]], [[340-8]], [[340-9]], [[340-10]], [[340-11]], [[340-12]], [[340-13]], [[340-16]], [[340-17]], [[340-18]], [[340-19]], [[340-20]], [[340-21]], [[340-23]], [[340-24]], [[340-26]], [[340-27]], [[340-34]], [[340-35]], [[340-40]], [[340-41]], [[340-44]], [[340-45]], [[340-47]], [[1196-14]], [[5280-1]], [[5714-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

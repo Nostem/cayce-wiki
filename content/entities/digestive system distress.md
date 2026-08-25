@@ -1,18 +1,21 @@
 ---
 entity: "digestive system distress"
-entity_type: "condition"
-reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # digestive system distress
 
-**digestive system distress** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**digestive system distress** (condition) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning digestive system distress
 
-[[302-7]], [[340-4]], [[1100-34]], [[1866-6]], [[4691-1]], [[5643-1]]
+[[152-1]], [[1866-6]], [[5411-1]], [[5572-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

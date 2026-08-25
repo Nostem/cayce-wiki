@@ -1,18 +1,21 @@
 ---
 entity: "ankle pain"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # ankle pain
 
-**ankle pain** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**ankle pain** (condition) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning ankle pain
 
-[[2084-9]], [[3173-1]]
+[[484-2]], [[849-75]], [[934-2]], [[2084-9]], [[2239-2]], [[3468-1]], [[3719-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

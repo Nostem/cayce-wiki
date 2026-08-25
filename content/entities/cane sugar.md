@@ -1,18 +1,21 @@
 ---
 entity: "cane sugar"
-entity_type: "remedy"
-reading_count: 13
-mention_count: 13
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # cane sugar
 
-**cane sugar** (remedy) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**cane sugar** (remedy) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning cane sugar
 
-[[97-1]], [[2224-1]], [[2888-1]], [[3859-1]], [[3979-1]], [[4190-1]], [[4265-1]], [[4550-1]], [[4831-2]], [[4852-1]], [[4997-1]], [[5692-2]], [[5704-1]]
+[[97-1]], [[2224-1]], [[3859-1]], [[3860-1]], [[3932-1]], [[3979-1]], [[4997-1]], [[5692-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

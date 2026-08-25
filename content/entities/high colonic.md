@@ -1,18 +1,21 @@
 ---
 entity: "high colonic"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 9
-mention_count: 9
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # high colonic
 
-**high colonic** (remedy) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**high colonic** (remedy) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning high colonic
 
-[[949-16]], [[1584-2]], [[1770-4]], [[1955-1]], [[2863-1]], [[3300-1]], [[3336-1]], [[3443-1]], [[5290-1]]
+[[257-215]], [[949-16]], [[1584-2]], [[1770-4]], [[1955-1]], [[2863-1]], [[3300-1]], [[3336-1]], [[3443-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

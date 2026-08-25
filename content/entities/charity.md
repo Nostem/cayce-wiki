@@ -1,18 +1,21 @@
 ---
 entity: "charity"
-entity_type: "concept"
-reading_count: 10
-mention_count: 10
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # charity
 
-**charity** (concept) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**charity** (concept) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning charity
 
-[[165-12]], [[288-36]], [[775-1]], [[900-84]], [[900-331]], [[2482-1]], [[2835-1]], [[2862-1]], [[3309-1]], [[5177-2]]
+[[254-92]], [[294-51]], [[641-8]], [[900-84]], [[900-331]], [[1662-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

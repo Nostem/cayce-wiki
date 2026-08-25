@@ -1,18 +1,21 @@
 ---
-entity: "saginaw"
-entity_type: "place"
-reading_count: 4
-mention_count: 4
-tags: [entity, place]
+entity: "Saginaw"
+entity_types: ["place"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# saginaw
+# Saginaw
 
-**saginaw** (place) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Saginaw** (place) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning saginaw
+## Readings mentioning Saginaw
 
-[[257-79]], [[257-80]], [[1073-4]], [[2822-1]]
+[[257-79]], [[257-80]], [[1073-4]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "environmental influences"
-entity_type: "concept"
-reading_count: 10
-mention_count: 10
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # environmental influences
 
-**environmental influences** (concept) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**environmental influences** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning environmental influences
 
-[[257-173]], [[264-31]], [[274-15]], [[450-1]], [[620-1]], [[683-1]], [[826-12]], [[1843-2]], [[1994-3]], [[2608-1]]
+[[450-1]], [[826-12]], [[903-13]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

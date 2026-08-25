@@ -1,18 +1,21 @@
 ---
-entity: "neptune"
-entity_type: "place"
-reading_count: 4
-mention_count: 4
-tags: [entity, place]
+entity: "Neptune"
+entity_types: ["concept", "place"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
-# neptune
+# Neptune
 
-**neptune** (place) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Neptune** (concept, place) appears in **6 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning neptune
+## Readings mentioning Neptune
 
-[[315-4]], [[398-2]], [[954-1]], [[1187-2]]
+[[288-10]], [[900-25]], [[1100-27]], [[2157-1]], [[2857-1]], [[5756-10]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

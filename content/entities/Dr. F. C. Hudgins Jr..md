@@ -1,18 +1,21 @@
 ---
-entity: "dr. f. c. hudgins, jr."
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Dr. F. C. Hudgins Jr."
+entity_types: ["person"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
-# dr. f. c. hudgins, jr.
+# Dr. F. C. Hudgins Jr.
 
-**dr. f. c. hudgins, jr.** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Dr. F. C. Hudgins Jr.** (person) appears in **6 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning dr. f. c. hudgins, jr.
+## Readings mentioning Dr. F. C. Hudgins Jr.
 
-[[413-9]], [[416-14]]
+[[263-11]], [[308-7]], [[415-7]], [[571-3]], [[578-6]], [[2309-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

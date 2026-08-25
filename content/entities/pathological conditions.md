@@ -1,18 +1,21 @@
 ---
 entity: "pathological conditions"
-entity_type: "concept"
-reading_count: 10
-mention_count: 10
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # pathological conditions
 
-**pathological conditions** (concept) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**pathological conditions** (concept, condition) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning pathological conditions
 
-[[223-1]], [[656-1]], [[1135-5]], [[1173-1]], [[1903-1]], [[2165-1]], [[2452-1]], [[3735-1]], [[3802-1]], [[4157-1]]
+[[73-1]], [[1153-1]], [[1314-1]], [[1916-3]], [[2129-1]], [[3149-1]], [[3764-1]], [[3788-1]], [[3793-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

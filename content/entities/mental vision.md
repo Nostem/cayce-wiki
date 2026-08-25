@@ -1,18 +1,21 @@
 ---
 entity: "mental vision"
-entity_type: "concept"
-reading_count: 10
-mention_count: 10
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # mental vision
 
-**mental vision** (concept) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**mental vision** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mental vision
 
-[[9-6]], [[136-4]], [[195-59]], [[238-2]], [[264-16]], [[900-99]], [[900-377]], [[906-3]], [[1924-1]], [[4157-2]]
+[[136-4]], [[900-377]], [[4157-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

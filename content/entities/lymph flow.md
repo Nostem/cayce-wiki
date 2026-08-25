@@ -1,18 +1,21 @@
 ---
 entity: "lymph flow"
-entity_type: "concept"
+entity_types: ["concept", "condition"]
 reading_count: 9
-mention_count: 9
-tags: [entity, concept]
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # lymph flow
 
-**lymph flow** (concept) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**lymph flow** (concept, condition) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning lymph flow
 
-[[257-199]], [[360-6]], [[573-6]], [[826-7]], [[1334-2]], [[1544-1]], [[2455-2]], [[3112-1]], [[3537-1]]
+[[303-27]], [[340-46]], [[619-7]], [[667-14]], [[1060-1]], [[1334-2]], [[1485-1]], [[2868-1]], [[3667-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

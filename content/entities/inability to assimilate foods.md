@@ -1,18 +1,21 @@
 ---
 entity: "inability to assimilate foods"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # inability to assimilate foods
 
-**inability to assimilate foods** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**inability to assimilate foods** (condition) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning inability to assimilate foods
 
-[[343-1]], [[4134-2]]
+[[352-2]], [[573-5]], [[1521-6]], [[2696-1]], [[4134-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

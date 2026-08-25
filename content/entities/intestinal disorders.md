@@ -1,18 +1,21 @@
 ---
 entity: "intestinal disorders"
-entity_type: "condition"
-reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # intestinal disorders
 
-**intestinal disorders** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**intestinal disorders** (condition) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning intestinal disorders
 
-[[165-17]], [[556-2]], [[782-1]], [[2189-1]], [[3940-1]], [[5649-1]]
+[[116-2]], [[165-17]], [[556-2]], [[2189-1]], [[5610-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

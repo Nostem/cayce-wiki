@@ -1,18 +1,21 @@
 ---
-entity: "canal zone"
-entity_type: "place"
+entity: "Canal Zone"
+entity_types: ["place"]
 reading_count: 3
-mention_count: 3
-tags: [entity, place]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# canal zone
+# Canal Zone
 
-**canal zone** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Canal Zone** (place) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning canal zone
+## Readings mentioning Canal Zone
 
 [[1013-5]], [[1013-6]], [[5179-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

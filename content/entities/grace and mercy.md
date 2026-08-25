@@ -1,18 +1,21 @@
 ---
 entity: "grace and mercy"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # grace and mercy
 
-**grace and mercy** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**grace and mercy** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning grace and mercy
 
-[[1978-1]], [[2524-3]]
+[[262-82]], [[397-2]], [[5131-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

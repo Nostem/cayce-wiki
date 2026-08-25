@@ -1,18 +1,21 @@
 ---
 entity: "intuitive abilities"
-entity_type: "concept"
-reading_count: 14
-mention_count: 14
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # intuitive abilities
 
-**intuitive abilities** (concept) appears in **14 readings** (14 mentions) — extracted by LLM semantic analysis.
+**intuitive abilities** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning intuitive abilities
 
-[[137-121]], [[301-5]], [[537-1]], [[843-9]], [[1671-2]], [[1715-3]], [[2148-7]], [[2464-1]], [[2618-1]], [[2635-1]], [[3241-1]], [[3377-1]], [[3706-2]], [[5145-1]]
+[[137-121]], [[1911-1]], [[2376-6]], [[2655-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

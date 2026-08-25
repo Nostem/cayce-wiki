@@ -1,18 +1,21 @@
 ---
-entity: "quebec"
-entity_type: "place"
-reading_count: 2
-mention_count: 2
-tags: [entity, place]
+entity: "Quebec"
+entity_types: ["place"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
-# quebec
+# Quebec
 
-**quebec** (place) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Quebec** (place) appears in **8 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning quebec
+## Readings mentioning Quebec
 
-[[257-248]], [[1919-2]]
+[[195-19]], [[257-248]], [[369-4]], [[403-1]], [[633-2]], [[1919-2]], [[1927-1]], [[1942-3]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

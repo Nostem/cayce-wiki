@@ -1,18 +1,21 @@
 ---
 entity: "over acid condition"
-entity_type: "condition"
-reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # over acid condition
 
-**over acid condition** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**over acid condition** (condition) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning over acid condition
 
-[[19-1]], [[272-1]], [[294-106]], [[900-468]], [[4354-1]], [[5440-1]]
+[[19-1]], [[294-106]], [[642-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

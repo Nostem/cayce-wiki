@@ -1,18 +1,21 @@
 ---
 entity: "father"
-entity_type: "person"
-reading_count: 21
-mention_count: 21
-tags: [entity, person]
+entity_types: ["person"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # father
 
-**father** (person) appears in **21 readings** (21 mentions) — extracted by LLM semantic analysis.
+**father** (person) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning father
 
-[[136-4]], [[257-221]], [[341-7]], [[528-7]], [[759-7]], [[900-8]], [[900-53]], [[900-94]], [[900-159]], [[900-168]], [[900-192]], [[900-199]], [[900-220]], [[900-224]], [[900-276]], [[900-302]], [[900-325]], [[900-419]], [[1523-15]], [[1706-1]], [[4943-1]]
+[[233-1]], [[257-104]], [[311-10]], [[459-1]], [[900-104]], [[900-317]], [[1089-6]], [[2772-1]], [[5533-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

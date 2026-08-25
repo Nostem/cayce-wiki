@@ -1,18 +1,21 @@
 ---
-entity: "isaac"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Isaac"
+entity_types: ["person"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# isaac
+# Isaac
 
-**isaac** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Isaac** (person) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning isaac
+## Readings mentioning Isaac
 
-[[281-48]], [[5148-2]]
+[[281-48]], [[846-2]], [[2444-1]], [[5148-2]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

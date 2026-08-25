@@ -1,18 +1,21 @@
 ---
-entity: "mr. linden shroyer"
-entity_type: "person"
-reading_count: 4
-mention_count: 4
-tags: [entity, person]
+entity: "Mr. Linden Shroyer"
+entity_types: ["person"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
-# mr. linden shroyer
+# Mr. Linden Shroyer
 
-**mr. linden shroyer** (person) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Mr. Linden Shroyer** (person) appears in **10 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning mr. linden shroyer
+## Readings mentioning Mr. Linden Shroyer
 
-[[140-31]], [[900-443]], [[2365-1]], [[5587-1]]
+[[77-1]], [[195-61]], [[1097-4]], [[2504-1]], [[2713-3]], [[5454-5]], [[5587-1]], [[5618-12]], [[5620-1]], [[5673-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

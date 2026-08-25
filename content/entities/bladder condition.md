@@ -1,18 +1,21 @@
 ---
 entity: "bladder condition"
-entity_type: "condition"
-reading_count: 8
-mention_count: 8
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # bladder condition
 
-**bladder condition** (condition) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**bladder condition** (condition) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning bladder condition
 
-[[133-2]], [[265-7]], [[304-23]], [[464-27]], [[515-2]], [[1224-3]], [[2025-2]], [[3920-1]]
+[[265-6]], [[265-7]], [[265-8]], [[298-2]], [[515-1]], [[515-2]], [[711-1]], [[1224-3]], [[1315-7]], [[2025-2]], [[3593-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

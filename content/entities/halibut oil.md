@@ -1,18 +1,21 @@
 ---
 entity: "halibut oil"
-entity_type: "remedy"
-reading_count: 12
-mention_count: 12
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # halibut oil
 
-**halibut oil** (remedy) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**halibut oil** (remedy) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning halibut oil
 
-[[303-38]], [[460-7]], [[528-11]], [[528-12]], [[1179-3]], [[1179-4]], [[1179-9]], [[1188-2]], [[1206-2]], [[1306-1]], [[1324-1]], [[1401-2]]
+[[303-38]], [[460-7]], [[528-12]], [[773-13]], [[1102-2]], [[1179-4]], [[1278-6]], [[1419-4]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

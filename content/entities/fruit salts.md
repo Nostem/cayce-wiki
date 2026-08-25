@@ -1,18 +1,21 @@
 ---
 entity: "fruit salts"
-entity_type: "remedy"
-reading_count: 4
-mention_count: 4
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # fruit salts
 
-**fruit salts** (remedy) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**fruit salts** (remedy) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning fruit salts
 
-[[257-234]], [[340-12]], [[340-13]], [[4283-5]]
+[[257-234]], [[340-12]], [[4283-5]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

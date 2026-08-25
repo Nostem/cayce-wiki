@@ -1,18 +1,21 @@
 ---
-entity: "past-life in italy"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity: "past-life in Italy"
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# past-life in italy
+# past-life in Italy
 
-**past-life in italy** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**past-life in Italy** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning past-life in italy
+## Readings mentioning past-life in Italy
 
-[[583-1]], [[2897-1]]
+[[665-1]], [[5056-1]], [[5502-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

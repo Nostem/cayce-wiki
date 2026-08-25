@@ -1,18 +1,21 @@
 ---
-entity: "mignon helms"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Mignon Helms"
+entity_types: ["person"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
-# mignon helms
+# Mignon Helms
 
-**mignon helms** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Mignon Helms** (person) appears in **7 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning mignon helms
+## Readings mentioning Mignon Helms
 
-[[153-2]], [[3305-1]]
+[[153-2]], [[294-204]], [[561-3]], [[667-15]], [[2378-2]], [[2454-3]], [[3305-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

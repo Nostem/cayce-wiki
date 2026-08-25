@@ -1,18 +1,21 @@
 ---
 entity: "prenatal disturbances"
-entity_type: "concept"
-reading_count: 3
-mention_count: 3
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # prenatal disturbances
 
-**prenatal disturbances** (concept) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**prenatal disturbances** (concept, condition) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning prenatal disturbances
 
-[[1465-1]], [[2836-1]], [[5062-1]]
+[[1465-1]], [[2456-1]], [[2836-1]], [[5062-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

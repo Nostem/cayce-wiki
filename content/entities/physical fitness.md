@@ -1,18 +1,21 @@
 ---
 entity: "physical fitness"
-entity_type: "concept"
-reading_count: 23
-mention_count: 23
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # physical fitness
 
-**physical fitness** (concept) appears in **23 readings** (23 mentions) — extracted by LLM semantic analysis.
+**physical fitness** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning physical fitness
 
-[[202-4]], [[257-26]], [[257-159]], [[257-170]], [[257-212]], [[279-14]], [[288-7]], [[288-11]], [[288-51]], [[294-12]], [[294-113]], [[341-2]], [[421-15]], [[533-11]], [[601-22]], [[949-10]], [[1100-17]], [[1713-4]], [[2597-7]], [[4219-4]], [[4450-1]], [[4975-1]], [[5616-1]]
+[[136-66]], [[254-3]], [[584-5]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

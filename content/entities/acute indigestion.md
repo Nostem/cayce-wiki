@@ -1,18 +1,21 @@
 ---
 entity: "acute indigestion"
-entity_type: "condition"
-reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # acute indigestion
 
-**acute indigestion** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**acute indigestion** (condition) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning acute indigestion
 
-[[242-1]], [[261-20]], [[1523-9]], [[1861-3]], [[2036-2]], [[3817-1]]
+[[45-1]], [[242-1]], [[257-129]], [[261-19]], [[288-53]], [[288-54]], [[1523-9]], [[1861-3]], [[3885-1]], [[4790-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "cold extremities"
-entity_type: "condition"
-reading_count: 8
-mention_count: 8
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 16
+literal_reading_count: 0
+semantic_reading_count: 16
+literal_mention_count: 0
+semantic_mention_count: 16
+tags: [entity, semantic]
 ---
 
 # cold extremities
 
-**cold extremities** (condition) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**cold extremities** (condition) appears in **16 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning cold extremities
 
-[[603-3]], [[748-1]], [[1049-1]], [[2038-1]], [[2262-1]], [[2422-1]], [[2830-1]], [[4319-1]]
+[[389-1]], [[603-3]], [[748-1]], [[770-1]], [[1049-1]], [[2038-1]], [[2262-1]], [[2422-1]], [[2448-1]], [[2617-1]], [[2966-2]], [[3248-1]], [[4311-1]], [[4319-1]], [[5456-1]], [[5673-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

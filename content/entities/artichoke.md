@@ -1,18 +1,21 @@
 ---
 entity: "artichoke"
-entity_type: "remedy"
-reading_count: 16
-mention_count: 16
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
 # artichoke
 
-**artichoke** (remedy) appears in **16 readings** (16 mentions) — extracted by LLM semantic analysis.
+**artichoke** (remedy) appears in **13 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning artichoke
 
-[[415-7]], [[470-19]], [[470-20]], [[470-30]], [[470-32]], [[470-36]], [[470-37]], [[480-47]], [[584-8]], [[1173-8]], [[1675-1]], [[1831-1]], [[1973-1]], [[2025-3]], [[2084-10]], [[2578-1]]
+[[349-25]], [[404-10]], [[415-7]], [[416-17]], [[470-19]], [[470-30]], [[470-34]], [[470-36]], [[470-37]], [[480-47]], [[2084-10]], [[2084-12]], [[2310-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

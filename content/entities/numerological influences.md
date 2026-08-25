@@ -1,18 +1,21 @@
 ---
 entity: "numerological influences"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # numerological influences
 
-**numerological influences** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**numerological influences** (concept) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning numerological influences
 
-[[311-3]], [[1069-1]]
+[[275-23]], [[311-3]], [[338-2]], [[476-1]], [[587-4]], [[1069-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

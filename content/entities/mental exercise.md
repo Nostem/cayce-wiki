@@ -1,18 +1,21 @@
 ---
 entity: "mental exercise"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # mental exercise
 
-**mental exercise** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**mental exercise** (concept, remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mental exercise
 
-[[34-3]], [[257-167]]
+[[34-3]], [[147-31]], [[202-4]], [[257-167]], [[4725-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

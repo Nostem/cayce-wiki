@@ -1,18 +1,21 @@
 ---
 entity: "vitamins a"
-entity_type: "remedy"
-reading_count: 15
-mention_count: 15
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # vitamins a
 
-**vitamins a** (remedy) appears in **15 readings** (15 mentions) — extracted by LLM semantic analysis.
+**vitamins a** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning vitamins a
 
-[[585-3]], [[759-22]], [[1013-3]], [[1329-2]], [[1393-1]], [[1745-6]], [[1942-2]], [[2067-9]], [[2426-3]], [[2843-4]], [[2912-1]], [[3111-1]], [[3113-1]], [[3671-1]], [[5173-1]]
+[[1329-2]], [[1553-26]], [[1745-6]], [[2567-1]], [[2831-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

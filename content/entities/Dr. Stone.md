@@ -1,18 +1,21 @@
 ---
-entity: "dr. stone"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Dr. Stone"
+entity_types: ["person"]
+reading_count: 16
+literal_reading_count: 0
+semantic_reading_count: 16
+literal_mention_count: 0
+semantic_mention_count: 16
+tags: [entity, semantic]
 ---
 
-# dr. stone
+# Dr. Stone
 
-**dr. stone** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Dr. Stone** (person) appears in **16 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning dr. stone
+## Readings mentioning Dr. Stone
 
-[[768-2]], [[2299-9]]
+[[486-1]], [[605-3]], [[605-4]], [[715-4]], [[844-1]], [[844-2]], [[1196-11]], [[1352-8]], [[1614-1]], [[1800-3]], [[2299-9]], [[2843-2]], [[2921-2]], [[3773-1]], [[3775-2]], [[4333-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

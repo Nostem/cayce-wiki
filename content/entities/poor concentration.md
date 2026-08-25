@@ -1,0 +1,21 @@
+---
+entity: "poor concentration"
+entity_types: ["condition"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
+---
+
+# poor concentration
+
+**poor concentration** (condition) appears in **6 readings** — indexed through LLM semantic extraction.
+
+## Readings mentioning poor concentration
+
+[[531-2]], [[666-1]], [[758-27]], [[1063-1]], [[2642-2]], [[4189-2]]
+
+---
+*Auto-generated index. LLM classifications should be verified before citation.*

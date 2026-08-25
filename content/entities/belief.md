@@ -1,18 +1,21 @@
 ---
 entity: "belief"
-entity_type: "concept"
-reading_count: 6
-mention_count: 6
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # belief
 
-**belief** (concept) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**belief** (concept) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning belief
 
-[[254-17]], [[254-61]], [[1905-1]], [[3180-3]], [[5266-1]], [[5671-18]]
+[[412-12]], [[1553-24]], [[2159-1]], [[3934-3]], [[4905-56]], [[5129-1]], [[5457-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

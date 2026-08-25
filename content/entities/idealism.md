@@ -1,18 +1,21 @@
 ---
 entity: "idealism"
-entity_type: "concept"
-reading_count: 61
-mention_count: 61
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # idealism
 
-**idealism** (concept) appears in **61 readings** (61 mentions) — extracted by LLM semantic analysis.
+**idealism** (concept) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning idealism
 
-[[78-5]], [[165-22]], [[165-24]], [[254-51]], [[254-92]], [[257-88]], [[262-8]], [[270-30]], [[282-2]], [[282-6]], [[301-3]], [[362-1]], [[430-1]], [[440-21]], [[520-3]], [[531-1]], [[538-31]], [[641-6]], [[934-6]], [[1011-1]], [[1151-12]], [[1156-1]], [[1189-1]], [[1192-3]], [[1192-5]], [[1193-1]], [[1204-1]], [[1207-1]], [[1213-1]], [[1235-1]], [[1264-2]], [[1266-3]], [[1285-1]], [[1292-1]], [[1435-1]], [[1467-14]], [[1530-1]], [[1579-1]], [[1610-2]], [[1724-4]], [[1759-1]], [[1919-2]], [[1998-1]], [[2034-1]], [[2052-2]], [[2087-3]], [[2142-1]], [[2160-1]], [[2524-4]], [[2746-2]], [[2916-1]], [[3051-6]], [[3201-2]], [[3245-1]], [[3409-1]], [[3976-8]], [[4159-1]], [[4537-1]], [[5420-1]], [[5489-1]], [[5569-1]]
+[[520-1]], [[849-9]], [[1998-1]], [[2162-1]], [[2850-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

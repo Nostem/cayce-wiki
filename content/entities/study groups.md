@@ -1,18 +1,21 @@
 ---
 entity: "study groups"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # study groups
 
-**study groups** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**study groups** (concept) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning study groups
 
-[[254-39]], [[254-63]], [[262-16]], [[307-4]], [[307-21]]
+[[254-63]], [[254-64]], [[254-65]], [[254-73]], [[254-80]], [[254-94]], [[254-97]], [[262-61]], [[262-101]], [[281-39]], [[307-3]], [[751-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

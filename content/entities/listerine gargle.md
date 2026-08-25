@@ -1,18 +1,21 @@
 ---
 entity: "listerine gargle"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # listerine gargle
 
-**listerine gargle** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**listerine gargle** (remedy) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning listerine gargle
 
-[[779-7]], [[4987-2]]
+[[148-1]], [[270-4]], [[459-8]], [[779-7]], [[850-7]], [[900-391]], [[910-3]], [[1409-9]], [[1739-7]], [[4261-1]], [[5519-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

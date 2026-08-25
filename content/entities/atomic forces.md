@@ -1,18 +1,21 @@
 ---
 entity: "atomic forces"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # atomic forces
 
-**atomic forces** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**atomic forces** (concept) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning atomic forces
 
-[[137-81]], [[197-1]], [[233-1]], [[5576-1]]
+[[137-38]], [[139-3]], [[264-16]], [[275-29]], [[470-13]], [[484-3]], [[697-1]], [[1070-1]], [[5576-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

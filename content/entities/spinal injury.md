@@ -1,18 +1,21 @@
 ---
 entity: "spinal injury"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 17
+literal_reading_count: 0
+semantic_reading_count: 17
+literal_mention_count: 0
+semantic_mention_count: 17
+tags: [entity, semantic]
 ---
 
 # spinal injury
 
-**spinal injury** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**spinal injury** (condition) appears in **17 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning spinal injury
 
-[[72-1]], [[5117-1]]
+[[33-1]], [[72-1]], [[120-3]], [[304-2]], [[686-1]], [[979-6]], [[1148-1]], [[1215-6]], [[1307-1]], [[1789-2]], [[3120-2]], [[3223-1]], [[3320-1]], [[3381-1]], [[3787-1]], [[4099-1]], [[4677-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

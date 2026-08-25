@@ -1,18 +1,21 @@
 ---
 entity: "chemical balance"
-entity_type: "concept"
-reading_count: 22
-mention_count: 22
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # chemical balance
 
-**chemical balance** (concept) appears in **22 readings** (22 mentions) — extracted by LLM semantic analysis.
+**chemical balance** (concept) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning chemical balance
 
-[[257-232]], [[816-12]], [[1151-11]], [[1387-4]], [[1474-2]], [[1476-2]], [[1646-4]], [[1779-1]], [[2186-1]], [[2423-1]], [[2453-1]], [[2463-1]], [[2581-1]], [[2617-1]], [[2833-1]], [[3062-1]], [[3122-1]], [[3170-1]], [[3270-1]], [[3567-1]], [[3593-1]], [[3907-1]]
+[[816-12]], [[849-32]], [[1055-1]], [[1779-1]], [[1868-1]], [[3005-1]], [[3496-1]], [[3593-1]], [[3907-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

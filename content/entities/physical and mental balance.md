@@ -1,18 +1,21 @@
 ---
 entity: "physical and mental balance"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # physical and mental balance
 
-**physical and mental balance** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**physical and mental balance** (concept) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning physical and mental balance
 
-[[349-5]], [[1540-1]]
+[[165-4]], [[257-11]], [[341-28]], [[578-5]], [[900-78]], [[900-361]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

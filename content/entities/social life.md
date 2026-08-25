@@ -1,18 +1,21 @@
 ---
 entity: "social life"
-entity_type: "concept"
-reading_count: 8
-mention_count: 8
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # social life
 
-**social life** (concept) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**social life** (concept, remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning social life
 
-[[303-15]], [[480-20]], [[488-6]], [[1431-1]], [[2271-1]], [[2459-1]], [[4060-1]], [[4908-2]]
+[[257-81]], [[3624-1]], [[4060-1]], [[4908-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

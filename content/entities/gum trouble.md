@@ -1,18 +1,21 @@
 ---
 entity: "gum trouble"
-entity_type: "condition"
-reading_count: 5
-mention_count: 5
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # gum trouble
 
-**gum trouble** (condition) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**gum trouble** (condition) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning gum trouble
 
-[[391-3]], [[641-4]], [[1676-5]], [[3190-4]], [[4436-2]]
+[[274-2]], [[684-1]], [[1381-6]], [[1676-5]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

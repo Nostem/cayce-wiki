@@ -1,18 +1,21 @@
 ---
 entity: "pine oil baths"
-entity_type: "remedy"
-reading_count: 5
-mention_count: 5
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # pine oil baths
 
-**pine oil baths** (remedy) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**pine oil baths** (remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning pine oil baths
 
-[[849-26]], [[1968-3]], [[1968-9]], [[3170-1]], [[3425-1]]
+[[849-13]], [[849-26]], [[1968-3]], [[1968-9]], [[3170-1]], [[3440-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

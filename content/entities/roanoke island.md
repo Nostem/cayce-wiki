@@ -1,18 +1,21 @@
 ---
-entity: "roanoke island"
-entity_type: "place"
-reading_count: 5
-mention_count: 5
-tags: [entity, place]
+entity: "Roanoke Island"
+entity_types: ["place"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
-# roanoke island
+# Roanoke Island
 
-**roanoke island** (place) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**Roanoke Island** (place) appears in **11 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning roanoke island
+## Readings mentioning Roanoke Island
 
-[[416-1]], [[853-5]], [[2376-6]], [[2894-1]], [[3356-1]]
+[[264-31]], [[416-1]], [[416-13]], [[500-1]], [[853-4]], [[853-5]], [[853-9]], [[956-1]], [[2376-6]], [[2894-1]], [[3356-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "physical suggestion"
-entity_type: "concept"
-reading_count: 8
-mention_count: 8
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 23
+literal_reading_count: 0
+semantic_reading_count: 23
+literal_mention_count: 0
+semantic_mention_count: 23
+tags: [entity, semantic]
 ---
 
 # physical suggestion
 
-**physical suggestion** (concept) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**physical suggestion** (concept) appears in **23 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning physical suggestion
 
-[[743-1]], [[798-2]], [[1045-9]], [[1111-2]], [[1344-1]], [[5427-1]], [[5577-1]], [[5638-2]]
+[[23-12]], [[48-1]], [[288-39]], [[294-16]], [[315-2]], [[347-1]], [[394-1]], [[442-2]], [[527-1]], [[557-1]], [[677-2]], [[757-6]], [[769-1]], [[795-1]], [[881-1]], [[885-2]], [[1000-7]], [[1109-1]], [[1498-1]], [[2371-1]], [[3471-1]], [[5450-1]], [[5596-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

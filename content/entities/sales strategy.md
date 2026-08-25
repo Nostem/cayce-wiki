@@ -1,18 +1,21 @@
 ---
 entity: "sales strategy"
-entity_type: "concept"
-reading_count: 11
-mention_count: 11
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # sales strategy
 
-**sales strategy** (concept) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**sales strategy** (concept) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning sales strategy
 
-[[257-23]], [[257-64]], [[257-99]], [[257-118]], [[257-154]], [[257-164]], [[257-192]], [[257-209]], [[257-216]], [[2142-2]], [[4904-3]]
+[[257-86]], [[257-95]], [[257-97]], [[257-99]], [[257-200]], [[257-207]], [[257-216]], [[1000-23]], [[2467-3]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "sweden"
-entity_type: "place"
-reading_count: 5
-mention_count: 5
-tags: [entity, place]
+entity: "Sweden"
+entity_types: ["place"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
-# sweden
+# Sweden
 
-**sweden** (place) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**Sweden** (place) appears in **9 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning sweden
+## Readings mentioning Sweden
 
-[[1613-1]], [[1825-1]], [[2824-1]], [[3069-1]], [[4578-1]]
+[[261-29]], [[1468-6]], [[1613-1]], [[1794-1]], [[1825-1]], [[1825-2]], [[2824-1]], [[3069-1]], [[4578-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

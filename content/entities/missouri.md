@@ -1,18 +1,21 @@
 ---
 entity: "Missouri"
-entity_type: "place"
-reading_count: 8
-mention_count: 8
-tags: [entity, place]
+entity_types: ["place"]
+reading_count: 59
+literal_reading_count: 0
+semantic_reading_count: 59
+literal_mention_count: 0
+semantic_mention_count: 59
+tags: [entity, semantic]
 ---
 
 # Missouri
 
-**Missouri** (place) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**Missouri** (place) appears in **59 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Missouri
 
-[[173-1]], [[686-1]], [[1683-2]], [[1926-1]], [[2544-1]], [[2721-1]], [[3725-1]], [[4905-57]]
+[[78-6]], [[90-1]], [[173-1]], [[257-102]], [[257-133]], [[257-154]], [[257-174]], [[257-177]], [[257-179]], [[257-189]], [[257-243]], [[262-16]], [[335-4]], [[391-1]], [[417-3]], [[816-3]], [[826-2]], [[938-1]], [[953-4]], [[1200-1]], [[1238-1]], [[1336-1]], [[1593-1]], [[1885-1]], [[1926-2]], [[2091-1]], [[2391-1]], [[2801-5]], [[2812-1]], [[2946-2]], [[3137-1]], [[3238-1]], [[3415-1]], [[3445-1]], [[3510-1]], [[3563-1]], [[3660-1]], [[3663-1]], [[3670-1]], [[3962-2]], [[3982-5]], [[4030-1]], [[4237-1]], [[4281-12]], [[4358-3]], [[4445-1]], [[4542-1]], [[4827-2]], [[4900-1]], [[4905-57]], [[4906-5]], [[5015-1]], [[5396-1]], [[5700-1]], [[5700-2]], [[5700-4]], [[5700-6]], [[5700-11]], [[5779-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

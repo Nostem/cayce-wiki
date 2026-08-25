@@ -1,18 +1,21 @@
 ---
 entity: "walking exercise"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # walking exercise
 
-**walking exercise** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**walking exercise** (remedy) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning walking exercise
 
-[[2635-3]], [[2772-3]]
+[[667-13]], [[715-1]], [[1871-2]], [[1992-3]], [[2039-1]], [[2173-2]], [[2635-3]], [[2663-2]], [[2767-1]], [[2772-3]], [[2797-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

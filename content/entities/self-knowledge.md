@@ -1,18 +1,21 @@
 ---
 entity: "self-knowledge"
-entity_type: "concept"
-reading_count: 25
-mention_count: 25
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 22
+literal_reading_count: 0
+semantic_reading_count: 22
+literal_mention_count: 0
+semantic_mention_count: 22
+tags: [entity, semantic]
 ---
 
 # self-knowledge
 
-**self-knowledge** (concept) appears in **25 readings** (25 mentions) — extracted by LLM semantic analysis.
+**self-knowledge** (concept) appears in **22 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning self-knowledge
 
-[[262-3]], [[262-12]], [[270-24]], [[275-42]], [[315-5]], [[391-4]], [[480-2]], [[640-1]], [[674-3]], [[768-2]], [[793-2]], [[900-327]], [[1089-6]], [[1189-1]], [[1497-2]], [[1620-2]], [[2175-8]], [[2448-2]], [[2730-1]], [[2891-1]], [[3309-1]], [[3545-1]], [[3655-1]], [[5330-1]], [[5420-1]]
+[[204-1]], [[257-58]], [[342-1]], [[440-14]], [[480-2]], [[520-2]], [[900-157]], [[969-1]], [[1001-8]], [[1120-3]], [[1249-1]], [[1713-18]], [[1786-1]], [[2524-5]], [[2936-2]], [[3004-1]], [[3042-1]], [[3484-1]], [[4258-1]], [[5220-1]], [[5665-1]], [[5728-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

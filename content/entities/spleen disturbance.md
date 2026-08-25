@@ -1,18 +1,21 @@
 ---
 entity: "spleen disturbance"
-entity_type: "condition"
-reading_count: 7
-mention_count: 7
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 22
+literal_reading_count: 0
+semantic_reading_count: 22
+literal_mention_count: 0
+semantic_mention_count: 22
+tags: [entity, semantic]
 ---
 
 # spleen disturbance
 
-**spleen disturbance** (condition) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**spleen disturbance** (condition) appears in **22 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning spleen disturbance
 
-[[679-1]], [[2010-1]], [[2057-1]], [[2182-1]], [[2456-5]], [[3492-1]], [[4587-1]]
+[[99-1]], [[446-1]], [[679-1]], [[974-1]], [[1379-1]], [[1420-1]], [[1601-1]], [[1663-1]], [[1901-2]], [[1903-1]], [[1964-2]], [[2010-1]], [[2057-1]], [[2064-1]], [[2148-5]], [[2456-5]], [[2750-2]], [[3434-1]], [[3683-1]], [[4587-1]], [[4748-1]], [[5685-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

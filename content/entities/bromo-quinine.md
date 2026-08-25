@@ -1,18 +1,21 @@
 ---
 entity: "bromo-quinine"
-entity_type: "remedy"
-reading_count: 8
-mention_count: 8
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # bromo-quinine
 
-**bromo-quinine** (remedy) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**bromo-quinine** (remedy) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning bromo-quinine
 
-[[143-3]], [[487-3]], [[487-7]], [[528-15]], [[979-8]], [[1100-10]], [[1677-1]], [[5454-2]]
+[[379-6]], [[487-3]], [[487-7]], [[528-15]], [[555-11]], [[979-8]], [[1521-4]], [[1677-1]], [[5454-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

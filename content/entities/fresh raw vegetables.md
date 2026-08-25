@@ -1,18 +1,21 @@
 ---
 entity: "fresh raw vegetables"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 6
-mention_count: 6
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # fresh raw vegetables
 
-**fresh raw vegetables** (remedy) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**fresh raw vegetables** (remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning fresh raw vegetables
 
-[[338-9]], [[540-14]], [[1013-6]], [[2699-1]], [[3324-1]], [[3434-1]]
+[[540-14]], [[555-5]], [[2586-1]], [[2831-3]], [[3324-1]], [[3434-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

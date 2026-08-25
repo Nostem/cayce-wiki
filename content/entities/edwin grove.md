@@ -1,18 +1,21 @@
 ---
-entity: "edwin grove"
-entity_type: "person"
+entity: "Edwin Grove"
+entity_types: ["person"]
 reading_count: 11
-mention_count: 11
-tags: [entity, person]
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
-# edwin grove
+# Edwin Grove
 
-**edwin grove** (person) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**Edwin Grove** (person) appears in **11 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning edwin grove
+## Readings mentioning Edwin Grove
 
-[[257-33]], [[257-35]], [[257-39]], [[257-44]], [[257-47]], [[257-51]], [[257-52]], [[257-57]], [[257-69]], [[257-75]], [[257-175]]
+[[257-33]], [[257-35]], [[257-44]], [[257-51]], [[257-52]], [[257-57]], [[257-69]], [[257-75]], [[257-77]], [[257-127]], [[257-175]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

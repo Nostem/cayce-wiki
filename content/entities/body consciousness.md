@@ -1,18 +1,21 @@
 ---
 entity: "body consciousness"
-entity_type: "concept"
-reading_count: 10
-mention_count: 10
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # body consciousness
 
-**body consciousness** (concept) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**body consciousness** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning body consciousness
 
-[[136-68]], [[140-17]], [[543-16]], [[900-233]], [[900-240]], [[900-242]], [[900-295]], [[900-300]], [[900-468]], [[3436-3]]
+[[140-17]], [[275-18]], [[900-242]], [[3298-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

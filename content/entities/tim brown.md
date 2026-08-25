@@ -1,18 +1,21 @@
 ---
-entity: "tim brown"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Tim Brown"
+entity_types: ["person"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# tim brown
+# Tim Brown
 
-**tim brown** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Tim Brown** (person) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning tim brown
+## Readings mentioning Tim Brown
 
-[[254-46]], [[4710-1]]
+[[254-46]], [[254-47]], [[254-50]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

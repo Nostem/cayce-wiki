@@ -1,18 +1,21 @@
 ---
-entity: "port washington"
-entity_type: "place"
-reading_count: 5
-mention_count: 5
-tags: [entity, place]
+entity: "Port Washington"
+entity_types: ["place"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
-# port washington
+# Port Washington
 
-**port washington** (place) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**Port Washington** (place) appears in **8 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning port washington
+## Readings mentioning Port Washington
 
-[[480-12]], [[566-3]], [[587-2]], [[772-4]], [[877-6]]
+[[261-21]], [[480-12]], [[566-3]], [[587-2]], [[772-4]], [[877-6]], [[1096-4]], [[1800-32]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

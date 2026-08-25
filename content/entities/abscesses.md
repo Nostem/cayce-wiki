@@ -1,18 +1,21 @@
 ---
 entity: "abscesses"
-entity_type: "condition"
-reading_count: 8
-mention_count: 8
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # abscesses
 
-**abscesses** (condition) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**abscesses** (condition) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning abscesses
 
-[[97-1]], [[816-9]], [[3167-1]], [[3824-1]], [[4959-1]], [[5421-3]], [[5429-1]], [[5450-1]]
+[[97-1]], [[2577-1]], [[3167-1]], [[3824-1]], [[4701-2]], [[5421-3]], [[5450-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

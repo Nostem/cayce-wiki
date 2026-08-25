@@ -1,17 +1,21 @@
 ---
 entity: "Antichrist"
-mention_count: 6
+entity_types: ["concept"]
 reading_count: 4
-tags: [entity]
+literal_reading_count: 4
+semantic_reading_count: 2
+literal_mention_count: 6
+semantic_mention_count: 2
+tags: [entity, semantic]
 ---
 
 # Antichrist
 
-**Antichrist** appears in **4 readings** (6 total mentions) across the corpus.
+**Antichrist** (concept) appears in **4 readings** — indexed through hybrid literal and LLM extraction.
 
 ## Readings mentioning Antichrist
 
 [[262-117]], [[281-16]], [[3320-1]], [[3976-24]]
 
 ---
-*Auto-generated entity index. 4 readings, 6 mentions.*
+*Auto-generated index. LLM classifications should be verified before citation.*

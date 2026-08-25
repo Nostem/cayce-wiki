@@ -1,18 +1,21 @@
 ---
 entity: "pluto water"
-entity_type: "remedy"
-reading_count: 3
-mention_count: 3
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # pluto water
 
-**pluto water** (remedy) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**pluto water** (remedy) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning pluto water
 
-[[99-5]], [[341-28]], [[900-289]]
+[[99-5]], [[137-112]], [[341-28]], [[900-289]], [[900-292]], [[900-381]], [[4280-8]], [[5446-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

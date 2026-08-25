@@ -1,18 +1,21 @@
 ---
-entity: "fannie kahn"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Fannie Kahn"
+entity_types: ["person"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# fannie kahn
+# Fannie Kahn
 
-**fannie kahn** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Fannie Kahn** (person) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning fannie kahn
+## Readings mentioning Fannie Kahn
 
-[[460-5]], [[4959-1]]
+[[360-4]], [[460-5]], [[4364-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

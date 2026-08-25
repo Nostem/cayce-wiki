@@ -1,18 +1,21 @@
 ---
 entity: "eucalyptus oil"
-entity_type: "remedy"
-reading_count: 9
-mention_count: 9
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # eucalyptus oil
 
-**eucalyptus oil** (remedy) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**eucalyptus oil** (remedy) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning eucalyptus oil
 
-[[218-1]], [[297-1]], [[357-10]], [[418-3]], [[901-1]], [[1253-1]], [[3846-1]], [[5381-1]], [[5704-1]]
+[[1253-1]], [[2102-3]], [[4436-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

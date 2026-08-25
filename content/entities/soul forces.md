@@ -1,18 +1,21 @@
 ---
 entity: "soul forces"
-entity_type: "concept"
-reading_count: 34
-mention_count: 34
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 46
+literal_reading_count: 0
+semantic_reading_count: 46
+literal_mention_count: 0
+semantic_mention_count: 46
+tags: [entity, semantic]
 ---
 
 # soul forces
 
-**soul forces** (concept) appears in **34 readings** (34 mentions) — extracted by LLM semantic analysis.
+**soul forces** (concept) appears in **46 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning soul forces
 
-[[9-1]], [[44-1]], [[137-13]], [[205-1]], [[264-30]], [[294-153]], [[294-171]], [[443-3]], [[779-2]], [[900-47]], [[1135-2]], [[1463-2]], [[1595-1]], [[2100-1]], [[2219-1]], [[2231-1]], [[2256-1]], [[2282-1]], [[2372-1]], [[2531-1]], [[3723-1]], [[3787-1]], [[3847-1]], [[3910-1]], [[4169-1]], [[4182-1]], [[4227-1]], [[4401-1]], [[4720-1]], [[4749-1]], [[4755-1]], [[4886-1]], [[5717-2]], [[5747-1]]
+[[9-5]], [[44-1]], [[80-1]], [[257-5]], [[264-30]], [[270-33]], [[294-4]], [[294-7]], [[294-36]], [[294-171]], [[440-15]], [[487-2]], [[779-2]], [[780-2]], [[900-5]], [[900-8]], [[900-31]], [[900-60]], [[900-101]], [[900-115]], [[903-16]], [[1089-5]], [[1181-3]], [[1725-1]], [[2219-1]], [[2231-1]], [[2531-1]], [[3133-1]], [[3723-1]], [[3744-1]], [[3910-1]], [[4114-1]], [[4182-1]], [[4217-1]], [[4227-1]], [[4286-1]], [[4495-1]], [[4666-1]], [[4674-1]], [[4720-1]], [[4800-1]], [[4886-1]], [[4896-1]], [[5453-4]], [[5717-3]], [[5747-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

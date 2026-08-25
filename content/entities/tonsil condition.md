@@ -1,18 +1,21 @@
 ---
 entity: "tonsil condition"
-entity_type: "condition"
-reading_count: 9
-mention_count: 9
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # tonsil condition
 
-**tonsil condition** (condition) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**tonsil condition** (condition) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning tonsil condition
 
-[[25-2]], [[257-144]], [[415-11]], [[558-1]], [[759-10]], [[2004-4]], [[4471-2]], [[5428-1]], [[5660-1]]
+[[25-2]], [[259-1]], [[415-11]], [[470-1]], [[558-1]], [[1788-11]], [[2004-4]], [[4235-1]], [[4262-1]], [[4471-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

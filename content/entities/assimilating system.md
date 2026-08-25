@@ -1,18 +1,21 @@
 ---
 entity: "assimilating system"
-entity_type: "concept"
-reading_count: 7
-mention_count: 7
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # assimilating system
 
-**assimilating system** (concept) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**assimilating system** (concept, condition) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning assimilating system
 
-[[1000-11]], [[1050-1]], [[1067-1]], [[1524-1]], [[2085-1]], [[2413-1]], [[5150-1]]
+[[391-11]], [[667-6]], [[1145-2]], [[1519-4]], [[1870-1]], [[3432-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

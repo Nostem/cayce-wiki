@@ -1,18 +1,21 @@
 ---
 entity: "innate urges"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # innate urges
 
-**innate urges** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**innate urges** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning innate urges
 
-[[243-10]], [[1066-1]], [[1286-1]], [[1581-1]]
+[[243-10]], [[903-2]], [[1266-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

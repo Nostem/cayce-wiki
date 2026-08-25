@@ -1,18 +1,21 @@
 ---
 entity: "herbal compound"
-entity_type: "remedy"
-reading_count: 4
-mention_count: 4
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # herbal compound
 
-**herbal compound** (remedy) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**herbal compound** (remedy) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning herbal compound
 
-[[2-1]], [[303-22]], [[684-1]], [[3125-1]]
+[[103-1]], [[391-2]], [[463-1]], [[498-1]], [[816-1]], [[878-1]], [[3233-1]], [[3842-1]], [[4383-2]], [[4984-1]], [[5287-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

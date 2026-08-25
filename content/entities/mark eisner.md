@@ -1,18 +1,21 @@
 ---
-entity: "mark eisner"
-entity_type: "person"
-reading_count: 5
-mention_count: 5
-tags: [entity, person]
+entity: "Mark Eisner"
+entity_types: ["person"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# mark eisner
+# Mark Eisner
 
-**mark eisner** (person) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**Mark Eisner** (person) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning mark eisner
+## Readings mentioning Mark Eisner
 
-[[900-79]], [[900-116]], [[900-142]], [[900-205]], [[900-260]]
+[[900-116]], [[900-142]], [[900-205]], [[900-260]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "guardian angel"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # guardian angel
 
-**guardian angel** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**guardian angel** (concept) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning guardian angel
 
-[[1472-4]], [[1662-2]], [[1755-1]], [[1909-3]], [[3189-3]]
+[[311-6]], [[405-1]], [[1472-4]], [[1646-1]], [[1658-1]], [[1909-1]], [[2670-3]], [[2829-1]], [[3189-3]], [[3615-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

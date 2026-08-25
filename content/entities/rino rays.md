@@ -1,18 +1,21 @@
 ---
 entity: "rino rays"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 9
-mention_count: 9
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # rino rays
 
-**rino rays** (remedy) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**rino rays** (remedy) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning rino rays
 
-[[9-7]], [[113-1]], [[139-1]], [[139-11]], [[211-1]], [[4426-1]], [[4701-2]], [[4743-1]], [[4829-1]]
+[[52-1]], [[113-1]], [[139-1]], [[139-11]], [[211-1]], [[538-10]], [[4426-1]], [[4701-2]], [[4829-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

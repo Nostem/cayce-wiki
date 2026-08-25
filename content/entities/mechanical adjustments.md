@@ -1,18 +1,21 @@
 ---
 entity: "mechanical adjustments"
-entity_type: "concept"
+entity_types: ["remedy"]
 reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # mechanical adjustments
 
-**mechanical adjustments** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**mechanical adjustments** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mechanical adjustments
 
-[[849-60]], [[1990-5]], [[2084-13]], [[2535-1]]
+[[849-62]], [[1422-2]], [[1485-1]], [[2389-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

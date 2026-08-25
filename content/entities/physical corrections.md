@@ -1,18 +1,21 @@
 ---
 entity: "physical corrections"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # physical corrections
 
-**physical corrections** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**physical corrections** (concept, remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning physical corrections
 
-[[464-11]], [[759-8]], [[1445-1]], [[4091-2]], [[5549-1]]
+[[759-8]], [[830-2]], [[2501-4]], [[5549-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

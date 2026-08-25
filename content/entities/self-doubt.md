@@ -1,18 +1,21 @@
 ---
 entity: "self-doubt"
-entity_type: "concept"
-reading_count: 7
-mention_count: 7
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # self-doubt
 
-**self-doubt** (concept) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**self-doubt** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning self-doubt
 
-[[2-6]], [[137-18]], [[279-4]], [[3578-1]], [[4586-3]], [[5312-1]], [[5784-1]]
+[[291-1]], [[1315-2]], [[5312-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

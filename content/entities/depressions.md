@@ -1,18 +1,21 @@
 ---
 entity: "depressions"
-entity_type: "condition"
-reading_count: 10
-mention_count: 10
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # depressions
 
-**depressions** (condition) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**depressions** (condition) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning depressions
 
-[[264-1]], [[311-4]], [[1028-1]], [[1264-1]], [[1295-1]], [[4122-1]], [[4520-1]], [[4579-1]], [[5572-1]], [[5642-4]]
+[[106-20]], [[264-21]], [[279-3]], [[1028-1]], [[1264-1]], [[1345-1]], [[3386-2]], [[4122-1]], [[4390-1]], [[4735-1]], [[4987-3]], [[5620-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

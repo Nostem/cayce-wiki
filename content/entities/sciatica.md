@@ -1,18 +1,21 @@
 ---
 entity: "sciatica"
-entity_type: "condition"
-reading_count: 24
-mention_count: 24
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 31
+literal_reading_count: 0
+semantic_reading_count: 31
+literal_mention_count: 0
+semantic_mention_count: 31
+tags: [entity, semantic]
 ---
 
 # sciatica
 
-**sciatica** (condition) appears in **24 readings** (24 mentions) — extracted by LLM semantic analysis.
+**sciatica** (condition) appears in **31 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning sciatica
 
-[[260-2]], [[404-9]], [[647-3]], [[760-1]], [[826-13]], [[849-51]], [[1010-13]], [[1337-2]], [[1433-5]], [[1838-3]], [[1904-1]], [[2649-1]], [[2980-1]], [[3063-3]], [[3094-1]], [[3108-2]], [[3353-1]], [[3632-1]], [[3776-12]], [[3826-2]], [[4307-1]], [[4471-2]], [[4662-1]], [[4847-1]]
+[[404-9]], [[464-1]], [[464-11]], [[550-7]], [[647-3]], [[657-4]], [[760-1]], [[765-2]], [[849-38]], [[849-51]], [[849-76]], [[885-1]], [[1773-4]], [[1838-3]], [[1904-1]], [[2274-1]], [[3063-3]], [[3094-1]], [[3108-2]], [[3118-1]], [[3138-1]], [[3153-1]], [[3353-1]], [[3724-1]], [[4033-1]], [[4033-2]], [[4307-1]], [[4762-1]], [[4847-1]], [[5055-1]], [[5626-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "narcotics"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["remedy"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # narcotics
 
-**narcotics** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**narcotics** (remedy) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning narcotics
 
-[[257-221]], [[543-10]], [[1214-1]], [[2235-2]], [[3857-2]]
+[[9-8]], [[569-27]], [[569-28]], [[601-29]], [[988-10]], [[1085-2]], [[1214-1]], [[1255-1]], [[1577-1]], [[2945-1]], [[5618-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

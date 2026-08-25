@@ -1,17 +1,21 @@
 ---
 entity: "Ten Commandments"
-mention_count: 1
+entity_types: ["literal"]
 reading_count: 1
-tags: [entity]
+literal_reading_count: 1
+semantic_reading_count: 0
+literal_mention_count: 1
+semantic_mention_count: 0
+tags: [entity, semantic]
 ---
 
 # Ten Commandments
 
-**Ten Commandments** appears in **1 readings** (1 total mentions) across the corpus.
+**Ten Commandments** (literal) appears in **1 readings** — indexed through deterministic literal extraction.
 
 ## Readings mentioning Ten Commandments
 
 [[254-107]]
 
 ---
-*Auto-generated entity index. 1 readings, 1 mentions.*
+*Auto-generated index. LLM classifications should be verified before citation.*

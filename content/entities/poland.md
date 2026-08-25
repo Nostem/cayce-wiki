@@ -1,18 +1,21 @@
 ---
-entity: "poland"
-entity_type: "place"
-reading_count: 2
-mention_count: 2
-tags: [entity, place]
+entity: "Poland"
+entity_types: ["place"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
-# poland
+# Poland
 
-**poland** (place) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Poland** (place) appears in **8 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning poland
+## Readings mentioning Poland
 
-[[488-7]], [[873-1]]
+[[488-7]], [[873-1]], [[1533-2]], [[1869-1]], [[1965-1]], [[2337-1]], [[2398-1]], [[2542-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

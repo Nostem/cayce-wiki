@@ -1,18 +1,21 @@
 ---
 entity: "inner man"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # inner man
 
-**inner man** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**inner man** (concept) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning inner man
 
-[[900-68]], [[960-1]], [[1727-1]], [[2138-2]]
+[[53-1]], [[254-12]], [[335-2]], [[554-5]], [[900-68]], [[900-303]], [[996-11]], [[1727-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

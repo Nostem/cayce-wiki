@@ -1,18 +1,21 @@
 ---
 entity: "valerian"
-entity_type: "remedy"
-reading_count: 11
-mention_count: 11
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # valerian
 
-**valerian** (remedy) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**valerian** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning valerian
 
-[[25-3]], [[47-2]], [[137-1]], [[150-1]], [[460-2]], [[2469-1]], [[2504-8]], [[2646-2]], [[3890-1]], [[4535-1]], [[5562-3]]
+[[47-2]], [[205-2]], [[460-2]], [[2646-2]], [[5562-3]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "wheat oil"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 4
-mention_count: 4
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # wheat oil
 
-**wheat oil** (remedy) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**wheat oil** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning wheat oil
 
-[[826-12]], [[849-42]], [[849-43]], [[5113-1]]
+[[538-54]], [[849-43]], [[849-47]], [[5078-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

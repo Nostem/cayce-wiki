@@ -1,18 +1,21 @@
 ---
 entity: "irrigation"
-entity_type: "remedy"
-reading_count: 8
-mention_count: 8
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # irrigation
 
-**irrigation** (remedy) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**irrigation** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning irrigation
 
-[[45-3]], [[1409-7]], [[2504-16]], [[5057-1]], [[5461-1]], [[5609-6]], [[5671-14]], [[5671-16]]
+[[288-25]], [[988-3]], [[5609-6]], [[5610-1]], [[5661-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

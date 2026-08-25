@@ -1,18 +1,21 @@
 ---
-entity: "united states"
-entity_type: "place"
-reading_count: 4
-mention_count: 4
-tags: [entity, place]
+entity: "United States"
+entity_types: ["place"]
+reading_count: 27
+literal_reading_count: 0
+semantic_reading_count: 27
+literal_mention_count: 0
+semantic_mention_count: 27
+tags: [entity, semantic]
 ---
 
-# united states
+# United States
 
-**united states** (place) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**United States** (place) appears in **27 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning united states
+## Readings mentioning United States
 
-[[261-25]], [[3976-10]], [[3976-19]], [[5000-1]]
+[[165-2]], [[261-21]], [[261-25]], [[274-7]], [[307-20]], [[358-1]], [[362-1]], [[440-5]], [[509-1]], [[1238-3]], [[1643-1]], [[1808-1]], [[1848-1]], [[2281-1]], [[2441-4]], [[2647-1]], [[2791-1]], [[3908-1]], [[3976-8]], [[3976-10]], [[3976-11]], [[3976-12]], [[4053-1]], [[5000-1]], [[5276-1]], [[5725-1]], [[5750-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

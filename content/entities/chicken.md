@@ -1,18 +1,21 @@
 ---
 entity: "chicken"
-entity_type: "remedy"
-reading_count: 6
-mention_count: 6
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # chicken
 
-**chicken** (remedy) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**chicken** (remedy) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning chicken
 
-[[415-6]], [[562-5]], [[1172-1]], [[2186-3]], [[3058-1]], [[3085-1]]
+[[276-4]], [[279-1]], [[396-1]], [[487-9]], [[562-5]], [[1172-1]], [[1916-3]], [[2186-3]], [[3114-1]], [[4281-9]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

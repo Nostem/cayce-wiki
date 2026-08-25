@@ -1,18 +1,21 @@
 ---
-entity: "miss [357]"
-entity_type: "person"
-reading_count: 4
-mention_count: 4
-tags: [entity, person]
+entity: "Miss [357]"
+entity_types: ["person"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
-# miss [357]
+# Miss [357]
 
-**miss [357]** (person) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Miss [357]** (person) appears in **7 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning miss [357]
+## Readings mentioning Miss [357]
 
-[[1409-3]], [[2074-2]], [[2074-3]], [[2472-1]]
+[[263-9]], [[357-1]], [[357-4]], [[1236-1]], [[1688-1]], [[2074-3]], [[2186-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

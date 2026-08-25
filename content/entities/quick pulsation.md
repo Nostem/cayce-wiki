@@ -1,18 +1,21 @@
 ---
 entity: "quick pulsation"
-entity_type: "condition"
+entity_types: ["condition"]
 reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # quick pulsation
 
-**quick pulsation** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**quick pulsation** (condition) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning quick pulsation
 
-[[1112-4]], [[1850-1]], [[3215-1]]
+[[263-3]], [[404-5]], [[994-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

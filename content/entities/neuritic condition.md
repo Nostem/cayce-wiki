@@ -1,18 +1,21 @@
 ---
 entity: "neuritic condition"
-entity_type: "condition"
-reading_count: 17
-mention_count: 17
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 19
+literal_reading_count: 0
+semantic_reading_count: 19
+literal_mention_count: 0
+semantic_mention_count: 19
+tags: [entity, semantic]
 ---
 
 # neuritic condition
 
-**neuritic condition** (condition) appears in **17 readings** (17 mentions) — extracted by LLM semantic analysis.
+**neuritic condition** (condition) appears in **19 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning neuritic condition
 
-[[419-8]], [[572-4]], [[657-4]], [[694-4]], [[849-20]], [[1196-10]], [[1312-6]], [[1710-5]], [[1943-1]], [[1948-1]], [[2743-2]], [[2768-1]], [[3269-1]], [[3547-1]], [[3902-1]], [[5298-1]], [[5407-1]]
+[[294-120]], [[413-3]], [[419-8]], [[572-4]], [[657-4]], [[694-4]], [[849-20]], [[1196-10]], [[1312-6]], [[1337-2]], [[1674-1]], [[2743-2]], [[2801-6]], [[3040-1]], [[3287-1]], [[3547-1]], [[3902-1]], [[5298-1]], [[5407-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

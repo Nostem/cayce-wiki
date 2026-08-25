@@ -1,18 +1,21 @@
 ---
 entity: "vegetable soup"
-entity_type: "remedy"
-reading_count: 3
-mention_count: 3
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # vegetable soup
 
-**vegetable soup** (remedy) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**vegetable soup** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning vegetable soup
 
-[[357-7]], [[672-1]], [[5516-1]]
+[[357-7]], [[391-18]], [[2693-1]], [[4762-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

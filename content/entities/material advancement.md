@@ -1,18 +1,21 @@
 ---
 entity: "material advancement"
-entity_type: "concept"
-reading_count: 6
-mention_count: 6
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # material advancement
 
-**material advancement** (concept) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**material advancement** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning material advancement
 
-[[228-9]], [[228-10]], [[282-4]], [[416-8]], [[649-1]], [[891-1]]
+[[270-26]], [[294-34]], [[416-8]], [[779-13]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

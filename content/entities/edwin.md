@@ -1,18 +1,21 @@
 ---
-entity: "edwin"
-entity_type: "person"
-reading_count: 3
-mention_count: 3
-tags: [entity, person]
+entity: "Edwin"
+entity_types: ["person"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
-# edwin
+# Edwin
 
-**edwin** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Edwin** (person) appears in **5 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning edwin
+## Readings mentioning Edwin
 
-[[254-18]], [[295-3]], [[900-335]]
+[[254-18]], [[295-2]], [[295-3]], [[900-335]], [[1122-13]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

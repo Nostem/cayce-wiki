@@ -1,18 +1,21 @@
 ---
-entity: "brooklyn jewish hospital"
-entity_type: "place"
+entity: "Brooklyn Jewish Hospital"
+entity_types: ["place"]
 reading_count: 3
-mention_count: 3
-tags: [entity, place]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# brooklyn jewish hospital
+# Brooklyn Jewish Hospital
 
-**brooklyn jewish hospital** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Brooklyn Jewish Hospital** (place) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning brooklyn jewish hospital
+## Readings mentioning Brooklyn Jewish Hospital
 
-[[2748-1]], [[2748-3]], [[2748-5]]
+[[2748-1]], [[2748-4]], [[2748-5]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

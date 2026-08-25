@@ -1,18 +1,21 @@
 ---
-entity: "lynn"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity: "Lynn"
+entity_types: ["person", "place"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
-# lynn
+# Lynn
 
-**lynn** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Lynn** (person, place) appears in **8 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning lynn
+## Readings mentioning Lynn
 
-[[953-7]], [[953-13]], [[5531-1]]
+[[257-142]], [[257-155]], [[953-7]], [[953-13]], [[2517-3]], [[4900-1]], [[5756-13]], [[5756-14]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

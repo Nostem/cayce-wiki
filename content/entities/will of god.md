@@ -1,18 +1,21 @@
 ---
-entity: "will of god"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity: "will of God"
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# will of god
+# will of God
 
-**will of god** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**will of God** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning will of god
+## Readings mentioning will of God
 
-[[262-124]], [[560-11]], [[632-12]], [[1563-3]], [[3511-1]]
+[[262-70]], [[378-35]], [[2305-1]], [[4191-7]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

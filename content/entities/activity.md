@@ -1,18 +1,21 @@
 ---
 entity: "activity"
-entity_type: "concept"
-reading_count: 7
-mention_count: 7
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # activity
 
-**activity** (concept) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**activity** (concept, remedy) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning activity
 
-[[325-38]], [[409-28]], [[462-9]], [[528-7]], [[556-12]], [[624-3]], [[2084-1]]
+[[106-20]], [[243-35]], [[262-65]], [[464-8]], [[528-7]], [[556-12]], [[1215-10]], [[2828-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

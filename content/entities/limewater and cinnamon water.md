@@ -1,18 +1,21 @@
 ---
 entity: "limewater and cinnamon water"
-entity_type: "remedy"
-reading_count: 4
-mention_count: 4
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # limewater and cinnamon water
 
-**limewater and cinnamon water** (remedy) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**limewater and cinnamon water** (remedy) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning limewater and cinnamon water
 
-[[136-67]], [[511-1]], [[1866-5]], [[4612-1]]
+[[15-1]], [[19-4]], [[193-2]], [[325-16]], [[480-30]], [[511-1]], [[1866-5]], [[4496-1]], [[4612-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "self-sacrifice"
-entity_type: "concept"
-reading_count: 9
-mention_count: 9
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # self-sacrifice
 
-**self-sacrifice** (concept) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**self-sacrifice** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning self-sacrifice
 
-[[254-27]], [[288-4]], [[1173-11]], [[1523-13]], [[2524-1]], [[2661-1]], [[3328-1]], [[4844-1]], [[5080-1]]
+[[254-27]], [[815-3]], [[1523-13]], [[5080-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

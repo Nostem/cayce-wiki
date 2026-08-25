@@ -1,18 +1,21 @@
 ---
 entity: "association"
-entity_type: "concept"
-reading_count: 13
-mention_count: 13
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # association
 
-**association** (concept) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**association** (concept) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning association
 
-[[137-107]], [[254-14]], [[254-20]], [[254-50]], [[257-19]], [[294-43]], [[341-27]], [[900-29]], [[900-258]], [[900-372]], [[2087-2]], [[2733-2]], [[3743-2]]
+[[257-150]], [[294-43]], [[666-2]], [[3861-4]], [[5696-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

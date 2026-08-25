@@ -1,18 +1,21 @@
 ---
-entity: "iran"
-entity_type: "place"
-reading_count: 4
-mention_count: 4
-tags: [entity, place]
+entity: "Iran"
+entity_types: ["place"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
-# iran
+# Iran
 
-**iran** (place) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Iran** (place) appears in **11 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning iran
+## Readings mentioning Iran
 
-[[294-142]], [[1100-26]], [[2734-1]], [[2761-1]]
+[[31-1]], [[39-2]], [[294-8]], [[294-142]], [[991-1]], [[1096-4]], [[1100-26]], [[1592-1]], [[1755-3]], [[2734-1]], [[2761-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

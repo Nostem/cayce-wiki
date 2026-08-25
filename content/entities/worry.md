@@ -1,18 +1,21 @@
 ---
 entity: "worry"
-entity_type: "concept"
-reading_count: 17
-mention_count: 17
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 27
+literal_reading_count: 0
+semantic_reading_count: 27
+literal_mention_count: 0
+semantic_mention_count: 27
+tags: [entity, semantic]
 ---
 
 # worry
 
-**worry** (concept) appears in **17 readings** (17 mentions) — extracted by LLM semantic analysis.
+**worry** (concept, condition) appears in **27 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning worry
 
-[[39-4]], [[257-48]], [[288-54]], [[294-134]], [[294-211]], [[295-5]], [[325-16]], [[325-17]], [[325-31]], [[325-34]], [[337-9]], [[372-2]], [[412-12]], [[550-3]], [[900-345]], [[5065-1]], [[5438-4]]
+[[137-83]], [[137-123]], [[243-15]], [[263-13]], [[294-134]], [[295-5]], [[325-31]], [[325-35]], [[349-18]], [[412-12]], [[538-33]], [[550-3]], [[592-1]], [[633-12]], [[851-3]], [[900-424]], [[1010-15]], [[1412-1]], [[2597-8]], [[4134-1]], [[4742-1]], [[4905-14]], [[5065-1]], [[5497-1]], [[5575-2]], [[5671-17]], [[5711-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

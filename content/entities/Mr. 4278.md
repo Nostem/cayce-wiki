@@ -1,18 +1,21 @@
 ---
 entity: "Mr. [4278]"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity_types: ["person"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # Mr. [4278]
 
-**Mr. [4278]** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Mr. [4278]** (person) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Mr. [4278]
 
-[[247-1]], [[4277-1]]
+[[247-1]], [[953-1]], [[4278-2]], [[4279-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

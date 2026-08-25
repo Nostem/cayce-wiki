@@ -1,18 +1,21 @@
 ---
 entity: "elimination channels"
-entity_type: "concept"
-reading_count: 6
-mention_count: 6
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # elimination channels
 
-**elimination channels** (concept) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**elimination channels** (concept, remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning elimination channels
 
-[[147-7]], [[257-234]], [[877-3]], [[1745-6]], [[3248-1]], [[4274-1]]
+[[253-2]], [[601-22]], [[948-3]], [[1133-1]], [[3782-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

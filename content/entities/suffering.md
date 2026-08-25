@@ -1,18 +1,21 @@
 ---
 entity: "suffering"
-entity_type: "concept"
-reading_count: 21
-mention_count: 21
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # suffering
 
-**suffering** (concept) appears in **21 readings** (21 mentions) — extracted by LLM semantic analysis.
+**suffering** (concept, condition) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning suffering
 
-[[139-7]], [[208-1]], [[254-79]], [[262-107]], [[287-20]], [[378-18]], [[464-34]], [[468-1]], [[560-11]], [[569-27]], [[597-2]], [[1004-2]], [[1242-7]], [[1826-5]], [[3449-1]], [[3491-1]], [[3668-1]], [[3956-1]], [[5194-1]], [[5348-1]], [[5772-1]]
+[[37-2]], [[125-2]], [[378-18]], [[597-2]], [[900-331]], [[1004-2]], [[1242-7]], [[1382-1]], [[1826-5]], [[5081-1]], [[5571-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "croup"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # croup
 
-**croup** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**croup** (condition) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning croup
 
-[[324-2]], [[566-5]], [[711-2]]
+[[318-5]], [[324-2]], [[324-3]], [[711-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

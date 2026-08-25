@@ -1,18 +1,21 @@
 ---
 entity: "San Saba"
-entity_type: "place"
-reading_count: 6
-mention_count: 6
-tags: [entity, place]
+entity_types: ["place"]
+reading_count: 21
+literal_reading_count: 0
+semantic_reading_count: 21
+literal_mention_count: 0
+semantic_mention_count: 21
+tags: [entity, semantic]
 ---
 
 # San Saba
 
-**San Saba** (place) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**San Saba** (place) appears in **21 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning San Saba
 
-[[80-3]], [[243-2]], [[304-3]], [[4783-1]], [[4905-7]], [[5628-8]]
+[[20-1]], [[30-1]], [[80-3]], [[124-1]], [[1097-1]], [[1982-2]], [[3751-7]], [[3751-8]], [[3751-9]], [[3777-11]], [[3854-1]], [[4278-2]], [[4283-1]], [[4343-2]], [[4422-2]], [[4730-1]], [[4787-1]], [[4837-1]], [[4905-2]], [[4905-7]], [[5628-3]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

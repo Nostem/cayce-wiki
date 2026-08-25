@@ -1,18 +1,21 @@
 ---
 entity: "syrup sarsaparilla"
-entity_type: "remedy"
-reading_count: 5
-mention_count: 5
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # syrup sarsaparilla
 
-**syrup sarsaparilla** (remedy) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**syrup sarsaparilla** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning syrup sarsaparilla
 
-[[137-1]], [[569-5]], [[3741-1]], [[4319-1]], [[4865-1]]
+[[42-1]], [[137-1]], [[569-5]], [[4319-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

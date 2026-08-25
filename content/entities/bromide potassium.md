@@ -1,18 +1,21 @@
 ---
 entity: "bromide potassium"
-entity_type: "remedy"
-reading_count: 33
-mention_count: 33
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 20
+literal_reading_count: 0
+semantic_reading_count: 20
+literal_mention_count: 0
+semantic_mention_count: 20
+tags: [entity, semantic]
 ---
 
 # bromide potassium
 
-**bromide potassium** (remedy) appears in **33 readings** (33 mentions) — extracted by LLM semantic analysis.
+**bromide potassium** (remedy) appears in **20 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning bromide potassium
 
-[[106-7]], [[106-19]], [[137-1]], [[139-4]], [[140-7]], [[261-22]], [[325-19]], [[629-1]], [[760-3]], [[900-320]], [[900-424]], [[1660-2]], [[1861-3]], [[2373-1]], [[3732-1]], [[3810-3]], [[3835-1]], [[3839-1]], [[4120-1]], [[4268-1]], [[4283-4]], [[4296-1]], [[4340-1]], [[4389-1]], [[4556-1]], [[4782-1]], [[4861-2]], [[4891-1]], [[5422-1]], [[5442-1]], [[5567-1]], [[5673-2]], [[5723-1]]
+[[139-4]], [[325-19]], [[734-1]], [[3732-1]], [[3810-3]], [[3826-1]], [[3835-1]], [[3839-1]], [[4283-4]], [[4296-1]], [[4340-1]], [[4389-1]], [[4496-1]], [[4556-1]], [[4782-1]], [[4861-2]], [[4891-1]], [[5673-2]], [[5675-1]], [[5723-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

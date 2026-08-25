@@ -1,18 +1,21 @@
 ---
 entity: "Dr. Paul Kaufman"
-entity_type: "person"
-reading_count: 3
-mention_count: 3
-tags: [entity, person]
+entity_types: ["person"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # Dr. Paul Kaufman
 
-**Dr. Paul Kaufman** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Dr. Paul Kaufman** (person) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Dr. Paul Kaufman
 
-[[254-58]], [[459-4]], [[5686-2]]
+[[165-17]], [[254-58]], [[2087-6]], [[2467-3]], [[5502-4]], [[5686-2]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

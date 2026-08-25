@@ -1,18 +1,21 @@
 ---
 entity: "epsom salts solution"
-entity_type: "remedy"
-reading_count: 4
-mention_count: 4
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # epsom salts solution
 
-**epsom salts solution** (remedy) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**epsom salts solution** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning epsom salts solution
 
-[[257-218]], [[2504-10]], [[4612-1]], [[4982-1]]
+[[257-218]], [[325-71]], [[326-4]], [[4762-1]], [[5647-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

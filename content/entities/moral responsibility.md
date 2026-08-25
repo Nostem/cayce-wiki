@@ -1,18 +1,21 @@
 ---
 entity: "moral responsibility"
-entity_type: "concept"
-reading_count: 6
-mention_count: 6
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # moral responsibility
 
-**moral responsibility** (concept) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**moral responsibility** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning moral responsibility
 
-[[7-1]], [[257-54]], [[412-5]], [[960-2]], [[1256-1]], [[4547-1]]
+[[257-54]], [[257-61]], [[960-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

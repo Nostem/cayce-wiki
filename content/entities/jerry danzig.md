@@ -1,18 +1,21 @@
 ---
-entity: "jerry danzig"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Jerry Danzig"
+entity_types: ["person"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# jerry danzig
+# Jerry Danzig
 
-**jerry danzig** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Jerry Danzig** (person) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning jerry danzig
+## Readings mentioning Jerry Danzig
 
-[[254-102]], [[849-30]]
+[[254-102]], [[257-59]], [[849-30]], [[949-13]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

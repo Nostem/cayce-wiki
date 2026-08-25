@@ -1,18 +1,21 @@
 ---
 entity: "self-aggrandizement"
-entity_type: "concept"
-reading_count: 25
-mention_count: 25
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # self-aggrandizement
 
-**self-aggrandizement** (concept) appears in **25 readings** (25 mentions) — extracted by LLM semantic analysis.
+**self-aggrandizement** (concept) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning self-aggrandizement
 
-[[257-202]], [[262-78]], [[294-185]], [[303-4]], [[366-5]], [[462-1]], [[480-1]], [[507-1]], [[540-3]], [[953-4]], [[953-7]], [[1167-2]], [[1234-1]], [[1587-1]], [[1726-1]], [[2205-3]], [[2241-1]], [[2464-2]], [[2856-1]], [[2889-1]], [[3084-1]], [[4292-1]], [[4386-1]], [[4543-2]], [[5618-8]]
+[[257-6]], [[257-202]], [[303-4]], [[366-5]], [[953-7]], [[1152-4]], [[1599-1]], [[2856-1]], [[3317-1]], [[4386-1]], [[5502-4]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

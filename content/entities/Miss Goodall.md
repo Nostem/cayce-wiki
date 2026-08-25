@@ -1,18 +1,21 @@
 ---
-entity: "miss goodall"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Miss Goodall"
+entity_types: ["person"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
-# miss goodall
+# Miss Goodall
 
-**miss goodall** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Miss Goodall** (person) appears in **7 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning miss goodall
+## Readings mentioning Miss Goodall
 
-[[1788-13]], [[3158-1]]
+[[849-75]], [[2946-3]], [[3382-1]], [[3390-1]], [[3427-1]], [[3432-1]], [[3540-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

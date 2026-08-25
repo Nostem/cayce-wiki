@@ -1,18 +1,21 @@
 ---
 entity: "inability of locomotion"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # inability of locomotion
 
-**inability of locomotion** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**inability of locomotion** (condition) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning inability of locomotion
 
-[[33-1]], [[2366-7]], [[4036-1]]
+[[485-1]], [[735-2]], [[2366-7]], [[3151-1]], [[4983-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

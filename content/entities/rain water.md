@@ -1,18 +1,21 @@
 ---
 entity: "rain water"
-entity_type: "remedy"
-reading_count: 3
-mention_count: 3
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
 # rain water
 
-**rain water** (remedy) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**rain water** (remedy) appears in **14 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning rain water
 
-[[3822-2]], [[3888-1]], [[5455-1]]
+[[147-1]], [[161-5]], [[170-1]], [[243-13]], [[814-1]], [[1800-1]], [[2790-1]], [[3793-1]], [[3822-2]], [[3949-1]], [[3963-1]], [[4133-1]], [[4133-2]], [[4436-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

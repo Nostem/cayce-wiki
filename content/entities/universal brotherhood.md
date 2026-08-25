@@ -1,18 +1,21 @@
 ---
 entity: "universal brotherhood"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # universal brotherhood
 
-**universal brotherhood** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**universal brotherhood** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning universal brotherhood
 
-[[195-14]], [[1266-1]], [[2776-1]], [[3656-1]]
+[[195-14]], [[2776-1]], [[3656-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "ringworm"
-entity_type: "condition"
+entity_types: ["condition"]
 reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # ringworm
 
-**ringworm** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**ringworm** (condition) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning ringworm
 
-[[619-2]], [[781-1]], [[1358-2]], [[1429-1]], [[1446-3]], [[4281-16]]
+[[619-2]], [[781-1]], [[1429-1]], [[1446-3]], [[4281-15]], [[4281-16]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

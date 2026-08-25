@@ -1,18 +1,21 @@
 ---
-entity: "east"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity: "East"
+entity_types: ["place"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
-# east
+# East
 
-**east** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**East** (place) appears in **5 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning east
+## Readings mentioning East
 
-[[2247-1]], [[2497-3]], [[4877-2]]
+[[900-444]], [[1926-2]], [[2497-3]], [[3976-16]], [[4877-2]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

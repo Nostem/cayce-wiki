@@ -1,18 +1,21 @@
 ---
 entity: "heart pain"
-entity_type: "condition"
-reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # heart pain
 
-**heart pain** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**heart pain** (condition) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning heart pain
 
-[[83-1]], [[255-7]], [[416-5]], [[464-22]], [[1697-2]], [[3644-1]]
+[[83-1]], [[257-167]], [[279-1]], [[370-7]], [[416-5]], [[1695-2]], [[4546-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

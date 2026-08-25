@@ -1,18 +1,21 @@
 ---
 entity: "selfishness"
-entity_type: "concept"
-reading_count: 15
-mention_count: 15
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 16
+literal_reading_count: 0
+semantic_reading_count: 16
+literal_mention_count: 0
+semantic_mention_count: 16
+tags: [entity, semantic]
 ---
 
 # selfishness
 
-**selfishness** (concept) appears in **15 readings** (15 mentions) — extracted by LLM semantic analysis.
+**selfishness** (concept) appears in **16 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning selfishness
 
-[[165-2]], [[262-44]], [[262-114]], [[288-30]], [[294-53]], [[294-198]], [[815-7]], [[1301-1]], [[1974-1]], [[2484-1]], [[3528-1]], [[3975-1]], [[3976-14]], [[3976-17]], [[5348-1]]
+[[262-44]], [[262-114]], [[270-23]], [[440-20]], [[900-282]], [[912-1]], [[1467-13]], [[1828-1]], [[1950-1]], [[2003-1]], [[2134-1]], [[2881-3]], [[4040-1]], [[4905-67]], [[5332-1]], [[5594-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

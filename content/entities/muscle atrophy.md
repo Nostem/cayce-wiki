@@ -1,18 +1,21 @@
 ---
 entity: "muscle atrophy"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # muscle atrophy
 
-**muscle atrophy** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**muscle atrophy** (condition) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning muscle atrophy
 
-[[849-71]], [[2948-1]], [[4812-2]]
+[[849-29]], [[3138-1]], [[3337-1]], [[4812-2]], [[5019-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

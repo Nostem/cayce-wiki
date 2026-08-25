@@ -1,18 +1,21 @@
 ---
 entity: "mental condition"
-entity_type: "concept"
-reading_count: 19
-mention_count: 19
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # mental condition
 
-**mental condition** (concept) appears in **19 readings** (19 mentions) — extracted by LLM semantic analysis.
+**mental condition** (concept, condition) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mental condition
 
-[[140-5]], [[264-4]], [[294-71]], [[325-36]], [[464-8]], [[601-23]], [[722-1]], [[900-222]], [[900-227]], [[900-271]], [[1396-1]], [[1553-24]], [[1843-2]], [[1963-2]], [[2490-1]], [[3776-16]], [[4218-4]], [[4285-1]], [[5554-1]]
+[[407-2]], [[464-8]], [[1000-2]], [[1396-1]], [[1558-2]], [[2996-1]], [[3776-16]], [[4285-1]], [[4767-2]], [[5512-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "minnie barrett"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Minnie Barrett"
+entity_types: ["person"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
-# minnie barrett
+# Minnie Barrett
 
-**minnie barrett** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Minnie Barrett** (person) appears in **13 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning minnie barrett
+## Readings mentioning Minnie Barrett
 
-[[254-101]], [[2608-1]]
+[[254-55]], [[254-101]], [[262-1]], [[262-11]], [[262-18]], [[262-41]], [[262-42]], [[262-46]], [[262-48]], [[262-62]], [[281-5]], [[281-8]], [[281-11]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

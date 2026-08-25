@@ -1,18 +1,21 @@
 ---
-entity: "dr. wm. d. taylor"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Dr. Wm. D. Taylor"
+entity_types: ["person"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
-# dr. wm. d. taylor
+# Dr. Wm. D. Taylor
 
-**dr. wm. d. taylor** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Dr. Wm. D. Taylor** (person) appears in **13 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning dr. wm. d. taylor
+## Readings mentioning Dr. Wm. D. Taylor
 
-[[1979-1]], [[2551-1]]
+[[1553-11]], [[1878-1]], [[1951-1]], [[1994-2]], [[2006-1]], [[2014-4]], [[2227-5]], [[2456-5]], [[2517-1]], [[2551-1]], [[2551-2]], [[2714-1]], [[3040-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

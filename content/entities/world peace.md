@@ -1,18 +1,21 @@
 ---
 entity: "world peace"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # world peace
 
-**world peace** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**world peace** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning world peace
 
-[[3976-10]], [[3976-27]]
+[[281-60]], [[3976-11]], [[3976-27]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "asthmatic reaction"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # asthmatic reaction
 
-**asthmatic reaction** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**asthmatic reaction** (condition) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning asthmatic reaction
 
-[[1268-1]], [[2102-1]], [[2782-1]]
+[[978-1]], [[1268-1]], [[1536-3]], [[1787-1]], [[2782-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

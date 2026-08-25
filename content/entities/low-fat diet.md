@@ -1,18 +1,21 @@
 ---
 entity: "low-fat diet"
-entity_type: "remedy"
-reading_count: 7
-mention_count: 7
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # low-fat diet
 
-**low-fat diet** (remedy) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**low-fat diet** (remedy) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning low-fat diet
 
-[[189-7]], [[358-4]], [[1693-1]], [[2383-2]], [[2839-1]], [[3110-1]], [[5065-1]]
+[[389-10]], [[482-8]], [[584-7]], [[601-6]], [[997-2]], [[1467-7]], [[1541-4]], [[1850-2]], [[2392-3]], [[5066-1]], [[5157-1]], [[5431-4]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

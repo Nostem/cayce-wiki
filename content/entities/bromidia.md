@@ -1,18 +1,21 @@
 ---
 entity: "bromidia"
-entity_type: "remedy"
-reading_count: 10
-mention_count: 10
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
 # bromidia
 
-**bromidia** (remedy) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**bromidia** (remedy) appears in **13 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning bromidia
 
-[[340-35]], [[604-1]], [[885-1]], [[3223-1]], [[3700-1]], [[3852-1]], [[4033-1]], [[4646-4]], [[5562-3]], [[5732-1]]
+[[340-35]], [[604-1]], [[885-1]], [[911-4]], [[3223-1]], [[3410-1]], [[3700-1]], [[3801-1]], [[3852-1]], [[4033-1]], [[4646-4]], [[5562-3]], [[5732-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

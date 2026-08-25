@@ -1,18 +1,21 @@
 ---
-entity: "guy beckley stearns"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Guy Beckley Stearns"
+entity_types: ["person"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# guy beckley stearns
+# Guy Beckley Stearns
 
-**guy beckley stearns** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Guy Beckley Stearns** (person) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning guy beckley stearns
+## Readings mentioning Guy Beckley Stearns
 
-[[165-12]], [[4210-1]]
+[[165-12]], [[254-97]], [[2094-1]], [[4210-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

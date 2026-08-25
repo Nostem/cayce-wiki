@@ -1,18 +1,21 @@
 ---
 entity: "gall duct obstruction"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # gall duct obstruction
 
-**gall duct obstruction** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**gall duct obstruction** (condition) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning gall duct obstruction
 
-[[1745-5]], [[5408-1]]
+[[1055-1]], [[1745-5]], [[2278-1]], [[2807-1]], [[3160-1]], [[5408-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

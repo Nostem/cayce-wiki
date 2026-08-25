@@ -1,18 +1,21 @@
 ---
 entity: "knee injury"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # knee injury
 
-**knee injury** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**knee injury** (condition) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning knee injury
 
-[[1676-3]], [[1771-5]], [[5431-3]]
+[[304-3]], [[536-4]], [[1073-5]], [[1919-1]], [[2153-12]], [[3141-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

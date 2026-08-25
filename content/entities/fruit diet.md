@@ -1,18 +1,21 @@
 ---
 entity: "fruit diet"
-entity_type: "remedy"
-reading_count: 10
-mention_count: 10
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # fruit diet
 
-**fruit diet** (remedy) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**fruit diet** (remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning fruit diet
 
-[[34-7]], [[313-3]], [[349-11]], [[780-5]], [[2000-4]], [[2036-6]], [[4295-1]], [[4538-1]], [[4600-1]], [[4719-2]]
+[[34-7]], [[313-3]], [[487-2]], [[487-9]], [[538-57]], [[4295-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

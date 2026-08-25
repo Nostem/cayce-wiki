@@ -1,18 +1,21 @@
 ---
 entity: "financial difficulties"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # financial difficulties
 
-**financial difficulties** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**financial difficulties** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning financial difficulties
 
-[[349-18]], [[1274-16]], [[1832-1]], [[4167-1]]
+[[303-6]], [[1274-16]], [[5628-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

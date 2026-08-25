@@ -1,18 +1,21 @@
 ---
-entity: "thomas paine"
-entity_type: "person"
-reading_count: 3
-mention_count: 3
-tags: [entity, person]
+entity: "Thomas Paine"
+entity_types: ["person"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# thomas paine
+# Thomas Paine
 
-**thomas paine** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Thomas Paine** (person) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning thomas paine
+## Readings mentioning Thomas Paine
 
-[[900-346]], [[3343-1]], [[5023-2]]
+[[358-3]], [[900-346]], [[3343-1]], [[5023-2]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

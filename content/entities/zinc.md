@@ -1,18 +1,21 @@
 ---
 entity: "zinc"
-entity_type: "remedy"
-reading_count: 12
-mention_count: 12
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 29
+literal_reading_count: 0
+semantic_reading_count: 29
+literal_mention_count: 0
+semantic_mention_count: 29
+tags: [entity, semantic]
 ---
 
 # zinc
 
-**zinc** (remedy) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**zinc** (remedy) appears in **29 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning zinc
 
-[[1101-3]], [[2614-1]], [[2971-1]], [[3278-1]], [[3785-1]], [[3854-4]], [[3855-1]], [[4495-1]], [[4504-1]], [[4656-1]], [[4902-1]], [[4994-1]]
+[[147-1]], [[147-8]], [[161-5]], [[170-1]], [[195-55]], [[229-1]], [[233-1]], [[849-70]], [[1448-1]], [[2366-3]], [[2614-1]], [[2836-1]], [[2937-1]], [[2971-1]], [[3149-1]], [[3278-1]], [[3431-1]], [[3468-3]], [[3778-1]], [[3920-1]], [[3923-1]], [[4217-1]], [[4613-1]], [[4655-2]], [[4807-1]], [[4902-1]], [[5073-1]], [[5081-1]], [[5691-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "cramps"
-entity_type: "condition"
-reading_count: 8
-mention_count: 8
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 15
+literal_reading_count: 0
+semantic_reading_count: 15
+literal_mention_count: 0
+semantic_mention_count: 15
+tags: [entity, semantic]
 ---
 
 # cramps
 
-**cramps** (condition) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**cramps** (condition) appears in **15 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning cramps
 
-[[257-217]], [[578-4]], [[1170-5]], [[1960-1]], [[2268-1]], [[3027-1]], [[3616-2]], [[5609-4]]
+[[136-18]], [[257-217]], [[340-20]], [[379-7]], [[649-4]], [[2155-2]], [[2155-3]], [[2155-4]], [[2268-1]], [[2981-3]], [[3620-1]], [[3985-1]], [[4613-3]], [[5620-1]], [[5621-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

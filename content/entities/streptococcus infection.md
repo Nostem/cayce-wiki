@@ -1,18 +1,21 @@
 ---
 entity: "streptococcus infection"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 15
+literal_reading_count: 0
+semantic_reading_count: 15
+literal_mention_count: 0
+semantic_mention_count: 15
+tags: [entity, semantic]
 ---
 
 # streptococcus infection
 
-**streptococcus infection** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**streptococcus infection** (condition) appears in **15 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning streptococcus infection
 
-[[1657-4]], [[2597-1]]
+[[46-1]], [[138-1]], [[274-14]], [[954-2]], [[1007-2]], [[1372-1]], [[1660-1]], [[2050-1]], [[2597-8]], [[3499-1]], [[3775-1]], [[3897-1]], [[4061-1]], [[4303-1]], [[5672-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

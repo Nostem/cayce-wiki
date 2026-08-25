@@ -1,18 +1,21 @@
 ---
-entity: "nebraska"
-entity_type: "place"
-reading_count: 12
-mention_count: 12
-tags: [entity, place]
+entity: "Nebraska"
+entity_types: ["place"]
+reading_count: 24
+literal_reading_count: 0
+semantic_reading_count: 24
+literal_mention_count: 0
+semantic_mention_count: 24
+tags: [entity, semantic]
 ---
 
-# nebraska
+# Nebraska
 
-**nebraska** (place) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**Nebraska** (place) appears in **24 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning nebraska
+## Readings mentioning Nebraska
 
-[[62-1]], [[195-29]], [[1363-1]], [[1363-2]], [[2946-3]], [[3105-1]], [[3169-1]], [[3176-1]], [[3189-1]], [[3393-1]], [[3394-1]], [[3394-2]]
+[[62-1]], [[195-29]], [[294-19]], [[294-161]], [[294-185]], [[1238-1]], [[1363-2]], [[1579-1]], [[1770-8]], [[2091-1]], [[2665-3]], [[3024-1]], [[3105-1]], [[3137-1]], [[3168-1]], [[3169-1]], [[3189-2]], [[3189-3]], [[3211-2]], [[3393-1]], [[3394-1]], [[3686-1]], [[5073-1]], [[5149-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

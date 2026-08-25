@@ -1,18 +1,21 @@
 ---
 entity: "fevers"
-entity_type: "condition"
-reading_count: 12
-mention_count: 12
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # fevers
 
-**fevers** (condition) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**fevers** (condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning fevers
 
-[[137-112]], [[345-1]], [[487-1]], [[559-7]], [[707-2]], [[1416-1]], [[1800-30]], [[2122-1]], [[2229-2]], [[2391-1]], [[4211-1]], [[4713-1]]
+[[345-1]], [[405-1]], [[1416-1]], [[1684-1]], [[1800-16]], [[1800-30]], [[2391-1]], [[4713-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

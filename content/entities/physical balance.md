@@ -1,18 +1,21 @@
 ---
 entity: "physical balance"
-entity_type: "concept"
-reading_count: 14
-mention_count: 14
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # physical balance
 
-**physical balance** (concept) appears in **14 readings** (14 mentions) — extracted by LLM semantic analysis.
+**physical balance** (concept) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning physical balance
 
-[[254-3]], [[257-60]], [[259-5]], [[341-31]], [[900-183]], [[1026-1]], [[1158-13]], [[1568-4]], [[2801-4]], [[4142-2]], [[4217-1]], [[4853-1]], [[5428-1]], [[5717-3]]
+[[78-4]], [[259-5]], [[394-7]], [[811-4]], [[1245-1]], [[1475-1]], [[1568-4]], [[2334-1]], [[2982-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

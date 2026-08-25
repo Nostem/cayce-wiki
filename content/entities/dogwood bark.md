@@ -1,18 +1,21 @@
 ---
 entity: "dogwood bark"
-entity_type: "remedy"
-reading_count: 33
-mention_count: 33
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 17
+literal_reading_count: 0
+semantic_reading_count: 17
+literal_mention_count: 0
+semantic_mention_count: 17
+tags: [entity, semantic]
 ---
 
 # dogwood bark
 
-**dogwood bark** (remedy) appears in **33 readings** (33 mentions) — extracted by LLM semantic analysis.
+**dogwood bark** (remedy) appears in **17 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning dogwood bark
 
-[[27-1]], [[46-1]], [[47-1]], [[76-1]], [[174-1]], [[244-1]], [[274-2]], [[286-2]], [[979-2]], [[1408-1]], [[2036-3]], [[2195-1]], [[2198-1]], [[3740-1]], [[3827-1]], [[3880-1]], [[3963-1]], [[3979-1]], [[4301-1]], [[4316-1]], [[4383-3]], [[4466-2]], [[4516-1]], [[4518-1]], [[4608-1]], [[4662-1]], [[4709-3]], [[4787-1]], [[4815-1]], [[4831-2]], [[4846-1]], [[4885-1]], [[5657-1]]
+[[244-1]], [[286-2]], [[979-2]], [[1083-1]], [[1408-1]], [[2036-3]], [[3740-1]], [[3963-1]], [[3979-1]], [[4133-2]], [[4383-3]], [[4558-1]], [[4608-1]], [[4787-1]], [[4815-1]], [[4885-1]], [[5681-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "change"
-entity_type: "concept"
-reading_count: 8
-mention_count: 8
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # change
 
-**change** (concept) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**change** (concept, remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning change
 
-[[136-41]], [[294-62]], [[310-1]], [[849-36]], [[1220-1]], [[1396-2]], [[2029-1]], [[2733-1]]
+[[71-1]], [[136-41]], [[257-54]], [[688-5]], [[900-260]], [[5696-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

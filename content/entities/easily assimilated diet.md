@@ -1,18 +1,21 @@
 ---
 entity: "easily assimilated diet"
-entity_type: "remedy"
-reading_count: 12
-mention_count: 12
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 15
+literal_reading_count: 0
+semantic_reading_count: 15
+literal_mention_count: 0
+semantic_mention_count: 15
+tags: [entity, semantic]
 ---
 
 # easily assimilated diet
 
-**easily assimilated diet** (remedy) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**easily assimilated diet** (remedy) appears in **15 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning easily assimilated diet
 
-[[294-210]], [[413-7]], [[540-10]], [[760-6]], [[1176-1]], [[1606-1]], [[1794-1]], [[3540-1]], [[3809-1]], [[5261-1]], [[5517-1]], [[5536-2]]
+[[45-1]], [[540-9]], [[760-6]], [[760-22]], [[1070-1]], [[1100-3]], [[1176-1]], [[1271-1]], [[1305-1]], [[2369-1]], [[2488-1]], [[2640-1]], [[3265-1]], [[4546-1]], [[5517-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

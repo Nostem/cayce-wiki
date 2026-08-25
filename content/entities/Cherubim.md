@@ -1,17 +1,21 @@
 ---
 entity: "Cherubim"
-mention_count: 10
+entity_types: ["concept"]
 reading_count: 5
-tags: [entity]
+literal_reading_count: 5
+semantic_reading_count: 1
+literal_mention_count: 10
+semantic_mention_count: 1
+tags: [entity, semantic]
 ---
 
 # Cherubim
 
-**Cherubim** appears in **5 readings** (10 total mentions) across the corpus.
+**Cherubim** (concept) appears in **5 readings** — indexed through hybrid literal and LLM extraction.
 
 ## Readings mentioning Cherubim
 
 [[538-72]], [[585-10]], [[2011-3]], [[2072-7]], [[2778-2]]
 
 ---
-*Auto-generated entity index. 5 readings, 10 mentions.*
+*Auto-generated index. LLM classifications should be verified before citation.*

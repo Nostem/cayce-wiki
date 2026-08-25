@@ -1,18 +1,21 @@
 ---
 entity: "overanxiety"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # overanxiety
 
-**overanxiety** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**overanxiety** (concept, condition) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning overanxiety
 
-[[374-2]], [[3110-2]]
+[[165-25]], [[257-127]], [[257-215]], [[374-2]], [[560-5]], [[1133-1]], [[1419-4]], [[2626-1]], [[2722-4]], [[2854-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

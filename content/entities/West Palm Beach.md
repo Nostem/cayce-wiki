@@ -1,18 +1,21 @@
 ---
-entity: "west palm beach"
-entity_type: "place"
-reading_count: 2
-mention_count: 2
-tags: [entity, place]
+entity: "West Palm Beach"
+entity_types: ["place"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
-# west palm beach
+# West Palm Beach
 
-**west palm beach** (place) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**West Palm Beach** (place) appears in **10 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning west palm beach
+## Readings mentioning West Palm Beach
 
-[[228-8]], [[313-4]]
+[[195-40]], [[228-8]], [[313-4]], [[813-2]], [[996-12]], [[2422-1]], [[2587-1]], [[3743-3]], [[3982-5]], [[4078-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "light bearer"
-entity_type: "concept"
-reading_count: 3
-mention_count: 3
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # light bearer
 
-**light bearer** (concept) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**light bearer** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning light bearer
 
-[[900-321]], [[900-324]], [[1851-1]]
+[[262-7]], [[262-9]], [[900-321]], [[1851-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

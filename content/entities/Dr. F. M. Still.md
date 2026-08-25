@@ -1,18 +1,21 @@
 ---
 entity: "Dr. F. M. Still"
-entity_type: "person"
-reading_count: 3
-mention_count: 3
-tags: [entity, person]
+entity_types: ["person"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # Dr. F. M. Still
 
-**Dr. F. M. Still** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Dr. F. M. Still** (person) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Dr. F. M. Still
 
-[[2544-1]], [[4002-1]], [[5167-1]]
+[[2544-1]], [[2742-1]], [[4002-1]], [[5167-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

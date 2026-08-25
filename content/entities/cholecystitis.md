@@ -1,18 +1,21 @@
 ---
 entity: "cholecystitis"
-entity_type: "condition"
-reading_count: 23
-mention_count: 23
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 25
+literal_reading_count: 0
+semantic_reading_count: 25
+literal_mention_count: 0
+semantic_mention_count: 25
+tags: [entity, semantic]
 ---
 
 # cholecystitis
 
-**cholecystitis** (condition) appears in **23 readings** (23 mentions) — extracted by LLM semantic analysis.
+**cholecystitis** (condition) appears in **25 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning cholecystitis
 
-[[243-33]], [[288-41]], [[294-21]], [[294-22]], [[294-23]], [[294-99]], [[294-125]], [[294-126]], [[294-128]], [[294-129]], [[294-193]], [[294-205]], [[336-1]], [[379-7]], [[379-8]], [[379-9]], [[379-10]], [[379-11]], [[379-14]], [[379-16]], [[1196-3]], [[2853-1]], [[3677-1]]
+[[287-11]], [[288-41]], [[294-22]], [[294-23]], [[294-125]], [[294-128]], [[294-129]], [[336-1]], [[365-2]], [[379-8]], [[379-9]], [[379-10]], [[379-14]], [[379-15]], [[379-19]], [[635-5]], [[1196-3]], [[1745-5]], [[1747-4]], [[2085-1]], [[2434-3]], [[2451-2]], [[2853-1]], [[4687-1]], [[5138-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

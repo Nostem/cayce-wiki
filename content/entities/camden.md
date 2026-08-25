@@ -1,18 +1,21 @@
 ---
 entity: "Camden"
-entity_type: "place"
-reading_count: 2
-mention_count: 2
-tags: [entity, place]
+entity_types: ["place"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # Camden
 
-**Camden** (place) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Camden** (place) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Camden
 
-[[165-6]], [[779-13]]
+[[165-6]], [[257-207]], [[1058-5]], [[1125-1]], [[1290-1]], [[2058-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

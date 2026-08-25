@@ -1,18 +1,21 @@
 ---
 entity: "wife"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity_types: ["person"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # wife
 
-**wife** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**wife** (person) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning wife
 
-[[261-27]], [[900-224]]
+[[331-1]], [[1425-2]], [[1508-1]], [[2597-5]], [[5620-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "applications"
-entity_type: "remedy"
-reading_count: 11
-mention_count: 11
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # applications
 
-**applications** (remedy) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**applications** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning applications
 
-[[140-36]], [[391-9]], [[538-46]], [[613-1]], [[952-2]], [[1425-2]], [[1472-7]], [[1563-1]], [[1676-2]], [[3014-2]], [[3444-2]]
+[[140-36]], [[391-9]], [[3014-2]], [[3444-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

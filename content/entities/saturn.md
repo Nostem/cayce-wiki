@@ -1,18 +1,21 @@
 ---
-entity: "saturn"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity: "Saturn"
+entity_types: ["place"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
-# saturn
+# Saturn
 
-**saturn** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Saturn** (place) appears in **8 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning saturn
+## Readings mentioning Saturn
 
-[[633-2]], [[1187-2]], [[2895-1]]
+[[256-1]], [[288-10]], [[390-2]], [[900-25]], [[1043-1]], [[1157-1]], [[1597-1]], [[2823-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "sister [340]"
-entity_type: "person"
-reading_count: 5
-mention_count: 5
-tags: [entity, person]
+entity: "Sister [340]"
+entity_types: ["person"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# sister [340]
+# Sister [340]
 
-**sister [340]** (person) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**Sister [340]** (person) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning sister [340]
+## Readings mentioning Sister [340]
 
-[[243-30]], [[304-46]], [[482-5]], [[482-11]], [[635-3]]
+[[243-4]], [[243-17]], [[243-39]], [[304-46]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

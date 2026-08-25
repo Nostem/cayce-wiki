@@ -1,18 +1,21 @@
 ---
-entity: "orr"
-entity_type: "person"
-reading_count: 4
-mention_count: 4
-tags: [entity, person]
+entity: "Orr"
+entity_types: ["person"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
-# orr
+# Orr
 
-**orr** (person) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Orr** (person) appears in **6 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning orr
+## Readings mentioning Orr
 
-[[257-38]], [[257-69]], [[257-100]], [[257-178]]
+[[257-38]], [[257-69]], [[257-100]], [[257-130]], [[257-149]], [[257-178]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

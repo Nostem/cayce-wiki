@@ -1,18 +1,21 @@
 ---
 entity: "stricture"
-entity_type: "condition"
-reading_count: 11
-mention_count: 11
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # stricture
 
-**stricture** (condition) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**stricture** (condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning stricture
 
-[[281-11]], [[294-14]], [[294-212]], [[391-5]], [[561-1]], [[622-3]], [[849-2]], [[1746-1]], [[2084-11]], [[3301-1]], [[4848-4]]
+[[281-11]], [[294-21]], [[294-212]], [[561-1]], [[561-2]], [[943-15]], [[1108-1]], [[2084-11]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "mental anguish"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # mental anguish
 
-**mental anguish** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**mental anguish** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mental anguish
 
-[[265-1]], [[275-19]], [[911-7]], [[2670-4]]
+[[275-19]], [[2057-1]], [[2670-4]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

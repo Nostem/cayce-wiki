@@ -1,18 +1,21 @@
 ---
 entity: "self-condemnation"
-entity_type: "concept"
-reading_count: 41
-mention_count: 41
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 38
+literal_reading_count: 0
+semantic_reading_count: 38
+literal_mention_count: 0
+semantic_mention_count: 42
+tags: [entity, semantic]
 ---
 
 # self-condemnation
 
-**self-condemnation** (concept) appears in **41 readings** (41 mentions) — extracted by LLM semantic analysis.
+**self-condemnation** (concept, condition) appears in **38 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning self-condemnation
 
-[[186-1]], [[186-2]], [[263-13]], [[270-36]], [[303-14]], [[307-13]], [[316-1]], [[369-9]], [[417-8]], [[421-15]], [[462-16]], [[480-47]], [[528-16]], [[538-33]], [[556-1]], [[631-1]], [[633-5]], [[900-67]], [[900-95]], [[900-182]], [[900-184]], [[900-217]], [[1089-8]], [[1195-2]], [[1452-1]], [[1538-1]], [[1701-2]], [[2056-2]], [[2072-13]], [[2339-1]], [[2544-1]], [[2899-1]], [[3135-1]], [[3513-1]], [[3821-1]], [[4208-1]], [[4358-1]], [[4562-2]], [[5416-2]], [[5437-1]], [[5700-1]]
+[[186-1]], [[264-44]], [[270-36]], [[295-8]], [[307-13]], [[316-1]], [[417-8]], [[528-16]], [[631-1]], [[633-5]], [[719-1]], [[768-3]], [[900-182]], [[900-201]], [[910-4]], [[1089-8]], [[1195-2]], [[1264-1]], [[1701-2]], [[2072-13]], [[2160-1]], [[2233-1]], [[2323-1]], [[2437-1]], [[2478-2]], [[2540-1]], [[2544-1]], [[2673-1]], [[2803-2]], [[2899-1]], [[3198-1]], [[3527-1]], [[4208-1]], [[4358-1]], [[5187-1]], [[5302-1]], [[5380-1]], [[5437-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

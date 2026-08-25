@@ -1,18 +1,21 @@
 ---
-entity: "jersey"
-entity_type: "place"
-reading_count: 11
-mention_count: 11
-tags: [entity, place]
+entity: "Jersey"
+entity_types: ["place"]
+reading_count: 20
+literal_reading_count: 0
+semantic_reading_count: 20
+literal_mention_count: 0
+semantic_mention_count: 20
+tags: [entity, semantic]
 ---
 
-# jersey
+# Jersey
 
-**jersey** (place) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**Jersey** (place) appears in **20 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning jersey
+## Readings mentioning Jersey
 
-[[165-14]], [[165-23]], [[257-165]], [[325-26]], [[325-50]], [[718-2]], [[900-180]], [[2953-1]], [[3128-2]], [[4398-1]], [[5392-1]]
+[[165-14]], [[257-84]], [[257-171]], [[257-200]], [[325-28]], [[437-5]], [[718-2]], [[805-4]], [[874-1]], [[900-180]], [[1116-1]], [[1290-1]], [[1637-1]], [[2247-1]], [[2440-1]], [[2953-1]], [[3051-7]], [[3128-2]], [[3184-1]], [[3640-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

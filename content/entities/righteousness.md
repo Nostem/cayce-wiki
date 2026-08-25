@@ -1,18 +1,21 @@
 ---
 entity: "righteousness"
-entity_type: "concept"
-reading_count: 22
-mention_count: 22
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # righteousness
 
-**righteousness** (concept) appears in **22 readings** (22 mentions) — extracted by LLM semantic analysis.
+**righteousness** (concept) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning righteousness
 
-[[262-75]], [[262-119]], [[262-123]], [[262-124]], [[262-125]], [[262-126]], [[262-128]], [[262-129]], [[361-13]], [[378-36]], [[397-1]], [[442-3]], [[659-1]], [[688-3]], [[1058-5]], [[1438-1]], [[1877-2]], [[1899-1]], [[3633-1]], [[3976-25]], [[3976-27]], [[5753-2]]
+[[262-123]], [[262-124]], [[262-128]], [[294-145]], [[370-1]], [[378-36]], [[900-61]], [[1000-19]], [[1120-3]], [[1899-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

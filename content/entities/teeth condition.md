@@ -1,18 +1,21 @@
 ---
 entity: "teeth condition"
-entity_type: "condition"
-reading_count: 10
-mention_count: 10
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # teeth condition
 
-**teeth condition** (condition) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**teeth condition** (condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning teeth condition
 
-[[45-1]], [[313-2]], [[1158-11]], [[1736-4]], [[2376-2]], [[2376-5]], [[3986-1]], [[4466-2]], [[4471-2]], [[5672-1]]
+[[313-2]], [[413-3]], [[906-2]], [[1010-2]], [[1195-1]], [[2148-3]], [[3149-2]], [[4466-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

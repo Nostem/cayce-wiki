@@ -1,18 +1,21 @@
 ---
 entity: "body-building foods"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
 # body-building foods
 
-**body-building foods** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**body-building foods** (concept, remedy) appears in **14 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning body-building foods
 
-[[325-58]], [[805-2]]
+[[264-59]], [[307-16]], [[325-58]], [[667-14]], [[791-1]], [[1027-1]], [[1187-9]], [[1498-2]], [[1789-5]], [[1798-4]], [[2028-2]], [[2939-1]], [[3693-1]], [[3702-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "fort wayne"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity: "Fort Wayne"
+entity_types: ["place"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
-# fort wayne
+# Fort Wayne
 
-**fort wayne** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Fort Wayne** (place) appears in **6 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning fort wayne
+## Readings mentioning Fort Wayne
 
-[[254-13]], [[900-265]], [[3606-1]]
+[[254-13]], [[900-224]], [[900-265]], [[900-351]], [[3606-1]], [[4905-64]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

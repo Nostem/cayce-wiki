@@ -1,18 +1,21 @@
 ---
-entity: "norfolk navy yard"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity: "Norfolk Navy Yard"
+entity_types: ["place"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
-# norfolk navy yard
+# Norfolk Navy Yard
 
-**norfolk navy yard** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Norfolk Navy Yard** (place) appears in **6 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning norfolk navy yard
+## Readings mentioning Norfolk Navy Yard
 
-[[462-15]], [[462-17]], [[2636-1]]
+[[462-15]], [[462-17]], [[568-1]], [[1467-11]], [[2480-1]], [[2636-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "raw cabbage"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 5
-mention_count: 5
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # raw cabbage
 
-**raw cabbage** (remedy) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**raw cabbage** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning raw cabbage
 
-[[781-1]], [[1102-4]], [[1158-21]], [[1401-2]], [[1519-5]]
+[[13-2]], [[288-9]], [[464-22]], [[1519-5]], [[1710-6]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

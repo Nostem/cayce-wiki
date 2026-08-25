@@ -1,18 +1,21 @@
 ---
 entity: "menopause"
-entity_type: "concept"
-reading_count: 17
-mention_count: 17
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 75
+literal_reading_count: 0
+semantic_reading_count: 75
+literal_mention_count: 0
+semantic_mention_count: 76
+tags: [entity, semantic]
 ---
 
 # menopause
 
-**menopause** (concept) appears in **17 readings** (17 mentions) — extracted by LLM semantic analysis.
+**menopause** (concept, condition) appears in **75 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning menopause
 
-[[264-58]], [[313-17]], [[538-53]], [[601-22]], [[664-1]], [[715-9]], [[807-1]], [[811-6]], [[1100-28]], [[1121-1]], [[1158-33]], [[1268-1]], [[1690-4]], [[1713-20]], [[1713-21]], [[3045-1]], [[5290-1]]
+[[260-2]], [[264-32]], [[264-55]], [[264-56]], [[264-57]], [[298-3]], [[303-5]], [[313-17]], [[313-19]], [[320-1]], [[325-4]], [[325-5]], [[337-22]], [[413-2]], [[428-1]], [[428-11]], [[428-12]], [[443-2]], [[459-14]], [[538-11]], [[540-13]], [[560-3]], [[560-6]], [[601-6]], [[601-12]], [[601-17]], [[601-18]], [[601-19]], [[601-20]], [[601-21]], [[601-22]], [[601-26]], [[694-3]], [[715-9]], [[780-9]], [[805-1]], [[807-1]], [[903-34]], [[1079-4]], [[1087-1]], [[1100-28]], [[1121-1]], [[1133-1]], [[1158-13]], [[1158-16]], [[1158-20]], [[1268-1]], [[1338-1]], [[1343-2]], [[1457-1]], [[1540-2]], [[1540-3]], [[1611-1]], [[1690-4]], [[1713-20]], [[1749-2]], [[1773-2]], [[1830-1]], [[1943-1]], [[2457-4]], [[2457-6]], [[2581-1]], [[2722-4]], [[2722-5]], [[2773-1]], [[2792-2]], [[2966-2]], [[3045-1]], [[3061-1]], [[3130-1]], [[3142-1]], [[3274-1]], [[3334-1]], [[3386-2]], [[5555-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "fasting"
-entity_type: "remedy"
-reading_count: 6
-mention_count: 6
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
 # fasting
 
-**fasting** (remedy) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**fasting** (remedy) appears in **13 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning fasting
 
-[[460-3]], [[996-8]], [[1010-10]], [[4803-1]], [[5326-1]], [[5583-2]]
+[[325-27]], [[460-3]], [[543-18]], [[781-1]], [[943-13]], [[954-5]], [[1010-10]], [[1703-3]], [[2739-2]], [[3322-1]], [[4803-1]], [[4932-1]], [[5326-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "cleanliness"
-entity_type: "concept"
+entity_types: ["remedy"]
 reading_count: 3
-mention_count: 3
-tags: [entity, concept]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # cleanliness
 
-**cleanliness** (concept) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**cleanliness** (remedy) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning cleanliness
 
-[[294-56]], [[3553-1]], [[3647-1]]
+[[264-57]], [[591-1]], [[3211-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

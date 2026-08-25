@@ -1,18 +1,21 @@
 ---
 entity: "whole wheat cracker"
-entity_type: "remedy"
-reading_count: 8
-mention_count: 8
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # whole wheat cracker
 
-**whole wheat cracker** (remedy) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**whole wheat cracker** (remedy) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning whole wheat cracker
 
-[[538-55]], [[773-21]], [[2470-2]], [[3122-1]], [[3123-1]], [[3147-1]], [[3176-1]], [[3218-1]]
+[[538-55]], [[2514-5]], [[2752-3]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

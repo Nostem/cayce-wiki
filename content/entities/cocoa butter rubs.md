@@ -1,18 +1,21 @@
 ---
 entity: "cocoa butter rubs"
-entity_type: "remedy"
-reading_count: 3
-mention_count: 3
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # cocoa butter rubs
 
-**cocoa butter rubs** (remedy) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**cocoa butter rubs** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning cocoa butter rubs
 
-[[1079-6]], [[2148-6]], [[4281-10]]
+[[608-11]], [[1079-6]], [[1278-6]], [[2148-6]], [[4281-10]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

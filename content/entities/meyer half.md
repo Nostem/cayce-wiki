@@ -1,18 +1,21 @@
 ---
-entity: "meyer half"
-entity_type: "person"
-reading_count: 7
-mention_count: 7
-tags: [entity, person]
+entity: "Meyer Half"
+entity_types: ["person"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
-# meyer half
+# Meyer Half
 
-**meyer half** (person) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**Meyer Half** (person) appears in **6 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning meyer half
+## Readings mentioning Meyer Half
 
-[[900-167]], [[900-187]], [[900-195]], [[900-250]], [[900-252]], [[900-259]], [[900-271]]
+[[900-167]], [[900-187]], [[900-250]], [[900-252]], [[900-259]], [[900-387]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

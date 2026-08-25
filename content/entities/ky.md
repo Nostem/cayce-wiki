@@ -1,18 +1,21 @@
 ---
-entity: "Ky"
-entity_type: "place"
-reading_count: 7
-mention_count: 7
-tags: [entity, place]
+entity: "ky"
+entity_types: ["place"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
-# Ky
+# ky
 
-**Ky** (place) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**ky** (place) appears in **10 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning Ky
+## Readings mentioning ky
 
-[[244-1]], [[538-61]], [[852-16]], [[1405-2]], [[1690-1]], [[2142-2]], [[5059-1]]
+[[23-15]], [[78-2]], [[265-13]], [[569-17]], [[715-5]], [[760-27]], [[844-2]], [[852-8]], [[1151-7]], [[3776-11]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

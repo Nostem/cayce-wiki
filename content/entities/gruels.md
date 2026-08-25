@@ -1,18 +1,21 @@
 ---
 entity: "gruels"
-entity_type: "remedy"
-reading_count: 13
-mention_count: 13
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 15
+literal_reading_count: 0
+semantic_reading_count: 15
+literal_mention_count: 0
+semantic_mention_count: 15
+tags: [entity, semantic]
 ---
 
 # gruels
 
-**gruels** (remedy) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**gruels** (remedy) appears in **15 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning gruels
 
-[[143-3]], [[294-95]], [[569-18]], [[608-5]], [[760-15]], [[1866-5]], [[3971-1]], [[4123-1]], [[5454-2]], [[5513-1]], [[5589-1]], [[5622-2]], [[5641-2]]
+[[133-1]], [[143-3]], [[313-16]], [[569-18]], [[608-4]], [[608-5]], [[649-4]], [[760-15]], [[788-1]], [[1866-5]], [[3829-1]], [[4330-1]], [[5454-2]], [[5653-1]], [[5679-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

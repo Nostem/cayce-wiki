@@ -1,18 +1,21 @@
 ---
 entity: "prolapsus of the eustachian tube"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # prolapsus of the eustachian tube
 
-**prolapsus of the eustachian tube** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**prolapsus of the eustachian tube** (condition) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning prolapsus of the eustachian tube
 
-[[1661-1]], [[2059-1]], [[3679-1]]
+[[1661-1]], [[2059-1]], [[2280-1]], [[3629-2]], [[3679-1]], [[5072-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

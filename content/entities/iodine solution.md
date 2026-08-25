@@ -1,18 +1,21 @@
 ---
 entity: "iodine solution"
-entity_type: "remedy"
-reading_count: 6
-mention_count: 6
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # iodine solution
 
-**iodine solution** (remedy) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**iodine solution** (remedy) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning iodine solution
 
-[[147-2]], [[147-13]], [[1153-1]], [[3885-1]], [[4656-1]], [[4875-1]]
+[[54-1]], [[147-1]], [[147-2]], [[147-12]], [[3885-1]], [[4705-1]], [[4706-1]], [[5169-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

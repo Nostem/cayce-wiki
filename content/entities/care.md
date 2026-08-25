@@ -1,18 +1,21 @@
 ---
 entity: "care"
-entity_type: "concept"
+entity_types: ["concept", "remedy"]
 reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # care
 
-**care** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**care** (concept, remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning care
 
-[[1000-26]], [[4905-13]], [[4905-27]], [[4905-68]]
+[[1000-26]], [[3315-1]], [[3802-1]], [[4991-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "lymphatic system"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # lymphatic system
 
-**lymphatic system** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**lymphatic system** (concept) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning lymphatic system
 
-[[294-14]], [[674-1]], [[1633-1]], [[3224-1]], [[3354-1]]
+[[34-2]], [[106-5]], [[903-22]], [[1140-1]], [[1144-1]], [[1482-1]], [[2371-1]], [[2643-1]], [[4575-1]], [[4812-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

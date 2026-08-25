@@ -1,18 +1,21 @@
 ---
 entity: "fallen arches"
-entity_type: "condition"
-reading_count: 4
-mention_count: 4
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # fallen arches
 
-**fallen arches** (condition) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**fallen arches** (condition) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning fallen arches
 
-[[25-5]], [[308-13]], [[838-2]], [[4471-4]]
+[[342-3]], [[391-2]], [[457-1]], [[681-2]], [[838-2]], [[838-3]], [[1735-1]], [[2015-10]], [[4471-4]], [[5661-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

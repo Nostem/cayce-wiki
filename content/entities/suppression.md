@@ -1,18 +1,21 @@
 ---
 entity: "suppression"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
 # suppression
 
-**suppression** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**suppression** (concept, condition) appears in **13 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning suppression
 
-[[543-2]], [[5562-10]]
+[[272-1]], [[515-1]], [[543-12]], [[1122-8]], [[1124-3]], [[1317-1]], [[2701-1]], [[3175-2]], [[4432-1]], [[5022-1]], [[5506-1]], [[5562-8]], [[5673-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

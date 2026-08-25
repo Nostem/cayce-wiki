@@ -1,18 +1,21 @@
 ---
 entity: "disturbed digestion"
-entity_type: "condition"
+entity_types: ["condition"]
 reading_count: 5
-mention_count: 5
-tags: [entity, condition]
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # disturbed digestion
 
-**disturbed digestion** (condition) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**disturbed digestion** (condition) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning disturbed digestion
 
-[[276-10]], [[294-61]], [[1259-1]], [[2105-1]], [[4330-1]]
+[[2105-1]], [[2309-1]], [[3386-2]], [[4330-1]], [[4552-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

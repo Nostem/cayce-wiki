@@ -1,18 +1,21 @@
 ---
-entity: "philip"
-entity_type: "person"
-reading_count: 4
-mention_count: 4
-tags: [entity, person]
+entity: "Philip"
+entity_types: ["person"]
+reading_count: 18
+literal_reading_count: 0
+semantic_reading_count: 18
+literal_mention_count: 0
+semantic_mention_count: 18
+tags: [entity, semantic]
 ---
 
-# philip
+# Philip
 
-**philip** (person) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Philip** (person) appears in **18 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning philip
+## Readings mentioning Philip
 
-[[428-5]], [[1179-8]], [[3344-2]], [[5749-1]]
+[[262-119]], [[294-192]], [[315-4]], [[428-5]], [[1151-10]], [[1179-8]], [[1424-3]], [[1440-1]], [[1444-1]], [[1456-1]], [[1468-2]], [[2310-2]], [[2329-1]], [[3175-3]], [[3282-1]], [[3344-2]], [[5257-1]], [[5749-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

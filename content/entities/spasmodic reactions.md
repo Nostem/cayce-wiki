@@ -1,18 +1,21 @@
 ---
 entity: "spasmodic reactions"
-entity_type: "condition"
-reading_count: 22
-mention_count: 22
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 19
+literal_reading_count: 0
+semantic_reading_count: 19
+literal_mention_count: 0
+semantic_mention_count: 19
+tags: [entity, semantic]
 ---
 
 # spasmodic reactions
 
-**spasmodic reactions** (condition) appears in **22 readings** (22 mentions) — extracted by LLM semantic analysis.
+**spasmodic reactions** (condition) appears in **19 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning spasmodic reactions
 
-[[389-1]], [[404-2]], [[624-1]], [[653-1]], [[769-1]], [[1366-1]], [[1465-3]], [[1465-9]], [[1527-3]], [[1683-1]], [[2074-3]], [[2153-2]], [[2153-6]], [[2153-11]], [[2288-2]], [[2571-2]], [[3318-1]], [[3331-1]], [[3437-1]], [[4798-1]], [[5620-1]], [[5642-5]]
+[[146-8]], [[567-6]], [[624-1]], [[728-3]], [[1196-15]], [[1366-1]], [[1384-1]], [[1465-3]], [[1465-9]], [[1527-1]], [[1527-2]], [[1527-3]], [[1536-2]], [[2153-2]], [[2153-6]], [[2153-11]], [[2288-2]], [[2571-2]], [[5620-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

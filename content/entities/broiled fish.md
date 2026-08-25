@@ -1,18 +1,21 @@
 ---
 entity: "broiled fish"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # broiled fish
 
-**broiled fish** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**broiled fish** (remedy) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning broiled fish
 
-[[357-12]], [[1788-9]]
+[[133-4]], [[303-38]], [[308-6]], [[348-15]], [[357-12]], [[543-24]], [[1963-1]], [[2315-1]], [[2722-3]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

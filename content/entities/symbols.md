@@ -1,18 +1,21 @@
 ---
 entity: "symbols"
-entity_type: "concept"
-reading_count: 6
-mention_count: 6
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # symbols
 
-**symbols** (concept) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**symbols** (concept) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning symbols
 
-[[288-50]], [[379-18]], [[538-72]], [[1223-5]], [[2072-7]], [[2533-5]]
+[[263-17]], [[1152-14]], [[1223-5]], [[1467-12]], [[1580-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

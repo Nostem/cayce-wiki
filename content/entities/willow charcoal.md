@@ -1,18 +1,21 @@
 ---
 entity: "willow charcoal"
-entity_type: "remedy"
-reading_count: 9
-mention_count: 9
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
 # willow charcoal
 
-**willow charcoal** (remedy) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**willow charcoal** (remedy) appears in **14 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning willow charcoal
 
-[[543-28]], [[757-3]], [[2614-1]], [[2971-1]], [[3278-1]], [[4495-1]], [[4613-1]], [[4902-1]], [[5485-1]]
+[[147-1]], [[170-1]], [[2366-3]], [[2614-1]], [[2836-1]], [[2937-1]], [[2971-1]], [[3149-1]], [[3278-1]], [[3920-1]], [[4226-1]], [[4613-1]], [[4902-1]], [[5235-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

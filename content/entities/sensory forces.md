@@ -1,18 +1,21 @@
 ---
 entity: "sensory forces"
-entity_type: "concept"
-reading_count: 11
-mention_count: 11
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # sensory forces
 
-**sensory forces** (concept) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**sensory forces** (concept) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning sensory forces
 
-[[464-23]], [[477-1]], [[601-24]], [[758-4]], [[1074-1]], [[1154-1]], [[1268-1]], [[1425-2]], [[1588-1]], [[3726-1]], [[4100-1]]
+[[480-3]], [[949-7]], [[1179-10]], [[1399-1]], [[1594-4]], [[1666-1]], [[3000-3]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

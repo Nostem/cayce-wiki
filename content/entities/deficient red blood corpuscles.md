@@ -1,18 +1,21 @@
 ---
 entity: "deficient red blood corpuscles"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # deficient red blood corpuscles
 
-**deficient red blood corpuscles** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**deficient red blood corpuscles** (condition) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning deficient red blood corpuscles
 
-[[3755-2]], [[4895-1]]
+[[3-1]], [[224-1]], [[257-7]], [[3755-2]], [[4092-1]], [[4331-1]], [[4895-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

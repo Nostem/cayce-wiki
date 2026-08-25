@@ -1,18 +1,21 @@
 ---
 entity: "elimination of drosses"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 16
+literal_reading_count: 0
+semantic_reading_count: 16
+literal_mention_count: 0
+semantic_mention_count: 16
+tags: [entity, semantic]
 ---
 
 # elimination of drosses
 
-**elimination of drosses** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**elimination of drosses** (concept) appears in **16 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning elimination of drosses
 
-[[369-2]], [[910-3]], [[1735-1]], [[2763-1]], [[5525-1]]
+[[121-1]], [[257-251]], [[275-41]], [[288-12]], [[337-13]], [[409-25]], [[428-2]], [[433-2]], [[903-35]], [[1315-6]], [[1709-5]], [[1735-1]], [[2728-1]], [[4252-1]], [[4983-1]], [[5150-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

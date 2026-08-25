@@ -1,18 +1,21 @@
 ---
 entity: "quietude"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # quietude
 
-**quietude** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**quietude** (concept, remedy) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning quietude
 
-[[900-163]], [[900-176]]
+[[140-34]], [[587-5]], [[900-176]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

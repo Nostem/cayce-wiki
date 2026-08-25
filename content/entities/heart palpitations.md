@@ -1,18 +1,21 @@
 ---
 entity: "heart palpitations"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 96
+literal_reading_count: 0
+semantic_reading_count: 96
+literal_mention_count: 0
+semantic_mention_count: 96
+tags: [entity, semantic]
 ---
 
 # heart palpitations
 
-**heart palpitations** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**heart palpitations** (condition) appears in **96 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning heart palpitations
 
-[[325-50]], [[3970-1]], [[4317-1]]
+[[42-1]], [[87-2]], [[90-1]], [[130-1]], [[137-19]], [[261-1]], [[264-25]], [[270-5]], [[287-11]], [[306-3]], [[325-2]], [[325-6]], [[325-50]], [[325-66]], [[325-68]], [[383-1]], [[462-17]], [[464-17]], [[472-1]], [[535-1]], [[558-7]], [[565-1]], [[599-11]], [[611-1]], [[654-5]], [[678-2]], [[742-1]], [[768-2]], [[808-3]], [[843-2]], [[850-1]], [[900-289]], [[951-1]], [[958-2]], [[979-1]], [[995-1]], [[1010-6]], [[1010-8]], [[1010-10]], [[1014-1]], [[1022-1]], [[1026-1]], [[1143-1]], [[1352-3]], [[1377-3]], [[1377-6]], [[1443-1]], [[1621-1]], [[1770-7]], [[1779-3]], [[1829-2]], [[1953-1]], [[2123-1]], [[2130-1]], [[2462-1]], [[2517-3]], [[2665-3]], [[2693-1]], [[2823-2]], [[2843-2]], [[2903-2]], [[2973-1]], [[3072-1]], [[3118-1]], [[3235-1]], [[3242-1]], [[3272-1]], [[3412-1]], [[3425-1]], [[3760-1]], [[3786-1]], [[3811-1]], [[3838-1]], [[3845-1]], [[3893-1]], [[3970-1]], [[3991-1]], [[4102-1]], [[4157-1]], [[4172-1]], [[4301-1]], [[4317-1]], [[4501-1]], [[4534-1]], [[4642-1]], [[4657-1]], [[4694-1]], [[4854-1]], [[4999-1]], [[5197-1]], [[5443-1]], [[5541-1]], [[5554-1]], [[5555-1]], [[5606-1]], [[5699-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

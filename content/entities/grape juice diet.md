@@ -1,18 +1,21 @@
 ---
 entity: "grape juice diet"
-entity_type: "remedy"
-reading_count: 7
-mention_count: 7
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # grape juice diet
 
-**grape juice diet** (remedy) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**grape juice diet** (remedy) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning grape juice diet
 
-[[457-7]], [[1431-2]], [[1612-4]], [[1850-3]], [[2204-1]], [[3341-1]], [[3525-1]]
+[[357-10]], [[457-7]], [[619-10]], [[1612-4]], [[1829-2]], [[1850-3]], [[2204-1]], [[3525-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

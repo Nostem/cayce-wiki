@@ -1,18 +1,21 @@
 ---
 entity: "diet management"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["remedy"]
+reading_count: 16
+literal_reading_count: 0
+semantic_reading_count: 16
+literal_mention_count: 0
+semantic_mention_count: 16
+tags: [entity, semantic]
 ---
 
 # diet management
 
-**diet management** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**diet management** (remedy) appears in **16 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning diet management
 
-[[257-240]], [[433-4]]
+[[1-1]], [[261-18]], [[348-25]], [[372-7]], [[378-1]], [[758-10]], [[758-31]], [[847-1]], [[1352-1]], [[1377-7]], [[2153-6]], [[2299-6]], [[3604-1]], [[4128-2]], [[4259-1]], [[5609-6]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

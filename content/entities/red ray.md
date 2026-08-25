@@ -1,18 +1,21 @@
 ---
 entity: "red ray"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["concept", "remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # red ray
 
-**red ray** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**red ray** (concept, remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning red ray
 
-[[3863-1]], [[4484-1]]
+[[123-1]], [[137-38]], [[140-27]], [[1184-1]], [[3863-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "dr. bhagat singh thind"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Dr. Bhagat Singh Thind"
+entity_types: ["person"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
-# dr. bhagat singh thind
+# Dr. Bhagat Singh Thind
 
-**dr. bhagat singh thind** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Dr. Bhagat Singh Thind** (person) appears in **8 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning dr. bhagat singh thind
+## Readings mentioning Dr. Bhagat Singh Thind
 
-[[288-40]], [[618-6]]
+[[255-5]], [[257-149]], [[288-40]], [[410-2]], [[618-6]], [[873-1]], [[989-1]], [[1357-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

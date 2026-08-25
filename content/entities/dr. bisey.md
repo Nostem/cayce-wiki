@@ -1,18 +1,21 @@
 ---
-entity: "dr. bisey"
-entity_type: "person"
-reading_count: 3
-mention_count: 3
-tags: [entity, person]
+entity: "Dr. Bisey"
+entity_types: ["person"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
-# dr. bisey
+# Dr. Bisey
 
-**dr. bisey** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Dr. Bisey** (person) appears in **5 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning dr. bisey
+## Readings mentioning Dr. Bisey
 
-[[295-5]], [[358-1]], [[534-1]]
+[[551-13]], [[849-9]], [[1734-2]], [[1924-1]], [[2072-3]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

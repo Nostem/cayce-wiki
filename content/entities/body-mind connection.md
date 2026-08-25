@@ -1,18 +1,21 @@
 ---
 entity: "body-mind connection"
-entity_type: "concept"
-reading_count: 66
-mention_count: 66
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # body-mind connection
 
-**body-mind connection** (concept) appears in **66 readings** (66 mentions) — extracted by LLM semantic analysis.
+**body-mind connection** (concept) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning body-mind connection
 
-[[137-18]], [[184-1]], [[325-29]], [[333-11]], [[438-4]], [[543-29]], [[558-7]], [[617-1]], [[618-2]], [[847-3]], [[849-75]], [[881-1]], [[988-11]], [[1079-1]], [[1207-2]], [[1307-1]], [[1375-1]], [[1445-1]], [[1465-2]], [[1467-8]], [[1502-1]], [[1631-1]], [[1710-10]], [[1807-4]], [[1841-1]], [[1871-1]], [[2000-2]], [[2415-2]], [[2488-1]], [[2533-6]], [[2590-1]], [[2701-1]], [[2718-1]], [[2780-1]], [[2885-2]], [[2957-1]], [[2988-1]], [[3026-1]], [[3094-1]], [[3099-1]], [[3136-1]], [[3147-1]], [[3467-1]], [[3496-1]], [[3552-1]], [[3586-1]], [[3595-1]], [[3673-1]], [[3679-1]], [[3699-1]], [[3927-1]], [[4009-1]], [[4020-1]], [[4078-1]], [[4259-1]], [[4403-1]], [[4447-1]], [[4630-2]], [[4680-1]], [[5021-1]], [[5223-1]], [[5269-1]], [[5309-1]], [[5372-1]], [[5464-1]], [[5609-6]]
+[[264-11]], [[452-2]], [[1956-4]], [[2701-1]], [[3173-1]], [[4544-1]], [[5583-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

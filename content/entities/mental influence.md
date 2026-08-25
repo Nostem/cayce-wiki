@@ -1,18 +1,21 @@
 ---
 entity: "mental influence"
-entity_type: "concept"
-reading_count: 7
-mention_count: 7
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # mental influence
 
-**mental influence** (concept) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**mental influence** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mental influence
 
-[[347-2]], [[454-2]], [[849-35]], [[957-1]], [[2504-17]], [[2604-1]], [[5642-3]]
+[[136-49]], [[186-1]], [[849-35]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

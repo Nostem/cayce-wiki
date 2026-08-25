@@ -1,18 +1,21 @@
 ---
 entity: "electricity"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 17
+literal_reading_count: 0
+semantic_reading_count: 17
+literal_mention_count: 0
+semantic_mention_count: 17
+tags: [entity, semantic]
 ---
 
 # electricity
 
-**electricity** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**electricity** (concept, remedy) appears in **17 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning electricity
 
-[[170-1]], [[195-70]], [[1103-5]], [[1553-11]], [[3990-1]]
+[[34-6]], [[83-3]], [[194-1]], [[262-83]], [[464-4]], [[482-1]], [[933-2]], [[3421-2]], [[3618-1]], [[3729-1]], [[3953-1]], [[3990-1]], [[4497-1]], [[4524-3]], [[4524-4]], [[4727-2]], [[4812-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

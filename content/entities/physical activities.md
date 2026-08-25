@@ -1,18 +1,21 @@
 ---
 entity: "physical activities"
-entity_type: "concept"
-reading_count: 10
-mention_count: 10
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # physical activities
 
-**physical activities** (concept) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**physical activities** (concept, remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning physical activities
 
-[[435-1]], [[480-48]], [[781-4]], [[898-2]], [[1151-16]], [[2074-1]], [[2363-1]], [[2811-2]], [[5491-4]], [[5671-19]]
+[[254-72]], [[386-1]], [[953-11]], [[1158-13]], [[2811-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

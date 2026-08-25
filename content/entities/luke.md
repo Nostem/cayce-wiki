@@ -1,18 +1,21 @@
 ---
-entity: "luke"
-entity_type: "person"
-reading_count: 6
-mention_count: 6
-tags: [entity, person]
+entity: "Luke"
+entity_types: ["person"]
+reading_count: 25
+literal_reading_count: 0
+semantic_reading_count: 25
+literal_mention_count: 0
+semantic_mention_count: 25
+tags: [entity, semantic]
 ---
 
-# luke
+# Luke
 
-**luke** (person) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**Luke** (person) appears in **25 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning luke
+## Readings mentioning Luke
 
-[[452-5]], [[1179-8]], [[1468-3]], [[2205-3]], [[2574-1]], [[3091-1]]
+[[262-103]], [[294-192]], [[452-5]], [[622-4]], [[649-1]], [[707-1]], [[857-1]], [[877-1]], [[993-5]], [[1151-10]], [[1179-8]], [[1468-2]], [[1468-3]], [[1523-16]], [[1552-1]], [[1990-3]], [[2205-3]], [[2282-1]], [[2574-1]], [[2602-3]], [[3027-2]], [[3175-3]], [[3183-1]], [[3292-1]], [[5398-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

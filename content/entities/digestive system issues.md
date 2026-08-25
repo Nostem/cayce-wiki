@@ -1,18 +1,21 @@
 ---
 entity: "digestive system issues"
-entity_type: "condition"
+entity_types: ["condition"]
 reading_count: 28
-mention_count: 28
-tags: [entity, condition]
+literal_reading_count: 0
+semantic_reading_count: 28
+literal_mention_count: 0
+semantic_mention_count: 28
+tags: [entity, semantic]
 ---
 
 # digestive system issues
 
-**digestive system issues** (condition) appears in **28 readings** (28 mentions) — extracted by LLM semantic analysis.
+**digestive system issues** (condition) appears in **28 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning digestive system issues
 
-[[28-1]], [[263-3]], [[294-180]], [[303-22]], [[325-53]], [[391-5]], [[464-9]], [[543-6]], [[661-5]], [[847-1]], [[1568-1]], [[1730-2]], [[2289-3]], [[2597-7]], [[2780-1]], [[3190-2]], [[3190-3]], [[3453-1]], [[3776-17]], [[3885-1]], [[3934-1]], [[4281-4]], [[4604-1]], [[4734-1]], [[4892-1]], [[5269-1]], [[5535-1]], [[5735-1]]
+[[165-12]], [[169-1]], [[318-2]], [[337-17]], [[340-4]], [[340-22]], [[429-1]], [[453-1]], [[463-1]], [[464-10]], [[486-1]], [[791-1]], [[1100-3]], [[1100-5]], [[2100-1]], [[2711-1]], [[3780-2]], [[3915-1]], [[4357-1]], [[4411-1]], [[4430-1]], [[4892-1]], [[5424-1]], [[5432-1]], [[5474-1]], [[5493-1]], [[5621-2]], [[5647-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

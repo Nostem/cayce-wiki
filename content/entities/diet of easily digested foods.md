@@ -1,18 +1,21 @@
 ---
 entity: "diet of easily digested foods"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 5
-mention_count: 5
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # diet of easily digested foods
 
-**diet of easily digested foods** (remedy) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**diet of easily digested foods** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning diet of easily digested foods
 
-[[325-8]], [[538-11]], [[601-23]], [[3947-1]], [[4668-1]]
+[[103-1]], [[143-8]], [[369-1]], [[601-23]], [[5542-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "elimination and assimilation"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # elimination and assimilation
 
-**elimination and assimilation** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**elimination and assimilation** (concept) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning elimination and assimilation
 
-[[294-21]], [[717-1]], [[3008-1]], [[4283-5]], [[4574-1]]
+[[368-1]], [[1202-2]], [[1269-1]], [[2152-1]], [[4218-5]], [[4390-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

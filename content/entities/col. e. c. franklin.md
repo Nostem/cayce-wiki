@@ -1,18 +1,21 @@
 ---
-entity: "col. e. c. franklin"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Col. E. C. Franklin"
+entity_types: ["person"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# col. e. c. franklin
+# Col. E. C. Franklin
 
-**col. e. c. franklin** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Col. E. C. Franklin** (person) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning col. e. c. franklin
+## Readings mentioning Col. E. C. Franklin
 
-[[257-246]], [[257-248]]
+[[257-246]], [[257-248]], [[257-251]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

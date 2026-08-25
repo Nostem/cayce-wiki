@@ -1,18 +1,21 @@
 ---
 entity: "spiritual attainment"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # spiritual attainment
 
-**spiritual attainment** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**spiritual attainment** (concept) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning spiritual attainment
 
-[[1223-5]], [[2301-3]]
+[[303-31]], [[1223-5]], [[1226-3]], [[2301-3]], [[2533-5]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

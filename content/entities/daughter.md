@@ -1,18 +1,21 @@
 ---
 entity: "daughter"
-entity_type: "person"
-reading_count: 4
-mention_count: 4
-tags: [entity, person]
+entity_types: ["person"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # daughter
 
-**daughter** (person) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**daughter** (person) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning daughter
 
-[[303-41]], [[325-25]], [[464-34]], [[3776-7]]
+[[304-42]], [[325-65]], [[464-17]], [[464-20]], [[532-1]], [[584-4]], [[1553-12]], [[2772-1]], [[3776-6]], [[4546-1]], [[5026-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

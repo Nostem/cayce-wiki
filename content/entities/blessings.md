@@ -1,18 +1,21 @@
 ---
 entity: "blessings"
-entity_type: "concept"
-reading_count: 9
-mention_count: 9
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # blessings
 
-**blessings** (concept) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**blessings** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning blessings
 
-[[99-8]], [[254-57]], [[262-74]], [[281-21]], [[294-47]], [[705-1]], [[711-4]], [[934-3]], [[1563-3]]
+[[281-23]], [[428-14]], [[758-32]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

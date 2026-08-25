@@ -1,18 +1,21 @@
 ---
 entity: "tremor"
-entity_type: "condition"
-reading_count: 5
-mention_count: 5
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # tremor
 
-**tremor** (condition) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**tremor** (condition) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning tremor
 
-[[3090-1]], [[3384-1]], [[3384-2]], [[3468-1]], [[3934-3]]
+[[1465-10]], [[2890-1]], [[3005-1]], [[3016-1]], [[3090-1]], [[3384-2]], [[3521-1]], [[3934-1]], [[3934-3]], [[4848-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

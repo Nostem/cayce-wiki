@@ -1,18 +1,21 @@
 ---
-entity: "jamestown island"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity: "Jamestown Island"
+entity_types: ["place"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# jamestown island
+# Jamestown Island
 
-**jamestown island** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Jamestown Island** (place) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning jamestown island
+## Readings mentioning Jamestown Island
 
-[[268-3]], [[3645-1]], [[3647-1]]
+[[268-3]], [[1283-1]], [[3645-1]], [[3647-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "frances y. morrow"
-entity_type: "person"
-reading_count: 20
-mention_count: 20
-tags: [entity, person]
+entity: "Frances Y. Morrow"
+entity_types: ["person"]
+reading_count: 44
+literal_reading_count: 0
+semantic_reading_count: 44
+literal_mention_count: 0
+semantic_mention_count: 44
+tags: [entity, semantic]
 ---
 
-# frances y. morrow
+# Frances Y. Morrow
 
-**frances y. morrow** (person) appears in **20 readings** (20 mentions) — extracted by LLM semantic analysis.
+**Frances Y. Morrow** (person) appears in **44 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning frances y. morrow
+## Readings mentioning Frances Y. Morrow
 
-[[254-101]], [[257-247]], [[262-36]], [[262-53]], [[262-65]], [[262-68]], [[262-69]], [[262-70]], [[262-71]], [[262-72]], [[262-81]], [[262-85]], [[262-94]], [[262-95]], [[262-100]], [[262-102]], [[262-104]], [[262-110]], [[473-1]], [[540-1]]
+[[254-55]], [[254-59]], [[254-101]], [[254-105]], [[262-38]], [[262-41]], [[262-42]], [[262-43]], [[262-44]], [[262-46]], [[262-48]], [[262-50]], [[262-62]], [[262-69]], [[262-73]], [[262-89]], [[262-93]], [[262-94]], [[262-101]], [[262-102]], [[262-104]], [[262-107]], [[262-108]], [[262-109]], [[262-110]], [[262-113]], [[262-117]], [[262-120]], [[262-123]], [[262-127]], [[262-128]], [[262-129]], [[281-31]], [[281-37]], [[281-39]], [[281-40]], [[281-57]], [[281-60]], [[294-204]], [[404-11]], [[540-1]], [[1223-5]], [[1450-1]], [[1467-12]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

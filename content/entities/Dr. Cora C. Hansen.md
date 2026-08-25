@@ -1,18 +1,21 @@
 ---
-entity: "dr. cora c. hansen"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Dr. Cora C. Hansen"
+entity_types: ["person"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
-# dr. cora c. hansen
+# Dr. Cora C. Hansen
 
-**dr. cora c. hansen** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Dr. Cora C. Hansen** (person) appears in **8 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning dr. cora c. hansen
+## Readings mentioning Dr. Cora C. Hansen
 
-[[337-5]], [[5632-1]]
+[[120-2]], [[120-3]], [[135-1]], [[337-11]], [[900-454]], [[1100-27]], [[1585-1]], [[5632-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

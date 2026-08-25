@@ -1,18 +1,21 @@
 ---
-entity: "white brotherhood"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity: "White Brotherhood"
+entity_types: ["concept"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
-# white brotherhood
+# White Brotherhood
 
-**white brotherhood** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**White Brotherhood** (concept) appears in **10 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning white brotherhood
+## Readings mentioning White Brotherhood
 
-[[1861-3]], [[5748-5]]
+[[440-8]], [[587-5]], [[587-6]], [[1010-17]], [[1152-11]], [[1472-15]], [[1859-1]], [[1861-3]], [[1861-5]], [[5748-5]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

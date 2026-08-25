@@ -1,18 +1,21 @@
 ---
 entity: "low blood count"
-entity_type: "condition"
+entity_types: ["condition"]
 reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # low blood count
 
-**low blood count** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**low blood count** (condition) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning low blood count
 
-[[303-2]], [[341-32]], [[341-33]], [[2587-1]], [[4794-1]], [[5552-1]]
+[[341-33]], [[357-13]], [[1343-2]], [[1343-3]], [[2587-1]], [[3043-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

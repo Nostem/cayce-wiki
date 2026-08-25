@@ -1,18 +1,21 @@
 ---
 entity: "elm bark"
-entity_type: "remedy"
-reading_count: 14
-mention_count: 14
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # elm bark
 
-**elm bark** (remedy) appears in **14 readings** (14 mentions) — extracted by LLM semantic analysis.
+**elm bark** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning elm bark
 
-[[257-214]], [[257-215]], [[257-219]], [[369-1]], [[745-1]], [[840-1]], [[2252-1]], [[2580-1]], [[4653-1]], [[4738-1]], [[4769-2]], [[4804-2]], [[4841-2]], [[5200-1]]
+[[257-215]], [[257-217]], [[257-219]], [[5611-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

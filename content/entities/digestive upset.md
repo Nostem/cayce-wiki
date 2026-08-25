@@ -1,18 +1,21 @@
 ---
 entity: "digestive upset"
-entity_type: "condition"
-reading_count: 14
-mention_count: 14
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 85
+literal_reading_count: 0
+semantic_reading_count: 85
+literal_mention_count: 0
+semantic_mention_count: 85
+tags: [entity, semantic]
 ---
 
 # digestive upset
 
-**digestive upset** (condition) appears in **14 readings** (14 mentions) — extracted by LLM semantic analysis.
+**digestive upset** (condition) appears in **85 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning digestive upset
 
-[[418-4]], [[691-2]], [[804-1]], [[1176-1]], [[1490-1]], [[1765-1]], [[1964-1]], [[1975-1]], [[2084-8]], [[2299-11]], [[2310-1]], [[2383-2]], [[3586-1]], [[4003-1]]
+[[189-7]], [[274-6]], [[303-22]], [[303-36]], [[314-3]], [[340-19]], [[415-3]], [[415-10]], [[418-4]], [[464-33]], [[559-6]], [[593-1]], [[635-9]], [[642-1]], [[657-1]], [[691-2]], [[697-1]], [[743-1]], [[804-1]], [[808-15]], [[838-1]], [[949-14]], [[1052-1]], [[1112-4]], [[1120-2]], [[1236-1]], [[1238-2]], [[1247-1]], [[1308-1]], [[1312-2]], [[1375-1]], [[1398-3]], [[1405-1]], [[1412-1]], [[1422-1]], [[1467-18]], [[1498-1]], [[1521-2]], [[1572-1]], [[1584-1]], [[1635-1]], [[1657-1]], [[1681-2]], [[1706-1]], [[1710-6]], [[1783-1]], [[1783-3]], [[1788-12]], [[1811-1]], [[1964-1]], [[1975-1]], [[2058-2]], [[2084-8]], [[2090-2]], [[2106-1]], [[2116-1]], [[2179-1]], [[2289-2]], [[2299-11]], [[2310-1]], [[2342-1]], [[2378-3]], [[2479-1]], [[2645-1]], [[2702-1]], [[2718-1]], [[2773-1]], [[2849-1]], [[2882-1]], [[2959-1]], [[2982-2]], [[3047-1]], [[3050-2]], [[3195-1]], [[3266-1]], [[3280-1]], [[3376-1]], [[3393-1]], [[3429-1]], [[3702-1]], [[4003-1]], [[4069-1]], [[5046-1]], [[5269-1]], [[5342-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "plantain ointment"
-entity_type: "remedy"
-reading_count: 7
-mention_count: 7
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # plantain ointment
 
-**plantain ointment** (remedy) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**plantain ointment** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning plantain ointment
 
-[[683-4]], [[1541-8]], [[1541-9]], [[3121-1]], [[4438-4]], [[5161-1]], [[5520-2]]
+[[1242-4]], [[1242-5]], [[1541-9]], [[3121-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

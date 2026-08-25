@@ -1,18 +1,21 @@
 ---
 entity: "alkalin reaction diet"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # alkalin reaction diet
 
-**alkalin reaction diet** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**alkalin reaction diet** (remedy) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning alkalin reaction diet
 
-[[325-29]], [[5443-1]]
+[[2-14]], [[24-1]], [[294-165]], [[325-29]], [[960-9]], [[4143-1]], [[5562-8]], [[5621-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

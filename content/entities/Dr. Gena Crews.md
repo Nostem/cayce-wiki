@@ -1,18 +1,21 @@
 ---
-entity: "dr. gena crews"
-entity_type: "person"
-reading_count: 6
-mention_count: 6
-tags: [entity, person]
+entity: "Dr. Gena Crews"
+entity_types: ["person"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
-# dr. gena crews
+# Dr. Gena Crews
 
-**dr. gena crews** (person) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**Dr. Gena Crews** (person) appears in **14 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning dr. gena crews
+## Readings mentioning Dr. Gena Crews
 
-[[48-1]], [[543-6]], [[578-6]], [[1930-1]], [[2504-19]], [[5686-1]]
+[[48-1]], [[255-10]], [[267-2]], [[543-6]], [[560-7]], [[934-2]], [[1187-7]], [[1930-1]], [[2519-7]], [[3511-1]], [[5412-1]], [[5434-1]], [[5539-1]], [[5686-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

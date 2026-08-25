@@ -1,18 +1,21 @@
 ---
 entity: "emphysema"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # emphysema
 
-**emphysema** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**emphysema** (condition) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning emphysema
 
-[[231-1]], [[2742-1]], [[4825-3]]
+[[391-1]], [[391-18]], [[951-4]], [[1005-18]], [[1286-1]], [[1467-18]], [[2742-1]], [[5642-1]], [[5642-4]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

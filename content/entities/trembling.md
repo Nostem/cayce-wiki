@@ -1,18 +1,21 @@
 ---
 entity: "trembling"
-entity_type: "condition"
-reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 20
+literal_reading_count: 0
+semantic_reading_count: 20
+literal_mention_count: 0
+semantic_mention_count: 20
+tags: [entity, semantic]
 ---
 
 # trembling
 
-**trembling** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**trembling** (condition) appears in **20 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning trembling
 
-[[512-2]], [[1518-1]], [[2114-1]], [[2204-1]], [[2491-2]], [[3776-13]]
+[[243-17]], [[288-27]], [[369-11]], [[464-35]], [[505-2]], [[677-2]], [[697-1]], [[788-1]], [[975-4]], [[1112-6]], [[1158-8]], [[1254-1]], [[2084-3]], [[2095-1]], [[2491-5]], [[2684-1]], [[3334-1]], [[3644-1]], [[4082-1]], [[5634-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

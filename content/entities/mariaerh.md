@@ -1,18 +1,21 @@
 ---
-entity: "mariaerh"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Mariaerh"
+entity_types: ["person"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# mariaerh
+# Mariaerh
 
-**mariaerh** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Mariaerh** (person) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning mariaerh
+## Readings mentioning Mariaerh
 
-[[1468-3]], [[1523-16]]
+[[1523-16]], [[1986-1]], [[2390-3]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

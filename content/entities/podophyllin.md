@@ -1,18 +1,21 @@
 ---
 entity: "podophyllin"
-entity_type: "remedy"
-reading_count: 27
-mention_count: 27
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 23
+literal_reading_count: 0
+semantic_reading_count: 23
+literal_mention_count: 0
+semantic_mention_count: 23
+tags: [entity, semantic]
 ---
 
 # podophyllin
 
-**podophyllin** (remedy) appears in **27 readings** (27 mentions) — extracted by LLM semantic analysis.
+**podophyllin** (remedy) appears in **23 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning podophyllin
 
-[[28-1]], [[45-1]], [[117-1]], [[136-80]], [[191-1]], [[203-1]], [[270-4]], [[286-2]], [[294-21]], [[391-4]], [[470-5]], [[1013-6]], [[2451-2]], [[2588-1]], [[3627-1]], [[3859-2]], [[3865-1]], [[3968-1]], [[4095-1]], [[4176-1]], [[4199-1]], [[4232-1]], [[4326-1]], [[4466-1]], [[4592-1]], [[4646-4]], [[4997-1]]
+[[28-1]], [[136-80]], [[192-1]], [[203-1]], [[259-2]], [[286-2]], [[294-21]], [[304-16]], [[391-4]], [[1145-2]], [[2451-2]], [[2588-1]], [[2675-1]], [[2810-1]], [[3839-1]], [[3859-2]], [[3968-1]], [[4095-1]], [[4199-1]], [[4326-1]], [[4466-1]], [[4646-4]], [[4997-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

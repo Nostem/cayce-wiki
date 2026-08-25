@@ -1,18 +1,21 @@
 ---
 entity: "olive oil shampoo"
-entity_type: "remedy"
-reading_count: 8
-mention_count: 8
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # olive oil shampoo
 
-**olive oil shampoo** (remedy) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**olive oil shampoo** (remedy) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning olive oil shampoo
 
-[[255-10]], [[275-42]], [[970-1]], [[1431-2]], [[1523-3]], [[3379-1]], [[3517-1]], [[3904-1]]
+[[255-10]], [[275-27]], [[970-1]], [[1431-2]], [[1467-18]], [[1523-3]], [[3379-1]], [[3517-1]], [[3904-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

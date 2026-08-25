@@ -1,18 +1,21 @@
 ---
 entity: "intestinal antiseptics"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 6
-mention_count: 6
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # intestinal antiseptics
 
-**intestinal antiseptics** (remedy) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**intestinal antiseptics** (remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning intestinal antiseptics
 
-[[394-4]], [[653-1]], [[1005-9]], [[3394-1]], [[4452-1]], [[5519-1]]
+[[48-1]], [[653-1]], [[1005-9]], [[3394-1]], [[4345-1]], [[4452-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

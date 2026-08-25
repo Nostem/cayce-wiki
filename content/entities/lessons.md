@@ -1,18 +1,21 @@
 ---
 entity: "lessons"
-entity_type: "concept"
-reading_count: 6
-mention_count: 6
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # lessons
 
-**lessons** (concept) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**lessons** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning lessons
 
-[[294-37]], [[294-68]], [[900-205]], [[900-208]], [[900-307]], [[900-321]]
+[[140-17]], [[257-78]], [[294-159]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

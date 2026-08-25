@@ -1,17 +1,21 @@
 ---
 entity: "Television (Atlantean)"
-mention_count: 76
+entity_types: ["literal"]
 reading_count: 48
-tags: [entity]
+literal_reading_count: 48
+semantic_reading_count: 0
+literal_mention_count: 76
+semantic_mention_count: 0
+tags: [entity, semantic]
 ---
 
 # Television (Atlantean)
 
-**Television (Atlantean)** appears in **48 readings** (76 total mentions) across the corpus.
+**Television (Atlantean)** (literal) appears in **48 readings** — indexed through deterministic literal extraction.
 
 ## Readings mentioning Television (Atlantean)
 
 [[254-45]], [[257-32]], [[257-41]], [[257-62]], [[257-68]], [[257-194]], [[257-202]], [[257-203]], [[257-207]], [[257-244]], [[257-246]], [[257-251]], [[257-253]], [[270-24]], [[270-28]], [[270-49]], [[288-55]], [[341-53]], [[364-9]], [[364-13]], [[416-7]], [[487-21]], [[557-2]], [[811-2]], [[813-1]], [[996-12]], [[1298-3]], [[1472-13]], [[1473-1]], [[1497-5]], [[1566-3]], [[1815-1]], [[1827-1]], [[2012-1]], [[2062-1]], [[2072-8]], [[2279-1]], [[2421-3]], [[2869-1]], [[2962-1]], [[3100-1]], [[3188-1]], [[3258-1]], [[3420-1]], [[3812-5]], [[5234-1]], [[5594-1]], [[5603-1]]
 
 ---
-*Auto-generated entity index. 48 readings, 76 mentions.*
+*Auto-generated index. LLM classifications should be verified before citation.*

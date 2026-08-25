@@ -1,18 +1,21 @@
 ---
-entity: "west coast"
-entity_type: "place"
+entity: "West Coast"
+entity_types: ["place"]
 reading_count: 7
-mention_count: 7
-tags: [entity, place]
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
-# west coast
+# West Coast
 
-**west coast** (place) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**West Coast** (place) appears in **7 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning west coast
+## Readings mentioning West Coast
 
-[[257-53]], [[491-1]], [[1066-2]], [[1313-1]], [[2004-1]], [[3480-1]], [[5154-1]]
+[[257-53]], [[1066-2]], [[1770-3]], [[1947-4]], [[2398-2]], [[2706-1]], [[3034-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

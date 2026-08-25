@@ -1,18 +1,21 @@
 ---
 entity: "st. jacob's oil"
-entity_type: "remedy"
-reading_count: 11
-mention_count: 11
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # st. jacob's oil
 
-**st. jacob's oil** (remedy) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**st. jacob's oil** (remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning st. jacob's oil
 
-[[140-21]], [[140-26]], [[303-23]], [[324-2]], [[326-9]], [[569-22]], [[772-5]], [[1145-1]], [[1519-3]], [[4421-1]], [[4553-1]]
+[[257-234]], [[326-9]], [[569-22]], [[1145-1]], [[1291-1]], [[4553-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

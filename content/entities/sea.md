@@ -1,18 +1,21 @@
 ---
 entity: "sea"
-entity_type: "place"
-reading_count: 2
-mention_count: 2
-tags: [entity, place]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # sea
 
-**sea** (place) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**sea** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning sea
 
-[[759-2]], [[3034-1]]
+[[386-1]], [[1111-2]], [[5416-3]], [[5618-6]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

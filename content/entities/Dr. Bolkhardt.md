@@ -1,18 +1,21 @@
 ---
-entity: "Dr. Bolkhardt"
-entity_type: "person"
-reading_count: 3
-mention_count: 3
-tags: [entity, person]
+entity: "dr. bolkhardt"
+entity_types: ["person"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
-# Dr. Bolkhardt
+# dr. bolkhardt
 
-**Dr. Bolkhardt** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**dr. bolkhardt** (person) appears in **10 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning Dr. Bolkhardt
+## Readings mentioning dr. bolkhardt
 
-[[808-2]], [[808-9]], [[808-11]]
+[[808-1]], [[808-2]], [[808-5]], [[808-6]], [[808-8]], [[808-9]], [[1048-4]], [[1183-2]], [[1183-3]], [[1935-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

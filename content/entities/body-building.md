@@ -1,18 +1,21 @@
 ---
 entity: "body-building"
-entity_type: "concept"
-reading_count: 13
-mention_count: 13
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # body-building
 
-**body-building** (concept) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**body-building** (concept) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning body-building
 
-[[264-47]], [[295-10]], [[501-4]], [[543-24]], [[681-2]], [[773-8]], [[929-1]], [[1158-23]], [[1187-9]], [[1553-21]], [[1568-2]], [[2956-1]], [[3468-2]]
+[[487-22]], [[1058-3]], [[1100-17]], [[1187-9]], [[2207-2]], [[2539-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

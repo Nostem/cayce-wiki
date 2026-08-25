@@ -1,18 +1,21 @@
 ---
-entity: "j. howard lawlor"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "J. Howard Lawlor"
+entity_types: ["person"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# j. howard lawlor
+# J. Howard Lawlor
 
-**j. howard lawlor** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**J. Howard Lawlor** (person) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning j. howard lawlor
+## Readings mentioning J. Howard Lawlor
 
-[[681-2]], [[3823-2]]
+[[254-85]], [[681-2]], [[705-2]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

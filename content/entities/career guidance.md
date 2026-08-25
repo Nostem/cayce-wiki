@@ -1,18 +1,21 @@
 ---
 entity: "career guidance"
-entity_type: "concept"
-reading_count: 8
-mention_count: 8
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
 # career guidance
 
-**career guidance** (concept) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**career guidance** (concept) appears in **14 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning career guidance
 
-[[459-13]], [[462-7]], [[462-11]], [[487-21]], [[487-25]], [[641-8]], [[1999-2]], [[3184-2]]
+[[228-8]], [[270-19]], [[349-8]], [[437-3]], [[554-4]], [[554-7]], [[641-9]], [[670-6]], [[670-8]], [[779-15]], [[1228-1]], [[1932-2]], [[2902-1]], [[4889-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "typhus"
-entity_type: "condition"
-reading_count: 5
-mention_count: 5
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # typhus
 
-**typhus** (condition) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**typhus** (condition) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning typhus
 
-[[289-6]], [[470-15]], [[608-13]], [[900-12]], [[1800-30]]
+[[289-5]], [[900-12]], [[1800-16]], [[1800-30]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

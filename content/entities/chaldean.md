@@ -1,18 +1,21 @@
 ---
-entity: "chaldean"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity: "Chaldean"
+entity_types: ["place"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
-# chaldean
+# Chaldean
 
-**chaldean** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Chaldean** (place) appears in **6 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning chaldean
+## Readings mentioning Chaldean
 
-[[136-1]], [[288-48]], [[1862-1]]
+[[358-3]], [[1188-3]], [[1851-1]], [[1897-1]], [[3098-2]], [[3440-2]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

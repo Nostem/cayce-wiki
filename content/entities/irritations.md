@@ -1,18 +1,21 @@
 ---
 entity: "irritations"
-entity_type: "condition"
-reading_count: 80
-mention_count: 80
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 15
+literal_reading_count: 0
+semantic_reading_count: 15
+literal_mention_count: 0
+semantic_mention_count: 15
+tags: [entity, semantic]
 ---
 
 # irritations
 
-**irritations** (condition) appears in **80 readings** (80 mentions) — extracted by LLM semantic analysis.
+**irritations** (condition) appears in **15 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning irritations
 
-[[255-10]], [[257-165]], [[264-24]], [[265-9]], [[282-1]], [[287-11]], [[289-8]], [[301-9]], [[307-17]], [[313-21]], [[357-4]], [[404-4]], [[409-17]], [[409-24]], [[414-2]], [[415-6]], [[416-5]], [[522-4]], [[538-48]], [[565-1]], [[653-2]], [[670-12]], [[715-5]], [[730-1]], [[757-4]], [[757-6]], [[758-27]], [[760-18]], [[772-3]], [[773-13]], [[800-1]], [[807-1]], [[817-1]], [[838-1]], [[843-2]], [[849-44]], [[877-3]], [[889-1]], [[903-26]], [[916-2]], [[989-1]], [[992-3]], [[1021-1]], [[1053-1]], [[1074-1]], [[1110-1]], [[1117-1]], [[1142-1]], [[1312-2]], [[1315-1]], [[1320-1]], [[1375-1]], [[1560-1]], [[1594-7]], [[1601-1]], [[1612-2]], [[1657-1]], [[1736-3]], [[1831-1]], [[1895-2]], [[1897-2]], [[2103-1]], [[2382-1]], [[2479-1]], [[2504-13]], [[2541-1]], [[2701-1]], [[2843-2]], [[3044-2]], [[3050-1]], [[3198-2]], [[3390-1]], [[3407-2]], [[3556-1]], [[3623-1]], [[3628-1]], [[5364-1]], [[5493-1]], [[5617-2]], [[5646-1]]
+[[265-9]], [[301-9]], [[304-27]], [[313-9]], [[416-5]], [[602-4]], [[786-1]], [[1136-1]], [[1297-2]], [[1566-1]], [[2372-2]], [[2684-1]], [[3264-1]], [[5456-2]], [[5671-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "improper digestion"
-entity_type: "condition"
+entity_types: ["condition"]
 reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # improper digestion
 
-**improper digestion** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**improper digestion** (condition) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning improper digestion
 
-[[283-2]], [[1196-5]], [[1343-2]], [[1411-1]], [[3214-1]], [[4801-1]]
+[[294-134]], [[3901-1]], [[4095-1]], [[4423-1]], [[4996-1]], [[5116-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

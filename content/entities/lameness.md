@@ -1,18 +1,21 @@
 ---
 entity: "lameness"
-entity_type: "condition"
-reading_count: 5
-mention_count: 5
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # lameness
 
-**lameness** (condition) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**lameness** (condition) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning lameness
 
-[[261-28]], [[1539-4]], [[2972-1]], [[3399-1]], [[5364-1]]
+[[1539-3]], [[1539-4]], [[1794-1]], [[2305-1]], [[2821-1]], [[2972-1]], [[5224-1]], [[5326-1]], [[5364-1]], [[5425-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

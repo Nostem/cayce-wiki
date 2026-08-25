@@ -1,18 +1,21 @@
 ---
 entity: "eruptions"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # eruptions
 
-**eruptions** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**eruptions** (condition) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning eruptions
 
-[[304-34]], [[757-3]], [[5640-1]]
+[[165-16]], [[304-34]], [[528-2]], [[1429-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

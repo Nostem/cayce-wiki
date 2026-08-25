@@ -1,18 +1,21 @@
 ---
 entity: "cold hepatic circulation"
-entity_type: "condition"
-reading_count: 7
-mention_count: 7
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # cold hepatic circulation
 
-**cold hepatic circulation** (condition) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**cold hepatic circulation** (condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning cold hepatic circulation
 
-[[536-1]], [[2198-1]], [[3819-1]], [[3865-1]], [[4216-1]], [[4806-1]], [[4858-1]]
+[[327-2]], [[369-11]], [[536-1]], [[2124-1]], [[3819-1]], [[3841-1]], [[3865-1]], [[4456-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

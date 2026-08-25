@@ -1,18 +1,21 @@
 ---
 entity: "diabetic tendency"
-entity_type: "condition"
-reading_count: 7
-mention_count: 7
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # diabetic tendency
 
-**diabetic tendency** (condition) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**diabetic tendency** (condition) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning diabetic tendency
 
-[[470-37]], [[480-41]], [[480-46]], [[480-47]], [[496-1]], [[584-1]], [[767-1]]
+[[415-7]], [[470-3]], [[480-40]], [[480-41]], [[480-42]], [[480-46]], [[480-47]], [[496-1]], [[584-1]], [[2429-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

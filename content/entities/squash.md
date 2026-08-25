@@ -1,18 +1,21 @@
 ---
 entity: "squash"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # squash
 
-**squash** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**squash** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning squash
 
-[[257-220]], [[533-7]]
+[[257-220]], [[533-7]], [[540-6]], [[826-13]], [[2800-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

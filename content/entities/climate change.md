@@ -1,18 +1,21 @@
 ---
 entity: "climate change"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # climate change
 
-**climate change** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**climate change** (concept, remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning climate change
 
-[[195-29]], [[3542-1]], [[4051-1]], [[4283-5]]
+[[195-29]], [[340-6]], [[538-3]], [[4029-1]], [[4283-5]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

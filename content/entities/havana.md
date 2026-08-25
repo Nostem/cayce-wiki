@@ -1,18 +1,21 @@
 ---
-entity: "havana"
-entity_type: "place"
+entity: "Havana"
+entity_types: ["place"]
 reading_count: 11
-mention_count: 11
-tags: [entity, place]
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
-# havana
+# Havana
 
-**havana** (place) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**Havana** (place) appears in **11 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning havana
+## Readings mentioning Havana
 
-[[531-1]], [[531-7]], [[815-5]], [[900-138]], [[900-271]], [[900-461]], [[1073-3]], [[4686-1]], [[4908-2]], [[5648-1]], [[5648-2]]
+[[531-7]], [[900-138]], [[900-461]], [[1058-5]], [[1073-3]], [[2340-1]], [[4686-1]], [[4908-2]], [[4908-7]], [[5648-1]], [[5648-2]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

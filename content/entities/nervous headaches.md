@@ -1,18 +1,21 @@
 ---
 entity: "nervous headaches"
-entity_type: "condition"
+entity_types: ["condition"]
 reading_count: 5
-mention_count: 5
-tags: [entity, condition]
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # nervous headaches
 
-**nervous headaches** (condition) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**nervous headaches** (condition) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning nervous headaches
 
-[[1192-6]], [[1315-1]], [[1505-2]], [[1584-2]], [[4409-1]]
+[[1192-6]], [[1315-1]], [[1505-2]], [[1584-2]], [[4680-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "static electricity"
-entity_type: "remedy"
-reading_count: 12
-mention_count: 12
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # static electricity
 
-**static electricity** (remedy) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**static electricity** (remedy) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning static electricity
 
-[[17-1]], [[34-1]], [[83-1]], [[538-2]], [[1058-4]], [[3056-1]], [[4187-1]], [[4396-1]], [[4468-1]], [[4703-1]], [[4707-2]], [[4804-1]]
+[[83-1]], [[200-1]], [[849-13]], [[1058-4]], [[3729-1]], [[3990-1]], [[4187-1]], [[4396-1]], [[4468-1]], [[4703-1]], [[4707-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

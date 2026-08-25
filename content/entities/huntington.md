@@ -1,18 +1,21 @@
 ---
-entity: "huntington"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity: "Huntington"
+entity_types: ["place"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
-# huntington
+# Huntington
 
-**huntington** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Huntington** (place) appears in **5 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning huntington
+## Readings mentioning Huntington
 
-[[133-2]], [[2153-3]], [[2345-2]]
+[[133-2]], [[943-10]], [[2153-3]], [[2345-2]], [[2546-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

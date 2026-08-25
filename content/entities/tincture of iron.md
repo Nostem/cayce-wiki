@@ -1,18 +1,21 @@
 ---
 entity: "tincture of iron"
-entity_type: "remedy"
-reading_count: 6
-mention_count: 6
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # tincture of iron
 
-**tincture of iron** (remedy) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**tincture of iron** (remedy) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning tincture of iron
 
-[[167-1]], [[1800-6]], [[1800-9]], [[1800-13]], [[4372-1]], [[4970-1]]
+[[147-25]], [[167-1]], [[294-1]], [[1800-6]], [[1800-13]], [[1800-15]], [[1800-34]], [[4144-1]], [[4372-1]], [[4775-1]], [[4970-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

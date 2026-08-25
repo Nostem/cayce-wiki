@@ -1,18 +1,21 @@
 ---
 entity: "nerve tension"
-entity_type: "concept"
-reading_count: 22
-mention_count: 22
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 74
+literal_reading_count: 0
+semantic_reading_count: 74
+literal_mention_count: 0
+semantic_mention_count: 76
+tags: [entity, semantic]
 ---
 
 # nerve tension
 
-**nerve tension** (concept) appears in **22 readings** (22 mentions) — extracted by LLM semantic analysis.
+**nerve tension** (concept, condition) appears in **74 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning nerve tension
 
-[[96-1]], [[106-7]], [[210-1]], [[566-2]], [[574-1]], [[583-7]], [[635-1]], [[807-1]], [[953-19]], [[976-1]], [[1713-6]], [[3717-1]], [[3753-1]], [[3878-1]], [[3988-1]], [[4404-1]], [[4441-1]], [[4548-1]], [[4790-2]], [[4825-3]], [[5504-1]], [[5700-4]]
+[[6-1]], [[26-1]], [[82-1]], [[106-7]], [[147-35]], [[149-1]], [[243-1]], [[259-4]], [[294-11]], [[294-79]], [[302-7]], [[304-1]], [[325-13]], [[325-14]], [[325-60]], [[335-1]], [[348-1]], [[538-11]], [[538-69]], [[574-1]], [[614-1]], [[807-1]], [[808-17]], [[900-356]], [[943-3]], [[1100-18]], [[1122-1]], [[1192-4]], [[1377-2]], [[1389-1]], [[1713-6]], [[1942-1]], [[2070-1]], [[2406-1]], [[2471-1]], [[2507-1]], [[2596-1]], [[2641-2]], [[2667-1]], [[2765-1]], [[2769-1]], [[2839-1]], [[3083-1]], [[3098-1]], [[3153-1]], [[3717-1]], [[3721-1]], [[3753-1]], [[3794-1]], [[3876-1]], [[4009-1]], [[4023-1]], [[4161-2]], [[4224-1]], [[4380-1]], [[4445-1]], [[4503-1]], [[4548-1]], [[4613-4]], [[4691-1]], [[4705-1]], [[4772-1]], [[4790-2]], [[4825-2]], [[4888-1]], [[5037-1]], [[5048-1]], [[5066-1]], [[5382-1]], [[5396-1]], [[5504-1]], [[5554-2]], [[5555-5]], [[5616-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "tolerance"
-entity_type: "concept"
-reading_count: 50
-mention_count: 50
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 30
+literal_reading_count: 0
+semantic_reading_count: 30
+literal_mention_count: 0
+semantic_mention_count: 30
+tags: [entity, semantic]
 ---
 
 # tolerance
 
-**tolerance** (concept) appears in **50 readings** (50 mentions) — extracted by LLM semantic analysis.
+**tolerance** (concept) appears in **30 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning tolerance
 
-[[254-77]], [[257-168]], [[315-5]], [[325-63]], [[379-3]], [[423-3]], [[473-1]], [[555-1]], [[618-3]], [[619-5]], [[661-4]], [[688-4]], [[729-1]], [[752-1]], [[805-4]], [[808-18]], [[832-1]], [[849-12]], [[873-1]], [[900-417]], [[987-2]], [[1007-1]], [[1007-3]], [[1032-1]], [[1035-1]], [[1046-1]], [[1143-2]], [[1158-7]], [[1294-1]], [[1450-1]], [[1548-5]], [[1561-1]], [[1669-1]], [[1670-1]], [[1819-2]], [[2072-15]], [[2501-8]], [[2603-1]], [[2612-1]], [[2913-2]], [[3062-2]], [[3630-2]], [[3800-1]], [[5106-1]], [[5125-1]], [[5260-1]], [[5268-1]], [[5354-1]], [[5358-1]], [[5733-1]]
+[[315-5]], [[439-1]], [[451-3]], [[578-2]], [[619-5]], [[678-1]], [[699-1]], [[832-1]], [[849-12]], [[873-1]], [[900-417]], [[987-2]], [[1007-1]], [[1143-2]], [[1298-1]], [[1450-1]], [[1548-5]], [[1561-1]], [[1624-1]], [[1626-1]], [[1669-1]], [[1786-1]], [[2051-5]], [[2522-1]], [[2641-1]], [[2872-3]], [[5106-1]], [[5268-1]], [[5358-1]], [[5733-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

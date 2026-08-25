@@ -1,18 +1,21 @@
 ---
 entity: "white lead poisoning"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # white lead poisoning
 
-**white lead poisoning** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**white lead poisoning** (condition) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning white lead poisoning
 
-[[287-10]], [[287-14]], [[287-17]]
+[[287-2]], [[287-7]], [[287-8]], [[287-10]], [[287-11]], [[287-14]], [[287-16]], [[287-18]], [[287-19]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

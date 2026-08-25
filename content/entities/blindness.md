@@ -1,18 +1,21 @@
 ---
 entity: "blindness"
-entity_type: "condition"
-reading_count: 14
-mention_count: 14
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 35
+literal_reading_count: 0
+semantic_reading_count: 35
+literal_mention_count: 0
+semantic_mention_count: 35
+tags: [entity, semantic]
 ---
 
 # blindness
 
-**blindness** (condition) appears in **14 readings** (14 mentions) — extracted by LLM semantic analysis.
+**blindness** (condition) appears in **35 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning blindness
 
-[[110-2]], [[141-1]], [[447-1]], [[540-10]], [[1858-1]], [[1937-1]], [[2238-1]], [[2436-3]], [[2436-6]], [[2999-1]], [[3219-1]], [[4173-2]], [[5038-1]], [[5451-1]]
+[[2-6]], [[141-1]], [[281-58]], [[326-16]], [[403-3]], [[447-1]], [[464-37]], [[540-10]], [[545-1]], [[1563-3]], [[1824-1]], [[1858-1]], [[1861-1]], [[1861-19]], [[1937-1]], [[2181-1]], [[2238-1]], [[2302-2]], [[2302-5]], [[2436-3]], [[2436-6]], [[2796-1]], [[2999-1]], [[3059-1]], [[3077-2]], [[3219-1]], [[3461-1]], [[3580-1]], [[3810-1]], [[4036-1]], [[4061-1]], [[4061-2]], [[4173-1]], [[4968-1]], [[5038-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "Kopperl"
-entity_type: "place"
-reading_count: 4
-mention_count: 4
-tags: [entity, place]
+entity_types: ["place"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # Kopperl
 
-**Kopperl** (place) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Kopperl** (place) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Kopperl
 
-[[4905-34]], [[4905-43]], [[4972-1]], [[4972-3]]
+[[4905-1]], [[4905-2]], [[4905-43]], [[4905-46]], [[4905-56]], [[4905-58]], [[4905-59]], [[4972-2]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "infra red light"
-entity_type: "remedy"
-reading_count: 22
-mention_count: 22
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 27
+literal_reading_count: 0
+semantic_reading_count: 27
+literal_mention_count: 0
+semantic_mention_count: 27
+tags: [entity, semantic]
 ---
 
 # infra red light
 
-**infra red light** (remedy) appears in **22 readings** (22 mentions) — extracted by LLM semantic analysis.
+**infra red light** (remedy) appears in **27 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning infra red light
 
-[[261-3]], [[275-8]], [[275-13]], [[302-9]], [[470-17]], [[487-14]], [[602-1]], [[808-5]], [[1083-3]], [[1758-1]], [[1771-4]], [[2150-1]], [[2217-1]], [[2426-1]], [[2426-3]], [[2456-2]], [[2456-3]], [[2456-4]], [[2745-1]], [[3191-1]], [[4184-1]], [[4579-1]]
+[[55-1]], [[144-1]], [[261-3]], [[261-4]], [[268-1]], [[275-8]], [[275-14]], [[302-9]], [[409-16]], [[443-4]], [[470-17]], [[559-3]], [[623-1]], [[760-16]], [[808-5]], [[2426-3]], [[2456-3]], [[2456-4]], [[2745-1]], [[2793-1]], [[3191-1]], [[3838-1]], [[4164-2]], [[4184-1]], [[4791-1]], [[5439-1]], [[5440-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

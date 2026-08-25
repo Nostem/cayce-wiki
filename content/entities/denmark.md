@@ -1,18 +1,21 @@
 ---
-entity: "denmark"
-entity_type: "place"
-reading_count: 4
-mention_count: 4
-tags: [entity, place]
+entity: "Denmark"
+entity_types: ["place"]
+reading_count: 18
+literal_reading_count: 0
+semantic_reading_count: 18
+literal_mention_count: 0
+semantic_mention_count: 18
+tags: [entity, semantic]
 ---
 
-# denmark
+# Denmark
 
-**denmark** (place) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Denmark** (place) appears in **18 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning denmark
+## Readings mentioning Denmark
 
-[[2772-5]], [[2910-1]], [[2988-2]], [[4053-1]]
+[[583-1]], [[583-3]], [[870-1]], [[1602-3]], [[1770-8]], [[1771-3]], [[2772-5]], [[2910-1]], [[2988-2]], [[2988-5]], [[3034-1]], [[3034-2]], [[3246-1]], [[3435-1]], [[4053-1]], [[5164-1]], [[5188-1]], [[5214-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

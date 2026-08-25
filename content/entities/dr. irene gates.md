@@ -1,18 +1,21 @@
 ---
-entity: "dr. irene gates"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Dr. Irene Gates"
+entity_types: ["person"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
-# dr. irene gates
+# Dr. Irene Gates
 
-**dr. irene gates** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Dr. Irene Gates** (person) appears in **6 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning dr. irene gates
+## Readings mentioning Dr. Irene Gates
 
-[[1472-7]], [[1472-16]]
+[[1472-4]], [[1472-7]], [[1472-9]], [[1472-14]], [[1472-15]], [[1472-16]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

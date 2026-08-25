@@ -1,18 +1,21 @@
 ---
 entity: "dry skin"
-entity_type: "condition"
-reading_count: 13
-mention_count: 13
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 19
+literal_reading_count: 0
+semantic_reading_count: 19
+literal_mention_count: 0
+semantic_mention_count: 19
+tags: [entity, semantic]
 ---
 
 # dry skin
 
-**dry skin** (condition) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**dry skin** (condition) appears in **19 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning dry skin
 
-[[274-9]], [[288-38]], [[480-15]], [[543-27]], [[763-1]], [[781-1]], [[877-13]], [[1770-7]], [[2085-4]], [[2329-2]], [[2713-1]], [[4295-1]], [[5391-1]]
+[[288-38]], [[480-15]], [[877-13]], [[953-30]], [[954-2]], [[1303-1]], [[1770-7]], [[1897-2]], [[2085-4]], [[2127-1]], [[2329-1]], [[2329-2]], [[2582-1]], [[2936-1]], [[3051-1]], [[3051-3]], [[3931-1]], [[5104-1]], [[5391-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

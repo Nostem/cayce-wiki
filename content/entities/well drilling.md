@@ -1,18 +1,21 @@
 ---
 entity: "well drilling"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # well drilling
 
-**well drilling** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**well drilling** (concept) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning well drilling
 
-[[4905-42]], [[4905-70]], [[5628-11]], [[5741-6]]
+[[3777-7]], [[4905-2]], [[4905-5]], [[4905-11]], [[4905-13]], [[4905-27]], [[4905-42]], [[4905-63]], [[4905-64]], [[5628-2]], [[5628-4]], [[5628-10]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

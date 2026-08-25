@@ -1,18 +1,21 @@
 ---
 entity: "strength"
-entity_type: "concept"
-reading_count: 21
-mention_count: 21
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # strength
 
-**strength** (concept) appears in **21 readings** (21 mentions) — extracted by LLM semantic analysis.
+**strength** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning strength
 
-[[102-3]], [[137-125]], [[254-78]], [[294-48]], [[303-34]], [[325-37]], [[325-39]], [[341-18]], [[341-36]], [[369-9]], [[378-37]], [[409-23]], [[551-9]], [[556-3]], [[1058-3]], [[1173-6]], [[2504-20]], [[3176-1]], [[3776-17]], [[5529-5]], [[5678-1]]
+[[262-74]], [[409-23]], [[835-1]], [[5421-6]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

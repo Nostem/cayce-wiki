@@ -1,18 +1,21 @@
 ---
-entity: "sun air farm"
-entity_type: "place"
-reading_count: 7
-mention_count: 7
-tags: [entity, place]
+entity: "Sun Air Farm"
+entity_types: ["place"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
-# sun air farm
+# Sun Air Farm
 
-**sun air farm** (place) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**Sun Air Farm** (place) appears in **8 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning sun air farm
+## Readings mentioning Sun Air Farm
 
-[[165-22]], [[165-25]], [[333-5]], [[567-3]], [[631-3]], [[631-4]], [[1262-1]]
+[[262-83]], [[333-5]], [[438-1]], [[560-3]], [[567-5]], [[631-5]], [[742-2]], [[1932-3]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

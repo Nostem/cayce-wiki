@@ -1,18 +1,21 @@
 ---
 entity: "L.I."
-entity_type: "place"
-reading_count: 5
-mention_count: 5
-tags: [entity, place]
+entity_types: ["place"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # L.I.
 
-**L.I.** (place) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**L.I.** (place) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning L.I.
 
-[[327-4]], [[459-10]], [[632-7]], [[730-1]], [[733-1]]
+[[417-2]], [[480-12]], [[632-7]], [[723-1]], [[737-1]], [[1894-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

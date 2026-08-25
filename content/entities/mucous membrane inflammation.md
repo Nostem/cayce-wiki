@@ -1,18 +1,21 @@
 ---
 entity: "mucous membrane inflammation"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # mucous membrane inflammation
 
-**mucous membrane inflammation** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**mucous membrane inflammation** (condition) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mucous membrane inflammation
 
-[[1151-5]], [[2520-2]]
+[[680-1]], [[1100-9]], [[1204-2]], [[1311-1]], [[1582-3]], [[2094-2]], [[2103-2]], [[2186-1]], [[2289-2]], [[3667-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

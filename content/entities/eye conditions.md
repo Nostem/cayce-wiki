@@ -1,18 +1,21 @@
 ---
 entity: "eye conditions"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # eye conditions
 
-**eye conditions** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**eye conditions** (condition) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning eye conditions
 
-[[1935-1]], [[4284-1]], [[5451-6]]
+[[633-10]], [[758-29]], [[3963-1]], [[4986-1]], [[5713-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

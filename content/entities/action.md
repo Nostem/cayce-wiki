@@ -1,18 +1,21 @@
 ---
 entity: "action"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # action
 
-**action** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**action** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning action
 
-[[3976-5]], [[4278-1]]
+[[412-12]], [[3934-3]], [[3976-5]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

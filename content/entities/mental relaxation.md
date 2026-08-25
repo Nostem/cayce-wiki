@@ -1,18 +1,21 @@
 ---
 entity: "mental relaxation"
-entity_type: "concept"
-reading_count: 3
-mention_count: 3
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # mental relaxation
 
-**mental relaxation** (concept) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**mental relaxation** (concept, remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mental relaxation
 
-[[349-12]], [[903-16]], [[3666-1]]
+[[257-96]], [[900-35]], [[900-452]], [[1688-4]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

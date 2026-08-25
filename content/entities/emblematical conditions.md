@@ -1,18 +1,21 @@
 ---
 entity: "emblematical conditions"
-entity_type: "concept"
-reading_count: 14
-mention_count: 14
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # emblematical conditions
 
-**emblematical conditions** (concept) appears in **14 readings** (14 mentions) — extracted by LLM semantic analysis.
+**emblematical conditions** (concept) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning emblematical conditions
 
-[[136-60]], [[137-24]], [[137-28]], [[137-41]], [[294-67]], [[294-89]], [[294-136]], [[538-20]], [[538-23]], [[900-13]], [[900-209]], [[900-252]], [[900-287]], [[2671-5]]
+[[136-29]], [[257-74]], [[294-53]], [[294-72]], [[294-127]], [[341-11]], [[341-13]], [[341-14]], [[538-20]], [[900-13]], [[900-122]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

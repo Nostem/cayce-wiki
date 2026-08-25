@@ -1,18 +1,21 @@
 ---
-entity: "maurice wertheim"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Maurice Wertheim"
+entity_types: ["person"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
-# maurice wertheim
+# Maurice Wertheim
 
-**maurice wertheim** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Maurice Wertheim** (person) appears in **5 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning maurice wertheim
+## Readings mentioning Maurice Wertheim
 
-[[257-40]], [[257-65]]
+[[257-40]], [[257-65]], [[257-77]], [[257-102]], [[257-149]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

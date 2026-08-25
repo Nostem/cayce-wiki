@@ -1,18 +1,21 @@
 ---
 entity: "pus formation"
-entity_type: "condition"
+entity_types: ["condition"]
 reading_count: 7
-mention_count: 7
-tags: [entity, condition]
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # pus formation
 
-**pus formation** (condition) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**pus formation** (condition) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning pus formation
 
-[[102-2]], [[409-15]], [[951-3]], [[1569-1]], [[4281-14]], [[4308-1]], [[5445-1]]
+[[102-2]], [[808-14]], [[879-1]], [[951-3]], [[1569-1]], [[4308-1]], [[5566-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

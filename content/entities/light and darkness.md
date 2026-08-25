@@ -1,18 +1,21 @@
 ---
 entity: "light and darkness"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # light and darkness
 
-**light and darkness** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**light and darkness** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning light and darkness
 
-[[262-55]], [[262-121]], [[900-186]], [[3188-1]], [[3976-26]]
+[[254-68]], [[262-55]], [[262-56]], [[262-57]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "change of scene"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # change of scene
 
-**change of scene** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**change of scene** (remedy) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning change of scene
 
-[[4159-3]], [[5086-1]]
+[[136-47]], [[294-197]], [[298-2]], [[953-19]], [[1609-1]], [[3776-16]], [[4159-3]], [[5086-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

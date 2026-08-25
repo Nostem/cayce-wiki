@@ -1,18 +1,21 @@
 ---
 entity: "witch hazel"
-entity_type: "remedy"
-reading_count: 4
-mention_count: 4
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
 # witch hazel
 
-**witch hazel** (remedy) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**witch hazel** (remedy) appears in **14 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning witch hazel
 
-[[74-1]], [[294-111]], [[849-4]], [[2361-1]]
+[[74-1]], [[639-3]], [[773-6]], [[877-13]], [[903-16]], [[1490-4]], [[2189-4]], [[2217-1]], [[2759-1]], [[2821-1]], [[3230-1]], [[4049-1]], [[5380-1]], [[5498-3]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

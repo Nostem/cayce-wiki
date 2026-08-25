@@ -1,18 +1,21 @@
 ---
 entity: "mutton suet"
-entity_type: "remedy"
-reading_count: 66
-mention_count: 66
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 20
+literal_reading_count: 0
+semantic_reading_count: 20
+literal_mention_count: 0
+semantic_mention_count: 20
+tags: [entity, semantic]
 ---
 
 # mutton suet
 
-**mutton suet** (remedy) appears in **66 readings** (66 mentions) — extracted by LLM semantic analysis.
+**mutton suet** (remedy) appears in **20 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mutton suet
 
-[[23-5]], [[23-7]], [[140-27]], [[243-26]], [[243-28]], [[243-31]], [[261-18]], [[270-41]], [[303-16]], [[303-20]], [[324-7]], [[340-38]], [[357-10]], [[379-5]], [[389-10]], [[391-18]], [[409-32]], [[464-27]], [[480-25]], [[480-38]], [[533-7]], [[533-15]], [[540-10]], [[556-17]], [[568-2]], [[585-5]], [[601-18]], [[601-23]], [[601-24]], [[618-5]], [[618-6]], [[618-7]], [[654-8]], [[667-6]], [[765-4]], [[849-44]], [[908-3]], [[920-9]], [[934-4]], [[951-3]], [[975-6]], [[1010-11]], [[1100-7]], [[1112-5]], [[1145-1]], [[1208-10]], [[1208-11]], [[1208-12]], [[1222-2]], [[1237-1]], [[1331-1]], [[1337-2]], [[1344-1]], [[1407-1]], [[1446-4]], [[1453-1]], [[1501-2]], [[1508-1]], [[1519-1]], [[1586-1]], [[1594-7]], [[1594-8]], [[1600-1]], [[1623-4]], [[1710-2]], [[2051-2]]
+[[243-26]], [[324-7]], [[341-43]], [[357-10]], [[391-11]], [[391-18]], [[480-25]], [[556-17]], [[585-5]], [[601-7]], [[601-18]], [[715-7]], [[975-6]], [[1045-2]], [[1073-6]], [[1145-1]], [[1208-10]], [[1331-1]], [[1955-1]], [[4515-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

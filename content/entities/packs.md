@@ -1,18 +1,21 @@
 ---
 entity: "packs"
-entity_type: "remedy"
-reading_count: 48
-mention_count: 48
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 40
+literal_reading_count: 0
+semantic_reading_count: 40
+literal_mention_count: 0
+semantic_mention_count: 40
+tags: [entity, semantic]
 ---
 
 # packs
 
-**packs** (remedy) appears in **48 readings** (48 mentions) — extracted by LLM semantic analysis.
+**packs** (remedy) appears in **40 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning packs
 
-[[70-1]], [[102-2]], [[106-14]], [[219-2]], [[219-3]], [[325-68]], [[533-10]], [[533-18]], [[556-7]], [[556-12]], [[602-5]], [[693-2]], [[728-3]], [[795-1]], [[849-51]], [[849-55]], [[849-66]], [[849-68]], [[900-390]], [[1025-3]], [[1122-9]], [[1433-9]], [[1465-5]], [[1527-3]], [[1553-17]], [[1553-18]], [[1553-20]], [[1594-5]], [[1594-8]], [[1745-5]], [[1994-2]], [[2153-10]], [[2504-11]], [[2665-4]], [[2768-2]], [[3079-3]], [[3110-2]], [[3217-2]], [[3351-2]], [[3471-2]], [[3955-1]], [[4177-1]], [[4473-1]], [[4568-1]], [[5475-5]], [[5504-1]], [[5618-18]], [[5653-2]]
+[[45-2]], [[70-1]], [[283-3]], [[325-68]], [[409-26]], [[533-10]], [[533-18]], [[555-8]], [[556-7]], [[556-12]], [[693-2]], [[728-3]], [[849-54]], [[849-55]], [[849-66]], [[849-68]], [[900-390]], [[1025-3]], [[1122-9]], [[1465-5]], [[1553-17]], [[1553-18]], [[1594-5]], [[1594-8]], [[1676-3]], [[1994-2]], [[2153-10]], [[2519-3]], [[2665-4]], [[2768-2]], [[3110-2]], [[3217-2]], [[3262-2]], [[3471-2]], [[4122-1]], [[4177-1]], [[4520-3]], [[5475-5]], [[5504-1]], [[5653-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

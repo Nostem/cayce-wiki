@@ -1,18 +1,21 @@
 ---
 entity: "blood supply disturbance"
-entity_type: "condition"
-reading_count: 15
-mention_count: 15
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # blood supply disturbance
 
-**blood supply disturbance** (condition) appears in **15 readings** (15 mentions) — extracted by LLM semantic analysis.
+**blood supply disturbance** (condition) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning blood supply disturbance
 
-[[36-1]], [[385-1]], [[418-1]], [[440-2]], [[548-1]], [[583-8]], [[662-1]], [[675-1]], [[755-1]], [[828-1]], [[983-1]], [[2352-1]], [[3794-1]], [[4402-1]], [[5541-1]]
+[[371-1]], [[463-1]], [[780-7]], [[957-2]], [[972-1]], [[1017-1]], [[1295-1]], [[1680-1]], [[2546-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

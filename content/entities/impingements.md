@@ -1,18 +1,21 @@
 ---
 entity: "impingements"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # impingements
 
-**impingements** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**impingements** (concept, condition) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning impingements
 
-[[325-9]], [[341-5]]
+[[41-1]], [[428-2]], [[450-1]], [[972-1]], [[1201-1]], [[2519-2]], [[2713-1]], [[4476-1]], [[5457-1]], [[5577-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

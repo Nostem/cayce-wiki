@@ -1,18 +1,21 @@
 ---
 entity: "teething"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # teething
 
-**teething** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**teething** (condition) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning teething
 
-[[187-2]], [[759-4]], [[3419-2]]
+[[187-2]], [[305-1]], [[318-5]], [[759-4]], [[2289-1]], [[5520-1]], [[5520-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

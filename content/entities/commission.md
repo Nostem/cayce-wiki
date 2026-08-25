@@ -1,18 +1,21 @@
 ---
 entity: "commission"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # commission
 
-**commission** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**commission** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning commission
 
-[[257-100]], [[264-43]]
+[[257-100]], [[2002-2]], [[2002-3]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

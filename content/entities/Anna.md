@@ -1,18 +1,21 @@
 ---
-entity: "anna"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Anna"
+entity_types: ["person"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
-# anna
+# Anna
 
-**anna** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Anna** (person) appears in **10 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning anna
+## Readings mentioning Anna
 
-[[587-6]], [[1521-1]]
+[[254-109]], [[587-6]], [[649-2]], [[1521-1]], [[1904-2]], [[2505-1]], [[2629-1]], [[3298-1]], [[5749-8]], [[5749-15]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "d. h. fogel"
-entity_type: "person"
-reading_count: 10
-mention_count: 10
-tags: [entity, person]
+entity: "D. H. Fogel"
+entity_types: ["person"]
+reading_count: 23
+literal_reading_count: 0
+semantic_reading_count: 23
+literal_mention_count: 0
+semantic_mention_count: 23
+tags: [entity, semantic]
 ---
 
-# d. h. fogel
+# D. H. Fogel
 
-**d. h. fogel** (person) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**D. H. Fogel** (person) appears in **23 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning d. h. fogel
+## Readings mentioning D. H. Fogel
 
-[[137-15]], [[265-12]], [[369-1]], [[779-22]], [[965-1]], [[1425-2]], [[1970-1]], [[1970-3]], [[4063-1]], [[5173-1]]
+[[522-5]], [[882-2]], [[1003-1]], [[1005-7]], [[1196-4]], [[1970-3]], [[2085-1]], [[2442-1]], [[2518-1]], [[2597-8]], [[2853-1]], [[3670-1]], [[3679-1]], [[3703-1]], [[4066-1]], [[5009-1]], [[5052-1]], [[5162-1]], [[5173-1]], [[5178-1]], [[5291-1]], [[5329-1]], [[5403-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

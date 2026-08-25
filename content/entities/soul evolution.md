@@ -1,18 +1,21 @@
 ---
 entity: "soul evolution"
-entity_type: "concept"
-reading_count: 6
-mention_count: 6
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # soul evolution
 
-**soul evolution** (concept) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**soul evolution** (concept) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning soul evolution
 
-[[234-1]], [[288-1]], [[2271-1]], [[2464-2]], [[2851-1]], [[5749-14]]
+[[254-107]], [[294-161]], [[398-1]], [[900-15]], [[900-19]], [[900-279]], [[953-6]], [[1602-5]], [[4863-2]], [[5366-1]], [[5749-5]], [[5749-14]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

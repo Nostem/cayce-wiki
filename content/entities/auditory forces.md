@@ -1,18 +1,21 @@
 ---
 entity: "auditory forces"
-entity_type: "concept"
-reading_count: 6
-mention_count: 6
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # auditory forces
 
-**auditory forces** (concept) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**auditory forces** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning auditory forces
 
-[[147-1]], [[147-14]], [[195-16]], [[599-7]], [[3936-1]], [[4820-2]]
+[[147-13]], [[195-10]], [[375-1]], [[4820-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

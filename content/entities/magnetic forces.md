@@ -1,18 +1,21 @@
 ---
 entity: "magnetic forces"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # magnetic forces
 
-**magnetic forces** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**magnetic forces** (concept, remedy) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning magnetic forces
 
-[[294-165]], [[470-22]], [[543-18]], [[1800-5]], [[5708-1]]
+[[275-27]], [[543-26]], [[1397-1]], [[2155-3]], [[3360-2]], [[4623-2]], [[5708-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

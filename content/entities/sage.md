@@ -1,18 +1,21 @@
 ---
 entity: "sage"
-entity_type: "remedy"
-reading_count: 6
-mention_count: 6
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # sage
 
-**sage** (remedy) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**sage** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning sage
 
-[[97-1]], [[2224-1]], [[4213-1]], [[4332-1]], [[4992-1]], [[4997-1]]
+[[97-1]], [[900-382]], [[2224-1]], [[4997-1]], [[5692-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

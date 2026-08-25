@@ -1,18 +1,21 @@
 ---
 entity: "self-care"
-entity_type: "concept"
-reading_count: 63
-mention_count: 63
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # self-care
 
-**self-care** (concept) appears in **63 readings** (63 mentions) — extracted by LLM semantic analysis.
+**self-care** (concept) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning self-care
 
-[[243-8]], [[257-8]], [[257-233]], [[263-21]], [[304-25]], [[307-14]], [[307-21]], [[325-40]], [[325-44]], [[333-11]], [[338-8]], [[341-34]], [[349-4]], [[409-32]], [[424-2]], [[464-17]], [[464-21]], [[480-11]], [[480-52]], [[482-11]], [[533-2]], [[567-3]], [[569-10]], [[647-1]], [[658-2]], [[715-5]], [[777-3]], [[811-4]], [[934-9]], [[934-13]], [[1001-12]], [[1187-13]], [[1196-5]], [[1377-10]], [[1431-2]], [[1645-2]], [[1829-2]], [[2067-5]], [[2376-7]], [[2415-2]], [[2455-4]], [[2721-2]], [[2803-4]], [[3290-1]], [[3298-2]], [[3316-1]], [[3383-1]], [[3394-1]], [[3469-2]], [[3602-2]], [[3708-1]], [[3991-1]], [[4374-1]], [[4779-1]], [[4848-3]], [[5110-1]], [[5177-2]], [[5223-1]], [[5261-1]], [[5273-1]], [[5459-6]], [[5473-7]], [[5529-4]]
+[[325-40]], [[696-2]], [[1857-1]], [[2330-3]], [[2924-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

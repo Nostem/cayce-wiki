@@ -1,18 +1,21 @@
 ---
 entity: "alignment"
-entity_type: "concept"
-reading_count: 3
-mention_count: 3
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # alignment
 
-**alignment** (concept) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**alignment** (concept, remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning alignment
 
-[[1130-1]], [[3210-1]], [[4327-1]]
+[[341-3]], [[735-2]], [[814-1]], [[1188-12]], [[3587-1]], [[5610-4]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

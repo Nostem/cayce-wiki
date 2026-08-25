@@ -1,18 +1,21 @@
 ---
-entity: "mrs. sydney krause"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Mrs. Sydney Krause"
+entity_types: ["person"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# mrs. sydney krause
+# Mrs. Sydney Krause
 
-**mrs. sydney krause** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Mrs. Sydney Krause** (person) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning mrs. sydney krause
+## Readings mentioning Mrs. Sydney Krause
 
-[[4031-1]], [[5144-1]]
+[[1073-4]], [[3375-1]], [[4031-1]], [[5144-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

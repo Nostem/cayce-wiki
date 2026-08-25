@@ -1,18 +1,21 @@
 ---
 entity: "poke root"
-entity_type: "remedy"
-reading_count: 9
-mention_count: 9
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # poke root
 
-**poke root** (remedy) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**poke root** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning poke root
 
-[[140-1]], [[814-1]], [[3942-1]], [[4133-3]], [[4218-3]], [[4662-1]], [[4736-1]], [[4883-2]], [[5421-4]]
+[[814-1]], [[3942-1]], [[4133-3]], [[4218-3]], [[5421-4]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "inhalations"
-entity_type: "remedy"
-reading_count: 30
-mention_count: 30
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 17
+literal_reading_count: 0
+semantic_reading_count: 17
+literal_mention_count: 0
+semantic_mention_count: 17
+tags: [entity, semantic]
 ---
 
 # inhalations
 
-**inhalations** (remedy) appears in **30 readings** (30 mentions) — extracted by LLM semantic analysis.
+**inhalations** (remedy) appears in **17 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning inhalations
 
-[[68-1]], [[137-14]], [[137-15]], [[160-1]], [[195-4]], [[318-5]], [[357-12]], [[421-14]], [[428-12]], [[471-1]], [[528-8]], [[538-37]], [[849-14]], [[850-6]], [[1045-10]], [[1173-7]], [[1208-9]], [[1798-2]], [[1866-2]], [[1899-2]], [[3776-8]], [[3776-11]], [[3776-12]], [[4236-1]], [[4320-2]], [[4645-1]], [[4810-2]], [[4937-1]], [[5566-2]], [[5705-1]]
+[[137-15]], [[357-12]], [[428-12]], [[528-7]], [[528-8]], [[538-37]], [[572-7]], [[850-7]], [[1173-7]], [[1208-10]], [[1548-3]], [[1798-2]], [[1866-3]], [[1899-2]], [[3751-11]], [[3776-10]], [[4320-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "carbonated water"
-entity_type: "remedy"
-reading_count: 4
-mention_count: 4
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # carbonated water
 
-**carbonated water** (remedy) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**carbonated water** (remedy) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning carbonated water
 
-[[275-4]], [[470-21]], [[1710-6]], [[5473-8]]
+[[275-4]], [[478-3]], [[602-1]], [[1703-2]], [[1710-6]], [[2098-1]], [[2214-1]], [[5473-8]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

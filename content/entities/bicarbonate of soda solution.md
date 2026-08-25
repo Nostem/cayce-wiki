@@ -1,18 +1,21 @@
 ---
 entity: "bicarbonate of soda solution"
-entity_type: "remedy"
-reading_count: 4
-mention_count: 4
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # bicarbonate of soda solution
 
-**bicarbonate of soda solution** (remedy) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**bicarbonate of soda solution** (remedy) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning bicarbonate of soda solution
 
-[[676-1]], [[1544-1]], [[2055-1]], [[2722-2]]
+[[294-212]], [[359-1]], [[631-3]], [[676-1]], [[716-2]], [[742-2]], [[751-3]], [[946-1]], [[1544-1]], [[2055-1]], [[3669-1]], [[4863-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

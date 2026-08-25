@@ -1,18 +1,21 @@
 ---
 entity: "service to country"
-entity_type: "concept"
-reading_count: 12
-mention_count: 12
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # service to country
 
-**service to country** (concept) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**service to country** (concept) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning service to country
 
-[[315-8]], [[341-52]], [[361-15]], [[416-16]], [[437-12]], [[641-9]], [[815-6]], [[1467-14]], [[1709-8]], [[1931-3]], [[2448-4]], [[2930-1]]
+[[257-240]], [[257-241]], [[308-9]], [[641-9]], [[1709-8]], [[1931-3]], [[2930-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

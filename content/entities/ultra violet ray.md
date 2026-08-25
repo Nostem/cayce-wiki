@@ -1,18 +1,21 @@
 ---
 entity: "ultra violet ray"
-entity_type: "remedy"
-reading_count: 59
-mention_count: 59
-tags: [entity, remedy]
+entity_types: ["concept", "remedy"]
+reading_count: 42
+literal_reading_count: 0
+semantic_reading_count: 42
+literal_mention_count: 0
+semantic_mention_count: 43
+tags: [entity, semantic]
 ---
 
 # ultra violet ray
 
-**ultra violet ray** (remedy) appears in **59 readings** (59 mentions) — extracted by LLM semantic analysis.
+**ultra violet ray** (concept, remedy) appears in **42 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning ultra violet ray
 
-[[57-1]], [[71-1]], [[120-6]], [[140-31]], [[152-1]], [[224-1]], [[231-1]], [[275-26]], [[325-46]], [[409-1]], [[409-2]], [[409-3]], [[409-4]], [[428-3]], [[533-13]], [[757-3]], [[757-6]], [[1025-1]], [[1122-3]], [[2209-1]], [[2235-3]], [[2457-4]], [[2499-2]], [[2682-1]], [[2682-2]], [[2843-1]], [[3173-1]], [[3450-1]], [[3814-1]], [[3847-1]], [[3863-1]], [[3892-1]], [[3961-1]], [[4142-1]], [[4166-1]], [[4218-5]], [[4309-1]], [[4437-1]], [[4484-1]], [[4576-1]], [[4746-1]], [[4901-1]], [[4986-1]], [[4987-2]], [[5417-3]], [[5430-2]], [[5437-1]], [[5442-1]], [[5446-1]], [[5451-4]], [[5461-1]], [[5482-1]], [[5524-1]], [[5554-4]], [[5570-2]], [[5574-1]], [[5610-1]], [[5620-1]], [[5671-5]]
+[[71-1]], [[120-6]], [[140-27]], [[152-2]], [[162-1]], [[195-55]], [[275-26]], [[275-34]], [[325-17]], [[325-46]], [[409-2]], [[409-4]], [[428-3]], [[757-3]], [[757-5]], [[757-6]], [[1122-3]], [[2222-1]], [[2235-3]], [[2457-4]], [[2682-1]], [[2682-2]], [[3450-1]], [[3847-1]], [[3961-1]], [[4418-1]], [[4446-1]], [[4746-1]], [[4773-1]], [[4901-1]], [[5417-3]], [[5430-2]], [[5437-1]], [[5451-4]], [[5461-1]], [[5482-1]], [[5524-1]], [[5554-4]], [[5574-1]], [[5610-1]], [[5611-1]], [[5681-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

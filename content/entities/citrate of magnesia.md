@@ -1,18 +1,21 @@
 ---
 entity: "citrate of magnesia"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 3
-mention_count: 3
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # citrate of magnesia
 
-**citrate of magnesia** (remedy) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**citrate of magnesia** (remedy) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning citrate of magnesia
 
 [[303-9]], [[415-6]], [[900-152]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

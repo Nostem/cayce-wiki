@@ -1,18 +1,21 @@
 ---
 entity: "sassafras root bark"
-entity_type: "remedy"
-reading_count: 9
-mention_count: 9
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # sassafras root bark
 
-**sassafras root bark** (remedy) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**sassafras root bark** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning sassafras root bark
 
-[[185-1]], [[269-2]], [[569-9]], [[2036-3]], [[3850-1]], [[3965-1]], [[4602-1]], [[4728-1]], [[5565-1]]
+[[259-4]], [[2036-3]], [[4598-1]], [[5444-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

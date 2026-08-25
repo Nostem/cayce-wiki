@@ -1,18 +1,21 @@
 ---
 entity: "eliminant"
-entity_type: "remedy"
-reading_count: 4
-mention_count: 4
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # eliminant
 
-**eliminant** (remedy) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**eliminant** (remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning eliminant
 
-[[288-39]], [[464-22]], [[670-2]], [[4666-4]]
+[[288-39]], [[303-41]], [[315-8]], [[670-2]], [[1433-10]], [[2441-3]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

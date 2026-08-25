@@ -1,18 +1,21 @@
 ---
 entity: "manifestation"
-entity_type: "concept"
-reading_count: 13
-mention_count: 13
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # manifestation
 
-**manifestation** (concept) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**manifestation** (concept) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning manifestation
 
-[[137-13]], [[254-17]], [[262-44]], [[262-99]], [[900-183]], [[900-292]], [[906-3]], [[996-11]], [[1472-5]], [[3028-1]], [[3980-3]], [[5663-1]], [[5753-1]]
+[[106-9]], [[137-8]], [[254-10]], [[254-46]], [[440-21]], [[877-19]], [[900-183]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

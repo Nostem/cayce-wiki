@@ -1,18 +1,21 @@
 ---
 entity: "intent"
-entity_type: "concept"
+entity_types: ["concept"]
 reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # intent
 
-**intent** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**intent** (concept) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning intent
 
-[[139-9]], [[551-10]], [[900-158]], [[900-201]], [[900-417]]
+[[139-9]], [[551-10]], [[900-33]], [[900-158]], [[3952-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "glandular weakness"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # glandular weakness
 
-**glandular weakness** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**glandular weakness** (condition) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning glandular weakness
 
-[[1891-2]], [[3099-1]]
+[[563-2]], [[808-5]], [[2186-1]], [[4164-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

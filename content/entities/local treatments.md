@@ -1,18 +1,21 @@
 ---
 entity: "local treatments"
-entity_type: "remedy"
-reading_count: 8
-mention_count: 8
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # local treatments
 
-**local treatments** (remedy) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**local treatments** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning local treatments
 
-[[417-2]], [[538-70]], [[635-2]], [[2315-2]], [[4122-1]], [[4430-1]], [[4471-2]], [[5451-1]]
+[[2281-1]], [[2315-2]], [[4122-1]], [[4430-1]], [[4458-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

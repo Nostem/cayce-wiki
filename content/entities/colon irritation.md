@@ -1,18 +1,21 @@
 ---
 entity: "colon irritation"
-entity_type: "condition"
-reading_count: 4
-mention_count: 4
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # colon irritation
 
-**colon irritation** (condition) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**colon irritation** (condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning colon irritation
 
-[[457-11]], [[998-1]], [[3622-1]], [[4472-1]]
+[[457-11]], [[592-1]], [[760-24]], [[998-1]], [[2299-9]], [[2750-2]], [[3010-1]], [[3622-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

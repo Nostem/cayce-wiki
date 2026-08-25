@@ -1,18 +1,21 @@
 ---
 entity: "neurotic reaction"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # neurotic reaction
 
-**neurotic reaction** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**neurotic reaction** (condition) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning neurotic reaction
 
-[[1136-1]], [[2039-1]], [[3447-1]]
+[[600-2]], [[2039-1]], [[2596-1]], [[3447-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

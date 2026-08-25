@@ -1,18 +1,21 @@
 ---
 entity: "psychic influence"
-entity_type: "concept"
-reading_count: 9
-mention_count: 9
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # psychic influence
 
-**psychic influence** (concept) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**psychic influence** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning psychic influence
 
-[[254-67]], [[275-37]], [[294-199]], [[522-1]], [[539-2]], [[655-1]], [[1118-1]], [[2513-1]], [[5416-2]]
+[[531-9]], [[587-2]], [[1118-1]], [[4844-4]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "palpitation"
-entity_type: "condition"
-reading_count: 13
-mention_count: 13
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # palpitation
 
-**palpitation** (condition) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**palpitation** (condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning palpitation
 
-[[81-1]], [[130-1]], [[278-2]], [[279-17]], [[356-2]], [[370-7]], [[678-2]], [[2073-1]], [[2843-4]], [[3934-3]], [[3986-1]], [[4196-1]], [[4776-1]]
+[[278-2]], [[279-17]], [[504-1]], [[1800-34]], [[2843-4]], [[3986-1]], [[4196-1]], [[5429-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

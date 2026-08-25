@@ -1,18 +1,21 @@
 ---
 entity: "alkalin-reacting foods"
-entity_type: "remedy"
-reading_count: 11
-mention_count: 11
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # alkalin-reacting foods
 
-**alkalin-reacting foods** (remedy) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**alkalin-reacting foods** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning alkalin-reacting foods
 
-[[357-4]], [[533-9]], [[567-6]], [[679-2]], [[772-5]], [[774-6]], [[798-1]], [[879-1]], [[940-1]], [[1073-3]], [[1536-1]]
+[[257-153]], [[679-2]], [[774-1]], [[908-2]], [[1073-3]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

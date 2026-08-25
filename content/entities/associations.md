@@ -1,18 +1,21 @@
 ---
 entity: "associations"
-entity_type: "concept"
-reading_count: 54
-mention_count: 54
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
 # associations
 
-**associations** (concept) appears in **54 readings** (54 mentions) — extracted by LLM semantic analysis.
+**associations** (concept, remedy) appears in **14 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning associations
 
-[[137-97]], [[165-20]], [[243-15]], [[254-84]], [[257-18]], [[257-65]], [[257-70]], [[257-78]], [[257-80]], [[257-97]], [[257-98]], [[257-131]], [[257-136]], [[257-138]], [[257-147]], [[257-165]], [[257-171]], [[261-7]], [[274-7]], [[277-1]], [[279-13]], [[288-13]], [[288-17]], [[294-75]], [[294-175]], [[302-10]], [[310-5]], [[335-2]], [[349-18]], [[369-4]], [[369-16]], [[378-2]], [[412-3]], [[417-6]], [[437-3]], [[454-6]], [[459-4]], [[459-5]], [[462-9]], [[462-10]], [[551-4]], [[551-6]], [[554-7]], [[622-4]], [[686-1]], [[900-440]], [[900-441]], [[900-442]], [[1151-15]], [[1802-1]], [[1932-2]], [[2708-4]], [[2828-3]], [[5489-1]]
+[[106-20]], [[165-20]], [[254-10]], [[257-114]], [[257-124]], [[257-137]], [[257-194]], [[378-2]], [[378-5]], [[772-4]], [[1097-5]], [[1319-1]], [[1733-1]], [[1932-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

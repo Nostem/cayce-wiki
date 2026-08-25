@@ -1,18 +1,21 @@
 ---
 entity: "divine intervention"
-entity_type: "concept"
+entity_types: ["concept"]
 reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # divine intervention
 
-**divine intervention** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**divine intervention** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning divine intervention
 
-[[264-27]], [[1602-4]], [[3982-5]], [[4747-2]]
+[[139-5]], [[263-9]], [[289-5]], [[4925-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

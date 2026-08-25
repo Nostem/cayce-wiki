@@ -1,18 +1,21 @@
 ---
-entity: "helen"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Helen"
+entity_types: ["person"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# helen
+# Helen
 
-**helen** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Helen** (person) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning helen
+## Readings mentioning Helen
 
-[[900-77]], [[900-375]]
+[[140-6]], [[140-8]], [[900-77]], [[900-375]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "divine plan"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # divine plan
 
-**divine plan** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**divine plan** (concept) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning divine plan
 
-[[1257-1]], [[1602-3]]
+[[264-58]], [[272-5]], [[304-5]], [[369-16]], [[699-1]], [[877-17]], [[1257-1]], [[3056-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

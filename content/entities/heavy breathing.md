@@ -1,18 +1,21 @@
 ---
 entity: "heavy breathing"
-entity_type: "condition"
-reading_count: 4
-mention_count: 4
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # heavy breathing
 
-**heavy breathing** (condition) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**heavy breathing** (condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning heavy breathing
 
-[[99-4]], [[304-47]], [[632-15]], [[2189-4]]
+[[99-4]], [[304-31]], [[304-47]], [[600-1]], [[632-15]], [[1431-2]], [[2189-4]], [[4196-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "torpidity of liver"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
 # torpidity of liver
 
-**torpidity of liver** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**torpidity of liver** (condition) appears in **13 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning torpidity of liver
 
-[[413-15]], [[804-1]], [[911-1]]
+[[331-1]], [[404-14]], [[413-15]], [[911-1]], [[1057-1]], [[1267-1]], [[1645-1]], [[2092-1]], [[2190-1]], [[2434-1]], [[2881-2]], [[3861-2]], [[5183-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

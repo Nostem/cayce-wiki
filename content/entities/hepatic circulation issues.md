@@ -1,18 +1,21 @@
 ---
 entity: "hepatic circulation issues"
-entity_type: "condition"
-reading_count: 4
-mention_count: 4
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 80
+literal_reading_count: 0
+semantic_reading_count: 80
+literal_mention_count: 0
+semantic_mention_count: 80
+tags: [entity, semantic]
 ---
 
 # hepatic circulation issues
 
-**hepatic circulation issues** (condition) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**hepatic circulation issues** (condition) appears in **80 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning hepatic circulation issues
 
-[[1485-1]], [[4512-1]], [[4672-1]], [[5705-1]]
+[[2-1]], [[3-1]], [[75-1]], [[98-1]], [[121-1]], [[170-1]], [[197-1]], [[279-7]], [[286-6]], [[357-10]], [[451-1]], [[508-1]], [[538-34]], [[540-13]], [[566-2]], [[584-1]], [[613-1]], [[720-1]], [[760-8]], [[908-3]], [[910-2]], [[911-1]], [[940-1]], [[953-2]], [[988-7]], [[1018-1]], [[1091-1]], [[1205-2]], [[1214-1]], [[1334-2]], [[1369-1]], [[1409-1]], [[1516-1]], [[1524-1]], [[1703-1]], [[1795-2]], [[1916-3]], [[2007-1]], [[2710-2]], [[3755-1]], [[3784-1]], [[3818-1]], [[3857-1]], [[3888-1]], [[3911-1]], [[3959-1]], [[3963-1]], [[3991-1]], [[4107-1]], [[4120-1]], [[4138-1]], [[4143-1]], [[4279-1]], [[4295-1]], [[4301-1]], [[4385-1]], [[4473-2]], [[4511-1]], [[4571-1]], [[4601-1]], [[4602-1]], [[4614-1]], [[4643-1]], [[4693-1]], [[4694-4]], [[4716-1]], [[4744-2]], [[4778-2]], [[4975-1]], [[5411-1]], [[5459-1]], [[5488-1]], [[5511-1]], [[5523-1]], [[5554-2]], [[5561-1]], [[5579-2]], [[5703-1]], [[5709-1]], [[5738-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

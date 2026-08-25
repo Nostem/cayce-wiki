@@ -1,18 +1,21 @@
 ---
-entity: "mr. [348]"
-entity_type: "person"
-reading_count: 3
-mention_count: 3
-tags: [entity, person]
+entity: "Mr. [348]"
+entity_types: ["person"]
+reading_count: 15
+literal_reading_count: 0
+semantic_reading_count: 15
+literal_mention_count: 0
+semantic_mention_count: 15
+tags: [entity, semantic]
 ---
 
-# mr. [348]
+# Mr. [348]
 
-**mr. [348]** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Mr. [348]** (person) appears in **15 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning mr. [348]
+## Readings mentioning Mr. [348]
 
-[[340-20]], [[340-22]], [[348-12]]
+[[257-73]], [[257-92]], [[306-1]], [[306-3]], [[340-14]], [[340-16]], [[340-20]], [[348-11]], [[348-12]], [[348-13]], [[348-16]], [[348-21]], [[481-1]], [[514-1]], [[514-4]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

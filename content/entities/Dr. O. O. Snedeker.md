@@ -1,18 +1,21 @@
 ---
 entity: "Dr. O. O. Snedeker"
-entity_type: "person"
-reading_count: 3
-mention_count: 3
-tags: [entity, person]
+entity_types: ["person"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # Dr. O. O. Snedeker
 
-**Dr. O. O. Snedeker** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Dr. O. O. Snedeker** (person) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Dr. O. O. Snedeker
 
-[[480-7]], [[655-1]], [[988-1]]
+[[480-7]], [[480-8]], [[601-1]], [[655-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

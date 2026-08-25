@@ -1,18 +1,21 @@
 ---
-entity: "peoria"
-entity_type: "place"
-reading_count: 6
-mention_count: 6
-tags: [entity, place]
+entity: "Peoria"
+entity_types: ["place"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
-# peoria
+# Peoria
 
-**peoria** (place) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**Peoria** (place) appears in **7 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning peoria
+## Readings mentioning Peoria
 
-[[300-1]], [[433-6]], [[2155-5]], [[4389-2]], [[4623-1]], [[5489-1]]
+[[254-66]], [[300-1]], [[1052-1]], [[1734-5]], [[2123-2]], [[4389-1]], [[5489-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

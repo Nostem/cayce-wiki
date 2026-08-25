@@ -1,18 +1,21 @@
 ---
 entity: "cerebro-spinal adjustments"
-entity_type: "remedy"
-reading_count: 3
-mention_count: 3
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # cerebro-spinal adjustments
 
-**cerebro-spinal adjustments** (remedy) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**cerebro-spinal adjustments** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning cerebro-spinal adjustments
 
-[[335-1]], [[4538-1]], [[5490-1]]
+[[298-2]], [[335-1]], [[635-3]], [[5497-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

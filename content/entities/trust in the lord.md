@@ -1,18 +1,21 @@
 ---
-entity: "trust in the lord"
-entity_type: "concept"
+entity: "trust in the Lord"
+entity_types: ["concept"]
 reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# trust in the lord
+# trust in the Lord
 
-**trust in the lord** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**trust in the Lord** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning trust in the lord
+## Readings mentioning trust in the Lord
 
-[[311-8]], [[378-41]], [[1467-18]], [[1789-8]]
+[[724-1]], [[1467-18]], [[1789-8]], [[1861-18]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

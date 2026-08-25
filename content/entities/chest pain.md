@@ -1,18 +1,21 @@
 ---
 entity: "chest pain"
-entity_type: "condition"
-reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 19
+literal_reading_count: 0
+semantic_reading_count: 19
+literal_mention_count: 0
+semantic_mention_count: 19
+tags: [entity, semantic]
 ---
 
 # chest pain
 
-**chest pain** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**chest pain** (condition) appears in **19 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning chest pain
 
-[[294-167]], [[315-9]], [[427-6]], [[852-7]], [[1997-3]], [[4120-2]]
+[[287-7]], [[287-10]], [[287-17]], [[294-166]], [[294-167]], [[356-1]], [[418-3]], [[420-7]], [[667-12]], [[852-7]], [[1112-6]], [[1528-4]], [[1810-1]], [[1997-3]], [[2685-1]], [[2837-1]], [[4300-3]], [[4774-1]], [[5583-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

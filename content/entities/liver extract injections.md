@@ -1,18 +1,21 @@
 ---
 entity: "liver extract injections"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # liver extract injections
 
-**liver extract injections** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**liver extract injections** (remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning liver extract injections
 
-[[1905-1]], [[2022-1]]
+[[1465-11]], [[1905-1]], [[1969-1]], [[2009-1]], [[2022-1]], [[2295-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

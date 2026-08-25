@@ -1,18 +1,21 @@
 ---
 entity: "tincture of myrrh and olive oil rub"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # tincture of myrrh and olive oil rub
 
-**tincture of myrrh and olive oil rub** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**tincture of myrrh and olive oil rub** (remedy) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning tincture of myrrh and olive oil rub
 
-[[4692-1]], [[5705-1]]
+[[320-1]], [[3776-17]], [[4692-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

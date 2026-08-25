@@ -1,18 +1,21 @@
 ---
 entity: "broken tissue"
-entity_type: "condition"
-reading_count: 4
-mention_count: 4
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # broken tissue
 
-**broken tissue** (condition) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**broken tissue** (condition) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning broken tissue
 
-[[304-46]], [[4198-1]], [[4294-1]], [[4413-1]]
+[[124-2]], [[304-46]], [[1013-3]], [[1541-8]], [[2185-3]], [[2514-10]], [[2526-6]], [[2945-1]], [[3751-5]], [[4198-1]], [[4316-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "service to fellowman"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # service to fellowman
 
-**service to fellowman** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**service to fellowman** (concept) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning service to fellowman
 
-[[953-13]], [[1447-4]]
+[[333-1]], [[953-13]], [[1447-4]], [[4400-1]], [[5469-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "spiritual health"
-entity_type: "concept"
-reading_count: 15
-mention_count: 15
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # spiritual health
 
-**spiritual health** (concept) appears in **15 readings** (15 mentions) — extracted by LLM semantic analysis.
+**spiritual health** (concept) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning spiritual health
 
-[[147-28]], [[251-1]], [[294-121]], [[428-1]], [[717-3]], [[1348-2]], [[1961-1]], [[2533-3]], [[3108-1]], [[3194-1]], [[3412-1]], [[5182-1]], [[5211-1]], [[5314-1]], [[5464-1]]
+[[140-11]], [[288-2]], [[294-106]], [[416-4]], [[2675-6]], [[3600-1]], [[4133-2]], [[4189-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

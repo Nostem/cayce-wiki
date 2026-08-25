@@ -1,18 +1,21 @@
 ---
-entity: "fort worth"
-entity_type: "place"
-reading_count: 8
-mention_count: 8
-tags: [entity, place]
+entity: "Fort Worth"
+entity_types: ["place"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
-# fort worth
+# Fort Worth
 
-**fort worth** (place) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**Fort Worth** (place) appears in **14 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning fort worth
+## Readings mentioning Fort Worth
 
-[[412-2]], [[934-6]], [[1208-16]], [[3509-1]], [[4090-1]], [[4438-2]], [[4810-1]], [[5598-1]]
+[[391-18]], [[412-2]], [[934-6]], [[1097-5]], [[1097-6]], [[1208-16]], [[1770-4]], [[3509-1]], [[4090-1]], [[4438-2]], [[4468-1]], [[4810-1]], [[4905-58]], [[5112-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "pains in back"
-entity_type: "condition"
-reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 15
+literal_reading_count: 0
+semantic_reading_count: 15
+literal_mention_count: 0
+semantic_mention_count: 15
+tags: [entity, semantic]
 ---
 
 # pains in back
 
-**pains in back** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**pains in back** (condition) appears in **15 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning pains in back
 
-[[136-22]], [[303-5]], [[378-7]], [[578-9]], [[2243-1]], [[5449-3]]
+[[243-7]], [[303-3]], [[303-5]], [[379-14]], [[472-1]], [[556-15]], [[578-9]], [[2085-4]], [[2548-1]], [[2553-1]], [[3240-1]], [[3255-1]], [[3597-1]], [[3757-1]], [[5449-3]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

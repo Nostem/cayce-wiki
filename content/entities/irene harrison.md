@@ -1,18 +1,21 @@
 ---
-entity: "irene harrison"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Irene Harrison"
+entity_types: ["person"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# irene harrison
+# Irene Harrison
 
-**irene harrison** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Irene Harrison** (person) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning irene harrison
+## Readings mentioning Irene Harrison
 
-[[254-96]], [[254-101]]
+[[254-101]], [[1062-2]], [[2075-2]], [[3976-26]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

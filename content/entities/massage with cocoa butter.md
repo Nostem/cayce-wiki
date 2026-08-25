@@ -1,18 +1,21 @@
 ---
 entity: "massage with cocoa butter"
-entity_type: "remedy"
-reading_count: 28
-mention_count: 28
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 26
+literal_reading_count: 0
+semantic_reading_count: 26
+literal_mention_count: 0
+semantic_mention_count: 26
+tags: [entity, semantic]
 ---
 
 # massage with cocoa butter
 
-**massage with cocoa butter** (remedy) appears in **28 readings** (28 mentions) — extracted by LLM semantic analysis.
+**massage with cocoa butter** (remedy) appears in **26 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning massage with cocoa butter
 
-[[365-2]], [[560-10]], [[773-3]], [[1187-14]], [[1223-3]], [[2299-1]], [[2679-1]], [[2752-4]], [[2883-1]], [[2883-2]], [[3408-1]], [[3419-1]], [[3492-1]], [[3649-1]], [[3684-1]], [[3693-1]], [[3701-1]], [[3808-1]], [[4003-1]], [[4061-1]], [[5006-1]], [[5011-1]], [[5038-1]], [[5128-1]], [[5179-1]], [[5188-1]], [[5310-1]], [[5726-1]]
+[[333-12]], [[349-11]], [[1158-21]], [[1523-7]], [[1553-14]], [[1594-4]], [[1785-1]], [[2004-4]], [[2308-3]], [[2436-2]], [[2695-1]], [[2752-3]], [[2883-1]], [[2999-1]], [[3066-1]], [[3553-1]], [[3649-1]], [[3681-1]], [[3804-1]], [[4061-1]], [[4218-5]], [[5006-1]], [[5038-1]], [[5111-1]], [[5179-1]], [[5726-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

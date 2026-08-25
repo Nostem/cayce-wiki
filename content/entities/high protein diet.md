@@ -1,18 +1,21 @@
 ---
 entity: "high protein diet"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # high protein diet
 
-**high protein diet** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**high protein diet** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning high protein diet
 
-[[5099-1]], [[5695-1]]
+[[302-8]], [[3321-1]], [[5099-1]], [[5695-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

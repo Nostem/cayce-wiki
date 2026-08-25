@@ -1,18 +1,21 @@
 ---
 entity: "physical condition"
-entity_type: "concept"
-reading_count: 75
-mention_count: 75
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # physical condition
 
-**physical condition** (concept) appears in **75 readings** (75 mentions) — extracted by LLM semantic analysis.
+**physical condition** (concept, condition) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning physical condition
 
-[[9-4]], [[15-1]], [[136-13]], [[136-42]], [[136-47]], [[136-66]], [[136-76]], [[139-10]], [[199-3]], [[247-1]], [[255-2]], [[257-1]], [[257-3]], [[257-197]], [[257-208]], [[257-227]], [[264-24]], [[270-5]], [[283-2]], [[286-4]], [[294-10]], [[294-33]], [[294-65]], [[294-91]], [[294-106]], [[308-11]], [[325-30]], [[349-24]], [[389-2]], [[399-2]], [[464-8]], [[487-27]], [[520-6]], [[661-2]], [[685-1]], [[722-1]], [[751-4]], [[773-18]], [[808-20]], [[900-127]], [[900-180]], [[900-355]], [[953-14]], [[960-7]], [[1186-2]], [[1211-3]], [[1215-8]], [[1223-7]], [[1433-6]], [[1467-5]], [[1553-26]], [[1655-2]], [[1713-12]], [[1713-15]], [[2233-1]], [[2348-4]], [[3192-1]], [[3200-1]], [[3242-1]], [[3415-1]], [[3762-1]], [[3995-1]], [[4148-2]], [[4194-1]], [[4260-1]], [[4297-1]], [[4314-1]], [[4329-2]], [[4436-2]], [[4512-2]], [[4825-3]], [[4937-1]], [[5438-1]], [[5453-6]], [[5587-1]]
+[[294-56]], [[464-8]], [[900-192]], [[1476-1]], [[1558-2]], [[1843-2]], [[2153-8]], [[3776-18]], [[4825-3]], [[5506-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

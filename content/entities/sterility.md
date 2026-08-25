@@ -1,18 +1,21 @@
 ---
 entity: "sterility"
-entity_type: "condition"
-reading_count: 7
-mention_count: 7
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # sterility
 
-**sterility** (condition) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**sterility** (condition) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning sterility
 
-[[301-2]], [[470-1]], [[578-8]], [[1003-3]], [[2998-1]], [[3669-1]], [[5035-1]]
+[[301-1]], [[301-3]], [[470-1]], [[578-6]], [[578-8]], [[1003-3]], [[2428-1]], [[3472-1]], [[3484-1]], [[3669-1]], [[5035-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "chevy chase"
-entity_type: "place"
+entity: "Chevy Chase"
+entity_types: ["place"]
 reading_count: 4
-mention_count: 4
-tags: [entity, place]
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# chevy chase
+# Chevy Chase
 
-**chevy chase** (place) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Chevy Chase** (place) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning chevy chase
+## Readings mentioning Chevy Chase
 
 [[706-1]], [[894-1]], [[894-2]], [[5728-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

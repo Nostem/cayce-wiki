@@ -1,18 +1,21 @@
 ---
 entity: "nerve pain"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # nerve pain
 
-**nerve pain** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**nerve pain** (condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning nerve pain
 
-[[1770-7]], [[5307-1]]
+[[1031-3]], [[1112-1]], [[3580-1]], [[4133-1]], [[4247-1]], [[4528-1]], [[4883-1]], [[5307-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

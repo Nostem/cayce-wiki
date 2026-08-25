@@ -1,18 +1,21 @@
 ---
 entity: "prosperity"
-entity_type: "concept"
-reading_count: 8
-mention_count: 8
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # prosperity
 
-**prosperity** (concept) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**prosperity** (concept) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning prosperity
 
-[[39-7]], [[137-50]], [[257-2229]], [[281-57]], [[417-4]], [[1180-9]], [[2671-4]], [[4185-3]]
+[[270-30]], [[279-11]], [[779-10]], [[877-17]], [[2254-1]], [[2667-3]], [[3731-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

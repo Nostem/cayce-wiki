@@ -1,18 +1,21 @@
 ---
 entity: "partnership"
-entity_type: "concept"
-reading_count: 13
-mention_count: 13
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # partnership
 
-**partnership** (concept) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**partnership** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning partnership
 
-[[257-40]], [[257-71]], [[257-203]], [[391-7]], [[437-5]], [[877-17]], [[900-360]], [[900-373]], [[900-380]], [[900-436]], [[2440-2]], [[2667-3]], [[5453-11]]
+[[195-45]], [[257-141]], [[391-7]], [[900-373]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

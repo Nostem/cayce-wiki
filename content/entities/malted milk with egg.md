@@ -1,18 +1,21 @@
 ---
 entity: "malted milk with egg"
-entity_type: "remedy"
-reading_count: 6
-mention_count: 6
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # malted milk with egg
 
-**malted milk with egg** (remedy) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**malted milk with egg** (remedy) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning malted milk with egg
 
-[[243-22]], [[501-4]], [[667-7]], [[715-3]], [[805-6]], [[929-1]]
+[[243-22]], [[326-7]], [[421-8]], [[501-4]], [[667-7]], [[779-21]], [[4996-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

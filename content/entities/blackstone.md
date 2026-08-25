@@ -1,18 +1,21 @@
 ---
-entity: "blackstone"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity: "Blackstone"
+entity_types: ["place"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
-# blackstone
+# Blackstone
 
-**blackstone** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Blackstone** (place) appears in **5 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning blackstone
+## Readings mentioning Blackstone
 
-[[1861-2]], [[2072-9]], [[2716-1]]
+[[254-115]], [[358-6]], [[1861-2]], [[1861-19]], [[2072-9]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

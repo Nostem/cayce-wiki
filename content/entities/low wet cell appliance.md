@@ -1,18 +1,21 @@
 ---
 entity: "low wet cell appliance"
-entity_type: "remedy"
-reading_count: 54
-mention_count: 54
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # low wet cell appliance
 
-**low wet cell appliance** (remedy) appears in **54 readings** (54 mentions) — extracted by LLM semantic analysis.
+**low wet cell appliance** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning low wet cell appliance
 
-[[307-17]], [[412-12]], [[735-4]], [[843-3]], [[1018-1]], [[1031-4]], [[1218-1]], [[1329-1]], [[1399-1]], [[1465-8]], [[1794-1]], [[1854-1]], [[1865-1]], [[2089-2]], [[2153-12]], [[2366-1]], [[2366-7]], [[2435-1]], [[2453-1]], [[2514-13]], [[2514-15]], [[2590-1]], [[2617-1]], [[2619-1]], [[2640-1]], [[2865-1]], [[2963-1]], [[3066-1]], [[3071-1]], [[3207-1]], [[3229-1]], [[3278-1]], [[3310-1]], [[3448-1]], [[3483-1]], [[3491-1]], [[3567-1]], [[3649-1]], [[3662-1]], [[3684-1]], [[3695-1]], [[3701-1]], [[4032-1]], [[4036-1]], [[5006-1]], [[5048-1]], [[5107-1]], [[5108-1]], [[5109-1]], [[5132-1]], [[5176-1]], [[5269-1]], [[5274-1]], [[5310-1]]
+[[2089-2]], [[3000-3]], [[4032-1]], [[5211-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

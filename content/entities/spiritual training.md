@@ -1,18 +1,21 @@
 ---
 entity: "spiritual training"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # spiritual training
 
-**spiritual training** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**spiritual training** (concept) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning spiritual training
 
-[[276-2]], [[1043-1]], [[1227-1]], [[3646-1]], [[5008-1]]
+[[305-3]], [[316-1]], [[963-1]], [[1206-1]], [[1775-1]], [[2308-1]], [[2542-1]], [[2691-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

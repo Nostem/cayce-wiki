@@ -1,18 +1,21 @@
 ---
-entity: "mayo brothers"
-entity_type: "place"
-reading_count: 2
-mention_count: 2
-tags: [entity, place]
+entity: "Mayo Brothers"
+entity_types: ["person", "place"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
-# mayo brothers
+# Mayo Brothers
 
-**mayo brothers** (place) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Mayo Brothers** (person, place) appears in **8 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning mayo brothers
+## Readings mentioning Mayo Brothers
 
-[[2069-1]], [[3819-2]]
+[[763-1]], [[2069-1]], [[2872-1]], [[3819-1]], [[4856-1]], [[4950-1]], [[4963-1]], [[5152-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

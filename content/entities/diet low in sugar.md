@@ -1,18 +1,21 @@
 ---
 entity: "diet low in sugar"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # diet low in sugar
 
-**diet low in sugar** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**diet low in sugar** (remedy) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning diet low in sugar
 
-[[1110-1]], [[2294-1]]
+[[550-5]], [[1110-1]], [[5591-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

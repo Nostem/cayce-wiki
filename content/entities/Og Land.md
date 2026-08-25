@@ -1,17 +1,21 @@
 ---
 entity: "Og (Land)"
-mention_count: 71
+entity_types: ["person", "place"]
 reading_count: 57
-tags: [entity]
+literal_reading_count: 57
+semantic_reading_count: 23
+literal_mention_count: 84
+semantic_mention_count: 23
+tags: [entity, semantic]
 ---
 
 # Og (Land)
 
-**Og (Land)** appears in **57 readings** (71 total mentions) across the corpus.
+**Og (Land)** (person, place) appears in **57 readings** — indexed through hybrid literal and LLM extraction.
 
 ## Readings mentioning Og (Land)
 
 [[195-14]], [[254-48]], [[262-39]], [[294-147]], [[294-148]], [[294-153]], [[294-183]], [[364-4]], [[364-6]], [[364-8]], [[364-13]], [[378-14]], [[442-1]], [[678-1]], [[818-1]], [[845-1]], [[877-10]], [[900-428]], [[906-3]], [[958-3]], [[993-1]], [[1058-1]], [[1135-1]], [[1135-2]], [[1150-1]], [[1151-1]], [[1167-2]], [[1183-1]], [[1210-1]], [[1211-1]], [[1224-1]], [[1226-1]], [[1286-1]], [[1387-1]], [[1423-1]], [[1437-1]], [[1463-2]], [[1539-2]], [[1541-11]], [[1581-1]], [[1604-1]], [[1612-1]], [[1637-1]], [[1681-1]], [[1895-1]], [[1908-1]], [[1938-2]], [[1947-1]], [[2400-1]], [[2504-4]], [[2656-1]], [[2697-1]], [[2762-1]], [[2775-1]], [[2919-1]], [[4905-2]], [[5750-1]]
 
 ---
-*Auto-generated entity index. 57 readings, 71 mentions.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "psychic guidance"
-entity_type: "concept"
-reading_count: 7
-mention_count: 7
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 25
+literal_reading_count: 0
+semantic_reading_count: 25
+literal_mention_count: 0
+semantic_mention_count: 25
+tags: [entity, semantic]
 ---
 
 # psychic guidance
 
-**psychic guidance** (concept) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**psychic guidance** (concept) appears in **25 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning psychic guidance
 
-[[357-10]], [[485-1]], [[900-225]], [[1274-14]], [[1476-3]], [[2456-5]], [[3812-17]]
+[[136-51]], [[136-77]], [[257-44]], [[257-115]], [[270-16]], [[338-3]], [[349-18]], [[369-9]], [[440-1]], [[440-9]], [[454-4]], [[853-7]], [[900-131]], [[900-157]], [[900-159]], [[900-243]], [[900-319]], [[900-350]], [[900-419]], [[900-425]], [[1274-9]], [[3812-11]], [[3812-14]], [[3812-18]], [[4665-10]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

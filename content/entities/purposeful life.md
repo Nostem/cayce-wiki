@@ -1,18 +1,21 @@
 ---
 entity: "purposeful life"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # purposeful life
 
-**purposeful life** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**purposeful life** (concept) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning purposeful life
 
-[[349-3]], [[1206-15]], [[1597-1]], [[3400-1]]
+[[349-3]], [[1151-2]], [[1173-10]], [[1206-15]], [[1775-1]], [[1925-2]], [[3277-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

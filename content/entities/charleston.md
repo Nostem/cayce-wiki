@@ -1,18 +1,21 @@
 ---
-entity: "charleston"
-entity_type: "place"
-reading_count: 9
-mention_count: 9
-tags: [entity, place]
+entity: "Charleston"
+entity_types: ["place"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
-# charleston
+# Charleston
 
-**charleston** (place) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**Charleston** (place) appears in **12 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning charleston
+## Readings mentioning Charleston
 
-[[254-8]], [[263-4]], [[263-15]], [[264-43]], [[462-15]], [[877-1]], [[2390-9]], [[3082-2]], [[3796-3]]
+[[263-4]], [[263-15]], [[316-1]], [[640-1]], [[872-1]], [[996-12]], [[2390-9]], [[3056-1]], [[3796-3]], [[4889-1]], [[5658-1]], [[5682-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

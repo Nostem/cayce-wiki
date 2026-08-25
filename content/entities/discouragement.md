@@ -1,18 +1,21 @@
 ---
 entity: "discouragement"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
 # discouragement
 
-**discouragement** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**discouragement** (concept, condition) appears in **14 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning discouragement
 
-[[1083-1]], [[5160-1]]
+[[462-11]], [[464-8]], [[964-1]], [[1001-11]], [[1083-1]], [[1089-8]], [[1274-15]], [[2116-2]], [[2514-6]], [[2514-9]], [[3468-1]], [[4406-1]], [[4483-1]], [[4905-14]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "cyrene"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity: "Cyrene"
+entity_types: ["place"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# cyrene
+# Cyrene
 
-**cyrene** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Cyrene** (place) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning cyrene
+## Readings mentioning Cyrene
 
-[[294-192]], [[826-5]], [[3424-1]]
+[[294-192]], [[826-5]], [[1468-2]], [[1877-2]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

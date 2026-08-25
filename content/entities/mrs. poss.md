@@ -1,18 +1,21 @@
 ---
-entity: "mrs. poss"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Mrs. Poss"
+entity_types: ["person"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# mrs. poss
+# Mrs. Poss
 
-**mrs. poss** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Mrs. Poss** (person) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning mrs. poss
+## Readings mentioning Mrs. Poss
 
-[[3054-2]], [[3054-3]]
+[[2970-1]], [[2970-2]], [[3054-2]], [[3054-3]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "vitamins g"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 4
-mention_count: 4
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # vitamins g
 
-**vitamins g** (remedy) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**vitamins g** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning vitamins g
 
-[[1329-2]], [[1695-2]], [[1942-2]], [[2426-3]]
+[[1329-2]], [[2567-1]], [[2586-1]], [[2831-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "high irrigations"
-entity_type: "remedy"
-reading_count: 13
-mention_count: 13
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # high irrigations
 
-**high irrigations** (remedy) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**high irrigations** (remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning high irrigations
 
-[[601-15]], [[654-4]], [[947-1]], [[1005-14]], [[1151-19]], [[1309-4]], [[1649-1]], [[2007-1]], [[2105-1]], [[3795-2]], [[4111-1]], [[4996-1]], [[5595-1]]
+[[327-5]], [[1005-14]], [[1309-4]], [[3795-2]], [[4111-1]], [[5595-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "dementia"
-entity_type: "condition"
-reading_count: 7
-mention_count: 7
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # dementia
 
-**dementia** (condition) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**dementia** (condition) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning dementia
 
-[[294-141]], [[3315-1]], [[3748-1]], [[3997-1]], [[4186-1]], [[4600-1]], [[5475-1]]
+[[933-2]], [[3315-1]], [[3997-1]], [[4186-1]], [[4600-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

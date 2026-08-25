@@ -1,18 +1,21 @@
 ---
 entity: "growth"
-entity_type: "concept"
+entity_types: ["concept", "condition"]
 reading_count: 15
-mention_count: 15
-tags: [entity, concept]
+literal_reading_count: 0
+semantic_reading_count: 15
+literal_mention_count: 0
+semantic_mention_count: 15
+tags: [entity, semantic]
 ---
 
 # growth
 
-**growth** (concept) appears in **15 readings** (15 mentions) — extracted by LLM semantic analysis.
+**growth** (concept, condition) appears in **15 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning growth
 
-[[262-79]], [[281-47]], [[370-3]], [[378-29]], [[538-24]], [[716-3]], [[735-1]], [[758-31]], [[1055-2]], [[1163-2]], [[1301-1]], [[1467-17]], [[1610-2]], [[2299-10]], [[2780-2]]
+[[257-64]], [[264-1]], [[264-51]], [[349-12]], [[378-30]], [[570-1]], [[716-3]], [[758-31]], [[920-11]], [[1055-2]], [[1152-2]], [[1163-2]], [[1377-3]], [[1711-4]], [[1788-7]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

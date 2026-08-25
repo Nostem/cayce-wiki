@@ -1,18 +1,21 @@
 ---
 entity: "god-consciousness"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # god-consciousness
 
-**god-consciousness** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**god-consciousness** (concept) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning god-consciousness
 
-[[262-105]], [[601-11]]
+[[294-197]], [[601-11]], [[826-11]], [[1152-5]], [[1436-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "creative influence"
-entity_type: "concept"
-reading_count: 13
-mention_count: 13
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # creative influence
 
-**creative influence** (concept) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**creative influence** (concept) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning creative influence
 
-[[279-18]], [[826-14]], [[1436-4]], [[1448-2]], [[1602-6]], [[1830-2]], [[2067-9]], [[2301-4]], [[2514-5]], [[2590-3]], [[2645-1]], [[2968-1]], [[3268-1]]
+[[335-4]], [[1553-9]], [[1789-1]], [[1830-2]], [[2056-3]], [[2590-3]], [[2719-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

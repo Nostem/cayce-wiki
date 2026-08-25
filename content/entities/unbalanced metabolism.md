@@ -1,18 +1,21 @@
 ---
 entity: "unbalanced metabolism"
-entity_type: "condition"
-reading_count: 11
-mention_count: 11
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 21
+literal_reading_count: 0
+semantic_reading_count: 21
+literal_mention_count: 0
+semantic_mention_count: 21
+tags: [entity, semantic]
 ---
 
 # unbalanced metabolism
 
-**unbalanced metabolism** (condition) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**unbalanced metabolism** (condition) appears in **21 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning unbalanced metabolism
 
-[[414-1]], [[2086-1]], [[2318-1]], [[2477-1]], [[2521-1]], [[2524-2]], [[2568-1]], [[2952-1]], [[3059-1]], [[5443-1]], [[5555-6]]
+[[136-34]], [[185-1]], [[414-1]], [[459-11]], [[623-1]], [[1022-1]], [[1151-28]], [[1959-2]], [[2039-1]], [[2173-2]], [[2315-1]], [[2318-1]], [[2477-1]], [[2515-1]], [[2521-1]], [[2524-2]], [[2568-1]], [[2773-1]], [[4594-1]], [[4872-1]], [[5443-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

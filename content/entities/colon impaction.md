@@ -1,18 +1,21 @@
 ---
 entity: "colon impaction"
-entity_type: "condition"
-reading_count: 4
-mention_count: 4
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # colon impaction
 
-**colon impaction** (condition) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**colon impaction** (condition) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning colon impaction
 
-[[106-11]], [[288-25]], [[3805-1]], [[4471-2]]
+[[106-13]], [[288-25]], [[599-11]], [[1010-16]], [[2072-16]], [[2363-1]], [[3805-1]], [[3932-1]], [[4281-13]], [[4854-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

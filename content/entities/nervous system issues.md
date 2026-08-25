@@ -1,18 +1,21 @@
 ---
 entity: "nervous system issues"
-entity_type: "condition"
-reading_count: 17
-mention_count: 17
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # nervous system issues
 
-**nervous system issues** (condition) appears in **17 readings** (17 mentions) — extracted by LLM semantic analysis.
+**nervous system issues** (condition) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning nervous system issues
 
-[[387-1]], [[571-4]], [[632-5]], [[1405-1]], [[1465-2]], [[1553-6]], [[1553-7]], [[1568-1]], [[1646-6]], [[2307-1]], [[2415-2]], [[2646-2]], [[3286-1]], [[3983-1]], [[4646-1]], [[4696-1]], [[5088-1]]
+[[1433-5]], [[1472-5]], [[1553-7]], [[4726-1]], [[4980-1]], [[5449-4]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "peanut oil rubdown"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # peanut oil rubdown
 
-**peanut oil rubdown** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**peanut oil rubdown** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning peanut oil rubdown
 
-[[2072-2]], [[3043-1]]
+[[2421-1]], [[2526-4]], [[2529-1]], [[2997-1]], [[3026-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

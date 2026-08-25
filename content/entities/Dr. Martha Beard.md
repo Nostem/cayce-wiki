@@ -1,18 +1,21 @@
 ---
-entity: "dr. martha beard"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Dr. Martha Beard"
+entity_types: ["person"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
-# dr. martha beard
+# Dr. Martha Beard
 
-**dr. martha beard** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Dr. Martha Beard** (person) appears in **8 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning dr. martha beard
+## Readings mentioning Dr. Martha Beard
 
-[[419-5]], [[1676-4]]
+[[419-5]], [[852-8]], [[1352-5]], [[1676-4]], [[1829-1]], [[2395-1]], [[2417-1]], [[3634-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

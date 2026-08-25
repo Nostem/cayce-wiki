@@ -1,18 +1,21 @@
 ---
 entity: "body-building forces"
-entity_type: "concept"
-reading_count: 8
-mention_count: 8
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # body-building forces
 
-**body-building forces** (concept) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**body-building forces** (concept, remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning body-building forces
 
-[[650-2]], [[773-11]], [[1013-3]], [[1179-3]], [[1179-4]], [[1188-2]], [[1206-2]], [[3120-2]]
+[[1013-3]], [[1102-2]], [[1179-4]], [[1952-2]], [[3120-2]], [[3471-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

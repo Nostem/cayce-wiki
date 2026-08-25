@@ -1,18 +1,21 @@
 ---
-entity: "dr. william d. taylor"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Dr. William D. Taylor"
+entity_types: ["person"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
-# dr. william d. taylor
+# Dr. William D. Taylor
 
-**dr. william d. taylor** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Dr. William D. Taylor** (person) appears in **6 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning dr. william d. taylor
+## Readings mentioning Dr. William D. Taylor
 
-[[2014-1]], [[2997-1]]
+[[1553-10]], [[1553-13]], [[1853-1]], [[2017-1]], [[2997-1]], [[3439-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

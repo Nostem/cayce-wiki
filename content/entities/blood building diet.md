@@ -1,18 +1,21 @@
 ---
 entity: "blood building diet"
-entity_type: "remedy"
-reading_count: 3
-mention_count: 3
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # blood building diet
 
-**blood building diet** (remedy) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**blood building diet** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning blood building diet
 
-[[63-1]], [[340-13]], [[5577-1]]
+[[340-13]], [[596-1]], [[773-13]], [[2175-7]], [[5577-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

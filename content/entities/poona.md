@@ -1,18 +1,21 @@
 ---
-entity: "poona"
-entity_type: "place"
-reading_count: 4
-mention_count: 4
-tags: [entity, place]
+entity: "Poona"
+entity_types: ["place"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
-# poona
+# Poona
 
-**poona** (place) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Poona** (place) appears in **10 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning poona
+## Readings mentioning Poona
 
-[[866-1]], [[1924-1]], [[2909-1]], [[5043-1]]
+[[708-1]], [[812-1]], [[813-1]], [[820-1]], [[866-1]], [[873-1]], [[897-1]], [[1924-1]], [[2909-1]], [[5043-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "lack of hemoglobin"
-entity_type: "condition"
-reading_count: 4
-mention_count: 4
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # lack of hemoglobin
 
-**lack of hemoglobin** (condition) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**lack of hemoglobin** (condition) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning lack of hemoglobin
 
-[[96-1]], [[3922-1]], [[4260-1]], [[4707-1]]
+[[785-2]], [[3899-3]], [[4198-1]], [[4218-1]], [[4707-1]], [[4980-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

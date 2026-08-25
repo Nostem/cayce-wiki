@@ -1,18 +1,21 @@
 ---
 entity: "universal laws"
-entity_type: "concept"
-reading_count: 14
-mention_count: 14
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # universal laws
 
-**universal laws** (concept) appears in **14 readings** (14 mentions) — extracted by LLM semantic analysis.
+**universal laws** (concept) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning universal laws
 
-[[302-4]], [[518-1]], [[792-1]], [[900-70]], [[900-84]], [[900-370]], [[1096-1]], [[1100-31]], [[2310-2]], [[2559-1]], [[2615-1]], [[2909-1]], [[3376-2]], [[5748-1]]
+[[195-41]], [[302-4]], [[792-1]], [[900-25]], [[900-84]], [[900-370]], [[2615-1]], [[2823-3]], [[5748-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

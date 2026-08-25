@@ -1,18 +1,21 @@
 ---
 entity: "spiritual well-being"
-entity_type: "concept"
-reading_count: 13
-mention_count: 13
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # spiritual well-being
 
-**spiritual well-being** (concept) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**spiritual well-being** (concept) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning spiritual well-being
 
-[[147-32]], [[243-16]], [[307-21]], [[412-8]], [[412-9]], [[454-1]], [[849-65]], [[1124-3]], [[1711-4]], [[2770-1]], [[2828-6]], [[3371-1]], [[4712-1]]
+[[137-1]], [[147-32]], [[243-16]], [[412-8]], [[1124-3]], [[2479-1]], [[3108-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

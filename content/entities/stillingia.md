@@ -1,18 +1,21 @@
 ---
 entity: "stillingia"
-entity_type: "remedy"
-reading_count: 10
-mention_count: 10
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # stillingia
 
-**stillingia** (remedy) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**stillingia** (remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning stillingia
 
-[[25-3]], [[43-1]], [[133-1]], [[206-1]], [[460-2]], [[913-1]], [[2504-8]], [[3890-1]], [[4437-1]], [[5492-1]]
+[[206-1]], [[460-2]], [[601-13]], [[816-2]], [[913-1]], [[5683-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

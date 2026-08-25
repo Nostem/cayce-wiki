@@ -1,18 +1,21 @@
 ---
 entity: "flushes"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # flushes
 
-**flushes** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**flushes** (condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning flushes
 
-[[632-14]], [[5646-1]]
+[[257-131]], [[356-1]], [[632-14]], [[1611-2]], [[2455-1]], [[3358-1]], [[3479-1]], [[4579-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

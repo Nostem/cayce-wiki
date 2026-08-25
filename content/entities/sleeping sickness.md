@@ -1,18 +1,21 @@
 ---
 entity: "sleeping sickness"
-entity_type: "condition"
-reading_count: 4
-mention_count: 4
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # sleeping sickness
 
-**sleeping sickness** (condition) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**sleeping sickness** (condition) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning sleeping sickness
 
-[[2597-8]], [[2773-2]], [[3238-1]], [[4506-1]]
+[[986-1]], [[1122-1]], [[2597-8]], [[3238-1]], [[4506-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

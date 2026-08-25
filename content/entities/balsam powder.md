@@ -1,18 +1,21 @@
 ---
 entity: "balsam powder"
-entity_type: "remedy"
-reading_count: 4
-mention_count: 4
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # balsam powder
 
-**balsam powder** (remedy) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**balsam powder** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning balsam powder
 
-[[326-16]], [[1935-1]], [[2752-1]], [[3301-1]]
+[[326-16]], [[1484-1]], [[1935-1]], [[2752-1]], [[3301-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

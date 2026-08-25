@@ -1,18 +1,21 @@
 ---
 entity: "fractured kneecap"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # fractured kneecap
 
-**fractured kneecap** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**fractured kneecap** (condition) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning fractured kneecap
 
-[[438-2]], [[438-3]], [[438-5]]
+[[438-2]], [[438-3]], [[438-4]], [[438-5]], [[438-6]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

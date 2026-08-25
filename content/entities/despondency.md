@@ -1,18 +1,21 @@
 ---
 entity: "despondency"
-entity_type: "condition"
-reading_count: 7
-mention_count: 7
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # despondency
 
-**despondency** (condition) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**despondency** (condition) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning despondency
 
-[[173-1]], [[349-21]], [[1938-1]], [[3142-1]], [[3624-1]], [[4103-1]], [[5483-2]]
+[[25-4]], [[173-1]], [[591-2]], [[1938-1]], [[3465-1]], [[3624-1]], [[4102-1]], [[4804-2]], [[4886-1]], [[5058-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "rubdowns"
-entity_type: "remedy"
-reading_count: 19
-mention_count: 19
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
 # rubdowns
 
-**rubdowns** (remedy) appears in **19 readings** (19 mentions) — extracted by LLM semantic analysis.
+**rubdowns** (remedy) appears in **13 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning rubdowns
 
-[[257-139]], [[257-193]], [[264-51]], [[274-5]], [[279-20]], [[400-1]], [[470-23]], [[670-4]], [[698-1]], [[849-14]], [[849-23]], [[920-4]], [[2307-1]], [[2860-1]], [[2929-1]], [[3554-1]], [[4475-1]], [[5271-1]], [[5380-1]]
+[[257-139]], [[257-173]], [[279-1]], [[279-20]], [[470-23]], [[815-3]], [[849-14]], [[1414-1]], [[2091-3]], [[2307-1]], [[2675-8]], [[2732-1]], [[5271-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

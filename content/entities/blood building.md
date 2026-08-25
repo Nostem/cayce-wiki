@@ -1,18 +1,21 @@
 ---
 entity: "blood building"
-entity_type: "concept"
-reading_count: 13
-mention_count: 13
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 15
+literal_reading_count: 0
+semantic_reading_count: 15
+literal_mention_count: 0
+semantic_mention_count: 15
+tags: [entity, semantic]
 ---
 
 # blood building
 
-**blood building** (concept) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**blood building** (concept, remedy) appears in **15 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning blood building
 
-[[102-2]], [[288-11]], [[372-7]], [[421-4]], [[684-1]], [[900-466]], [[2553-2]], [[2621-1]], [[3795-2]], [[3971-1]], [[4281-16]], [[5477-1]], [[5568-7]]
+[[102-2]], [[268-1]], [[288-26]], [[288-33]], [[340-27]], [[463-1]], [[501-2]], [[538-36]], [[1730-2]], [[1745-6]], [[1779-5]], [[4281-16]], [[4438-1]], [[5477-1]], [[5607-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "spiritual evolution"
-entity_type: "concept"
-reading_count: 15
-mention_count: 15
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 31
+literal_reading_count: 0
+semantic_reading_count: 31
+literal_mention_count: 0
+semantic_mention_count: 31
+tags: [entity, semantic]
 ---
 
 # spiritual evolution
 
-**spiritual evolution** (concept) appears in **15 readings** (15 mentions) — extracted by LLM semantic analysis.
+**spiritual evolution** (concept) appears in **31 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning spiritual evolution
 
-[[254-109]], [[262-99]], [[281-42]], [[281-44]], [[900-100]], [[1223-6]], [[1270-1]], [[1472-12]], [[1519-8]], [[1602-3]], [[2072-4]], [[2390-7]], [[5322-1]], [[5749-5]], [[5758-1]]
+[[137-120]], [[254-22]], [[254-109]], [[254-115]], [[262-71]], [[281-42]], [[281-44]], [[294-147]], [[294-206]], [[338-2]], [[364-6]], [[364-13]], [[900-16]], [[900-59]], [[900-88]], [[900-184]], [[1270-1]], [[1519-8]], [[1602-3]], [[1703-2]], [[2067-4]], [[2265-1]], [[2378-2]], [[2390-7]], [[2581-2]], [[2589-1]], [[2657-2]], [[3309-1]], [[3345-1]], [[5096-1]], [[5755-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

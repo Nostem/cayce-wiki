@@ -1,18 +1,21 @@
 ---
 entity: "accumulation of poisons"
-entity_type: "condition"
-reading_count: 7
-mention_count: 7
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # accumulation of poisons
 
-**accumulation of poisons** (condition) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**accumulation of poisons** (condition) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning accumulation of poisons
 
-[[333-11]], [[780-8]], [[900-462]], [[1287-2]], [[1746-1]], [[1868-1]], [[2548-1]]
+[[294-173]], [[394-4]], [[494-5]], [[569-8]], [[632-10]], [[842-1_id4965|842-1]], [[849-18]], [[1868-1]], [[2124-1]], [[3708-1]], [[5555-6]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "personality"
-entity_type: "concept"
-reading_count: 10
-mention_count: 10
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # personality
 
-**personality** (concept) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**personality** (concept) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning personality
 
-[[279-16]], [[281-49]], [[281-63]], [[294-185]], [[302-3]], [[373-1]], [[1916-5]], [[3211-2]], [[3590-2]], [[5756-9]]
+[[137-49]], [[257-79]], [[281-49]], [[352-1]], [[5756-9]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "gall bladder"
-entity_type: "condition"
-reading_count: 12
-mention_count: 12
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # gall bladder
 
-**gall bladder** (condition) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**gall bladder** (condition) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning gall bladder
 
-[[70-2]], [[326-9]], [[505-1]], [[557-6]], [[760-12]], [[1010-7]], [[1079-4]], [[1079-5]], [[1666-1]], [[1871-1]], [[2451-2]], [[5449-2]]
+[[195-52]], [[3677-1]], [[5190-1]], [[5449-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

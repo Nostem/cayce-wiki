@@ -1,18 +1,21 @@
 ---
 entity: "South America"
-entity_type: "place"
-reading_count: 2
-mention_count: 2
-tags: [entity, place]
+entity_types: ["place"]
+reading_count: 85
+literal_reading_count: 80
+semantic_reading_count: 51
+literal_mention_count: 113
+semantic_mention_count: 51
+tags: [entity, semantic]
 ---
 
 # South America
 
-**South America** (place) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**South America** (place) appears in **85 readings** — indexed through hybrid literal and LLM extraction.
 
 ## Readings mentioning South America
 
-[[195-40]], [[5000-2]]
+[[4-1]], [[16-1]], [[25-3]], [[32-1]], [[137-122]], [[195-29]], [[195-32]], [[195-40]], [[210-1]], [[213-1]], [[257-89]], [[257-128]], [[261-32]], [[270-32]], [[274-1]], [[274-13]], [[274-15]], [[274-16]], [[274-17]], [[294-1]], [[305-3]], [[364-4]], [[364-13]], [[378-12]], [[391-1]], [[426-2]], [[504-3]], [[531-9]], [[598-2]], [[772-2]], [[813-1]], [[849-62]], [[873-1]], [[877-3]], [[877-6]], [[877-15]], [[877-19]], [[877-24]], [[900-429]], [[953-28]], [[1131-2]], [[1208-1]], [[1234-1]], [[1416-1]], [[1472-15]], [[1561-18]], [[1703-2]], [[1734-1]], [[1770-7]], [[1796-1]], [[1849-2]], [[2029-1]], [[2441-4]], [[2454-3]], [[2542-1]], [[2599-1]], [[2646-6]], [[2661-1]], [[2666-1]], [[2677-1]], [[2857-1]], [[3514-1]], [[3650-1]], [[3651-1]], [[3976-15]], [[4151-2]], [[4239-1]], [[4292-1]], [[4586-4]], [[4840-1]], [[4905-16]], [[4905-58]], [[4908-1]], [[4908-7]], [[5000-1]], [[5000-2]], [[5090-1]], [[5249-1]], [[5250-1]], [[5252-1]], [[5262-1]], [[5264-1]], [[5321-1]], [[5368-1]], [[5648-4]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

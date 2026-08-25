@@ -1,18 +1,21 @@
 ---
 entity: "pinworms"
-entity_type: "condition"
-reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # pinworms
 
-**pinworms** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**pinworms** (condition) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning pinworms
 
-[[308-2]], [[324-6]], [[566-2]], [[781-1]], [[1519-5]], [[2542-4]]
+[[308-2]], [[324-6]], [[566-2]], [[781-1]], [[786-1]], [[1519-4]], [[1519-5]], [[2184-1]], [[2542-4]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

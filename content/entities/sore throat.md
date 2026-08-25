@@ -1,18 +1,21 @@
 ---
 entity: "sore throat"
-entity_type: "condition"
-reading_count: 22
-mention_count: 22
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 46
+literal_reading_count: 0
+semantic_reading_count: 46
+literal_mention_count: 0
+semantic_mention_count: 46
+tags: [entity, semantic]
 ---
 
 # sore throat
 
-**sore throat** (condition) appears in **22 readings** (22 mentions) — extracted by LLM semantic analysis.
+**sore throat** (condition) appears in **46 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning sore throat
 
-[[257-251]], [[270-4]], [[325-29]], [[352-3]], [[487-10]], [[585-5]], [[759-6]], [[759-7]], [[759-8]], [[808-12]], [[850-7]], [[1005-5]], [[1100-7]], [[1208-4]], [[1636-2]], [[1676-2]], [[1968-9]], [[2289-1]], [[2582-4]], [[3107-1]], [[3404-1]], [[4281-17]]
+[[257-251]], [[259-6]], [[259-10]], [[270-4]], [[288-43]], [[325-6]], [[325-29]], [[352-3]], [[487-10]], [[585-5]], [[711-3]], [[759-6]], [[808-11]], [[808-12]], [[850-7]], [[1045-2]], [[1112-9]], [[1131-4]], [[1352-8]], [[1363-1]], [[1387-4]], [[1499-1]], [[1519-1]], [[1636-2]], [[1664-1]], [[1676-2]], [[1719-1]], [[1796-2]], [[2504-20]], [[2582-2]], [[2582-4]], [[2684-1]], [[2982-2]], [[3107-1]], [[3116-1]], [[3279-2]], [[3279-3]], [[3404-1]], [[4017-1]], [[4172-1]], [[4320-2]], [[4331-1]], [[5206-1]], [[5300-1]], [[5399-1]], [[5432-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

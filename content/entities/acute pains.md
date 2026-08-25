@@ -1,18 +1,21 @@
 ---
 entity: "acute pains"
-entity_type: "condition"
-reading_count: 21
-mention_count: 21
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # acute pains
 
-**acute pains** (condition) appears in **21 readings** (21 mentions) — extracted by LLM semantic analysis.
+**acute pains** (condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning acute pains
 
-[[637-2]], [[733-1]], [[791-1]], [[849-20]], [[1309-4]], [[1387-3]], [[1467-18]], [[1882-1]], [[1973-1]], [[2092-1]], [[2209-1]], [[2507-1]], [[2959-1]], [[3153-1]], [[3160-1]], [[3550-1]], [[4122-1]], [[5017-1]], [[5647-1]], [[5686-2]], [[5736-1]]
+[[294-199]], [[409-19]], [[637-2]], [[733-1]], [[1000-12]], [[1467-18]], [[4122-1]], [[4631-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

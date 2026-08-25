@@ -1,18 +1,21 @@
 ---
 entity: "trust in divine"
-entity_type: "concept"
-reading_count: 9
-mention_count: 9
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # trust in divine
 
-**trust in divine** (concept) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**trust in divine** (concept) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning trust in divine
 
-[[341-20]], [[853-2]], [[900-251]], [[2828-1]], [[2911-1]], [[3165-1]], [[3218-1]], [[3286-1]], [[3307-1]]
+[[900-452]], [[900-457]], [[1224-2]], [[2135-1]], [[3218-1]], [[3467-1]], [[5563-1]], [[5615-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

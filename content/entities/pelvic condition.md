@@ -1,18 +1,21 @@
 ---
 entity: "pelvic condition"
-entity_type: "condition"
+entity_types: ["condition"]
 reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # pelvic condition
 
-**pelvic condition** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**pelvic condition** (condition) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning pelvic condition
 
-[[263-8]], [[903-34]], [[1223-2]], [[1947-10]], [[3007-1]], [[4707-2]]
+[[903-25]], [[1223-2]], [[2052-3]], [[2519-3]], [[3007-1]], [[4591-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

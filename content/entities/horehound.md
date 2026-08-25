@@ -1,18 +1,21 @@
 ---
 entity: "horehound"
-entity_type: "remedy"
-reading_count: 9
-mention_count: 9
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # horehound
 
-**horehound** (remedy) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**horehound** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning horehound
 
-[[304-8]], [[304-11]], [[304-19]], [[304-23]], [[348-21]], [[808-4]], [[1186-2]], [[4411-1]], [[4887-1]]
+[[304-8]], [[304-16]], [[487-26]], [[591-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

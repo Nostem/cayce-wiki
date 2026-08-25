@@ -1,18 +1,21 @@
 ---
 entity: "acid"
-entity_type: "remedy"
-reading_count: 5
-mention_count: 5
-tags: [entity, remedy]
+entity_types: ["condition", "remedy"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # acid
 
-**acid** (remedy) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**acid** (condition, remedy) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning acid
 
-[[4905-51]], [[4905-65]], [[4905-66]], [[4905-67]], [[4905-68]]
+[[294-1]], [[658-4]], [[849-65]], [[1564-3]], [[3468-3]], [[3728-2]], [[4905-68]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

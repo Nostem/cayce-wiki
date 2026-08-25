@@ -1,18 +1,21 @@
 ---
 entity: "transfusions"
-entity_type: "remedy"
-reading_count: 4
-mention_count: 4
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # transfusions
 
-**transfusions** (remedy) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**transfusions** (remedy) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning transfusions
 
-[[1000-25]], [[1312-8]], [[2456-3]], [[5172-1]]
+[[1000-25]], [[1166-1]], [[1312-8]], [[1558-2]], [[2292-1]], [[2456-3]], [[2699-1]], [[5172-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

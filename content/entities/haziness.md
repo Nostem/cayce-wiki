@@ -1,18 +1,21 @@
 ---
 entity: "haziness"
-entity_type: "condition"
-reading_count: 5
-mention_count: 5
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # haziness
 
-**haziness** (condition) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**haziness** (condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning haziness
 
-[[480-6]], [[480-11]], [[480-12]], [[480-15]], [[480-44]]
+[[480-6]], [[480-11]], [[480-12]], [[480-13]], [[480-14]], [[480-22]], [[480-27]], [[480-44]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

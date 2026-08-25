@@ -1,18 +1,21 @@
 ---
-entity: "john knight"
-entity_type: "person"
+entity: "John Knight"
+entity_types: ["person"]
 reading_count: 3
-mention_count: 3
-tags: [entity, person]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# john knight
+# John Knight
 
-**john knight** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**John Knight** (person) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning john knight
+## Readings mentioning John Knight
 
 [[454-4]], [[454-5]], [[454-6]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

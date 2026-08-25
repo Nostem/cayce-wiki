@@ -1,18 +1,21 @@
 ---
-entity: "dr. hansen"
-entity_type: "person"
-reading_count: 9
-mention_count: 9
-tags: [entity, person]
+entity: "Dr. Hansen"
+entity_types: ["person"]
+reading_count: 21
+literal_reading_count: 0
+semantic_reading_count: 21
+literal_mention_count: 0
+semantic_mention_count: 21
+tags: [entity, semantic]
 ---
 
-# dr. hansen
+# Dr. Hansen
 
-**dr. hansen** (person) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**Dr. Hansen** (person) appears in **21 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning dr. hansen
+## Readings mentioning Dr. Hansen
 
-[[140-32]], [[337-7]], [[758-5]], [[758-7]], [[1000-2]], [[2235-2]], [[5555-2]], [[5657-2]], [[5671-2]]
+[[119-2]], [[120-2]], [[337-6]], [[337-7]], [[337-8]], [[337-9]], [[409-7]], [[464-11]], [[758-6]], [[758-7]], [[900-455]], [[1000-3]], [[1000-4]], [[1122-2]], [[1381-7]], [[2519-2]], [[2682-3]], [[5555-1]], [[5657-2]], [[5671-2]], [[5671-3]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

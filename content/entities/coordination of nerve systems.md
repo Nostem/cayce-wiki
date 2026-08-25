@@ -1,18 +1,21 @@
 ---
 entity: "coordination of nerve systems"
-entity_type: "concept"
-reading_count: 3
-mention_count: 3
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # coordination of nerve systems
 
-**coordination of nerve systems** (concept) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**coordination of nerve systems** (concept) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning coordination of nerve systems
 
-[[1711-2]], [[2436-5]], [[5417-3]]
+[[515-1]], [[984-3]], [[1449-1]], [[4501-1]], [[5176-1]], [[5417-3]], [[5483-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

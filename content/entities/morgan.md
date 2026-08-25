@@ -1,18 +1,21 @@
 ---
 entity: "Morgan"
-entity_type: "place"
-reading_count: 10
-mention_count: 10
-tags: [entity, place]
+entity_types: ["person", "place"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
 # Morgan
 
-**Morgan** (place) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**Morgan** (person, place) appears in **14 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Morgan
 
-[[4905-16]], [[4905-21]], [[4905-22]], [[4905-23]], [[4905-24]], [[4905-34]], [[4905-40]], [[4905-43]], [[4905-46]], [[4905-48]]
+[[137-117]], [[261-9]], [[3976-10]], [[4905-2]], [[4905-6]], [[4905-24]], [[4905-27]], [[4905-40]], [[4905-43]], [[4905-46]], [[4905-49]], [[4905-53]], [[4905-58]], [[4905-59]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "environment"
-entity_type: "concept"
-reading_count: 12
-mention_count: 12
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # environment
 
-**environment** (concept) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**environment** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning environment
 
-[[288-13]], [[693-3]], [[900-23]], [[900-229]], [[900-233]], [[979-9]], [[1313-1]], [[1462-1]], [[1910-1]], [[1947-5]], [[2716-1]], [[5747-2]]
+[[254-99]], [[288-13]], [[900-339]], [[900-340]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "encouragement"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # encouragement
 
-**encouragement** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**encouragement** (concept, remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning encouragement
 
-[[254-78]], [[262-68]], [[1226-2]], [[3474-1]]
+[[136-46]], [[137-7]], [[254-78]], [[2329-1]], [[3080-1]], [[4905-44]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

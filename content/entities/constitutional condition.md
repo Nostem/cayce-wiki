@@ -1,18 +1,21 @@
 ---
 entity: "constitutional condition"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # constitutional condition
 
-**constitutional condition** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**constitutional condition** (concept, condition) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning constitutional condition
 
-[[919-1]], [[1703-1]], [[2977-1]], [[3951-1]], [[4896-1]]
+[[458-2]], [[480-44]], [[877-20]], [[1208-10]], [[1291-1]], [[2059-1]], [[3951-1]], [[4294-1]], [[4488-2]], [[4896-1]], [[5451-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "wertheim"
-entity_type: "person"
-reading_count: 3
-mention_count: 3
-tags: [entity, person]
+entity: "Wertheim"
+entity_types: ["person"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# wertheim
+# Wertheim
 
-**wertheim** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Wertheim** (person) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning wertheim
+## Readings mentioning Wertheim
 
-[[257-42]], [[257-43]], [[257-47]]
+[[257-42]], [[257-43]], [[257-46]], [[257-55]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

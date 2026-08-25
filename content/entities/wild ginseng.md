@@ -1,18 +1,21 @@
 ---
 entity: "wild ginseng"
-entity_type: "remedy"
-reading_count: 32
-mention_count: 32
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 17
+literal_reading_count: 0
+semantic_reading_count: 17
+literal_mention_count: 0
+semantic_mention_count: 17
+tags: [entity, semantic]
 ---
 
 # wild ginseng
 
-**wild ginseng** (remedy) appears in **32 readings** (32 mentions) — extracted by LLM semantic analysis.
+**wild ginseng** (remedy) appears in **17 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning wild ginseng
 
-[[340-33]], [[340-42]], [[348-8]], [[348-13]], [[458-2]], [[597-1]], [[624-1]], [[780-7]], [[808-4]], [[839-1]], [[913-1]], [[943-13]], [[1209-1]], [[2469-1]], [[2504-8]], [[2834-2]], [[3010-1]], [[3043-1]], [[3051-3]], [[3150-1]], [[3256-1]], [[4015-1]], [[4663-1]], [[5174-1]], [[5178-1]], [[5237-1]], [[5280-1]], [[5467-1]], [[5477-1]], [[5543-1]], [[5683-1]], [[5775-1]]
+[[340-42]], [[348-8]], [[348-13]], [[543-5]], [[601-13]], [[636-1]], [[643-1]], [[913-1]], [[2521-1]], [[2591-1]], [[2834-2]], [[4451-1]], [[4663-1]], [[5178-1]], [[5543-1]], [[5622-1]], [[5683-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

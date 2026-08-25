@@ -1,18 +1,21 @@
 ---
 entity: "cycles of change"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # cycles of change
 
-**cycles of change** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**cycles of change** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning cycles of change
 
-[[1574-1]], [[4407-1]]
+[[294-147]], [[1138-1]], [[5600-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "tension"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["condition"]
+reading_count: 15
+literal_reading_count: 0
+semantic_reading_count: 15
+literal_mention_count: 0
+semantic_mention_count: 15
+tags: [entity, semantic]
 ---
 
 # tension
 
-**tension** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**tension** (condition) appears in **15 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning tension
 
-[[325-31]], [[3077-2]]
+[[268-2]], [[325-31]], [[555-6]], [[903-15]], [[908-5]], [[1122-6]], [[1181-1]], [[2067-8]], [[2075-2]], [[2777-3]], [[2859-1]], [[3702-1]], [[4654-1]], [[5350-1]], [[5734-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

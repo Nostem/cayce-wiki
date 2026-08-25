@@ -1,18 +1,21 @@
 ---
 entity: "superficial circulation"
-entity_type: "concept"
-reading_count: 6
-mention_count: 6
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # superficial circulation
 
-**superficial circulation** (concept) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**superficial circulation** (concept, condition) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning superficial circulation
 
-[[303-33]], [[412-10]], [[480-28]], [[1179-4]], [[1467-1]], [[3288-1]]
+[[322-4]], [[326-13]], [[391-11]], [[421-10]], [[477-1]], [[601-22]], [[811-7]], [[1152-10]], [[2169-1]], [[2781-2]], [[3473-1]], [[5271-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

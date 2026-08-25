@@ -1,18 +1,21 @@
 ---
 entity: "cooked vegetables"
-entity_type: "remedy"
-reading_count: 13
-mention_count: 13
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 26
+literal_reading_count: 0
+semantic_reading_count: 26
+literal_mention_count: 0
+semantic_mention_count: 26
+tags: [entity, semantic]
 ---
 
 # cooked vegetables
 
-**cooked vegetables** (remedy) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**cooked vegetables** (remedy) appears in **26 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning cooked vegetables
 
-[[313-3]], [[340-8]], [[448-2]], [[851-1]], [[981-1]], [[1224-4]], [[1662-1]], [[1745-5]], [[1850-1]], [[1897-2]], [[2699-1]], [[3823-3]], [[5619-1]]
+[[255-10]], [[279-1]], [[294-129]], [[313-3]], [[340-8]], [[342-3]], [[371-1]], [[404-2]], [[484-2]], [[543-7]], [[562-1]], [[711-4]], [[851-1]], [[1137-1]], [[1224-4]], [[1467-11]], [[1635-2]], [[1662-1]], [[1736-1]], [[2067-5]], [[2096-1]], [[2193-1]], [[2315-1]], [[2699-1]], [[5520-3]], [[5619-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

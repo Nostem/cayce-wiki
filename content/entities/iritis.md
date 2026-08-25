@@ -1,18 +1,21 @@
 ---
 entity: "iritis"
-entity_type: "condition"
-reading_count: 15
-mention_count: 15
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 21
+literal_reading_count: 0
+semantic_reading_count: 21
+literal_mention_count: 0
+semantic_mention_count: 21
+tags: [entity, semantic]
 ---
 
 # iritis
 
-**iritis** (condition) appears in **15 readings** (15 mentions) — extracted by LLM semantic analysis.
+**iritis** (condition) appears in **21 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning iritis
 
-[[538-49]], [[538-52]], [[538-53]], [[538-54]], [[538-60]], [[538-61]], [[538-64]], [[538-68]], [[538-69]], [[538-70]], [[855-2]], [[934-10]], [[2511-1]], [[2988-5]], [[5086-3]]
+[[538-9]], [[538-52]], [[538-54]], [[538-60]], [[538-61]], [[538-63]], [[538-64]], [[538-68]], [[538-69]], [[538-70]], [[538-71]], [[855-1]], [[934-10]], [[934-11]], [[1654-1]], [[2511-1]], [[2558-1]], [[2988-5]], [[4012-1]], [[5068-1]], [[5086-3]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

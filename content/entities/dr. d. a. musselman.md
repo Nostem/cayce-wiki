@@ -1,18 +1,21 @@
 ---
 entity: "Dr. D. A. Musselman"
-entity_type: "person"
-reading_count: 9
-mention_count: 9
-tags: [entity, person]
+entity_types: ["person"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
 # Dr. D. A. Musselman
 
-**Dr. D. A. Musselman** (person) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**Dr. D. A. Musselman** (person) appears in **14 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Dr. D. A. Musselman
 
-[[1895-2]], [[2995-2]], [[3471-1]], [[3562-1]], [[3595-1]], [[3906-1]], [[4039-1]], [[4055-1]], [[5338-1]]
+[[1523-17]], [[1895-2]], [[2084-16]], [[2995-2]], [[3005-1]], [[3397-1]], [[3471-1]], [[3562-1]], [[3661-1]], [[3906-1]], [[4039-1]], [[4055-1]], [[5338-1]], [[5730-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

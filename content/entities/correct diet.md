@@ -1,18 +1,21 @@
 ---
 entity: "correct diet"
-entity_type: "remedy"
-reading_count: 9
-mention_count: 9
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # correct diet
 
-**correct diet** (remedy) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**correct diet** (remedy) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning correct diet
 
-[[257-31]], [[348-1]], [[674-2]], [[819-1]], [[948-1]], [[2039-1]], [[2675-5]], [[4492-1]], [[5719-1]]
+[[80-3]], [[257-31]], [[263-10]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

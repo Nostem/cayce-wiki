@@ -1,18 +1,21 @@
 ---
 entity: "nephritis"
-entity_type: "condition"
+entity_types: ["condition"]
 reading_count: 10
-mention_count: 10
-tags: [entity, condition]
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # nephritis
 
-**nephritis** (condition) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**nephritis** (condition) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning nephritis
 
-[[154-1]], [[304-43]], [[304-44]], [[370-4]], [[754-1]], [[760-5]], [[1112-6]], [[1112-9]], [[2084-2]], [[4175-1]]
+[[154-1]], [[304-44]], [[754-1]], [[760-5]], [[976-1]], [[1112-6]], [[1112-9]], [[2343-1]], [[3077-2]], [[4175-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "morgan simmons"
-entity_type: "person"
-reading_count: 4
-mention_count: 4
-tags: [entity, person]
+entity: "Morgan Simmons"
+entity_types: ["person"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
-# morgan simmons
+# Morgan Simmons
 
-**morgan simmons** (person) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Morgan Simmons** (person) appears in **6 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning morgan simmons
+## Readings mentioning Morgan Simmons
 
-[[257-165]], [[257-170]], [[257-198]], [[257-212]]
+[[257-123]], [[257-165]], [[257-168]], [[257-170]], [[257-209]], [[257-212_id854|257-212]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

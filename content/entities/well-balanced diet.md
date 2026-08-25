@@ -1,18 +1,21 @@
 ---
 entity: "well-balanced diet"
-entity_type: "remedy"
-reading_count: 14
-mention_count: 14
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 20
+literal_reading_count: 0
+semantic_reading_count: 20
+literal_mention_count: 0
+semantic_mention_count: 20
+tags: [entity, semantic]
 ---
 
 # well-balanced diet
 
-**well-balanced diet** (remedy) appears in **14 readings** (14 mentions) — extracted by LLM semantic analysis.
+**well-balanced diet** (remedy) appears in **20 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning well-balanced diet
 
-[[285-1]], [[288-35]], [[389-7]], [[456-1]], [[566-2]], [[997-2]], [[1133-1]], [[1206-9]], [[1655-1]], [[1844-3]], [[2604-1]], [[2868-2]], [[5504-3]], [[5778-1]]
+[[118-1]], [[140-27]], [[261-9]], [[294-156]], [[304-32]], [[369-11]], [[456-1]], [[480-22]], [[494-6]], [[566-2]], [[733-1]], [[772-1]], [[1133-1]], [[1206-9]], [[2831-3]], [[3289-1]], [[4006-1]], [[5271-1]], [[5609-1]], [[5778-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

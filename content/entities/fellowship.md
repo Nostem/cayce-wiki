@@ -1,18 +1,21 @@
 ---
 entity: "fellowship"
-entity_type: "concept"
-reading_count: 6
-mention_count: 6
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # fellowship
 
-**fellowship** (concept) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**fellowship** (concept, remedy) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning fellowship
 
-[[262-21]], [[262-22]], [[262-23]], [[262-24]], [[262-127]], [[872-1]]
+[[254-43]], [[262-19]], [[262-21]], [[262-22]], [[262-23]], [[262-24]], [[262-127]], [[3685-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

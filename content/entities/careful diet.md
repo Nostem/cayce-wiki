@@ -1,18 +1,21 @@
 ---
 entity: "careful diet"
-entity_type: "remedy"
-reading_count: 3
-mention_count: 3
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # careful diet
 
-**careful diet** (remedy) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**careful diet** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning careful diet
 
-[[70-1]], [[1000-1]], [[4128-1]]
+[[70-1]], [[487-1]], [[760-5]], [[3776-15]], [[5206-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

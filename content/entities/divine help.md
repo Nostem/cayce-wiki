@@ -1,18 +1,21 @@
 ---
 entity: "divine help"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # divine help
 
-**divine help** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**divine help** (concept) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning divine help
 
-[[244-4]], [[1865-3]]
+[[556-9]], [[1212-1]], [[1427-1]], [[1865-1]], [[2017-2]], [[3124-1]], [[3900-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

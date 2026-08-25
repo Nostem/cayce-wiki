@@ -1,18 +1,21 @@
 ---
 entity: "social service"
-entity_type: "concept"
+entity_types: ["concept", "remedy"]
 reading_count: 10
-mention_count: 10
-tags: [entity, concept]
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # social service
 
-**social service** (concept) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**social service** (concept, remedy) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning social service
 
-[[307-3]], [[322-1]], [[1614-2]], [[1701-1]], [[1897-1]], [[2029-1]], [[2936-2]], [[4067-1]], [[5260-1]], [[5384-1]]
+[[322-1]], [[1614-2]], [[1701-1]], [[1701-2]], [[1755-3]], [[2034-1]], [[2835-1]], [[4067-1]], [[5260-1]], [[5384-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

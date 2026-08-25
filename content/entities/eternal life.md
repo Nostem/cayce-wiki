@@ -1,18 +1,21 @@
 ---
 entity: "eternal life"
-entity_type: "concept"
-reading_count: 10
-mention_count: 10
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # eternal life
 
-**eternal life** (concept) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**eternal life** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning eternal life
 
-[[262-122]], [[281-37]], [[464-36]], [[1175-1]], [[1620-1]], [[1798-2]], [[1947-3]], [[2791-1]], [[2994-1]], [[5322-1]]
+[[1798-2]], [[3388-1]], [[3458-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

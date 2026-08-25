@@ -1,18 +1,21 @@
 ---
 entity: "understanding"
-entity_type: "concept"
-reading_count: 69
-mention_count: 69
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # understanding
 
-**understanding** (concept) appears in **69 readings** (69 mentions) — extracted by LLM semantic analysis.
+**understanding** (concept) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning understanding
 
-[[136-4]], [[136-14]], [[136-41]], [[137-45]], [[137-120]], [[195-30]], [[254-111]], [[262-4]], [[262-7]], [[262-18]], [[262-19]], [[262-20]], [[262-24]], [[262-26]], [[262-127]], [[263-18]], [[270-21]], [[279-13]], [[281-57]], [[288-27]], [[302-1]], [[307-15]], [[341-31]], [[378-40]], [[397-1]], [[413-3]], [[459-1]], [[459-5]], [[538-16]], [[538-19]], [[539-1]], [[738-1]], [[849-19]], [[877-27]], [[900-99]], [[900-194]], [[900-196]], [[900-308]], [[900-318]], [[900-321]], [[900-364]], [[900-365]], [[900-417]], [[900-437]], [[900-441]], [[900-444]], [[900-458]], [[988-13]], [[1151-21]], [[1173-4]], [[1246-2]], [[1540-4]], [[1742-2]], [[1749-1]], [[2112-1]], [[2175-3]], [[2218-1]], [[2708-1]], [[2968-3]], [[3036-2]], [[3743-2]], [[3976-8]], [[4203-6]], [[4258-1]], [[4405-1]], [[4586-3]], [[4938-1]], [[5678-1]], [[5756-6]]
+[[262-18]], [[262-19]], [[262-20]], [[262-113]], [[341-22]], [[480-22]], [[849-19]], [[900-25]], [[900-318]], [[900-365]], [[2968-3]], [[3036-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

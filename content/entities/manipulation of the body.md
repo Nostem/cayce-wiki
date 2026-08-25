@@ -1,18 +1,21 @@
 ---
 entity: "manipulation of the body"
-entity_type: "remedy"
-reading_count: 3
-mention_count: 3
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # manipulation of the body
 
-**manipulation of the body** (remedy) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**manipulation of the body** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning manipulation of the body
 
-[[3848-2]], [[3919-1]], [[4396-1]]
+[[14-1]], [[780-1]], [[3848-2]], [[3919-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

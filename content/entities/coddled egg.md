@@ -1,18 +1,21 @@
 ---
 entity: "coddled egg"
-entity_type: "remedy"
-reading_count: 18
-mention_count: 18
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 17
+literal_reading_count: 0
+semantic_reading_count: 17
+literal_mention_count: 0
+semantic_mention_count: 17
+tags: [entity, semantic]
 ---
 
 # coddled egg
 
-**coddled egg** (remedy) appears in **18 readings** (18 mentions) — extracted by LLM semantic analysis.
+**coddled egg** (remedy) appears in **17 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning coddled egg
 
-[[23-2]], [[330-1]], [[521-1]], [[556-9]], [[556-14]], [[711-3]], [[779-21]], [[786-2]], [[806-1]], [[852-10]], [[943-14]], [[1409-4]], [[1419-3]], [[1745-5]], [[1788-6]], [[1820-2]], [[2824-4]], [[3823-3]]
+[[274-8]], [[275-42]], [[307-5]], [[337-22]], [[349-13]], [[399-2]], [[434-1]], [[556-9]], [[556-14]], [[665-2]], [[800-1]], [[1055-1]], [[1401-2]], [[1409-4]], [[2824-4]], [[4320-2]], [[5520-3]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

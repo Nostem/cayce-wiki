@@ -1,18 +1,21 @@
 ---
 entity: "loneliness"
-entity_type: "concept"
-reading_count: 12
-mention_count: 12
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # loneliness
 
-**loneliness** (concept) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**loneliness** (concept, condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning loneliness
 
-[[79-1]], [[295-2]], [[504-3]], [[872-1]], [[1286-1]], [[1468-6]], [[1968-5]], [[2992-1]], [[3184-1]], [[3478-2]], [[5098-1]], [[5246-1]]
+[[79-1]], [[369-16]], [[954-5]], [[1183-1]], [[1238-3]], [[1540-6]], [[2992-1]], [[5728-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

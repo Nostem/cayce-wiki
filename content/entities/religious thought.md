@@ -1,18 +1,21 @@
 ---
 entity: "religious thought"
-entity_type: "concept"
-reading_count: 6
-mention_count: 6
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # religious thought
 
-**religious thought** (concept) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**religious thought** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning religious thought
 
-[[187-1]], [[288-14]], [[900-102]], [[1096-2]], [[5480-1]], [[5756-9]]
+[[187-1]], [[288-14]], [[3054-4]], [[5756-9]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

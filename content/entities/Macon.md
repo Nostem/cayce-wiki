@@ -1,18 +1,21 @@
 ---
-entity: "macon"
-entity_type: "place"
-reading_count: 26
-mention_count: 26
-tags: [entity, place]
+entity: "Macon"
+entity_types: ["place"]
+reading_count: 23
+literal_reading_count: 0
+semantic_reading_count: 23
+literal_mention_count: 0
+semantic_mention_count: 23
+tags: [entity, semantic]
 ---
 
-# macon
+# Macon
 
-**macon** (place) appears in **26 readings** (26 mentions) — extracted by LLM semantic analysis.
+**Macon** (place) appears in **23 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning macon
+## Readings mentioning Macon
 
-[[486-1]], [[885-2]], [[1427-1]], [[1452-1]], [[1764-2]], [[2008-1]], [[2042-1]], [[2099-1]], [[2721-2]], [[2744-3]], [[3238-1]], [[3415-1]], [[3441-1]], [[3475-1]], [[3510-1]], [[3589-1]], [[3777-5]], [[3962-1]], [[3962-2]], [[4002-1]], [[4097-1]], [[4237-1]], [[4936-1]], [[5167-1]], [[5618-15]], [[5690-1]]
+[[173-1]], [[486-1]], [[543-23]], [[557-1]], [[787-1]], [[1683-2]], [[1788-6]], [[1885-1]], [[2008-1]], [[2273-1]], [[2718-1]], [[2742-1]], [[3238-1]], [[3375-1]], [[3415-1]], [[3510-1]], [[3962-2]], [[4237-1]], [[4556-1]], [[4827-2]], [[4936-1]], [[5428-2]], [[5618-15]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

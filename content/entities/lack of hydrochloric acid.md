@@ -1,18 +1,21 @@
 ---
 entity: "lack of hydrochloric acid"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # lack of hydrochloric acid
 
-**lack of hydrochloric acid** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**lack of hydrochloric acid** (condition) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning lack of hydrochloric acid
 
-[[2094-2]], [[3546-1]]
+[[1813-1]], [[1947-11]], [[2094-2]], [[2693-1]], [[2859-1]], [[2982-2]], [[3484-1]], [[3546-1]], [[4218-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "ultra-violet treatment"
-entity_type: "remedy"
-reading_count: 12
-mention_count: 12
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # ultra-violet treatment
 
-**ultra-violet treatment** (remedy) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**ultra-violet treatment** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning ultra-violet treatment
 
-[[264-17]], [[275-17]], [[325-39]], [[459-6]], [[632-2]], [[632-7]], [[683-4]], [[1013-3]], [[2912-1]], [[2982-2]], [[4164-2]], [[5236-1]]
+[[257-75]], [[264-17]], [[275-17]], [[275-18]], [[325-39]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

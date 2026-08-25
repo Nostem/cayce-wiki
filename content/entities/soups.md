@@ -1,18 +1,21 @@
 ---
 entity: "soups"
-entity_type: "remedy"
-reading_count: 16
-mention_count: 16
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 20
+literal_reading_count: 0
+semantic_reading_count: 20
+literal_mention_count: 0
+semantic_mention_count: 20
+tags: [entity, semantic]
 ---
 
 # soups
 
-**soups** (remedy) appears in **16 readings** (16 mentions) — extracted by LLM semantic analysis.
+**soups** (remedy) appears in **20 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning soups
 
-[[257-127]], [[261-22]], [[288-41]], [[294-95]], [[325-17]], [[719-1]], [[760-16]], [[877-23]], [[988-1]], [[1278-1]], [[2817-1]], [[2942-1]], [[2965-1]], [[3316-1]], [[3515-1]], [[3679-1]]
+[[103-1]], [[288-25]], [[303-28]], [[313-16]], [[326-12]], [[327-2]], [[409-35]], [[482-2]], [[487-26]], [[608-14]], [[760-16]], [[877-23]], [[988-1]], [[1058-3]], [[2078-1]], [[2299-3]], [[2942-1]], [[4798-1]], [[5291-1]], [[5544-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

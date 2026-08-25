@@ -1,18 +1,21 @@
 ---
-entity: "backman"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Backman"
+entity_types: ["person"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# backman
+# Backman
 
-**backman** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Backman** (person) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning backman
+## Readings mentioning Backman
 
-[[1266-5]], [[1763-1]]
+[[1266-5]], [[1855-1]], [[1871-1]], [[1938-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

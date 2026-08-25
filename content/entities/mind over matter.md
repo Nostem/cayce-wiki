@@ -1,18 +1,21 @@
 ---
 entity: "mind over matter"
-entity_type: "concept"
-reading_count: 13
-mention_count: 13
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # mind over matter
 
-**mind over matter** (concept) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**mind over matter** (concept) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mind over matter
 
-[[14-1]], [[59-1]], [[442-5]], [[484-2]], [[948-1]], [[1152-5]], [[3931-2]], [[4329-1]], [[4440-1]], [[4467-1]], [[4591-1]], [[4725-2]], [[4727-1]]
+[[14-1]], [[442-5]], [[780-5]], [[1152-5]], [[1695-2]], [[3533-1]], [[4329-1]], [[4440-1]], [[4467-1]], [[4694-4]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

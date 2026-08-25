@@ -1,18 +1,21 @@
 ---
 entity: "nerve centers"
-entity_type: "concept"
-reading_count: 24
-mention_count: 24
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 39
+literal_reading_count: 0
+semantic_reading_count: 39
+literal_mention_count: 0
+semantic_mention_count: 39
+tags: [entity, semantic]
 ---
 
 # nerve centers
 
-**nerve centers** (concept) appears in **24 readings** (24 mentions) — extracted by LLM semantic analysis.
+**nerve centers** (concept, condition) appears in **39 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning nerve centers
 
-[[9-4]], [[21-1]], [[195-2]], [[255-2]], [[269-1]], [[953-25]], [[2220-1]], [[2517-1]], [[2971-4]], [[3854-4]], [[3875-1]], [[4198-2]], [[4212-1]], [[4233-1]], [[4273-1]], [[4314-1]], [[4394-1]], [[4452-1]], [[4474-1]], [[4695-1]], [[4745-1]], [[5642-1]], [[5710-1]], [[5730-1]]
+[[9-4]], [[34-2]], [[88-1]], [[124-3]], [[147-14]], [[255-2]], [[269-1]], [[294-138]], [[325-4]], [[583-6]], [[2197-1]], [[2220-1]], [[2501-1]], [[2504-6]], [[2652-1]], [[2952-2]], [[3765-1]], [[3780-2]], [[3788-1]], [[3970-1]], [[3978-1]], [[4196-1]], [[4198-2]], [[4206-2]], [[4217-1]], [[4287-1]], [[4509-1]], [[4521-1]], [[4526-1]], [[4542-1]], [[4601-1]], [[4611-1]], [[4656-1]], [[4767-2]], [[4772-1]], [[4875-1]], [[5473-9]], [[5590-1]], [[5708-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

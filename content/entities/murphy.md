@@ -1,18 +1,21 @@
 ---
-entity: "murphy"
-entity_type: "person"
-reading_count: 4
-mention_count: 4
-tags: [entity, person]
+entity: "Murphy"
+entity_types: ["person"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
-# murphy
+# Murphy
 
-**murphy** (person) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Murphy** (person) appears in **6 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning murphy
+## Readings mentioning Murphy
 
-[[254-102]], [[257-103]], [[257-104]], [[3903-1]]
+[[254-102]], [[257-103]], [[257-104]], [[257-203]], [[1772-1]], [[3903-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

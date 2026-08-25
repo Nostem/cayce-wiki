@@ -1,18 +1,21 @@
 ---
 entity: "healing power"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # healing power
 
-**healing power** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**healing power** (concept) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning healing power
 
-[[3446-1]], [[4218-3]]
+[[255-11]], [[993-7]], [[1686-1]], [[2112-1]], [[3446-1]], [[3446-2]], [[4436-1]], [[4959-1]], [[5506-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

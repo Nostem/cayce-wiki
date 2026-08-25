@@ -1,18 +1,21 @@
 ---
 entity: "nervous condition"
-entity_type: "concept"
-reading_count: 9
-mention_count: 9
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 72
+literal_reading_count: 0
+semantic_reading_count: 72
+literal_mention_count: 0
+semantic_mention_count: 72
+tags: [entity, semantic]
 ---
 
 # nervous condition
 
-**nervous condition** (concept) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**nervous condition** (concept, condition) appears in **72 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning nervous condition
 
-[[523-1]], [[560-4]], [[850-5]], [[948-1]], [[1022-1]], [[2173-2]], [[4192-1]], [[4684-2]], [[5023-1]]
+[[12-1]], [[99-2]], [[137-101]], [[270-6]], [[287-14]], [[369-11]], [[369-12]], [[377-1]], [[464-34]], [[528-13]], [[560-4]], [[633-2]], [[639-2]], [[678-4]], [[808-1]], [[808-3]], [[808-8]], [[851-3]], [[949-8]], [[1009-1]], [[1179-7]], [[1195-1]], [[1472-7]], [[1663-5]], [[1683-1]], [[1783-3]], [[1819-1]], [[2051-2]], [[2068-2]], [[2103-1]], [[2293-3]], [[2293-4]], [[2313-1]], [[2382-1]], [[2390-8]], [[2491-1]], [[2582-1]], [[2653-5]], [[2780-1]], [[2780-2]], [[2946-5]], [[3111-1]], [[3120-1]], [[3120-2]], [[3300-1]], [[3462-1]], [[3595-1]], [[3698-1]], [[3748-1]], [[3759-1]], [[3774-1]], [[3807-1]], [[3830-1]], [[3931-2]], [[4018-1]], [[4029-1]], [[4094-1]], [[4192-1]], [[4274-2]], [[4317-1]], [[4509-1]], [[4524-3]], [[4646-2]], [[4668-1]], [[4690-1]], [[4801-1]], [[4826-1]], [[4937-1]], [[5238-1]], [[5280-1]], [[5333-1]], [[5538-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

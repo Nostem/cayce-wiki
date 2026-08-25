@@ -1,18 +1,21 @@
 ---
 entity: "mental disturbances"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # mental disturbances
 
-**mental disturbances** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**mental disturbances** (concept, condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mental disturbances
 
-[[464-24]], [[1099-1]], [[2691-1]], [[2701-1]], [[3620-1]]
+[[593-1]], [[1019-1]], [[1099-1]], [[1338-1]], [[1926-1]], [[2478-2]], [[4624-1]], [[5303-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

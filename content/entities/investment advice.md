@@ -1,18 +1,21 @@
 ---
 entity: "investment advice"
-entity_type: "concept"
-reading_count: 6
-mention_count: 6
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # investment advice
 
-**investment advice** (concept) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**investment advice** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning investment advice
 
-[[195-36]], [[257-62]], [[325-21]], [[325-25]], [[1467-16]], [[3861-1]]
+[[900-206]], [[900-423]], [[1180-8]], [[4636-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

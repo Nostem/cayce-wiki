@@ -1,18 +1,21 @@
 ---
 entity: "laxative diet"
-entity_type: "remedy"
-reading_count: 5
-mention_count: 5
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # laxative diet
 
-**laxative diet** (remedy) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**laxative diet** (remedy) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning laxative diet
 
-[[136-19]], [[1368-2]], [[1972-1]], [[2267-1]], [[3489-1]]
+[[136-19]], [[294-128]], [[774-2]], [[1368-2]], [[3489-1]], [[3553-1]], [[3947-1]], [[4125-4]], [[4190-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

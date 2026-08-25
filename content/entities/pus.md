@@ -1,18 +1,21 @@
 ---
 entity: "pus"
-entity_type: "condition"
-reading_count: 15
-mention_count: 15
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # pus
 
-**pus** (condition) appears in **15 readings** (15 mentions) — extracted by LLM semantic analysis.
+**pus** (condition) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning pus
 
-[[2-7]], [[257-11]], [[263-7]], [[287-8]], [[409-8]], [[514-4]], [[556-8]], [[569-14]], [[805-1]], [[879-1]], [[1148-2]], [[3520-1]], [[3775-1]], [[4358-4]], [[5566-2]]
+[[45-3]], [[540-14]], [[556-9]], [[849-71]], [[3775-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

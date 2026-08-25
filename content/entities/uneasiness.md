@@ -1,18 +1,21 @@
 ---
 entity: "uneasiness"
-entity_type: "condition"
-reading_count: 21
-mention_count: 21
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # uneasiness
 
-**uneasiness** (condition) appears in **21 readings** (21 mentions) — extracted by LLM semantic analysis.
+**uneasiness** (condition) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning uneasiness
 
-[[137-129]], [[170-1]], [[255-4]], [[257-131]], [[360-5]], [[539-2]], [[743-1]], [[900-393]], [[953-12]], [[957-3]], [[1141-1]], [[2509-1]], [[2558-1]], [[2646-1]], [[2750-2]], [[2810-1]], [[2818-1]], [[3033-1]], [[4667-1]], [[5071-1]], [[5411-1]]
+[[255-4]], [[255-8]], [[470-24]], [[2293-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

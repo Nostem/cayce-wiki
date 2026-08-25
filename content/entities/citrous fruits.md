@@ -1,18 +1,21 @@
 ---
 entity: "citrous fruits"
-entity_type: "remedy"
-reading_count: 4
-mention_count: 4
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # citrous fruits
 
-**citrous fruits** (remedy) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**citrous fruits** (remedy) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning citrous fruits
 
-[[379-11]], [[2193-1]], [[4762-1]], [[5458-1]]
+[[255-10]], [[304-19]], [[347-1]], [[378-7]], [[630-1]], [[943-11]], [[2096-1]], [[2371-1]], [[4293-1]], [[5574-1]], [[5685-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

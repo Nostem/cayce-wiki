@@ -1,18 +1,21 @@
 ---
 entity: "immortality"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # immortality
 
-**immortality** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**immortality** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning immortality
 
-[[1158-12]], [[1298-1]], [[2112-1]], [[3398-1]], [[5749-5]]
+[[262-78]], [[900-452]], [[900-465]], [[5749-5]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

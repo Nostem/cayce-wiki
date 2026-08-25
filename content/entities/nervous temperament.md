@@ -1,18 +1,21 @@
 ---
 entity: "nervous temperament"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # nervous temperament
 
-**nervous temperament** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**nervous temperament** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning nervous temperament
 
-[[522-1]], [[1206-1]], [[4176-1]], [[4544-1]], [[5549-1]]
+[[954-2]], [[2418-1]], [[4776-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

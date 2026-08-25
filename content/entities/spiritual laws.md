@@ -1,18 +1,21 @@
 ---
 entity: "spiritual laws"
-entity_type: "concept"
-reading_count: 46
-mention_count: 46
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 30
+literal_reading_count: 0
+semantic_reading_count: 30
+literal_mention_count: 0
+semantic_mention_count: 30
+tags: [entity, semantic]
 ---
 
 # spiritual laws
 
-**spiritual laws** (concept) appears in **46 readings** (46 mentions) — extracted by LLM semantic analysis.
+**spiritual laws** (concept) appears in **30 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning spiritual laws
 
-[[136-14]], [[136-37]], [[137-30]], [[137-31]], [[140-30]], [[165-24]], [[254-27]], [[257-61]], [[257-87]], [[262-77]], [[288-38]], [[311-10]], [[366-5]], [[378-14]], [[538-34]], [[599-3]], [[670-10]], [[900-70]], [[900-115]], [[900-126]], [[900-132]], [[900-137]], [[900-236]], [[900-438]], [[1005-12]], [[1135-2]], [[1135-6]], [[1432-1]], [[1541-11]], [[1637-1]], [[1650-1]], [[1925-3]], [[1968-1]], [[2153-7]], [[2554-1]], [[2560-1]], [[2655-1]], [[2734-1]], [[2802-1]], [[3220-1]], [[3663-1]], [[4239-1]], [[4735-1]], [[5096-1]], [[5281-1]], [[5554-1]]
+[[136-14]], [[137-30]], [[140-30]], [[254-27]], [[254-67]], [[254-102]], [[262-92]], [[288-38]], [[311-10]], [[370-4]], [[412-9]], [[670-10]], [[900-115]], [[900-126]], [[900-132]], [[900-137]], [[900-138]], [[900-182]], [[956-1]], [[1074-2]], [[1135-2]], [[1217-1]], [[1472-11]], [[1796-1]], [[1823-1]], [[1966-1]], [[2153-7]], [[2524-3]], [[3141-1]], [[3663-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

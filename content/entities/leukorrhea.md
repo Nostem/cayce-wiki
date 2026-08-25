@@ -1,18 +1,21 @@
 ---
 entity: "leukorrhea"
-entity_type: "condition"
-reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # leukorrhea
 
-**leukorrhea** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**leukorrhea** (condition) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning leukorrhea
 
-[[457-4]], [[457-6]], [[538-6]], [[811-6]], [[3081-1]], [[4890-1]]
+[[457-3]], [[457-4]], [[457-6]], [[457-12]], [[538-6]], [[538-8]], [[811-6]], [[1794-1]], [[2072-16]], [[3081-1]], [[4890-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "soul awareness"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # soul awareness
 
-**soul awareness** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**soul awareness** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning soul awareness
 
-[[378-46]], [[987-2]], [[2246-1]], [[2813-1]], [[3232-1]]
+[[378-46]], [[792-1]], [[3232-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

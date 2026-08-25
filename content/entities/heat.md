@@ -1,18 +1,21 @@
 ---
 entity: "heat"
-entity_type: "remedy"
-reading_count: 23
-mention_count: 23
-tags: [entity, remedy]
+entity_types: ["condition", "remedy"]
+reading_count: 30
+literal_reading_count: 0
+semantic_reading_count: 30
+literal_mention_count: 0
+semantic_mention_count: 30
+tags: [entity, semantic]
 ---
 
 # heat
 
-**heat** (remedy) appears in **23 readings** (23 mentions) — extracted by LLM semantic analysis.
+**heat** (condition, remedy) appears in **30 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning heat
 
-[[40-1]], [[263-9]], [[264-8]], [[288-39]], [[294-169]], [[294-181]], [[325-71]], [[340-39]], [[551-1]], [[559-5]], [[601-24]], [[622-5]], [[849-60]], [[949-9]], [[1010-21]], [[1062-2]], [[1122-5]], [[1122-9]], [[2046-1]], [[2868-4]], [[3953-1]], [[4147-1]], [[5473-6]]
+[[223-1]], [[243-25]], [[262-83]], [[263-9]], [[264-47]], [[288-39]], [[294-104]], [[294-170]], [[404-10]], [[622-5]], [[678-6]], [[849-60]], [[919-1]], [[953-11]], [[1062-2]], [[1122-2]], [[1122-9]], [[1389-1]], [[1433-5]], [[1532-4]], [[2046-1]], [[2084-6]], [[2921-2]], [[3189-1]], [[3953-1]], [[4147-1]], [[4671-1]], [[4764-2]], [[4893-2]], [[5670-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

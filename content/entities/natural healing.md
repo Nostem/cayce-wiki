@@ -1,18 +1,21 @@
 ---
 entity: "natural healing"
-entity_type: "concept"
-reading_count: 20
-mention_count: 20
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # natural healing
 
-**natural healing** (concept) appears in **20 readings** (20 mentions) — extracted by LLM semantic analysis.
+**natural healing** (concept) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning natural healing
 
-[[195-34]], [[224-1]], [[340-1]], [[480-39]], [[556-5]], [[632-3]], [[632-7]], [[934-13]], [[1187-7]], [[1266-4]], [[1800-21]], [[3222-1]], [[3679-1]], [[3844-1]], [[4124-2]], [[4569-1]], [[4701-1]], [[4726-1]], [[5417-1]], [[5671-6]]
+[[325-61]], [[562-4]], [[934-13]], [[1158-26]], [[1187-7]], [[1497-4]], [[2759-1]], [[3919-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "self-development"
-entity_type: "concept"
-reading_count: 38
-mention_count: 38
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 29
+literal_reading_count: 0
+semantic_reading_count: 29
+literal_mention_count: 0
+semantic_mention_count: 29
+tags: [entity, semantic]
 ---
 
 # self-development
 
-**self-development** (concept) appears in **38 readings** (38 mentions) — extracted by LLM semantic analysis.
+**self-development** (concept) appears in **29 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning self-development
 
-[[106-8]], [[137-49]], [[165-2]], [[165-10]], [[195-42]], [[238-2]], [[254-64]], [[254-71]], [[262-114]], [[282-3]], [[284-1]], [[295-2]], [[302-3]], [[302-5]], [[311-3]], [[349-7]], [[372-4]], [[440-8]], [[451-3]], [[470-10]], [[562-3]], [[670-7]], [[900-71]], [[900-162]], [[900-244]], [[900-447]], [[1530-1]], [[1713-3]], [[2011-3]], [[2425-1]], [[2749-1]], [[2893-1]], [[2897-3]], [[3781-1]], [[4586-1]], [[4987-1]], [[5417-2]], [[5603-5]]
+[[106-8]], [[137-49]], [[137-51]], [[137-100]], [[165-10]], [[254-64]], [[255-11]], [[279-19]], [[295-2]], [[341-41]], [[440-12]], [[451-3]], [[562-3]], [[670-8]], [[900-5]], [[900-443]], [[1272-2]], [[1733-2]], [[1786-2]], [[2720-1]], [[2725-1]], [[2756-1]], [[3228-1]], [[3360-1]], [[4208-1]], [[4493-1]], [[4877-2]], [[4987-1]], [[5603-5]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

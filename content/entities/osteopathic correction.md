@@ -1,18 +1,21 @@
 ---
 entity: "osteopathic correction"
-entity_type: "remedy"
-reading_count: 7
-mention_count: 7
-tags: [entity, remedy]
+entity_types: ["concept", "remedy"]
+reading_count: 18
+literal_reading_count: 0
+semantic_reading_count: 18
+literal_mention_count: 0
+semantic_mention_count: 18
+tags: [entity, semantic]
 ---
 
 # osteopathic correction
 
-**osteopathic correction** (remedy) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**osteopathic correction** (concept, remedy) appears in **18 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning osteopathic correction
 
-[[1093-2]], [[2527-2]], [[2598-1]], [[2946-1]], [[2973-1]], [[3413-1]], [[3641-1]]
+[[143-5]], [[263-8]], [[325-28]], [[415-10]], [[433-1]], [[601-7]], [[949-15]], [[1010-13]], [[1013-1]], [[1093-2]], [[1528-3]], [[2527-2]], [[3231-1]], [[3421-1]], [[3641-1]], [[4033-1]], [[5550-1]], [[5611-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

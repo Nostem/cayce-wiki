@@ -1,18 +1,21 @@
 ---
 entity: "plethora"
-entity_type: "condition"
-reading_count: 47
-mention_count: 47
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 41
+literal_reading_count: 0
+semantic_reading_count: 41
+literal_mention_count: 0
+semantic_mention_count: 41
+tags: [entity, semantic]
 ---
 
 # plethora
 
-**plethora** (condition) appears in **47 readings** (47 mentions) — extracted by LLM semantic analysis.
+**plethora** (condition) appears in **41 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning plethora
 
-[[85-1]], [[253-1]], [[264-18]], [[264-19]], [[338-1]], [[338-9]], [[389-6]], [[420-4]], [[555-11]], [[595-1]], [[632-2]], [[654-8]], [[852-18]], [[982-2]], [[1000-1]], [[1001-1]], [[1057-1]], [[1114-1]], [[1551-3]], [[2085-6]], [[2092-1]], [[2105-1]], [[2185-4]], [[2261-1]], [[2589-1]], [[2708-2]], [[2765-1]], [[3032-1]], [[3050-1]], [[3072-1]], [[3284-1]], [[3493-1]], [[3534-1]], [[3761-1]], [[3895-1]], [[3987-1]], [[4102-1]], [[4289-1]], [[4390-1]], [[4418-1]], [[4488-1]], [[4576-1]], [[5224-1]], [[5225-1]], [[5495-1]], [[5514-2]], [[5618-15]]
+[[55-1]], [[85-1]], [[121-1]], [[209-1]], [[389-6]], [[420-4]], [[538-29]], [[632-2]], [[654-8]], [[755-2]], [[759-14]], [[853-1]], [[982-2]], [[988-7]], [[1000-1]], [[1103-1]], [[1407-1]], [[1520-1]], [[1806-2]], [[1841-1]], [[1846-1]], [[2353-3]], [[2708-2]], [[3072-1]], [[3150-1]], [[3493-1]], [[3551-1]], [[3751-6]], [[3814-1]], [[4289-1]], [[4390-1]], [[4518-1]], [[4600-1]], [[4669-1]], [[4750-1]], [[5419-1]], [[5420-3]], [[5447-1]], [[5495-1]], [[5618-15]], [[5646-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "henry ford"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Henry Ford"
+entity_types: ["person"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
-# henry ford
+# Henry Ford
 
-**henry ford** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Henry Ford** (person) appears in **7 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning henry ford
+## Readings mentioning Henry Ford
 
-[[264-32]], [[470-25]]
+[[264-32]], [[470-22]], [[470-25]], [[470-29]], [[470-33]], [[1797-2]], [[3650-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

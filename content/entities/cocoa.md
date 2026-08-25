@@ -1,18 +1,21 @@
 ---
 entity: "cocoa"
-entity_type: "remedy"
-reading_count: 3
-mention_count: 3
-tags: [entity, remedy]
+entity_types: ["place", "remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # cocoa
 
-**cocoa** (remedy) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**cocoa** (place, remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning cocoa
 
-[[583-4]], [[631-6]], [[1419-3]]
+[[288-22]], [[295-4]], [[538-54]], [[996-12]], [[1419-3]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

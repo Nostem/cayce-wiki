@@ -1,18 +1,21 @@
 ---
 entity: "Smith County"
-entity_type: "place"
-reading_count: 6
-mention_count: 6
-tags: [entity, place]
+entity_types: ["place"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # Smith County
 
-**Smith County** (place) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**Smith County** (place) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Smith County
 
-[[1561-9]], [[1561-10]], [[1561-14]], [[1561-16]], [[1561-17]], [[1561-19]]
+[[1561-6]], [[1561-10]], [[1561-14]], [[1561-19]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

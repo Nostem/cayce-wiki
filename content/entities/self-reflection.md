@@ -1,18 +1,21 @@
 ---
 entity: "self-reflection"
-entity_type: "concept"
-reading_count: 55
-mention_count: 55
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
 # self-reflection
 
-**self-reflection** (concept) appears in **55 readings** (55 mentions) — extracted by LLM semantic analysis.
+**self-reflection** (concept) appears in **14 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning self-reflection
 
-[[99-7]], [[140-19]], [[254-101]], [[262-42]], [[294-72]], [[294-105]], [[319-4]], [[341-14]], [[413-11]], [[452-3]], [[457-1]], [[462-3]], [[531-1]], [[538-21]], [[551-10]], [[900-94]], [[900-235]], [[900-253]], [[930-1]], [[954-5]], [[967-3]], [[996-8]], [[1000-10]], [[1222-1]], [[1274-11]], [[1298-3]], [[1404-1]], [[1695-4]], [[1816-1]], [[2002-1]], [[2390-1]], [[2642-2]], [[2648-1]], [[2667-6]], [[2696-1]], [[2756-1]], [[2900-2]], [[2970-2]], [[3051-6]], [[3213-1]], [[3457-1]], [[3485-1]], [[3488-1]], [[3574-2]], [[3640-1]], [[3689-1]], [[3812-3]], [[3834-1]], [[3976-14]], [[4036-1]], [[4733-1]], [[5211-1]], [[5302-1]], [[5365-1]], [[5373-1]]
+[[137-54]], [[257-122]], [[413-11]], [[452-3]], [[460-3]], [[693-2]], [[900-253]], [[1000-10]], [[1000-21]], [[1192-7]], [[3028-1]], [[3457-1]], [[3937-1]], [[4733-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

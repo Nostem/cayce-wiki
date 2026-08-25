@@ -1,18 +1,21 @@
 ---
 entity: "nasal catarrh"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # nasal catarrh
 
-**nasal catarrh** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**nasal catarrh** (condition) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning nasal catarrh
 
-[[274-9]], [[3480-2]]
+[[274-9]], [[816-1]], [[849-6]], [[1702-1]], [[2936-1]], [[3242-1]], [[3242-2]], [[3480-1]], [[3480-2]], [[4871-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

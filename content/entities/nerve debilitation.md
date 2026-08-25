@@ -1,18 +1,21 @@
 ---
 entity: "nerve debilitation"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["concept", "condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # nerve debilitation
 
-**nerve debilitation** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**nerve debilitation** (concept, condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning nerve debilitation
 
-[[1800-16]], [[5529-5]]
+[[65-1]], [[259-3]], [[279-3]], [[372-1]], [[1800-16]], [[4695-1]], [[4873-1]], [[5529-5]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

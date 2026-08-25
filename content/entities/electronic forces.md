@@ -1,18 +1,21 @@
 ---
 entity: "electronic forces"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # electronic forces
 
-**electronic forces** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**electronic forces** (concept, remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning electronic forces
 
-[[1800-15]], [[3751-10]]
+[[75-1]], [[3751-10]], [[3751-12]], [[4284-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

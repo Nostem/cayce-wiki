@@ -1,18 +1,21 @@
 ---
 entity: "elimination of poisons"
-entity_type: "concept"
-reading_count: 49
-mention_count: 49
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 38
+literal_reading_count: 0
+semantic_reading_count: 38
+literal_mention_count: 0
+semantic_mention_count: 38
+tags: [entity, semantic]
 ---
 
 # elimination of poisons
 
-**elimination of poisons** (concept) appears in **49 readings** (49 mentions) — extracted by LLM semantic analysis.
+**elimination of poisons** (concept) appears in **38 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning elimination of poisons
 
-[[2-4]], [[2-15]], [[119-1]], [[264-54]], [[273-2]], [[278-1]], [[294-96]], [[294-210]], [[298-2]], [[325-71]], [[337-24]], [[360-5]], [[454-8]], [[573-3]], [[632-11]], [[679-1]], [[750-2]], [[757-3]], [[849-14]], [[852-15]], [[877-25]], [[903-22]], [[1162-1]], [[1196-11]], [[1315-9]], [[1433-4]], [[1478-1]], [[1512-2]], [[1517-1]], [[1541-9]], [[1663-3]], [[2067-5]], [[2074-1]], [[2168-1]], [[2303-1]], [[2581-1]], [[2774-1]], [[2849-1]], [[3014-2]], [[3287-2]], [[3300-1]], [[3311-1]], [[3586-1]], [[3667-1]], [[3944-1]], [[4147-1]], [[5067-2]], [[5148-1]], [[5519-1]]
+[[133-4]], [[257-234]], [[273-2]], [[288-41]], [[337-3]], [[337-10]], [[501-4]], [[515-1]], [[631-5]], [[632-10]], [[657-4]], [[662-1]], [[703-1]], [[779-16]], [[852-15]], [[862-2]], [[982-3]], [[1196-1]], [[1383-1]], [[1512-2]], [[1548-1]], [[1631-2]], [[1636-2]], [[1711-2]], [[1756-1]], [[1772-2]], [[1801-1]], [[1868-1]], [[2067-5]], [[2084-1]], [[2084-2]], [[2092-1]], [[2303-1]], [[2387-2]], [[2602-2]], [[2774-1]], [[3864-1]], [[4311-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

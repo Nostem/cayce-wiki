@@ -1,18 +1,21 @@
 ---
 entity: "bursitis"
-entity_type: "condition"
-reading_count: 4
-mention_count: 4
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # bursitis
 
-**bursitis** (condition) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**bursitis** (condition) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning bursitis
 
-[[197-1]], [[340-44]], [[3708-1]], [[5077-1]]
+[[340-44]], [[340-47]], [[480-11]], [[484-2]], [[499-2]], [[2949-1]], [[2988-5]], [[3012-1]], [[3353-1]], [[5077-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

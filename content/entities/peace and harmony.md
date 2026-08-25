@@ -1,18 +1,21 @@
 ---
 entity: "peace and harmony"
-entity_type: "concept"
-reading_count: 10
-mention_count: 10
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # peace and harmony
 
-**peace and harmony** (concept) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**peace and harmony** (concept, remedy) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning peace and harmony
 
-[[254-108]], [[294-145]], [[538-32]], [[938-1]], [[994-1]], [[1438-3]], [[1890-1]], [[1901-1]], [[3581-1]], [[5212-1]]
+[[378-24]], [[433-6]], [[602-3]], [[3098-2]], [[3162-1]], [[3976-17]], [[5212-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

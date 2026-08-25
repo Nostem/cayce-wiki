@@ -1,18 +1,21 @@
 ---
-entity: "saranac lake"
-entity_type: "place"
+entity: "Saranac Lake"
+entity_types: ["place"]
 reading_count: 3
-mention_count: 3
-tags: [entity, place]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# saranac lake
+# Saranac Lake
 
-**saranac lake** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Saranac Lake** (place) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning saranac lake
+## Readings mentioning Saranac Lake
 
-[[2988-5]], [[3154-1]], [[4253-1]]
+[[2988-5]], [[3058-1]], [[4253-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

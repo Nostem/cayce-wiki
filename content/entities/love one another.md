@@ -1,18 +1,21 @@
 ---
 entity: "love one another"
-entity_type: "concept"
-reading_count: 6
-mention_count: 6
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # love one another
 
-**love one another** (concept) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**love one another** (concept) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning love one another
 
-[[254-110]], [[689-1]], [[1089-7]], [[1835-1]], [[2000-3]], [[2524-3]]
+[[165-21]], [[262-12]], [[262-116]], [[294-139]], [[303-39]], [[333-8]], [[397-1]], [[413-4]], [[442-3]], [[683-2]], [[1089-7]], [[1835-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

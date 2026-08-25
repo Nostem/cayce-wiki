@@ -1,18 +1,21 @@
 ---
 entity: "dietary adjustments"
-entity_type: "concept"
-reading_count: 8
-mention_count: 8
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 17
+literal_reading_count: 0
+semantic_reading_count: 17
+literal_mention_count: 0
+semantic_mention_count: 17
+tags: [entity, semantic]
 ---
 
 # dietary adjustments
 
-**dietary adjustments** (concept) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**dietary adjustments** (concept, remedy) appears in **17 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning dietary adjustments
 
-[[493-1]], [[758-34]], [[906-1]], [[1045-10]], [[1179-4]], [[1224-6]], [[1904-1]], [[5545-3]]
+[[257-221]], [[304-7]], [[340-24]], [[470-6]], [[953-9]], [[1216-1]], [[1675-1]], [[1713-15]], [[1919-1]], [[2772-4]], [[3823-4]], [[4281-5]], [[4281-8]], [[4411-1]], [[4589-1]], [[5692-1]], [[5699-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

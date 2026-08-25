@@ -1,18 +1,21 @@
 ---
-entity: "oklahoma city"
-entity_type: "place"
-reading_count: 9
-mention_count: 9
-tags: [entity, place]
+entity: "Oklahoma City"
+entity_types: ["place"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
-# oklahoma city
+# Oklahoma City
 
-**oklahoma city** (place) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**Oklahoma City** (place) appears in **13 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning oklahoma city
+## Readings mentioning Oklahoma City
 
-[[195-16]], [[217-1]], [[295-2]], [[295-11]], [[847-2]], [[934-7]], [[1292-1]], [[2391-1]], [[2530-1]]
+[[13-2]], [[195-16]], [[217-1]], [[295-2]], [[295-11]], [[847-1]], [[847-2]], [[1187-13]], [[2068-1]], [[2391-1]], [[2530-1]], [[3175-1]], [[4905-58]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

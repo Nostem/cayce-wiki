@@ -1,18 +1,21 @@
 ---
 entity: "rub alcohol"
-entity_type: "remedy"
-reading_count: 30
-mention_count: 30
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 20
+literal_reading_count: 0
+semantic_reading_count: 20
+literal_mention_count: 0
+semantic_mention_count: 20
+tags: [entity, semantic]
 ---
 
 # rub alcohol
 
-**rub alcohol** (remedy) appears in **30 readings** (30 mentions) — extracted by LLM semantic analysis.
+**rub alcohol** (remedy) appears in **20 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning rub alcohol
 
-[[138-1]], [[143-10]], [[193-1]], [[231-1]], [[348-6]], [[379-5]], [[415-6]], [[464-14]], [[555-2]], [[555-5]], [[738-2]], [[773-5]], [[773-6]], [[1160-1]], [[1196-17]], [[1306-2]], [[1512-1]], [[1678-1]], [[1853-1]], [[1890-1]], [[2067-8]], [[2299-9]], [[2356-2]], [[4234-1]], [[4320-3]], [[4330-1]], [[4388-1]], [[5421-3]], [[5520-7]], [[5611-1]]
+[[243-17]], [[264-60]], [[325-38]], [[379-5]], [[394-5]], [[464-14]], [[484-3]], [[504-1]], [[555-5]], [[934-11]], [[949-6]], [[1196-4]], [[1943-1]], [[2217-1]], [[2567-1]], [[4125-5]], [[4320-3]], [[4388-1]], [[5421-3]], [[5444-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

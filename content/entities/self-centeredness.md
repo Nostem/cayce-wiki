@@ -1,18 +1,21 @@
 ---
 entity: "self-centeredness"
-entity_type: "concept"
-reading_count: 13
-mention_count: 13
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # self-centeredness
 
-**self-centeredness** (concept) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**self-centeredness** (concept) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning self-centeredness
 
-[[262-44]], [[274-4]], [[900-105]], [[2067-12]], [[2077-1]], [[2506-1]], [[2988-4]], [[3124-2]], [[3126-1]], [[3621-1]], [[3667-2]], [[5142-1]], [[5600-2]]
+[[202-4]], [[262-44]], [[263-13]], [[2067-12]], [[2077-1]], [[2379-1]], [[2988-4]], [[5642-7]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

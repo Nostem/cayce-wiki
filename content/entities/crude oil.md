@@ -1,18 +1,21 @@
 ---
 entity: "crude oil"
-entity_type: "remedy"
-reading_count: 10
-mention_count: 10
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # crude oil
 
-**crude oil** (remedy) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**crude oil** (remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning crude oil
 
-[[257-13]], [[270-32]], [[275-30]], [[337-25]], [[462-17]], [[658-9]], [[2582-4]], [[4056-1]], [[4877-1]], [[5165-1]]
+[[257-212_id852|257-212]], [[275-30]], [[275-42]], [[337-25]], [[658-12]], [[1710-6]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

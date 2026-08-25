@@ -1,18 +1,21 @@
 ---
-entity: "mr. gray salter"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Mr. Gray Salter"
+entity_types: ["person"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
-# mr. gray salter
+# Mr. Gray Salter
 
-**mr. gray salter** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Mr. Gray Salter** (person) appears in **12 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning mr. gray salter
+## Readings mentioning Mr. Gray Salter
 
-[[455-1]], [[3938-1]]
+[[407-2]], [[453-1]], [[455-1]], [[466-1]], [[472-1]], [[569-24]], [[949-4]], [[3938-1]], [[4140-1]], [[4389-1]], [[4488-1]], [[4784-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

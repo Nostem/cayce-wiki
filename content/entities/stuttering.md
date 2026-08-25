@@ -1,18 +1,21 @@
 ---
 entity: "stuttering"
-entity_type: "condition"
-reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # stuttering
 
-**stuttering** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**stuttering** (condition) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning stuttering
 
-[[416-5]], [[605-3]], [[1788-12]], [[1788-13]], [[1817-2]], [[2015-8]]
+[[99-1]], [[416-5]], [[605-1]], [[605-3]], [[605-4]], [[1490-4]], [[1788-12]], [[1788-13]], [[1817-1]], [[1817-2]], [[4409-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "financial support"
-entity_type: "concept"
-reading_count: 7
-mention_count: 7
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # financial support
 
-**financial support** (concept) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**financial support** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning financial support
 
-[[99-7]], [[165-5]], [[254-11]], [[317-2]], [[425-2]], [[2087-5]], [[4905-18]]
+[[254-53]], [[317-2]], [[2087-5]], [[4906-5]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

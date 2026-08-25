@@ -1,18 +1,21 @@
 ---
-entity: "rocky mount"
-entity_type: "place"
-reading_count: 5
-mention_count: 5
-tags: [entity, place]
+entity: "Rocky Mount"
+entity_types: ["place"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
-# rocky mount
+# Rocky Mount
 
-**rocky mount** (place) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**Rocky Mount** (place) appears in **6 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning rocky mount
+## Readings mentioning Rocky Mount
 
-[[130-1]], [[257-80]], [[264-7]], [[264-22]], [[371-1]]
+[[130-1]], [[264-7]], [[264-22]], [[371-1]], [[853-7]], [[5696-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

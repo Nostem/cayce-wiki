@@ -1,18 +1,21 @@
 ---
 entity: "citrocarbonates"
-entity_type: "remedy"
-reading_count: 9
-mention_count: 9
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # citrocarbonates
 
-**citrocarbonates** (remedy) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**citrocarbonates** (remedy) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning citrocarbonates
 
-[[294-134]], [[294-169]], [[538-40]], [[538-70]], [[760-17]], [[1100-20]], [[1541-12]], [[1657-2]], [[3795-2]]
+[[270-27]], [[294-134]], [[294-169]], [[416-6]], [[527-3]], [[538-40]], [[538-70]], [[543-23]], [[849-66]], [[1100-20]], [[1657-2]], [[3795-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

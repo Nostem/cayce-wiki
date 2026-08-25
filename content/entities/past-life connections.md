@@ -1,18 +1,21 @@
 ---
 entity: "past-life connections"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # past-life connections
 
-**past-life connections** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**past-life connections** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning past-life connections
 
-[[294-9]], [[324-5]], [[369-9]], [[520-1]]
+[[136-82]], [[294-81]], [[2897-4]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

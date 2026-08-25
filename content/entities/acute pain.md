@@ -1,18 +1,21 @@
 ---
 entity: "acute pain"
-entity_type: "condition"
-reading_count: 7
-mention_count: 7
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # acute pain
 
-**acute pain** (condition) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**acute pain** (condition) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning acute pain
 
-[[37-2]], [[618-7]], [[630-1]], [[1865-2]], [[1883-1]], [[2957-1]], [[4819-1]]
+[[618-7]], [[849-5]], [[1467-7]], [[1883-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

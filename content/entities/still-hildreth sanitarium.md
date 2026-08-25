@@ -1,18 +1,21 @@
 ---
-entity: "still-hildreth sanitarium"
-entity_type: "place"
+entity: "Still-Hildreth Sanitarium"
+entity_types: ["place", "remedy"]
 reading_count: 5
-mention_count: 5
-tags: [entity, place]
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
-# still-hildreth sanitarium
+# Still-Hildreth Sanitarium
 
-**still-hildreth sanitarium** (place) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**Still-Hildreth Sanitarium** (place, remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning still-hildreth sanitarium
+## Readings mentioning Still-Hildreth Sanitarium
 
-[[1764-2]], [[2042-1]], [[3441-1]], [[3475-1]], [[4237-1]]
+[[1764-2]], [[1869-1]], [[3475-1]], [[3633-1]], [[4237-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

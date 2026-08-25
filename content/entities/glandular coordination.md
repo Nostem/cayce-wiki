@@ -1,18 +1,21 @@
 ---
 entity: "glandular coordination"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # glandular coordination
 
-**glandular coordination** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**glandular coordination** (concept) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning glandular coordination
 
-[[1322-1]], [[2948-1]]
+[[808-10]], [[1163-1]], [[1201-1]], [[1202-3]], [[1322-1]], [[1350-1]], [[1490-3]], [[3376-1]], [[4390-1]], [[5341-1]], [[5478-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

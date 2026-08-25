@@ -1,18 +1,21 @@
 ---
 entity: "acidic condition"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["concept", "condition"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # acidic condition
 
-**acidic condition** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**acidic condition** (concept, condition) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning acidic condition
 
-[[337-20]], [[2479-1]], [[4536-1]]
+[[243-2]], [[324-3]], [[1278-2]], [[1702-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

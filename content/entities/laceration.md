@@ -1,18 +1,21 @@
 ---
 entity: "laceration"
-entity_type: "condition"
-reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # laceration
 
-**laceration** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**laceration** (condition) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning laceration
 
-[[348-1]], [[1745-4]], [[1820-3]], [[2646-2]], [[3710-1]], [[4499-1]]
+[[81-2]], [[2646-2]], [[3710-1]], [[4441-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

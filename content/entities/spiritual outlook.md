@@ -1,18 +1,21 @@
 ---
 entity: "spiritual outlook"
-entity_type: "concept"
-reading_count: 9
-mention_count: 9
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # spiritual outlook
 
-**spiritual outlook** (concept) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**spiritual outlook** (concept) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning spiritual outlook
 
-[[826-1]], [[960-5]], [[1412-1]], [[2323-1]], [[3054-1]], [[3054-2]], [[3335-1]], [[3376-1]], [[5469-1]]
+[[270-48]], [[601-10]], [[921-1]], [[960-5]], [[1303-1]], [[1315-5]], [[1412-1]], [[1968-7]], [[3054-1]], [[3335-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

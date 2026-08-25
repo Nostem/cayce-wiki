@@ -1,18 +1,21 @@
 ---
 entity: "warm milk with honey"
-entity_type: "remedy"
-reading_count: 3
-mention_count: 3
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # warm milk with honey
 
-**warm milk with honey** (remedy) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**warm milk with honey** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning warm milk with honey
 
-[[2452-1]], [[2514-7]], [[2815-1]]
+[[337-26]], [[1179-1]], [[2452-1]], [[2514-7]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

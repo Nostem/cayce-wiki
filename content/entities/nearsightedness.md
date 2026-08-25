@@ -1,18 +1,21 @@
 ---
 entity: "nearsightedness"
-entity_type: "condition"
-reading_count: 4
-mention_count: 4
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # nearsightedness
 
-**nearsightedness** (condition) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**nearsightedness** (condition) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning nearsightedness
 
-[[505-1]], [[970-1]], [[4031-1]], [[5453-1]]
+[[341-28]], [[505-1]], [[970-1]], [[3076-1]], [[3474-1]], [[3549-1]], [[4031-1]], [[5033-1]], [[5453-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

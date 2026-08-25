@@ -1,18 +1,21 @@
 ---
 entity: "sympathy"
-entity_type: "concept"
-reading_count: 20
-mention_count: 20
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # sympathy
 
-**sympathy** (concept) appears in **20 readings** (20 mentions) — extracted by LLM semantic analysis.
+**sympathy** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning sympathy
 
-[[288-20]], [[325-60]], [[489-1]], [[900-246]], [[900-314]], [[900-450]], [[967-1]], [[1003-2]], [[1122-7]], [[1328-1]], [[1367-1]], [[1789-2]], [[2111-1]], [[2253-3]], [[2967-1]], [[4059-1]], [[4125-2]], [[5423-1]], [[5570-1]], [[5641-4]]
+[[1122-7]], [[4654-1]], [[5423-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

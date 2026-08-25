@@ -1,18 +1,21 @@
 ---
 entity: "gallstones"
-entity_type: "condition"
-reading_count: 14
-mention_count: 14
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 18
+literal_reading_count: 0
+semantic_reading_count: 18
+literal_mention_count: 0
+semantic_mention_count: 18
+tags: [entity, semantic]
 ---
 
 # gallstones
 
-**gallstones** (condition) appears in **14 readings** (14 mentions) — extracted by LLM semantic analysis.
+**gallstones** (condition) appears in **18 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning gallstones
 
-[[288-21]], [[356-1]], [[522-6]], [[579-1]], [[635-3]], [[760-7]], [[997-2]], [[1048-2]], [[1343-4]], [[1791-2]], [[2500-2]], [[2956-2]], [[3885-1]], [[4452-1]]
+[[288-21]], [[356-1]], [[522-5]], [[522-6]], [[579-1]], [[997-2]], [[1010-10]], [[1210-5]], [[1415-1]], [[1960-1]], [[2500-2]], [[2956-2]], [[3372-1]], [[3680-1]], [[3885-1]], [[4452-1]], [[5186-1]], [[5267-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

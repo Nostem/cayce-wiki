@@ -1,18 +1,21 @@
 ---
-entity: "women's hospital"
-entity_type: "place"
+entity: "Women's Hospital"
+entity_types: ["place"]
 reading_count: 3
-mention_count: 3
-tags: [entity, place]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# women's hospital
+# Women's Hospital
 
-**women's hospital** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Women's Hospital** (place) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning women's hospital
+## Readings mentioning Women's Hospital
 
-[[136-58]], [[136-59]], [[637-1]]
+[[136-58]], [[136-59]], [[1611-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

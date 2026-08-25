@@ -1,18 +1,21 @@
 ---
 entity: "citrus fruit juice"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # citrus fruit juice
 
-**citrus fruit juice** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**citrus fruit juice** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning citrus fruit juice
 
-[[1208-12]], [[3337-1]]
+[[543-19]], [[1208-12]], [[1224-4]], [[2015-4]], [[3337-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

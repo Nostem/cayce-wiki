@@ -1,18 +1,21 @@
 ---
-entity: "alsace-lorraine"
-entity_type: "place"
-reading_count: 2
-mention_count: 2
-tags: [entity, place]
+entity: "Alsace-Lorraine"
+entity_types: ["place"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# alsace-lorraine
+# Alsace-Lorraine
 
-**alsace-lorraine** (place) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Alsace-Lorraine** (place) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning alsace-lorraine
+## Readings mentioning Alsace-Lorraine
 
-[[452-1]], [[457-2]]
+[[452-1]], [[457-2]], [[692-1]], [[4185-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

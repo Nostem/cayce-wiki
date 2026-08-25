@@ -1,18 +1,21 @@
 ---
 entity: "creosote"
-entity_type: "remedy"
-reading_count: 15
-mention_count: 15
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # creosote
 
-**creosote** (remedy) appears in **15 readings** (15 mentions) — extracted by LLM semantic analysis.
+**creosote** (remedy) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning creosote
 
-[[25-3]], [[113-1]], [[124-2]], [[177-1]], [[418-3]], [[538-3]], [[572-1]], [[2036-1]], [[2383-1]], [[3776-8]], [[4236-1]], [[4432-1]], [[4653-1]], [[4731-1]], [[4790-2]]
+[[304-8]], [[318-5]], [[538-3]], [[538-4]], [[3814-1]], [[4436-2]], [[4731-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

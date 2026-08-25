@@ -1,18 +1,21 @@
 ---
-entity: "margaret wilkins"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Margaret Wilkins"
+entity_types: ["person"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# margaret wilkins
+# Margaret Wilkins
 
-**margaret wilkins** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Margaret Wilkins** (person) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning margaret wilkins
+## Readings mentioning Margaret Wilkins
 
-[[254-101]], [[473-1]]
+[[254-100]], [[254-101]], [[281-37]], [[281-39]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

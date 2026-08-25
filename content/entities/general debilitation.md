@@ -1,18 +1,21 @@
 ---
 entity: "general debilitation"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 102
+literal_reading_count: 0
+semantic_reading_count: 102
+literal_mention_count: 0
+semantic_mention_count: 102
+tags: [entity, semantic]
 ---
 
 # general debilitation
 
-**general debilitation** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**general debilitation** (concept, condition) appears in **102 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning general debilitation
 
-[[562-4]], [[851-3]], [[1000-25]], [[4106-1]], [[4670-1]]
+[[71-1]], [[83-3]], [[103-1]], [[137-94]], [[201-1]], [[202-5]], [[237-1]], [[243-17]], [[263-14]], [[304-4]], [[304-39]], [[307-7]], [[307-9]], [[307-16]], [[310-3]], [[359-1]], [[360-3]], [[389-8]], [[394-1]], [[412-14]], [[420-3]], [[432-1]], [[482-4]], [[551-13]], [[555-6]], [[562-4]], [[760-28]], [[851-3]], [[900-452]], [[979-9]], [[1000-25]], [[1007-2]], [[1065-2]], [[1100-7]], [[1196-5]], [[1205-2]], [[1231-1]], [[1419-2]], [[1476-2]], [[1585-1]], [[1736-3]], [[1760-2]], [[1845-1]], [[1936-1]], [[2000-4]], [[2066-2]], [[2083-1]], [[2128-1]], [[2140-2]], [[2148-4]], [[2157-2]], [[2179-1]], [[2274-1]], [[2311-1]], [[2361-1]], [[2439-1]], [[2500-1]], [[2638-1]], [[2777-2]], [[3074-1]], [[3147-1]], [[3334-1]], [[3469-1]], [[3478-1]], [[3524-1]], [[3552-1]], [[3632-1]], [[3644-1]], [[3776-15]], [[3829-1]], [[3911-2]], [[3978-1]], [[4189-1]], [[4209-1]], [[4234-1]], [[4243-1]], [[4320-1]], [[4363-1]], [[4389-1]], [[4426-1]], [[4437-1]], [[4512-1]], [[4542-1]], [[4586-2]], [[4588-1]], [[4638-1]], [[4706-1]], [[4748-1]], [[4771-1]], [[4779-1]], [[4781-1]], [[4782-1]], [[4860-1]], [[5393-1]], [[5407-1]], [[5411-1]], [[5459-1]], [[5516-1]], [[5545-1]], [[5578-1]], [[5619-1]], [[5668-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "yorktown"
-entity_type: "place"
-reading_count: 7
-mention_count: 7
-tags: [entity, place]
+entity: "Yorktown"
+entity_types: ["place"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
-# yorktown
+# Yorktown
 
-**yorktown** (place) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**Yorktown** (place) appears in **14 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning yorktown
+## Readings mentioning Yorktown
 
-[[622-4]], [[910-4]], [[1523-11]], [[2316-1]], [[2378-1]], [[2891-1]], [[3418-1]]
+[[622-4]], [[910-4]], [[1523-11]], [[1538-1]], [[1541-11]], [[1754-1]], [[1931-4]], [[2004-1]], [[2246-1]], [[2316-1]], [[2378-1]], [[2891-1]], [[3063-1]], [[3418-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

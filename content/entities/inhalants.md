@@ -1,18 +1,21 @@
 ---
 entity: "inhalants"
-entity_type: "remedy"
-reading_count: 13
-mention_count: 13
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # inhalants
 
-**inhalants** (remedy) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**inhalants** (remedy) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning inhalants
 
-[[25-4]], [[124-2]], [[304-17]], [[421-2]], [[715-5]], [[1472-16]], [[3279-3]], [[3594-1]], [[4320-3]], [[4769-3]], [[4874-1]], [[5360-1]], [[5682-2]]
+[[25-4]], [[124-2]], [[137-83]], [[304-17]], [[715-5]], [[1472-16]], [[2549-1]], [[3279-3]], [[4320-3]], [[5441-2]], [[5682-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

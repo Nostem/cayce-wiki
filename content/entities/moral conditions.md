@@ -1,18 +1,21 @@
 ---
 entity: "moral conditions"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # moral conditions
 
-**moral conditions** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**moral conditions** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning moral conditions
 
-[[294-56]], [[779-17]], [[900-162]], [[4736-1]]
+[[257-134]], [[900-162]], [[900-404]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

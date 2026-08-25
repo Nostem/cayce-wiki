@@ -1,18 +1,21 @@
 ---
-entity: "carthage"
-entity_type: "place"
-reading_count: 4
-mention_count: 4
-tags: [entity, place]
+entity: "Carthage"
+entity_types: ["place"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# carthage
+# Carthage
 
-**carthage** (place) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Carthage** (place) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning carthage
+## Readings mentioning Carthage
 
-[[113-1]], [[816-11]], [[826-5]], [[3665-1]]
+[[816-3]], [[826-5]], [[1792-2]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "lung inflammation"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # lung inflammation
 
-**lung inflammation** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**lung inflammation** (condition) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning lung inflammation
 
-[[695-2]], [[1372-1]], [[1730-2]]
+[[138-1]], [[415-3]], [[795-3]], [[850-3]], [[1045-3]], [[1208-9]], [[1372-1]], [[1730-2]], [[1866-2]], [[4731-1]], [[5476-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

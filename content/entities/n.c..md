@@ -1,18 +1,21 @@
 ---
 entity: "N.C."
-entity_type: "place"
-reading_count: 11
-mention_count: 11
-tags: [entity, place]
+entity_types: ["place"]
+reading_count: 19
+literal_reading_count: 0
+semantic_reading_count: 19
+literal_mention_count: 0
+semantic_mention_count: 19
+tags: [entity, semantic]
 ---
 
 # N.C.
 
-**N.C.** (place) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**N.C.** (place) appears in **19 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning N.C.
 
-[[257-15]], [[257-143]], [[666-2]], [[843-8]], [[1663-4]], [[1718-1]], [[2272-1]], [[2597-2]], [[3210-1]], [[5575-2]], [[5585-2]]
+[[257-251]], [[264-10]], [[264-12]], [[264-34]], [[389-6]], [[639-3]], [[647-3]], [[851-1]], [[853-11]], [[1712-1]], [[1820-2]], [[2299-8]], [[2508-1]], [[2597-1]], [[2744-1]], [[4987-3]], [[5197-1]], [[5412-1]], [[5575-2]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

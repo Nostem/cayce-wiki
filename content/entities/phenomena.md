@@ -1,18 +1,21 @@
 ---
 entity: "phenomena"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # phenomena
 
-**phenomena** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**phenomena** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning phenomena
 
-[[137-60]], [[294-18]]
+[[254-16]], [[294-43]], [[538-23]], [[900-156]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "physical functioning"
-entity_type: "concept"
-reading_count: 85
-mention_count: 85
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # physical functioning
 
-**physical functioning** (concept) appears in **85 readings** (85 mentions) — extracted by LLM semantic analysis.
+**physical functioning** (concept) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning physical functioning
 
-[[104-1]], [[186-3]], [[225-1]], [[264-36]], [[266-1]], [[272-6]], [[274-2]], [[277-1]], [[278-1]], [[294-109]], [[301-1]], [[342-3]], [[343-2]], [[349-2]], [[410-1]], [[440-2]], [[452-2]], [[464-13]], [[478-3]], [[503-1]], [[504-2]], [[535-1]], [[559-1]], [[587-1]], [[611-1]], [[662-1]], [[665-2]], [[674-1]], [[679-1]], [[732-1]], [[741-1]], [[755-1]], [[762-1]], [[779-20]], [[794-1]], [[796-1]], [[844-1]], [[878-1]], [[964-1]], [[977-1]], [[1050-1]], [[1062-1]], [[1122-14]], [[1149-1]], [[1173-1]], [[1203-1]], [[1225-1]], [[1284-1]], [[1919-1]], [[2161-1]], [[2200-1]], [[2357-1]], [[2407-1]], [[2854-1]], [[2870-1]], [[2972-1]], [[3073-1]], [[3600-1]], [[3861-2]], [[3917-1]], [[3946-1]], [[4164-1]], [[4475-1]], [[4568-1]], [[4598-1]], [[4628-1]], [[4633-1]], [[4692-1]], [[4706-1]], [[4722-1]], [[4741-1]], [[4786-1]], [[5039-1]], [[5234-1]], [[5390-1]], [[5399-1]], [[5445-1]], [[5455-1]], [[5566-4]], [[5572-1]], [[5590-1]], [[5627-1]], [[5646-1]], [[5652-1]], [[5720-1]]
+[[137-101]], [[186-3]], [[343-2]], [[480-6]], [[3745-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

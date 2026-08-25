@@ -1,18 +1,21 @@
 ---
-entity: "columbia"
-entity_type: "place"
-reading_count: 6
-mention_count: 6
-tags: [entity, place]
+entity: "Columbia"
+entity_types: ["place"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
-# columbia
+# Columbia
 
-**columbia** (place) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**Columbia** (place) appears in **12 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning columbia
+## Readings mentioning Columbia
 
-[[257-198]], [[412-2]], [[470-20]], [[480-44]], [[929-1]], [[2084-16]]
+[[257-74]], [[264-23]], [[341-45]], [[412-2]], [[459-5]], [[470-21]], [[797-1]], [[1772-1]], [[2444-1]], [[2677-1]], [[3985-1]], [[5136-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

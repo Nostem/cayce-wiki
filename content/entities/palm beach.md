@@ -1,18 +1,21 @@
 ---
-entity: "palm beach"
-entity_type: "place"
-reading_count: 7
-mention_count: 7
-tags: [entity, place]
+entity: "Palm Beach"
+entity_types: ["place"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
-# palm beach
+# Palm Beach
 
-**palm beach** (place) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**Palm Beach** (place) appears in **14 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning palm beach
+## Readings mentioning Palm Beach
 
-[[106-18]], [[143-9]], [[538-17]], [[900-144]], [[900-315]], [[1810-2]], [[2439-1]]
+[[106-18]], [[143-9]], [[195-40]], [[538-17]], [[557-7]], [[900-144]], [[900-315]], [[996-12]], [[1318-1]], [[1497-11]], [[1810-2]], [[2247-1]], [[2422-1]], [[2439-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

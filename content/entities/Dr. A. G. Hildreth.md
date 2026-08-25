@@ -1,18 +1,21 @@
 ---
 entity: "Dr. A. G. Hildreth"
-entity_type: "person"
-reading_count: 3
-mention_count: 3
-tags: [entity, person]
+entity_types: ["person"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # Dr. A. G. Hildreth
 
-**Dr. A. G. Hildreth** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Dr. A. G. Hildreth** (person) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Dr. A. G. Hildreth
 
-[[885-2]], [[1452-1]], [[2042-1]]
+[[543-23]], [[675-1]], [[686-1]], [[885-2]], [[1427-1]], [[1683-2]], [[2042-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

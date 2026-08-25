@@ -1,18 +1,21 @@
 ---
-entity: "arabian land"
-entity_type: "place"
-reading_count: 2
-mention_count: 2
-tags: [entity, place]
+entity: "Arabian land"
+entity_types: ["place"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
-# arabian land
+# Arabian land
 
-**arabian land** (place) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Arabian land** (place) appears in **7 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning arabian land
+## Readings mentioning Arabian land
 
-[[2909-1]], [[3617-1]]
+[[338-4]], [[361-4]], [[809-1]], [[1192-5]], [[2021-1]], [[2305-2]], [[2995-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

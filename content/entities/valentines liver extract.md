@@ -1,18 +1,21 @@
 ---
 entity: "valentine's liver extract"
-entity_type: "remedy"
-reading_count: 3
-mention_count: 3
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # valentine's liver extract
 
-**valentine's liver extract** (remedy) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**valentine's liver extract** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning valentine's liver extract
 
-[[480-15]], [[1025-1]], [[1865-2]]
+[[480-15]], [[856-1]], [[1025-1]], [[1173-1]], [[1865-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

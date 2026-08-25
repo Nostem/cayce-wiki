@@ -1,18 +1,21 @@
 ---
 entity: "rejuvenation"
-entity_type: "concept"
-reading_count: 33
-mention_count: 33
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 41
+literal_reading_count: 0
+semantic_reading_count: 41
+literal_mention_count: 0
+semantic_mention_count: 41
+tags: [entity, semantic]
 ---
 
 # rejuvenation
 
-**rejuvenation** (concept) appears in **33 readings** (33 mentions) — extracted by LLM semantic analysis.
+**rejuvenation** (concept) appears in **41 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning rejuvenation
 
-[[14-1]], [[71-1]], [[123-1]], [[139-13]], [[262-85]], [[275-3]], [[372-8]], [[428-3]], [[585-3]], [[681-2]], [[953-17]], [[987-3]], [[1068-1]], [[1381-1]], [[1713-7]], [[2200-1]], [[2212-1]], [[2259-1]], [[3275-1]], [[3790-1]], [[3881-1]], [[3893-1]], [[3911-2]], [[3917-1]], [[4412-1]], [[4773-1]], [[4801-1]], [[5456-2]], [[5503-2]], [[5509-3]], [[5545-2]], [[5681-1]], [[5689-1]]
+[[71-1]], [[147-8]], [[147-14]], [[224-1]], [[232-1]], [[262-85]], [[269-1]], [[275-2]], [[275-3]], [[304-4]], [[307-10]], [[326-3]], [[369-14]], [[428-3]], [[443-5]], [[464-4]], [[562-4]], [[585-3]], [[681-2]], [[842-1_id4947|842-1]], [[953-17]], [[1381-1]], [[1713-7]], [[1787-1]], [[2212-1]], [[3264-1]], [[3790-1]], [[3849-1]], [[3911-2]], [[3980-2]], [[4324-1]], [[4519-1]], [[4600-1]], [[4801-1]], [[5456-2]], [[5467-1]], [[5503-2]], [[5509-3]], [[5536-5]], [[5545-2]], [[5568-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

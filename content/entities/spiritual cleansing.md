@@ -1,18 +1,21 @@
 ---
 entity: "spiritual cleansing"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # spiritual cleansing
 
-**spiritual cleansing** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**spiritual cleansing** (concept) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning spiritual cleansing
 
-[[275-40]], [[900-254]]
+[[262-39]], [[264-38]], [[264-50]], [[272-5]], [[295-8]], [[370-5]], [[1443-1]], [[4123-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

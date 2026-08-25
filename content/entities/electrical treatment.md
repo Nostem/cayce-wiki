@@ -1,18 +1,21 @@
 ---
 entity: "electrical treatment"
-entity_type: "remedy"
-reading_count: 20
-mention_count: 20
-tags: [entity, remedy]
+entity_types: ["concept", "remedy"]
+reading_count: 17
+literal_reading_count: 0
+semantic_reading_count: 17
+literal_mention_count: 0
+semantic_mention_count: 17
+tags: [entity, semantic]
 ---
 
 # electrical treatment
 
-**electrical treatment** (remedy) appears in **20 readings** (20 mentions) — extracted by LLM semantic analysis.
+**electrical treatment** (concept, remedy) appears in **17 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning electrical treatment
 
-[[25-5]], [[84-1]], [[87-1]], [[458-1]], [[567-2]], [[635-9]], [[1553-20]], [[1844-2]], [[2264-1]], [[2499-2]], [[2645-1]], [[2840-1]], [[2885-2]], [[2952-2]], [[2957-1]], [[3778-1]], [[3848-1]], [[4092-1]], [[4753-1]], [[5702-2]]
+[[25-5]], [[84-1]], [[87-1]], [[257-129]], [[459-6]], [[567-2]], [[2645-1]], [[2885-2]], [[2957-1]], [[3367-1]], [[3848-1]], [[3898-1]], [[3983-1]], [[4655-2]], [[4753-1]], [[5691-1]], [[5702-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "oil of wintergreen"
-entity_type: "remedy"
-reading_count: 12
-mention_count: 12
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 20
+literal_reading_count: 0
+semantic_reading_count: 20
+literal_mention_count: 0
+semantic_mention_count: 20
+tags: [entity, semantic]
 ---
 
 # oil of wintergreen
 
-**oil of wintergreen** (remedy) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**oil of wintergreen** (remedy) appears in **20 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning oil of wintergreen
 
-[[162-2]], [[287-19]], [[572-6]], [[601-22]], [[762-1]], [[949-6]], [[1069-1]], [[1191-2]], [[1198-2]], [[1371-1]], [[1472-2]], [[1519-3]]
+[[287-19]], [[464-15]], [[639-3]], [[737-1]], [[762-1]], [[779-24]], [[856-1]], [[949-6]], [[964-1]], [[1055-1]], [[1079-2]], [[1151-11]], [[1176-1]], [[1187-6]], [[1191-2]], [[1198-1]], [[1198-2]], [[1199-2]], [[1398-1]], [[4418-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

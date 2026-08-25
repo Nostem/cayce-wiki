@@ -1,18 +1,21 @@
 ---
 entity: "Solon Turk"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity_types: ["person"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # Solon Turk
 
-**Solon Turk** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Solon Turk** (person) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Solon Turk
 
-[[459-2]], [[459-4]]
+[[257-57]], [[257-58]], [[459-2]], [[459-4]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "seely"
-entity_type: "person"
-reading_count: 4
-mention_count: 4
-tags: [entity, person]
+entity: "Seely"
+entity_types: ["person"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
-# seely
+# Seely
 
-**seely** (person) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Seely** (person) appears in **11 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning seely
+## Readings mentioning Seely
 
-[[257-125]], [[257-140]], [[257-175]], [[257-178]]
+[[257-102]], [[257-103]], [[257-115]], [[257-121]], [[257-125]], [[257-140]], [[257-157]], [[257-168]], [[257-171]], [[257-175]], [[257-178]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "lung disturbance"
-entity_type: "condition"
-reading_count: 8
-mention_count: 8
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 15
+literal_reading_count: 0
+semantic_reading_count: 15
+literal_mention_count: 0
+semantic_mention_count: 15
+tags: [entity, semantic]
 ---
 
 # lung disturbance
 
-**lung disturbance** (condition) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**lung disturbance** (condition) appears in **15 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning lung disturbance
 
-[[263-8]], [[715-8]], [[1700-2]], [[1970-2]], [[2546-1]], [[2803-1]], [[2827-1]], [[5552-1]]
+[[263-8]], [[470-15]], [[1229-1]], [[1700-2]], [[1970-2]], [[2366-7]], [[2546-1]], [[2771-2]], [[2782-1]], [[2803-1]], [[3013-1]], [[3452-2]], [[3536-1]], [[3551-1]], [[4431-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

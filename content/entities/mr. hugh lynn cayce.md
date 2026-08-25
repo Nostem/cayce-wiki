@@ -1,18 +1,21 @@
 ---
 entity: "Mr. Hugh Lynn Cayce"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity_types: ["person"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # Mr. Hugh Lynn Cayce
 
-**Mr. Hugh Lynn Cayce** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Mr. Hugh Lynn Cayce** (person) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Mr. Hugh Lynn Cayce
 
-[[1608-1]], [[1724-2]]
+[[604-1]], [[1261-1]], [[1596-1]], [[1800-34]], [[2556-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

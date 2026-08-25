@@ -1,18 +1,21 @@
 ---
 entity: "cinnamon"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 22
-mention_count: 22
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 22
+literal_mention_count: 0
+semantic_mention_count: 22
+tags: [entity, semantic]
 ---
 
 # cinnamon
 
-**cinnamon** (remedy) appears in **22 readings** (22 mentions) — extracted by LLM semantic analysis.
+**cinnamon** (remedy) appears in **22 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning cinnamon
 
-[[97-1]], [[195-2]], [[502-1]], [[900-76]], [[900-382]], [[1111-1]], [[1677-1]], [[2224-1]], [[2352-1]], [[3859-1]], [[3979-1]], [[4156-1]], [[4156-2]], [[4414-2]], [[4561-1]], [[4571-3]], [[4684-1]], [[4997-1]], [[5553-1]], [[5583-1]], [[5692-2]], [[5704-1]]
+[[97-1]], [[226-1]], [[264-26]], [[340-11]], [[550-5]], [[658-12]], [[900-76]], [[900-382]], [[953-19]], [[1449-1]], [[1677-1]], [[1739-1]], [[2224-1]], [[3859-1]], [[3860-1]], [[3932-1]], [[3979-1]], [[4134-1]], [[4156-2]], [[4414-2]], [[4680-1]], [[5692-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

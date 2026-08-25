@@ -1,18 +1,21 @@
 ---
 entity: "massage with oils"
-entity_type: "remedy"
-reading_count: 50
-mention_count: 50
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 30
+literal_reading_count: 0
+semantic_reading_count: 30
+literal_mention_count: 0
+semantic_mention_count: 30
+tags: [entity, semantic]
 ---
 
 # massage with oils
 
-**massage with oils** (remedy) appears in **50 readings** (50 mentions) — extracted by LLM semantic analysis.
+**massage with oils** (remedy) appears in **30 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning massage with oils
 
-[[69-5]], [[464-16]], [[601-9]], [[631-7]], [[779-24]], [[828-1]], [[836-1]], [[856-1]], [[975-4]], [[1038-1]], [[1104-1]], [[1196-16]], [[1305-1]], [[1312-4]], [[1379-1]], [[1618-1]], [[1688-8]], [[2013-1]], [[2077-2]], [[2310-1]], [[2619-1]], [[2663-2]], [[2782-1]], [[2819-1]], [[2933-1]], [[3008-1]], [[3090-1]], [[3108-1]], [[3111-1]], [[3114-1]], [[3140-1]], [[3186-1]], [[3195-1]], [[3270-1]], [[3276-2]], [[3286-1]], [[3310-1]], [[3319-1]], [[3323-1]], [[3404-1]], [[3524-2]], [[3533-1]], [[3540-1]], [[3591-1]], [[3593-1]], [[3626-1]], [[3632-1]], [[4040-1]], [[5029-1]], [[5031-1]]
+[[69-5]], [[273-2]], [[394-8]], [[464-36]], [[631-7]], [[849-35]], [[849-42]], [[1038-1]], [[1187-10]], [[1196-16]], [[1271-1]], [[1598-2]], [[1688-8]], [[1765-1]], [[1861-10]], [[2154-2]], [[2366-2]], [[2898-1]], [[2933-1]], [[3090-1]], [[3114-1]], [[3186-1]], [[3218-1]], [[3276-2]], [[3305-1]], [[3323-1]], [[3334-1]], [[3451-2]], [[3461-1]], [[3524-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

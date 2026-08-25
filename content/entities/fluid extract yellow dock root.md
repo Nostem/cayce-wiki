@@ -1,18 +1,21 @@
 ---
 entity: "fluid extract yellow dock root"
-entity_type: "remedy"
-reading_count: 11
-mention_count: 11
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # fluid extract yellow dock root
 
-**fluid extract yellow dock root** (remedy) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**fluid extract yellow dock root** (remedy) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning fluid extract yellow dock root
 
-[[206-1]], [[3741-1]], [[3749-1]], [[3996-1]], [[4104-1]], [[4366-1]], [[4387-1]], [[4696-1]], [[4739-1]], [[4818-1]], [[4863-1]]
+[[42-1]], [[133-1]], [[150-1]], [[206-1]], [[3749-1]], [[3996-1]], [[4358-1]], [[4366-1]], [[4696-1]], [[4739-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

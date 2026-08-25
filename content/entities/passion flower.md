@@ -1,18 +1,21 @@
 ---
 entity: "passion flower"
-entity_type: "remedy"
-reading_count: 9
-mention_count: 9
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # passion flower
 
-**passion flower** (remedy) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**passion flower** (remedy) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning passion flower
 
-[[543-12]], [[543-13]], [[543-14]], [[571-3]], [[1465-3]], [[2286-1]], [[2991-1]], [[3430-1]], [[5386-1]]
+[[543-5]], [[543-12]], [[543-13]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

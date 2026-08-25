@@ -1,18 +1,21 @@
 ---
-entity: "law of the lord"
-entity_type: "concept"
-reading_count: 6
-mention_count: 6
-tags: [entity, concept]
+entity: "law of the Lord"
+entity_types: ["concept"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
-# law of the lord
+# law of the Lord
 
-**law of the lord** (concept) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**law of the Lord** (concept) appears in **11 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning law of the lord
+## Readings mentioning law of the Lord
 
-[[1974-1]], [[2784-1]], [[3559-1]], [[3654-1]], [[4071-1]], [[5001-1]]
+[[257-250]], [[462-16]], [[900-32]], [[1158-3]], [[1292-1]], [[2784-1]], [[2828-5]], [[3207-1]], [[3213-1]], [[3432-1]], [[3559-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "atomidine solution"
-entity_type: "remedy"
-reading_count: 11
-mention_count: 11
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 21
+literal_reading_count: 0
+semantic_reading_count: 21
+literal_mention_count: 0
+semantic_mention_count: 21
+tags: [entity, semantic]
 ---
 
 # atomidine solution
 
-**atomidine solution** (remedy) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**atomidine solution** (remedy) appears in **21 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning atomidine solution
 
-[[394-4]], [[457-6]], [[716-3]], [[816-8]], [[1445-1]], [[1465-8]], [[1838-1]], [[1916-6]], [[2047-1]], [[2317-1]], [[3382-1]]
+[[261-33]], [[264-51]], [[288-42]], [[394-4]], [[633-7]], [[716-3]], [[1148-2]], [[1198-1]], [[1268-1]], [[1355-1]], [[1465-8]], [[1838-1]], [[1838-3]], [[1967-1]], [[2047-1]], [[2068-1]], [[2499-3]], [[2514-1]], [[2514-8]], [[2832-1]], [[3382-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

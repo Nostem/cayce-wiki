@@ -1,18 +1,21 @@
 ---
 entity: "semi-liquid foods"
-entity_type: "remedy"
-reading_count: 7
-mention_count: 7
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # semi-liquid foods
 
-**semi-liquid foods** (remedy) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**semi-liquid foods** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning semi-liquid foods
 
-[[288-54]], [[294-190]], [[555-3]], [[650-1]], [[988-1]], [[1130-2]], [[2853-1]]
+[[288-54]], [[555-3]], [[711-3]], [[1036-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

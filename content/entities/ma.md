@@ -1,18 +1,21 @@
 ---
-entity: "ma"
-entity_type: "person"
+entity: "Ma"
+entity_types: ["person"]
 reading_count: 5
-mention_count: 5
-tags: [entity, person]
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
-# ma
+# Ma
 
-**ma** (person) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**Ma** (person) appears in **5 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning ma
+## Readings mentioning Ma
 
-[[136-20]], [[900-140]], [[900-152]], [[900-166]], [[900-343]]
+[[136-18]], [[136-20]], [[137-33]], [[900-152]], [[900-231]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

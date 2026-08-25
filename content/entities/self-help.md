@@ -1,18 +1,21 @@
 ---
 entity: "self-help"
-entity_type: "concept"
-reading_count: 10
-mention_count: 10
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # self-help
 
-**self-help** (concept) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**self-help** (concept) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning self-help
 
-[[485-1]], [[528-9]], [[1073-3]], [[1215-9]], [[2514-13]], [[2778-5]], [[3005-1]], [[3149-1]], [[3286-1]], [[3574-1]]
+[[911-5]], [[1556-1]], [[4482-1]], [[5193-1]], [[5345-1]], [[5459-6]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

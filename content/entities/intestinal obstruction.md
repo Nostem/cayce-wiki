@@ -1,18 +1,21 @@
 ---
 entity: "intestinal obstruction"
-entity_type: "condition"
-reading_count: 4
-mention_count: 4
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # intestinal obstruction
 
-**intestinal obstruction** (condition) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**intestinal obstruction** (condition) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning intestinal obstruction
 
-[[294-205]], [[583-7]], [[1103-4]], [[4249-1]]
+[[257-217]], [[293-1]], [[294-3]], [[533-3]], [[583-6]], [[583-7]], [[1103-4]], [[2675-7]], [[4249-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

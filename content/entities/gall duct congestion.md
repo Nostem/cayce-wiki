@@ -1,18 +1,21 @@
 ---
 entity: "gall duct congestion"
-entity_type: "condition"
-reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 16
+literal_reading_count: 0
+semantic_reading_count: 16
+literal_mention_count: 0
+semantic_mention_count: 16
+tags: [entity, semantic]
 ---
 
 # gall duct congestion
 
-**gall duct congestion** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**gall duct congestion** (condition) appears in **16 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning gall duct congestion
 
-[[294-184]], [[294-207]], [[356-2]], [[760-20]], [[1010-10]], [[4299-2]]
+[[313-17]], [[326-9]], [[356-2]], [[365-1]], [[379-8]], [[480-27]], [[522-6]], [[533-6]], [[639-3]], [[1010-10]], [[1196-3]], [[1372-1]], [[1446-4]], [[2341-1]], [[4012-1]], [[4299-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

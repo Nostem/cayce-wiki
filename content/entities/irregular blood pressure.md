@@ -1,18 +1,21 @@
 ---
 entity: "irregular blood pressure"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # irregular blood pressure
 
-**irregular blood pressure** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**irregular blood pressure** (condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning irregular blood pressure
 
-[[385-1]], [[4483-1]]
+[[261-12]], [[779-24]], [[2185-3]], [[2344-2]], [[2582-1]], [[2793-1]], [[4483-1]], [[4633-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

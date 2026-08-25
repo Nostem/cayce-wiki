@@ -1,18 +1,21 @@
 ---
 entity: "obedience"
-entity_type: "concept"
-reading_count: 3
-mention_count: 3
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # obedience
 
-**obedience** (concept) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**obedience** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning obedience
 
-[[900-90]], [[900-192]], [[900-444]]
+[[473-1]], [[900-90]], [[900-192]], [[1152-5]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

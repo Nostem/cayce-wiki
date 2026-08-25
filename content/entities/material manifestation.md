@@ -1,18 +1,21 @@
 ---
 entity: "material manifestation"
-entity_type: "concept"
-reading_count: 13
-mention_count: 13
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # material manifestation
 
-**material manifestation** (concept) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**material manifestation** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning material manifestation
 
-[[257-201]], [[531-2]], [[1662-2]], [[2155-5]], [[2378-2]], [[2398-2]], [[2408-1]], [[2540-1]], [[2700-1]], [[2772-1]], [[2788-1]], [[2988-2]], [[5347-2]]
+[[254-61]], [[294-18]], [[900-115]], [[1561-18]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

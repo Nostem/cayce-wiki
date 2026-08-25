@@ -1,18 +1,21 @@
 ---
 entity: "deep massage"
-entity_type: "remedy"
-reading_count: 11
-mention_count: 11
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
 # deep massage
 
-**deep massage** (remedy) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**deep massage** (remedy) appears in **14 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning deep massage
 
-[[107-1]], [[294-171]], [[358-5]], [[533-5]], [[755-1]], [[900-46]], [[1079-2]], [[1953-1]], [[2221-1]], [[4473-1]], [[5706-3]]
+[[180-1]], [[294-171]], [[325-7]], [[358-5]], [[533-5]], [[755-1]], [[2221-1]], [[2434-1]], [[2667-2]], [[2671-1]], [[4213-1]], [[4473-1]], [[4761-1]], [[5554-3]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

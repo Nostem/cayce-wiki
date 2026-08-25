@@ -1,18 +1,21 @@
 ---
 entity: "constructive influence"
-entity_type: "concept"
-reading_count: 15
-mention_count: 15
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # constructive influence
 
-**constructive influence** (concept) appears in **15 readings** (15 mentions) — extracted by LLM semantic analysis.
+**constructive influence** (concept) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning constructive influence
 
-[[254-102]], [[357-4]], [[370-4]], [[378-47]], [[416-15]], [[507-1]], [[557-3]], [[933-2]], [[1158-36]], [[1285-1]], [[1510-1]], [[1523-4]], [[1548-5]], [[1710-8]], [[2590-3]]
+[[254-102]], [[416-7]], [[416-14]], [[459-6]], [[713-1]], [[889-1]], [[1439-2]], [[1447-4]], [[1710-8]], [[1861-10]], [[2017-3]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

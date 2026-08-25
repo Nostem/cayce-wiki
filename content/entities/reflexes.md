@@ -1,18 +1,21 @@
 ---
 entity: "reflexes"
-entity_type: "concept"
-reading_count: 47
-mention_count: 47
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 18
+literal_reading_count: 0
+semantic_reading_count: 18
+literal_mention_count: 0
+semantic_mention_count: 18
+tags: [entity, semantic]
 ---
 
 # reflexes
 
-**reflexes** (concept) appears in **47 readings** (47 mentions) — extracted by LLM semantic analysis.
+**reflexes** (concept) appears in **18 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning reflexes
 
-[[118-1]], [[181-1]], [[244-1]], [[446-1]], [[574-1]], [[694-1]], [[733-1]], [[1151-2]], [[1460-3]], [[1842-2]], [[2146-1]], [[2165-1]], [[2313-1]], [[2407-1]], [[2436-5]], [[2561-1]], [[2568-1]], [[2646-1]], [[2693-1]], [[2790-5]], [[2797-1]], [[2971-5]], [[2972-1]], [[2973-1]], [[2974-1]], [[3007-1]], [[3375-1]], [[3479-1]], [[3597-1]], [[3721-1]], [[3742-1]], [[3753-1]], [[3780-1]], [[4008-1]], [[4331-1]], [[4568-1]], [[4707-1]], [[4886-1]], [[5006-1]], [[5036-1]], [[5199-1]], [[5228-1]], [[5430-1]], [[5504-1]], [[5511-1]], [[5635-1]], [[5726-1]]
+[[195-55]], [[241-1]], [[270-7]], [[303-27]], [[583-2]], [[960-8]], [[1460-3]], [[1842-2]], [[2064-1]], [[2983-1]], [[2999-1]], [[3375-1]], [[3496-1]], [[3780-2]], [[3993-1]], [[4414-1]], [[4707-1]], [[5450-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

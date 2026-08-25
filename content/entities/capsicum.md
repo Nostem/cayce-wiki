@@ -1,18 +1,21 @@
 ---
 entity: "capsicum"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 13
-mention_count: 13
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
 # capsicum
 
-**capsicum** (remedy) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**capsicum** (remedy) appears in **13 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning capsicum
 
-[[247-1]], [[3810-3]], [[3880-1]], [[3991-1]], [[4176-1]], [[4274-1]], [[4274-2]], [[4340-1]], [[4454-1]], [[4466-1]], [[4495-1]], [[4646-2]], [[4832-2]]
+[[247-1]], [[1112-1]], [[3810-3]], [[3991-1]], [[4274-1]], [[4274-2]], [[4340-1]], [[4454-1]], [[4466-1]], [[4495-1]], [[4646-2]], [[4832-2]], [[5675-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

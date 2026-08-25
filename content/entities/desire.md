@@ -1,18 +1,21 @@
 ---
 entity: "desire"
-entity_type: "concept"
-reading_count: 27
-mention_count: 27
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 28
+literal_reading_count: 0
+semantic_reading_count: 28
+literal_mention_count: 0
+semantic_mention_count: 28
+tags: [entity, semantic]
 ---
 
 # desire
 
-**desire** (concept) appears in **27 readings** (27 mentions) — extracted by LLM semantic analysis.
+**desire** (concept) appears in **28 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning desire
 
-[[136-37]], [[140-33]], [[254-17]], [[255-6]], [[262-62]], [[262-63]], [[262-64]], [[262-67]], [[262-69]], [[262-70]], [[262-71]], [[262-72]], [[276-7]], [[294-202]], [[295-3]], [[349-8]], [[349-13]], [[378-42]], [[462-8]], [[486-1]], [[534-2]], [[556-12]], [[1546-3]], [[3417-1]], [[5603-3]], [[5752-3]], [[5756-8]]
+[[262-62]], [[262-64]], [[262-67]], [[262-69]], [[262-70]], [[262-71]], [[276-7]], [[288-37]], [[295-3]], [[304-40]], [[378-42]], [[534-2]], [[556-12]], [[900-351]], [[1102-3]], [[1490-4]], [[1546-3]], [[1733-1]], [[1761-2]], [[1764-1]], [[1781-1]], [[2943-1]], [[2971-2]], [[3071-2]], [[3392-1]], [[3812-12]], [[5160-1]], [[5603-3]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,17 +1,21 @@
 ---
 entity: "Gospel of John"
-mention_count: 5
+entity_types: ["literal"]
 reading_count: 4
-tags: [entity]
+literal_reading_count: 4
+semantic_reading_count: 0
+literal_mention_count: 5
+semantic_mention_count: 0
+tags: [entity, semantic]
 ---
 
 # Gospel of John
 
-**Gospel of John** appears in **4 readings** (5 total mentions) across the corpus.
+**Gospel of John** (literal) appears in **4 readings** — indexed through deterministic literal extraction.
 
 ## Readings mentioning Gospel of John
 
 [[262-17]], [[781-5]], [[1703-3]], [[2608-1]]
 
 ---
-*Auto-generated entity index. 4 readings, 5 mentions.*
+*Auto-generated index. LLM classifications should be verified before citation.*

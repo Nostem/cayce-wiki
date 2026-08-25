@@ -1,18 +1,21 @@
 ---
 entity: "occult"
-entity_type: "concept"
-reading_count: 47
-mention_count: 47
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 16
+literal_reading_count: 0
+semantic_reading_count: 16
+literal_mention_count: 0
+semantic_mention_count: 16
+tags: [entity, semantic]
 ---
 
 # occult
 
-**occult** (concept) appears in **47 readings** (47 mentions) — extracted by LLM semantic analysis.
+**occult** (concept) appears in **16 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning occult
 
-[[31-1]], [[108-1]], [[115-1]], [[268-3]], [[318-2]], [[361-4]], [[436-2]], [[454-2]], [[692-1]], [[706-1]], [[760-4]], [[797-1]], [[914-1]], [[957-1]], [[993-1]], [[1101-2]], [[1188-3]], [[1265-3]], [[1561-1]], [[1626-1]], [[1681-1]], [[1714-1]], [[1717-1]], [[1833-1]], [[1917-1]], [[1923-1]], [[2144-1]], [[2331-1]], [[2513-1]], [[2556-1]], [[2581-2]], [[2666-1]], [[2672-2]], [[2688-1]], [[2731-1]], [[2762-1]], [[2786-1]], [[2795-1]], [[2887-1]], [[2897-1]], [[2913-2]], [[2992-1]], [[3004-1]], [[3006-1]], [[3102-2]], [[4543-2]], [[4907-2]]
+[[254-49]], [[436-2]], [[760-4]], [[1265-3]], [[1714-1]], [[1735-2]], [[1895-1]], [[1920-1]], [[1925-1]], [[2482-1]], [[2842-1]], [[3102-2]], [[3198-3]], [[4543-2]], [[4907-2]], [[5154-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

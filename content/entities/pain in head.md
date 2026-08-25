@@ -1,18 +1,21 @@
 ---
 entity: "pain in head"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # pain in head
 
-**pain in head** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**pain in head** (condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning pain in head
 
-[[87-1]], [[556-6]], [[5138-1]]
+[[207-1]], [[263-1]], [[265-14]], [[338-4]], [[635-5]], [[3776-7]], [[5491-4]], [[5512-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

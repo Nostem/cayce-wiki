@@ -1,18 +1,21 @@
 ---
 entity: "hepatic circulation disturbances"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
 # hepatic circulation disturbances
 
-**hepatic circulation disturbances** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**hepatic circulation disturbances** (condition) appears in **14 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning hepatic circulation disturbances
 
-[[379-2]], [[768-3]], [[1439-1]]
+[[258-1]], [[261-21]], [[289-8]], [[338-1]], [[400-1]], [[766-1]], [[843-3]], [[1209-1]], [[1308-1]], [[1708-1]], [[1768-1]], [[1882-1]], [[4128-1]], [[5646-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

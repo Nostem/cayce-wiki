@@ -1,18 +1,21 @@
 ---
 entity: "daily massage"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 3
-mention_count: 3
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # daily massage
 
-**daily massage** (remedy) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**daily massage** (remedy) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning daily massage
 
-[[1710-9]], [[3525-1]], [[5068-1]]
+[[1710-9]], [[2642-1]], [[3525-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

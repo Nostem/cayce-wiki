@@ -1,18 +1,21 @@
 ---
 entity: "self-consciousness"
-entity_type: "concept"
-reading_count: 8
-mention_count: 8
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # self-consciousness
 
-**self-consciousness** (concept) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**self-consciousness** (concept, condition) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning self-consciousness
 
-[[391-1]], [[1739-7]], [[1928-1]], [[2922-1]], [[3224-1]], [[3479-2]], [[5042-2]], [[5355-1]]
+[[137-79]], [[391-1]], [[666-1]], [[1968-3]], [[2607-1]], [[2777-3]], [[5042-2]], [[5302-1]], [[5420-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "Dr. McLean"
-entity_type: "person"
-reading_count: 7
-mention_count: 7
-tags: [entity, person]
+entity_types: ["person"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # Dr. McLean
 
-**Dr. McLean** (person) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**Dr. McLean** (person) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Dr. McLean
 
-[[759-18]], [[773-20]], [[773-21]], [[1309-9]], [[2836-2]], [[2988-4]], [[3061-1]]
+[[773-20]], [[773-21]], [[2836-2]], [[2971-1]], [[2988-4]], [[3061-1]], [[5117-1]], [[5215-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

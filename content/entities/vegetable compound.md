@@ -1,18 +1,21 @@
 ---
 entity: "vegetable compound"
-entity_type: "remedy"
-reading_count: 18
-mention_count: 18
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # vegetable compound
 
-**vegetable compound** (remedy) appears in **18 readings** (18 mentions) — extracted by LLM semantic analysis.
+**vegetable compound** (remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning vegetable compound
 
-[[53-4]], [[137-127]], [[189-4]], [[276-10]], [[307-13]], [[416-5]], [[419-8]], [[464-23]], [[464-25]], [[470-36]], [[494-6]], [[603-3]], [[619-9]], [[759-23]], [[935-2]], [[1100-20]], [[1196-11]], [[3661-1]]
+[[137-127]], [[416-5]], [[470-36]], [[759-23]], [[1100-20]], [[1467-18]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

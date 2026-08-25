@@ -1,18 +1,21 @@
 ---
 entity: "neuropathic treatment"
-entity_type: "remedy"
-reading_count: 6
-mention_count: 6
-tags: [entity, remedy]
+entity_types: ["concept", "remedy"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # neuropathic treatment
 
-**neuropathic treatment** (remedy) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**neuropathic treatment** (concept, remedy) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning neuropathic treatment
 
-[[140-12]], [[638-1]], [[811-3]], [[3854-4]], [[4506-2]], [[4666-1]]
+[[140-12]], [[421-1]], [[630-1]], [[638-1]], [[768-1]], [[811-3]], [[979-6]], [[3164-1]], [[3854-4]], [[4764-3]], [[4882-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

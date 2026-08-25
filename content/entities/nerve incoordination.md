@@ -1,18 +1,21 @@
 ---
 entity: "nerve incoordination"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
 # nerve incoordination
 
-**nerve incoordination** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**nerve incoordination** (condition) appears in **13 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning nerve incoordination
 
-[[480-4]], [[2249-1]], [[2619-1]]
+[[336-1]], [[567-1]], [[865-2]], [[972-1]], [[997-2]], [[1018-1]], [[1709-1]], [[1758-1]], [[2244-1]], [[3873-1]], [[4149-1]], [[4691-3]], [[4896-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

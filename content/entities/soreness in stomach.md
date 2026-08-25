@@ -1,18 +1,21 @@
 ---
 entity: "soreness in stomach"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # soreness in stomach
 
-**soreness in stomach** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**soreness in stomach** (condition) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning soreness in stomach
 
-[[409-34]], [[2519-7]], [[5586-2]]
+[[19-4]], [[409-34]], [[1688-3]], [[2514-8]], [[3780-1]], [[5586-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

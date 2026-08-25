@@ -1,18 +1,21 @@
 ---
 entity: "personal application"
-entity_type: "concept"
-reading_count: 10
-mention_count: 10
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # personal application
 
-**personal application** (concept) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**personal application** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning personal application
 
-[[99-3]], [[165-17]], [[274-10]], [[315-9]], [[333-6]], [[524-2]], [[903-13]], [[1738-1]], [[3251-1]], [[3576-1]]
+[[262-13]], [[900-224]], [[903-13]], [[1231-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

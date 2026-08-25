@@ -1,18 +1,21 @@
 ---
 entity: "violet ray stimulation"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # violet ray stimulation
 
-**violet ray stimulation** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**violet ray stimulation** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning violet ray stimulation
 
-[[412-8]], [[4660-1]]
+[[1739-2]], [[2072-11]], [[4234-1]], [[4693-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

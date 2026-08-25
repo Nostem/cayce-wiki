@@ -1,18 +1,21 @@
 ---
-entity: "julius caesar"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Julius Caesar"
+entity_types: ["person"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
-# julius caesar
+# Julius Caesar
 
-**julius caesar** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Julius Caesar** (person) appears in **6 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning julius caesar
+## Readings mentioning Julius Caesar
 
-[[1449-2]], [[3689-1]]
+[[195-41]], [[1449-2]], [[1976-1]], [[2012-1]], [[2665-2]], [[3689-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

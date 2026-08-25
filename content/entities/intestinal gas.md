@@ -1,18 +1,21 @@
 ---
 entity: "intestinal gas"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # intestinal gas
 
-**intestinal gas** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**intestinal gas** (condition) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning intestinal gas
 
-[[559-1]], [[760-2]], [[3052-2]]
+[[255-8]], [[559-1]], [[635-4]], [[760-2]], [[805-1]], [[1480-1]], [[2335-1]], [[2992-2]], [[3052-2]], [[3356-2]], [[3481-1]], [[4320-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

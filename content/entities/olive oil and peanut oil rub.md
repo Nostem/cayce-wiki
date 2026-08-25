@@ -1,18 +1,21 @@
 ---
 entity: "olive oil and peanut oil rub"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 4
-mention_count: 4
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # olive oil and peanut oil rub
 
-**olive oil and peanut oil rub** (remedy) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**olive oil and peanut oil rub** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning olive oil and peanut oil rub
 
-[[326-12]], [[480-52]], [[2302-3]], [[5175-1]]
+[[480-52]], [[2185-3]], [[2302-3]], [[2924-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

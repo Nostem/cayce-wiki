@@ -1,18 +1,21 @@
 ---
 entity: "stomach issues"
-entity_type: "condition"
-reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 15
+literal_reading_count: 0
+semantic_reading_count: 15
+literal_mention_count: 0
+semantic_mention_count: 15
+tags: [entity, semantic]
 ---
 
 # stomach issues
 
-**stomach issues** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**stomach issues** (condition) appears in **15 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning stomach issues
 
-[[325-6]], [[418-3]], [[533-13]], [[557-7]], [[3741-1]], [[5618-15]]
+[[462-13]], [[480-12]], [[528-13]], [[667-9]], [[849-9]], [[3664-1]], [[3981-1]], [[4441-1]], [[4731-1]], [[4779-1]], [[5126-1]], [[5342-1]], [[5438-1]], [[5618-15]], [[5642-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

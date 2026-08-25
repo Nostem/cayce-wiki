@@ -1,18 +1,21 @@
 ---
 entity: "sedatives"
-entity_type: "remedy"
-reading_count: 23
-mention_count: 23
-tags: [entity, remedy]
+entity_types: ["concept", "remedy"]
+reading_count: 29
+literal_reading_count: 0
+semantic_reading_count: 29
+literal_mention_count: 0
+semantic_mention_count: 29
+tags: [entity, semantic]
 ---
 
 # sedatives
 
-**sedatives** (remedy) appears in **23 readings** (23 mentions) — extracted by LLM semantic analysis.
+**sedatives** (concept, remedy) appears in **29 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning sedatives
 
-[[116-1]], [[116-2]], [[140-34]], [[193-2]], [[287-20]], [[560-7]], [[656-1]], [[877-23]], [[911-4]], [[988-5]], [[1010-20]], [[1069-2]], [[1361-3]], [[2018-3]], [[2512-2]], [[2768-1]], [[2961-1]], [[3279-3]], [[3313-1]], [[3439-1]], [[3452-2]], [[4497-1]], [[5427-1]]
+[[116-2]], [[140-34]], [[193-2]], [[287-19]], [[325-64]], [[326-11]], [[389-6]], [[394-1]], [[550-10]], [[560-7]], [[843-4]], [[977-1]], [[988-5]], [[1010-20]], [[1069-2]], [[1085-1]], [[1214-1]], [[1312-2]], [[1361-3]], [[2018-3]], [[2153-8]], [[2512-2]], [[2592-1]], [[2945-1]], [[3279-3]], [[3313-1]], [[3439-1]], [[3452-2]], [[5427-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

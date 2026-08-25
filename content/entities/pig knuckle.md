@@ -1,18 +1,21 @@
 ---
 entity: "pig knuckle"
-entity_type: "remedy"
-reading_count: 3
-mention_count: 3
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # pig knuckle
 
-**pig knuckle** (remedy) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**pig knuckle** (remedy) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning pig knuckle
 
-[[340-17]], [[495-1]], [[4320-1]]
+[[275-42]], [[313-1]], [[404-2]], [[501-2]], [[578-5]], [[726-1]], [[4320-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

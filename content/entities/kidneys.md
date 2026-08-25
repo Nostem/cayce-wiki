@@ -1,18 +1,21 @@
 ---
 entity: "kidneys"
-entity_type: "condition"
-reading_count: 14
-mention_count: 14
-tags: [entity, condition]
+entity_types: ["concept", "condition", "remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # kidneys
 
-**kidneys** (condition) appears in **14 readings** (14 mentions) — extracted by LLM semantic analysis.
+**kidneys** (concept, condition, remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning kidneys
 
-[[129-3]], [[205-2]], [[903-9]], [[953-12]], [[1708-1]], [[1788-3]], [[1982-3]], [[3058-1]], [[3833-1]], [[4182-2]], [[4386-1]], [[4769-2]], [[4778-2]], [[5475-8]]
+[[376-1]], [[379-17]], [[658-15]], [[2074-3]], [[3025-1]], [[4776-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

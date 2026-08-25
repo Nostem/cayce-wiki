@@ -1,18 +1,21 @@
 ---
 entity: "mutton suet massage"
-entity_type: "remedy"
-reading_count: 9
-mention_count: 9
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # mutton suet massage
 
-**mutton suet massage** (remedy) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**mutton suet massage** (remedy) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mutton suet massage
 
-[[305-2]], [[418-4]], [[560-3]], [[632-6]], [[715-1]], [[944-1]], [[1054-1]], [[1187-8]], [[2028-1]]
+[[261-18]], [[585-4]], [[632-6]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

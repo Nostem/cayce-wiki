@@ -1,18 +1,21 @@
 ---
-entity: "araaraart"
-entity_type: "person"
-reading_count: 9
-mention_count: 9
-tags: [entity, person]
+entity: "Araaraart"
+entity_types: ["person"]
+reading_count: 20
+literal_reading_count: 0
+semantic_reading_count: 20
+literal_mention_count: 0
+semantic_mention_count: 20
+tags: [entity, semantic]
 ---
 
-# araaraart
+# Araaraart
 
-**araaraart** (person) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**Araaraart** (person) appears in **20 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning araaraart
+## Readings mentioning Araaraart
 
-[[275-38]], [[294-152]], [[341-9]], [[341-24]], [[341-44]], [[378-16]], [[900-275]], [[2533-4]], [[5748-6]]
+[[257-10]], [[275-38]], [[294-152]], [[341-9]], [[341-10]], [[378-16]], [[779-9]], [[900-275]], [[1007-3]], [[1265-1]], [[1472-10]], [[1703-3]], [[1842-1]], [[1863-1]], [[2006-1]], [[2396-2]], [[2533-4]], [[2541-3]], [[5748-5]], [[5748-6]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

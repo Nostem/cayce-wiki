@@ -1,18 +1,21 @@
 ---
 entity: "diet low in starches"
-entity_type: "remedy"
-reading_count: 3
-mention_count: 3
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # diet low in starches
 
-**diet low in starches** (remedy) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**diet low in starches** (remedy) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning diet low in starches
 
-[[645-1]], [[1556-1]], [[4077-1]]
+[[243-29]], [[313-20]], [[614-1]], [[633-9]], [[1320-1]], [[1544-1]], [[2985-1]], [[3255-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

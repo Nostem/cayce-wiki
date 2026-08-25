@@ -1,18 +1,21 @@
 ---
-entity: "vivienne bush"
-entity_type: "person"
+entity: "Vivienne Bush"
+entity_types: ["person"]
 reading_count: 3
-mention_count: 3
-tags: [entity, person]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# vivienne bush
+# Vivienne Bush
 
-**vivienne bush** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Vivienne Bush** (person) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning vivienne bush
+## Readings mentioning Vivienne Bush
 
 [[1158-27]], [[1224-5]], [[1266-5]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

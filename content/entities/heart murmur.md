@@ -1,18 +1,21 @@
 ---
 entity: "heart murmur"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # heart murmur
 
-**heart murmur** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**heart murmur** (condition) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning heart murmur
 
-[[470-17]], [[2366-3]]
+[[470-17]], [[1337-1]], [[1502-1]], [[2102-1]], [[2366-3]], [[3193-1]], [[3703-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

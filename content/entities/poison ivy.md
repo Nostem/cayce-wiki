@@ -1,18 +1,21 @@
 ---
 entity: "poison ivy"
-entity_type: "condition"
-reading_count: 5
-mention_count: 5
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # poison ivy
 
-**poison ivy** (condition) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**poison ivy** (condition) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning poison ivy
 
-[[261-33]], [[341-41]], [[758-35]], [[1635-2]], [[2441-3]]
+[[261-33]], [[341-41]], [[758-35]], [[1635-2]], [[1770-4]], [[2441-3]], [[2998-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

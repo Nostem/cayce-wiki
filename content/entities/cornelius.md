@@ -1,18 +1,21 @@
 ---
-entity: "cornelius"
-entity_type: "person"
-reading_count: 3
-mention_count: 3
-tags: [entity, person]
+entity: "Cornelius"
+entity_types: ["person"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
-# cornelius
+# Cornelius
 
-**cornelius** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Cornelius** (person) appears in **12 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning cornelius
+## Readings mentioning Cornelius
 
-[[1757-2]], [[1848-1]], [[2205-3]]
+[[1602-4]], [[1757-2]], [[1849-2]], [[1981-1]], [[2205-3]], [[2460-1]], [[2612-1]], [[2786-1]], [[2891-1]], [[3202-1]], [[4047-2]], [[5040-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

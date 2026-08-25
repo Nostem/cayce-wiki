@@ -1,18 +1,21 @@
 ---
-entity: "mrs. pope"
-entity_type: "person"
+entity: "Mrs. Pope"
+entity_types: ["person"]
 reading_count: 5
-mention_count: 5
-tags: [entity, person]
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
-# mrs. pope
+# Mrs. Pope
 
-**mrs. pope** (person) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**Mrs. Pope** (person) appears in **5 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning mrs. pope
+## Readings mentioning Mrs. Pope
 
-[[146-4]], [[146-7]], [[146-8]], [[146-9]], [[512-2]]
+[[146-4]], [[146-8]], [[146-9]], [[254-66]], [[356-2]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

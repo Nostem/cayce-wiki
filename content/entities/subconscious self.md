@@ -1,18 +1,21 @@
 ---
 entity: "subconscious self"
-entity_type: "concept"
-reading_count: 6
-mention_count: 6
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # subconscious self
 
-**subconscious self** (concept) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**subconscious self** (concept) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning subconscious self
 
-[[254-46]], [[900-377]], [[1122-2]], [[3193-1]], [[3236-1]], [[4694-2]]
+[[243-17]], [[254-46]], [[270-23]], [[751-1]], [[911-2]], [[1122-2]], [[1713-6]], [[3990-1]], [[4567-1]], [[4694-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

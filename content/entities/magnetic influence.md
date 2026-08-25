@@ -1,18 +1,21 @@
 ---
 entity: "magnetic influence"
-entity_type: "concept"
+entity_types: ["concept", "remedy"]
 reading_count: 3
-mention_count: 3
-tags: [entity, concept]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # magnetic influence
 
-**magnetic influence** (concept) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**magnetic influence** (concept, remedy) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning magnetic influence
 
-[[264-34]], [[298-3]], [[1497-14]]
+[[264-29]], [[264-34]], [[275-24]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

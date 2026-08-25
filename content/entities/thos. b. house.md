@@ -1,18 +1,21 @@
 ---
-entity: "thos. b. house"
-entity_type: "person"
+entity: "Thos. B. House"
+entity_types: ["person"]
 reading_count: 6
-mention_count: 6
-tags: [entity, person]
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
-# thos. b. house
+# Thos. B. House
 
-**thos. b. house** (person) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**Thos. B. House** (person) appears in **6 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning thos. b. house
+## Readings mentioning Thos. B. House
 
-[[204-1]], [[325-22]], [[900-327]], [[1192-1]], [[1800-31]], [[3829-1]]
+[[147-34]], [[254-41]], [[294-114]], [[304-15]], [[2819-1]], [[4849-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

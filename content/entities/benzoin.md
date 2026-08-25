@@ -1,18 +1,21 @@
 ---
 entity: "benzoin"
-entity_type: "remedy"
-reading_count: 7
-mention_count: 7
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
 # benzoin
 
-**benzoin** (remedy) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**benzoin** (remedy) appears in **13 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning benzoin
 
-[[37-2]], [[270-49]], [[487-3]], [[901-1]], [[1208-15]], [[1636-2]], [[2383-1]]
+[[230-2]], [[304-8]], [[318-5]], [[370-7]], [[487-10]], [[583-6]], [[1636-2]], [[2103-2]], [[3710-1]], [[3814-1]], [[4271-1]], [[4281-17]], [[4573-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

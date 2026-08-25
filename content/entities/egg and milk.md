@@ -1,18 +1,21 @@
 ---
 entity: "egg and milk"
-entity_type: "remedy"
-reading_count: 3
-mention_count: 3
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # egg and milk
 
-**egg and milk** (remedy) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**egg and milk** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning egg and milk
 
-[[125-2]], [[231-1]], [[2889-3]]
+[[340-38]], [[649-4]], [[1045-10]], [[1409-7]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

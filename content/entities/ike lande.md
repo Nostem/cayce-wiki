@@ -1,18 +1,21 @@
 ---
-entity: "ike lande"
-entity_type: "person"
-reading_count: 4
-mention_count: 4
-tags: [entity, person]
+entity: "Ike Lande"
+entity_types: ["person"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
-# ike lande
+# Ike Lande
 
-**ike lande** (person) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Ike Lande** (person) appears in **8 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning ike lande
+## Readings mentioning Ike Lande
 
-[[257-43]], [[257-44]], [[257-58]], [[454-4]]
+[[257-44]], [[257-56]], [[257-58]], [[257-73]], [[257-75]], [[257-77]], [[257-132]], [[257-196]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

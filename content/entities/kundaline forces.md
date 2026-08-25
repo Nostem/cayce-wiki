@@ -1,18 +1,21 @@
 ---
 entity: "kundaline forces"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # kundaline forces
 
-**kundaline forces** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**kundaline forces** (concept) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning kundaline forces
 
-[[2072-5]], [[2758-1]], [[3481-1]], [[5286-1]]
+[[1710-8]], [[1745-2]], [[2072-5]], [[2072-10]], [[2758-1]], [[3062-1]], [[3421-2]], [[3498-1]], [[5162-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

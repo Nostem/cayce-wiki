@@ -1,18 +1,21 @@
 ---
 entity: "will's force"
-entity_type: "concept"
-reading_count: 10
-mention_count: 10
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # will's force
 
-**will's force** (concept) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**will's force** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning will's force
 
-[[302-1]], [[369-3]], [[419-1]], [[778-1]], [[2223-1]], [[2692-1]], [[2749-1]], [[3929-1]], [[5618-3]], [[5718-2]]
+[[349-1]], [[2692-1]], [[5712-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "peptone"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 3
-mention_count: 3
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # peptone
 
-**peptone** (remedy) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**peptone** (remedy) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning peptone
 
-[[1186-1]], [[4694-2]], [[4703-1]]
+[[134-2]], [[1186-1]], [[4703-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

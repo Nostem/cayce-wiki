@@ -1,18 +1,21 @@
 ---
 entity: "swellings"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # swellings
 
-**swellings** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**swellings** (condition) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning swellings
 
-[[516-3]], [[1108-1]]
+[[516-3]], [[651-1]], [[860-1]], [[1302-1]], [[1429-2]], [[1519-5]], [[2504-18]], [[2782-1]], [[4438-4]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

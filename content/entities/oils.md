@@ -1,18 +1,21 @@
 ---
 entity: "oils"
-entity_type: "remedy"
-reading_count: 22
-mention_count: 22
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 17
+literal_reading_count: 0
+semantic_reading_count: 17
+literal_mention_count: 0
+semantic_mention_count: 17
+tags: [entity, semantic]
 ---
 
 # oils
 
-**oils** (remedy) appears in **22 readings** (22 mentions) — extracted by LLM semantic analysis.
+**oils** (remedy) appears in **17 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning oils
 
-[[257-236]], [[301-9]], [[303-18]], [[487-9]], [[533-18]], [[618-6]], [[1005-9]], [[1030-1]], [[1069-3]], [[1122-14]], [[1242-6]], [[1433-2]], [[1433-3]], [[1519-2]], [[1713-9]], [[2504-11]], [[3353-2]], [[4320-3]], [[5048-2]], [[5426-2]], [[5561-1]], [[5622-2]]
+[[64-3]], [[287-2]], [[340-8]], [[340-45]], [[442-4]], [[533-12]], [[569-27]], [[699-1]], [[849-23]], [[1005-9]], [[1122-14]], [[1519-2]], [[2778-3]], [[3286-2]], [[3489-1]], [[5048-2]], [[5472-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

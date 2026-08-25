@@ -1,18 +1,21 @@
 ---
 entity: "plantain salve"
-entity_type: "remedy"
-reading_count: 11
-mention_count: 11
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # plantain salve
 
-**plantain salve** (remedy) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**plantain salve** (remedy) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning plantain salve
 
-[[325-45]], [[325-60]], [[908-3]], [[1242-7]], [[1541-2]], [[3206-1]], [[3387-1]], [[3391-1]], [[3751-3]], [[4050-1]], [[4076-1]]
+[[325-45]], [[325-60]], [[543-19]], [[1541-1]], [[1541-2]], [[2667-2]], [[3387-1]], [[3467-1]], [[3751-4]], [[4050-1]], [[4076-1]], [[5161-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

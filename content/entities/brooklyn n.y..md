@@ -1,18 +1,21 @@
 ---
-entity: "brooklyn, n.y."
-entity_type: "place"
-reading_count: 2
-mention_count: 2
-tags: [entity, place]
+entity: "Brooklyn, N.Y."
+entity_types: ["place"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
-# brooklyn, n.y.
+# Brooklyn, N.Y.
 
-**brooklyn, n.y.** (place) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Brooklyn, N.Y.** (place) appears in **8 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning brooklyn, n.y.
+## Readings mentioning Brooklyn, N.Y.
 
-[[2426-3]], [[4307-1]]
+[[189-3]], [[215-1]], [[257-230]], [[1982-2]], [[2426-3]], [[2467-1]], [[4493-2]], [[5676-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

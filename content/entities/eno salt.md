@@ -1,18 +1,21 @@
 ---
 entity: "eno salt"
-entity_type: "remedy"
-reading_count: 23
-mention_count: 23
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 24
+literal_reading_count: 0
+semantic_reading_count: 24
+literal_mention_count: 0
+semantic_mention_count: 24
+tags: [entity, semantic]
 ---
 
 # eno salt
 
-**eno salt** (remedy) appears in **23 readings** (23 mentions) — extracted by LLM semantic analysis.
+**eno salt** (remedy) appears in **24 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning eno salt
 
-[[257-202]], [[257-204]], [[303-16]], [[307-16]], [[326-9]], [[333-9]], [[416-13]], [[464-19]], [[528-16]], [[533-14]], [[608-11]], [[623-4]], [[849-18]], [[1100-22]], [[1100-32]], [[1158-30]], [[1191-3]], [[1636-2]], [[1663-3]], [[1747-4]], [[1830-1]], [[1850-3]], [[1882-1]]
+[[257-204]], [[307-16]], [[326-9]], [[333-9]], [[416-13]], [[420-1]], [[464-19]], [[528-16]], [[533-14]], [[603-3]], [[608-11]], [[623-4]], [[849-18]], [[1100-22]], [[1100-32]], [[1158-30]], [[1191-3]], [[1196-9]], [[1410-1]], [[1636-2]], [[1663-3]], [[1747-4]], [[1830-1]], [[1882-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

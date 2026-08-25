@@ -1,18 +1,21 @@
 ---
 entity: "hot and cold packs"
-entity_type: "remedy"
-reading_count: 7
-mention_count: 7
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # hot and cold packs
 
-**hot and cold packs** (remedy) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**hot and cold packs** (remedy) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning hot and cold packs
 
-[[349-20]], [[1528-3]], [[1822-1]], [[1826-1]], [[1883-1]], [[2242-1]], [[3968-1]]
+[[337-24]], [[349-20]], [[982-1]], [[1528-3]], [[1822-1]], [[1826-4]], [[1883-1]], [[1938-1]], [[1940-2]], [[2242-1]], [[2394-1]], [[2507-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

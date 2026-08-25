@@ -1,18 +1,21 @@
 ---
 entity: "psychological effect"
-entity_type: "concept"
-reading_count: 9
-mention_count: 9
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # psychological effect
 
-**psychological effect** (concept) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**psychological effect** (concept, condition) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning psychological effect
 
-[[294-11]], [[438-4]], [[877-15]], [[900-329]], [[1187-7]], [[1788-13]], [[1903-1]], [[2979-1]], [[4709-4]]
+[[257-168]], [[438-4]], [[900-329]], [[2514-4]], [[2979-1]], [[3432-1]], [[4520-3]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

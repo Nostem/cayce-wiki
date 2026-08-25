@@ -1,18 +1,21 @@
 ---
 entity: "stock market"
-entity_type: "concept"
-reading_count: 21
-mention_count: 21
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # stock market
 
-**stock market** (concept) appears in **21 readings** (21 mentions) — extracted by LLM semantic analysis.
+**stock market** (concept) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning stock market
 
-[[136-17]], [[137-20]], [[137-34]], [[137-40]], [[137-68]], [[137-69]], [[137-74]], [[335-3]], [[900-74]], [[900-118]], [[900-206]], [[900-213]], [[900-222]], [[900-225]], [[900-238]], [[900-245]], [[900-334]], [[900-380]], [[900-431]], [[900-432]], [[4666-3]]
+[[137-110]], [[257-59]], [[900-199]], [[900-213]], [[900-218]], [[900-223]], [[900-323]], [[900-326]], [[900-329]], [[900-460]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

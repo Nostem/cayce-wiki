@@ -1,18 +1,21 @@
 ---
 entity: "desire to live"
-entity_type: "concept"
-reading_count: 3
-mention_count: 3
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # desire to live
 
-**desire to live** (concept) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**desire to live** (concept) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning desire to live
 
-[[1835-1]], [[1835-2]], [[5309-1]]
+[[1181-7]], [[1835-2]], [[2478-1]], [[3452-1]], [[5309-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

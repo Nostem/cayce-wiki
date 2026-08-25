@@ -1,18 +1,21 @@
 ---
 entity: "low electrical vibrations"
-entity_type: "remedy"
-reading_count: 65
-mention_count: 65
-tags: [entity, remedy]
+entity_types: ["concept", "remedy"]
+reading_count: 35
+literal_reading_count: 0
+semantic_reading_count: 35
+literal_mention_count: 0
+semantic_mention_count: 35
+tags: [entity, semantic]
 ---
 
 # low electrical vibrations
 
-**low electrical vibrations** (remedy) appears in **65 readings** (65 mentions) — extracted by LLM semantic analysis.
+**low electrical vibrations** (concept, remedy) appears in **35 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning low electrical vibrations
 
-[[395-2]], [[528-8]], [[528-10]], [[538-61]], [[744-1]], [[811-1]], [[849-32]], [[852-11]], [[854-2]], [[988-7]], [[1024-1]], [[1038-1]], [[1050-1]], [[1079-2]], [[1082-2]], [[1110-1]], [[1191-4]], [[1215-3]], [[1215-6]], [[1215-7]], [[1305-1]], [[1359-1]], [[1361-1]], [[1361-2]], [[1365-1]], [[1368-2]], [[1370-1]], [[1439-1]], [[1445-1]], [[1448-1]], [[1475-1]], [[1516-1]], [[1533-1]], [[1534-2]], [[1535-1]], [[1553-6]], [[1594-4]], [[1609-1]], [[1640-1]], [[1745-4]], [[1749-1]], [[1750-1]], [[1763-1]], [[1768-1]], [[1784-1]], [[1944-1]], [[1969-1]], [[2009-1]], [[2010-1]], [[2068-1]], [[2152-1]], [[2165-1]], [[2248-1]], [[2398-1]], [[2543-3]], [[2600-1]], [[2712-1]], [[2778-1]], [[2905-1]], [[3557-1]], [[4059-1]], [[4140-1]], [[5014-1]], [[5050-1]], [[5533-1]]
+[[264-20]], [[386-2]], [[395-2]], [[514-2]], [[528-12]], [[758-2]], [[808-6]], [[851-3]], [[894-2]], [[972-1]], [[988-7]], [[999-1]], [[1068-1]], [[1126-1]], [[1191-2]], [[1191-4]], [[1215-3]], [[1215-6]], [[1215-7]], [[1355-2]], [[1358-1]], [[1361-2]], [[1368-2]], [[1433-6]], [[1488-1]], [[1496-1]], [[1534-2]], [[1553-6]], [[1749-1]], [[1891-2]], [[1969-1]], [[2543-3]], [[2620-1]], [[4140-1]], [[5192-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

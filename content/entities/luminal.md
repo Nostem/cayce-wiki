@@ -1,18 +1,21 @@
 ---
 entity: "luminal"
-entity_type: "remedy"
-reading_count: 16
-mention_count: 16
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 15
+literal_reading_count: 0
+semantic_reading_count: 15
+literal_mention_count: 0
+semantic_mention_count: 15
+tags: [entity, semantic]
 ---
 
 # luminal
 
-**luminal** (remedy) appears in **16 readings** (16 mentions) — extracted by LLM semantic analysis.
+**luminal** (remedy) appears in **15 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning luminal
 
-[[325-67]], [[325-68]], [[325-71]], [[543-1]], [[543-20]], [[543-23]], [[569-28]], [[1025-2]], [[1242-2]], [[1916-2]], [[2153-5]], [[3469-2]], [[3700-1]], [[3801-1]], [[4091-2]], [[4537-1]]
+[[325-68]], [[325-69]], [[325-71]], [[543-1]], [[543-18]], [[543-20]], [[543-23]], [[569-28]], [[638-1]], [[1025-2]], [[1242-2]], [[3453-2]], [[3469-2]], [[3700-1]], [[3801-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

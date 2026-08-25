@@ -1,18 +1,21 @@
 ---
 entity: "tubercle"
-entity_type: "condition"
-reading_count: 14
-mention_count: 14
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # tubercle
 
-**tubercle** (condition) appears in **14 readings** (14 mentions) — extracted by LLM semantic analysis.
+**tubercle** (condition) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning tubercle
 
-[[25-4]], [[289-6]], [[297-1]], [[418-2]], [[427-6]], [[528-3]], [[591-1]], [[715-4]], [[715-9]], [[1172-1]], [[2270-1]], [[2514-1]], [[3058-1]], [[3222-1]]
+[[297-1]], [[715-4]], [[715-9]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

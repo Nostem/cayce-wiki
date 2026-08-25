@@ -1,18 +1,21 @@
 ---
 entity: "cream of tartar"
-entity_type: "remedy"
-reading_count: 53
-mention_count: 53
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 29
+literal_reading_count: 0
+semantic_reading_count: 29
+literal_mention_count: 0
+semantic_mention_count: 29
+tags: [entity, semantic]
 ---
 
 # cream of tartar
 
-**cream of tartar** (remedy) appears in **53 readings** (53 mentions) — extracted by LLM semantic analysis.
+**cream of tartar** (remedy) appears in **29 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning cream of tartar
 
-[[136-69]], [[136-74]], [[307-5]], [[357-5]], [[357-6]], [[538-8]], [[608-8]], [[670-12]], [[759-16]], [[760-11]], [[760-12]], [[779-8]], [[982-1]], [[1005-6]], [[1009-1]], [[1208-15]], [[1208-16]], [[1315-3]], [[1325-1]], [[1429-1]], [[1532-4]], [[1541-8]], [[1646-3]], [[1709-8]], [[1711-1]], [[1734-4]], [[1736-1]], [[1739-6]], [[1945-1]], [[1990-1]], [[2148-5]], [[2341-1]], [[2342-1]], [[2423-1]], [[2462-3]], [[2674-2]], [[2803-1]], [[2843-3]], [[2868-1]], [[3081-2]], [[3167-1]], [[3673-1]], [[3678-1]], [[4117-1]], [[4731-1]], [[5012-1]], [[5016-1]], [[5157-1]], [[5203-1]], [[5218-1]], [[5316-1]], [[5357-1]], [[5654-1]]
+[[136-74]], [[322-4]], [[337-2]], [[760-11]], [[1005-6]], [[1208-15]], [[1208-16]], [[1325-1]], [[1532-4]], [[1711-1]], [[1734-4]], [[1736-1]], [[1739-6]], [[1945-1]], [[1990-2]], [[2148-5]], [[2341-1]], [[2342-1]], [[2423-1]], [[2674-2]], [[3261-1]], [[3673-1]], [[3678-1]], [[4117-1]], [[5012-1]], [[5157-1]], [[5218-1]], [[5316-1]], [[5654-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

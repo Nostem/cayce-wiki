@@ -1,18 +1,21 @@
 ---
 entity: "career advancement"
-entity_type: "concept"
+entity_types: ["concept"]
 reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # career advancement
 
-**career advancement** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**career advancement** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning career advancement
 
-[[270-45]], [[349-7]], [[779-12]], [[4353-3]]
+[[257-13]], [[257-27]], [[779-12]], [[1120-3]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

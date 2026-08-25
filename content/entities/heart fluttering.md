@@ -1,18 +1,21 @@
 ---
 entity: "heart fluttering"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # heart fluttering
 
-**heart fluttering** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**heart fluttering** (condition) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning heart fluttering
 
-[[325-6]], [[5165-1]]
+[[325-55]], [[464-31]], [[779-24]], [[4336-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

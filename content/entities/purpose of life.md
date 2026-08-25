@@ -1,18 +1,21 @@
 ---
 entity: "purpose of life"
-entity_type: "concept"
-reading_count: 9
-mention_count: 9
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # purpose of life
 
-**purpose of life** (concept) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**purpose of life** (concept) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning purpose of life
 
-[[900-175]], [[1173-7]], [[1523-6]], [[1567-2]], [[1909-3]], [[2030-1]], [[2067-7]], [[4047-2]], [[5206-1]]
+[[295-2]], [[826-11]], [[900-288]], [[996-10]], [[2180-1]], [[2981-4]], [[3213-1]], [[3485-1]], [[5064-1]], [[5287-1]], [[5594-1]], [[5616-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

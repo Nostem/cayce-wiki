@@ -1,18 +1,21 @@
 ---
 entity: "counseling"
-entity_type: "concept"
-reading_count: 12
-mention_count: 12
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # counseling
 
-**counseling** (concept) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**counseling** (concept) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning counseling
 
-[[108-1]], [[255-5]], [[264-32]], [[618-3]], [[759-17]], [[877-2]], [[900-290]], [[1151-6]], [[1332-1]], [[2454-3]], [[4081-1]], [[5247-1]]
+[[264-31]], [[489-1]], [[603-2]], [[943-2]], [[1100-26]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

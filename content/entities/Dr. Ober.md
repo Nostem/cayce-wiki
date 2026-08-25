@@ -1,18 +1,21 @@
 ---
-entity: "Dr. Ober"
-entity_type: "person"
-reading_count: 5
-mention_count: 5
-tags: [entity, person]
+entity: "dr. ober"
+entity_types: ["person"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
-# Dr. Ober
+# dr. ober
 
-**Dr. Ober** (person) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**dr. ober** (person) appears in **12 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning Dr. Ober
+## Readings mentioning dr. ober
 
-[[555-8]], [[571-2]], [[1207-2]], [[2649-1]], [[5013-1]]
+[[454-8]], [[555-8]], [[571-2]], [[624-1]], [[713-1]], [[1207-2]], [[1275-1]], [[1541-3]], [[2154-2]], [[2649-1]], [[4009-1]], [[5013-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

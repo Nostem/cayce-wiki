@@ -1,18 +1,21 @@
 ---
 entity: "normal diet"
-entity_type: "remedy"
-reading_count: 7
-mention_count: 7
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # normal diet
 
-**normal diet** (remedy) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**normal diet** (remedy) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning normal diet
 
-[[557-6]], [[577-1]], [[1136-1]], [[1817-1]], [[2239-2]], [[2433-1]], [[3000-1]]
+[[106-11]], [[288-43]], [[349-10]], [[557-6]], [[780-12]], [[2165-1]], [[3140-1]], [[5113-1]], [[5310-1]], [[5478-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

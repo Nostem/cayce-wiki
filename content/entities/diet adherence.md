@@ -1,18 +1,21 @@
 ---
 entity: "diet adherence"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # diet adherence
 
-**diet adherence** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**diet adherence** (remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning diet adherence
 
-[[1358-3]], [[5603-4]]
+[[337-26]], [[470-34]], [[862-4]], [[911-6]], [[983-2]], [[1688-4]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

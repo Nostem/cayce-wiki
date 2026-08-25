@@ -1,18 +1,21 @@
 ---
 entity: "prostatitis"
-entity_type: "condition"
-reading_count: 9
-mention_count: 9
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
 # prostatitis
 
-**prostatitis** (condition) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**prostatitis** (condition) appears in **13 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning prostatitis
 
-[[274-9]], [[294-16]], [[391-17]], [[592-5]], [[779-27]], [[779-28]], [[2504-13]], [[2504-14]], [[3559-1]]
+[[270-49]], [[294-16]], [[370-5]], [[370-7]], [[391-17]], [[391-18]], [[592-4]], [[763-1]], [[849-2]], [[849-10]], [[2051-7]], [[2504-13]], [[2504-14]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

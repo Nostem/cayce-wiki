@@ -1,18 +1,21 @@
 ---
 entity: "beef"
-entity_type: "remedy"
-reading_count: 6
-mention_count: 6
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 16
+literal_reading_count: 0
+semantic_reading_count: 16
+literal_mention_count: 0
+semantic_mention_count: 16
+tags: [entity, semantic]
 ---
 
 # beef
 
-**beef** (remedy) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**beef** (remedy) appears in **16 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning beef
 
-[[137-105]], [[357-12]], [[538-70]], [[903-29]], [[2504-14]], [[4841-2]]
+[[13-2]], [[276-4]], [[279-1]], [[294-92]], [[487-9]], [[487-22]], [[811-7]], [[849-50]], [[903-29]], [[1069-2]], [[1381-5]], [[1713-14]], [[2553-6]], [[4033-1]], [[4834-1]], [[5574-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

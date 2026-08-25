@@ -1,18 +1,21 @@
 ---
 entity: "dullness"
-entity_type: "condition"
-reading_count: 11
-mention_count: 11
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 17
+literal_reading_count: 0
+semantic_reading_count: 17
+literal_mention_count: 0
+semantic_mention_count: 17
+tags: [entity, semantic]
 ---
 
 # dullness
 
-**dullness** (condition) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**dullness** (condition) appears in **17 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning dullness
 
-[[255-10]], [[413-8]], [[900-320]], [[900-356]], [[1594-5]], [[2461-1]], [[2678-1]], [[3727-1]], [[3826-1]], [[3962-1]], [[4867-1]]
+[[255-10]], [[538-18]], [[674-1]], [[725-1]], [[794-1]], [[900-356]], [[1042-3]], [[1594-5]], [[2461-1]], [[2678-1]], [[2889-2]], [[3239-1]], [[3881-1]], [[4134-1]], [[4182-2]], [[5527-1]], [[5710-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

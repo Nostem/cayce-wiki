@@ -1,18 +1,21 @@
 ---
 entity: "raw carrots"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # raw carrots
 
-**raw carrots** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**raw carrots** (remedy) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning raw carrots
 
-[[1112-9]], [[1158-21]]
+[[305-1]], [[337-2]], [[349-25]], [[1710-6]], [[2015-10]], [[5035-1]], [[5520-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

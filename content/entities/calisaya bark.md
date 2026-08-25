@@ -1,18 +1,21 @@
 ---
 entity: "calisaya bark"
-entity_type: "remedy"
-reading_count: 50
-mention_count: 50
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 19
+literal_reading_count: 0
+semantic_reading_count: 19
+literal_mention_count: 0
+semantic_mention_count: 19
+tags: [entity, semantic]
 ---
 
 # calisaya bark
 
-**calisaya bark** (remedy) appears in **50 readings** (50 mentions) — extracted by LLM semantic analysis.
+**calisaya bark** (remedy) appears in **19 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning calisaya bark
 
-[[16-1]], [[25-1]], [[25-3]], [[26-2]], [[47-1]], [[59-1]], [[76-1]], [[103-1]], [[129-1]], [[140-1]], [[185-1]], [[286-2]], [[1690-1]], [[2198-1]], [[2236-1]], [[3857-1]], [[3951-1]], [[3959-1]], [[3960-1]], [[4133-3]], [[4190-1]], [[4216-1]], [[4218-1]], [[4218-3]], [[4232-1]], [[4276-1]], [[4295-1]], [[4302-1]], [[4305-1]], [[4315-1]], [[4365-1]], [[4373-1]], [[4401-1]], [[4412-1]], [[4518-1]], [[4535-2]], [[4550-1]], [[4634-1]], [[4650-1]], [[4657-1]], [[4698-1]], [[4728-1]], [[4781-1]], [[4787-1]], [[4815-1]], [[4819-1]], [[4870-1]], [[4990-1]], [[5521-1]], [[5580-1]]
+[[16-1]], [[286-2]], [[286-3]], [[3766-1]], [[3951-1]], [[3960-1]], [[4133-2]], [[4133-3]], [[4134-1]], [[4207-1]], [[4218-1]], [[4218-3]], [[4295-1]], [[4302-1]], [[4315-1]], [[4365-1]], [[4787-1]], [[4815-1]], [[4990-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

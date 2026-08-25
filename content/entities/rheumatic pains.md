@@ -1,18 +1,21 @@
 ---
 entity: "rheumatic pains"
-entity_type: "condition"
-reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # rheumatic pains
 
-**rheumatic pains** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**rheumatic pains** (condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning rheumatic pains
 
-[[272-6]], [[635-1]], [[694-4]], [[2534-1]], [[4435-1]], [[4652-2]]
+[[272-3]], [[272-5]], [[272-6]], [[629-1]], [[635-1]], [[1800-15]], [[2534-1]], [[4652-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

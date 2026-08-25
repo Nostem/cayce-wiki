@@ -1,18 +1,21 @@
 ---
-entity: "roanoke rapids"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity: "Roanoke Rapids"
+entity_types: ["place"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
-# roanoke rapids
+# Roanoke Rapids
 
-**roanoke rapids** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Roanoke Rapids** (place) appears in **8 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning roanoke rapids
+## Readings mentioning Roanoke Rapids
 
-[[264-7]], [[3603-1]], [[5464-1]]
+[[264-7]], [[264-59]], [[1122-10]], [[2894-1]], [[3603-1]], [[4742-1]], [[4866-1]], [[5464-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

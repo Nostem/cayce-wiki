@@ -1,18 +1,21 @@
 ---
 entity: "phosphates"
-entity_type: "remedy"
-reading_count: 7
-mention_count: 7
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # phosphates
 
-**phosphates** (remedy) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**phosphates** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning phosphates
 
-[[294-118]], [[337-20]], [[341-25]], [[538-8]], [[4106-1]], [[4135-1]], [[4801-1]]
+[[294-118]], [[4106-1]], [[4135-1]], [[4801-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

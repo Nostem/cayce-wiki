@@ -1,18 +1,21 @@
 ---
-entity: "rochester"
-entity_type: "place"
-reading_count: 15
-mention_count: 15
-tags: [entity, place]
+entity: "Rochester"
+entity_types: ["place"]
+reading_count: 28
+literal_reading_count: 0
+semantic_reading_count: 28
+literal_mention_count: 0
+semantic_mention_count: 28
+tags: [entity, semantic]
 ---
 
-# rochester
+# Rochester
 
-**rochester** (place) appears in **15 readings** (15 mentions) — extracted by LLM semantic analysis.
+**Rochester** (place) appears in **28 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning rochester
+## Readings mentioning Rochester
 
-[[137-82]], [[257-246]], [[270-37]], [[294-131]], [[480-56]], [[557-7]], [[1270-1]], [[1333-1]], [[2940-1]], [[3157-1]], [[3629-2]], [[3928-1]], [[4300-5]], [[4684-1]], [[4684-2]]
+[[137-82]], [[257-246]], [[294-131]], [[325-71]], [[480-56]], [[557-7]], [[988-1]], [[1006-1]], [[1333-1]], [[1704-1]], [[2161-1]], [[2518-1]], [[2722-5]], [[3017-1]], [[3109-1]], [[3218-1]], [[3337-1]], [[3388-1]], [[3591-1]], [[3629-2]], [[3686-1]], [[3928-1]], [[3989-1]], [[4020-1]], [[4039-1]], [[4329-3]], [[4684-2]], [[5360-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

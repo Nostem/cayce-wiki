@@ -1,18 +1,21 @@
 ---
 entity: "coordination of forces"
-entity_type: "concept"
+entity_types: ["concept"]
 reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # coordination of forces
 
-**coordination of forces** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**coordination of forces** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning coordination of forces
 
-[[1122-1]], [[2355-1]], [[3855-1]], [[3969-1]]
+[[128-1]], [[2356-1]], [[3910-1]], [[5686-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

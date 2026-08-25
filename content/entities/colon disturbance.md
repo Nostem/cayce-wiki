@@ -1,18 +1,21 @@
 ---
 entity: "colon disturbance"
-entity_type: "condition"
-reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 15
+literal_reading_count: 0
+semantic_reading_count: 15
+literal_mention_count: 0
+semantic_mention_count: 15
+tags: [entity, semantic]
 ---
 
 # colon disturbance
 
-**colon disturbance** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**colon disturbance** (condition) appears in **15 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning colon disturbance
 
-[[294-194]], [[340-36]], [[1970-3]], [[2501-12]], [[3166-1]], [[3394-1]]
+[[257-249]], [[312-1]], [[340-36]], [[420-4]], [[1010-15]], [[1177-1]], [[1196-15]], [[1663-4]], [[1687-1]], [[1970-3]], [[2585-1]], [[3166-1]], [[3242-1]], [[3394-1]], [[3550-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

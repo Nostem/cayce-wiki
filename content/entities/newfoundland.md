@@ -1,18 +1,21 @@
 ---
-entity: "newfoundland"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity: "Newfoundland"
+entity_types: ["place"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# newfoundland
+# Newfoundland
 
-**newfoundland** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Newfoundland** (place) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning newfoundland
+## Readings mentioning Newfoundland
 
-[[257-154]], [[462-3]], [[984-1]]
+[[462-1]], [[462-3]], [[462-18]], [[984-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

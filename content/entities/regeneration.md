@@ -1,18 +1,21 @@
 ---
 entity: "regeneration"
-entity_type: "concept"
-reading_count: 15
-mention_count: 15
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 19
+literal_reading_count: 0
+semantic_reading_count: 19
+literal_mention_count: 0
+semantic_mention_count: 19
+tags: [entity, semantic]
 ---
 
 # regeneration
 
-**regeneration** (concept) appears in **15 readings** (15 mentions) — extracted by LLM semantic analysis.
+**regeneration** (concept) appears in **19 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning regeneration
 
-[[81-2]], [[281-38]], [[294-151]], [[294-183]], [[471-1]], [[586-1]], [[1503-1]], [[1554-4]], [[1753-1]], [[2390-7]], [[3507-1]], [[3795-1]], [[3898-1]], [[4369-1]], [[5636-1]]
+[[81-2]], [[262-99]], [[294-151]], [[294-171]], [[294-197]], [[440-15]], [[486-1]], [[696-1]], [[1223-6]], [[1554-4]], [[1753-1]], [[1982-1]], [[2072-13]], [[2533-6]], [[3266-1]], [[3686-1]], [[4615-1]], [[5123-1]], [[5636-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

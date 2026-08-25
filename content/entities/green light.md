@@ -1,18 +1,21 @@
 ---
 entity: "green light"
-entity_type: "remedy"
-reading_count: 7
-mention_count: 7
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # green light
 
-**green light** (remedy) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**green light** (remedy) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning green light
 
-[[302-9]], [[632-3]], [[683-4]], [[2150-1]], [[2592-1]], [[2828-4]], [[5524-1]]
+[[257-234]], [[302-9]], [[569-27]], [[683-4]], [[1567-4]], [[1758-2]], [[2150-1]], [[2456-6]], [[5524-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

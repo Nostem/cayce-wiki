@@ -1,18 +1,21 @@
 ---
 entity: "functional disorder"
-entity_type: "condition"
-reading_count: 10
-mention_count: 10
-tags: [entity, condition]
+entity_types: ["concept", "condition"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # functional disorder
 
-**functional disorder** (condition) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**functional disorder** (concept, condition) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning functional disorder
 
-[[10-1]], [[433-1]], [[957-3]], [[2255-1]], [[2354-1]], [[2356-1]], [[2359-1]], [[2515-1]], [[2763-1]], [[3332-1]]
+[[313-1]], [[1610-1]], [[1690-3]], [[2356-1]], [[2763-1]], [[3985-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

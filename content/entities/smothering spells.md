@@ -1,18 +1,21 @@
 ---
 entity: "smothering spells"
-entity_type: "condition"
-reading_count: 4
-mention_count: 4
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # smothering spells
 
-**smothering spells** (condition) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**smothering spells** (condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning smothering spells
 
-[[325-2]], [[394-9]], [[1374-1]], [[4970-1]]
+[[243-2]], [[294-1]], [[325-2]], [[394-9]], [[1374-1]], [[1508-1]], [[4769-1]], [[4970-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

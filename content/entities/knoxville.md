@@ -1,18 +1,21 @@
 ---
-entity: "knoxville"
-entity_type: "place"
-reading_count: 6
-mention_count: 6
-tags: [entity, place]
+entity: "Knoxville"
+entity_types: ["place"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
-# knoxville
+# Knoxville
 
-**knoxville** (place) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**Knoxville** (place) appears in **8 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning knoxville
+## Readings mentioning Knoxville
 
-[[114-1]], [[257-81]], [[412-3]], [[2240-1]], [[3102-2]], [[3633-1]]
+[[257-81]], [[257-83]], [[257-110]], [[412-3]], [[2240-1]], [[3102-2]], [[4586-5]], [[5167-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

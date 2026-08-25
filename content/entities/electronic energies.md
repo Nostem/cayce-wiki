@@ -1,18 +1,21 @@
 ---
 entity: "electronic energies"
-entity_type: "concept"
-reading_count: 3
-mention_count: 3
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # electronic energies
 
-**electronic energies** (concept) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**electronic energies** (concept) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning electronic energies
 
-[[1800-30]], [[4532-1]], [[5340-1]]
+[[946-1]], [[1029-1]], [[1163-2]], [[1800-30]], [[4532-1]], [[5340-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

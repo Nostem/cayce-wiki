@@ -1,18 +1,21 @@
 ---
-entity: "kirksville"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity: "Kirksville"
+entity_types: ["place"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
-# kirksville
+# Kirksville
 
-**kirksville** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Kirksville** (place) appears in **13 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning kirksville
+## Readings mentioning Kirksville
 
-[[101-1]], [[1885-2]], [[4008-1]]
+[[275-8]], [[787-1]], [[864-2]], [[885-2]], [[1788-6]], [[1989-1]], [[2008-1]], [[2185-3]], [[2718-1]], [[2742-1]], [[2803-5]], [[4008-1]], [[4076-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

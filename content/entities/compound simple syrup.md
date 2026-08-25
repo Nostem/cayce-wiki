@@ -1,18 +1,21 @@
 ---
 entity: "compound simple syrup"
-entity_type: "remedy"
-reading_count: 14
-mention_count: 14
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # compound simple syrup
 
-**compound simple syrup** (remedy) appears in **14 readings** (14 mentions) — extracted by LLM semantic analysis.
+**compound simple syrup** (remedy) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning compound simple syrup
 
-[[228-3]], [[243-25]], [[310-7]], [[392-1]], [[424-2]], [[511-1]], [[528-1]], [[675-1]], [[734-1]], [[770-1]], [[924-1]], [[1005-15]], [[1025-3]], [[1089-7]]
+[[228-3]], [[503-1]], [[538-34]], [[601-4]], [[1025-3]], [[1089-7]], [[1433-2]], [[1449-1]], [[1464-1]], [[5621-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

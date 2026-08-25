@@ -1,18 +1,21 @@
 ---
-entity: "herbert"
-entity_type: "person"
-reading_count: 3
-mention_count: 3
-tags: [entity, person]
+entity: "Herbert"
+entity_types: ["person"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# herbert
+# Herbert
 
-**herbert** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Herbert** (person) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning herbert
+## Readings mentioning Herbert
 
-[[900-65]], [[900-284]], [[900-290]]
+[[900-65]], [[900-284]], [[900-290]], [[4167-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,17 +1,21 @@
 ---
 entity: "Passage (Pyramid)"
-mention_count: 85
+entity_types: ["literal"]
 reading_count: 77
-tags: [entity]
+literal_reading_count: 77
+semantic_reading_count: 0
+literal_mention_count: 85
+semantic_mention_count: 0
+tags: [entity, semantic]
 ---
 
 # Passage (Pyramid)
 
-**Passage (Pyramid)** appears in **77 readings** (85 total mentions) across the corpus.
+**Passage (Pyramid)** (literal) appears in **77 readings** — indexed through deterministic literal extraction.
 
 ## Readings mentioning Passage (Pyramid)
 
 [[15-3]], [[58-1]], [[62-1]], [[136-24]], [[136-41]], [[137-20]], [[137-89]], [[185-1]], [[195-57]], [[257-217]], [[257-231]], [[261-15]], [[264-25]], [[270-13]], [[275-23]], [[281-36]], [[281-44]], [[364-11]], [[378-16]], [[538-13]], [[540-4]], [[551-3]], [[556-5]], [[584-1]], [[631-6]], [[696-3]], [[717-1]], [[769-1]], [[816-3]], [[843-4]], [[866-1]], [[882-2]], [[900-26]], [[900-64]], [[900-99]], [[900-276]], [[938-1]], [[949-2]], [[997-2]], [[1048-1]], [[1208-13]], [[1208-15]], [[1290-1]], [[1377-3]], [[1463-1]], [[1472-14]], [[1476-3]], [[1498-1]], [[1734-1]], [[1770-4]], [[1946-1]], [[1963-1]], [[1964-1]], [[2040-1]], [[2067-7]], [[2209-1]], [[2298-1]], [[2492-5]], [[2514-10]], [[2680-1]], [[3542-1]], [[3643-1]], [[3697-1]], [[3732-1]], [[3802-1]], [[4299-2]], [[4464-1]], [[4684-2]], [[4709-2]], [[4908-2]], [[5116-1]], [[5138-1]], [[5497-1]], [[5554-2]], [[5671-5]], [[5748-5]], [[5749-3]]
 
 ---
-*Auto-generated entity index. 77 readings, 85 mentions.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "motor design"
-entity_type: "concept"
-reading_count: 3
-mention_count: 3
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # motor design
 
-**motor design** (concept) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**motor design** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning motor design
 
-[[195-59]], [[4665-10]], [[4665-12]]
+[[195-67]], [[4665-4]], [[4665-6]], [[4665-9]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

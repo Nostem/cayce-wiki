@@ -1,18 +1,21 @@
 ---
 entity: "abrasions"
-entity_type: "condition"
-reading_count: 51
-mention_count: 51
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 46
+literal_reading_count: 0
+semantic_reading_count: 46
+literal_mention_count: 0
+semantic_mention_count: 46
+tags: [entity, semantic]
 ---
 
 # abrasions
 
-**abrasions** (condition) appears in **51 readings** (51 mentions) — extracted by LLM semantic analysis.
+**abrasions** (condition) appears in **46 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning abrasions
 
-[[86-1]], [[139-1]], [[165-7]], [[182-1]], [[288-34]], [[304-34]], [[304-47]], [[322-5]], [[325-45]], [[325-46]], [[325-47]], [[337-2]], [[337-4]], [[337-7]], [[337-9]], [[337-19]], [[487-8]], [[487-18]], [[538-44]], [[569-10]], [[569-25]], [[618-8]], [[642-1]], [[661-5]], [[670-12]], [[757-3]], [[763-1]], [[781-1]], [[944-1]], [[947-1]], [[992-1]], [[992-3]], [[1083-1]], [[1102-2]], [[1765-1]], [[1800-30]], [[1935-1]], [[2514-3]], [[2682-2]], [[3763-1]], [[3938-1]], [[3966-1]], [[3986-1]], [[4220-1]], [[4316-1]], [[4569-2]], [[4779-1]], [[4988-2]], [[5430-1]], [[5434-1]], [[5617-1]]
+[[2-2]], [[125-1]], [[129-3]], [[304-27]], [[304-28]], [[304-34]], [[318-5]], [[325-45]], [[325-46]], [[325-47]], [[325-48]], [[337-9]], [[337-19]], [[409-22]], [[538-44]], [[618-8]], [[619-6]], [[642-1]], [[661-5]], [[760-14]], [[760-15]], [[849-63]], [[992-1]], [[1208-15]], [[1429-2]], [[1758-1]], [[1800-30]], [[1982-1]], [[2455-2]], [[2682-2]], [[2884-1]], [[2884-3]], [[3733-1]], [[3751-3]], [[3751-4]], [[3751-5]], [[3751-6]], [[3751-13]], [[3763-1]], [[3796-1]], [[3966-1]], [[4316-1]], [[4761-1]], [[4779-1]], [[4988-2]], [[5557-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

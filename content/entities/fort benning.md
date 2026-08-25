@@ -1,18 +1,21 @@
 ---
-entity: "fort benning"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity: "Fort Benning"
+entity_types: ["place"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# fort benning
+# Fort Benning
 
-**fort benning** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Fort Benning** (place) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning fort benning
+## Readings mentioning Fort Benning
 
-[[984-5]], [[1107-2]], [[5604-1]]
+[[984-5]], [[1107-2]], [[1931-3]], [[5604-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

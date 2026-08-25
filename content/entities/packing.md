@@ -1,18 +1,21 @@
 ---
 entity: "packing"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # packing
 
-**packing** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**packing** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning packing
 
-[[667-11]], [[903-26]]
+[[263-8]], [[667-11]], [[903-27]], [[2455-3]], [[2455-4]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

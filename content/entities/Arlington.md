@@ -1,18 +1,21 @@
 ---
-entity: "arlington"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity: "Arlington"
+entity_types: ["place"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
-# arlington
+# Arlington
 
-**arlington** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Arlington** (place) appears in **5 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning arlington
+## Readings mentioning Arlington
 
-[[257-246]], [[658-10]], [[3407-1]]
+[[658-10]], [[2270-1]], [[2542-1]], [[3187-1]], [[4218-5]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

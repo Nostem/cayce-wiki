@@ -1,18 +1,21 @@
 ---
 entity: "gall stones"
-entity_type: "condition"
-reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # gall stones
 
-**gall stones** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**gall stones** (condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning gall stones
 
-[[760-28]], [[1010-1]], [[4882-1]], [[4997-1]], [[5267-1]], [[5449-2]]
+[[1673-1]], [[1898-1]], [[1898-2]], [[2131-1]], [[3574-1]], [[3670-1]], [[4997-1]], [[5449-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

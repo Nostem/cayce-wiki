@@ -1,18 +1,21 @@
 ---
 entity: "oxygen"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # oxygen
 
-**oxygen** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**oxygen** (concept, remedy) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning oxygen
 
-[[304-31]], [[325-51]], [[664-1]], [[3482-1]], [[5707-1]]
+[[83-3]], [[274-4]], [[294-5]], [[325-51]], [[428-3]], [[755-3]], [[900-467]], [[1048-1]], [[2212-1]], [[4648-1]], [[4688-1]], [[5618-13]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

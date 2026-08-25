@@ -1,18 +1,21 @@
 ---
-entity: "norwood hospital"
-entity_type: "place"
+entity: "Norwood Hospital"
+entity_types: ["place"]
 reading_count: 3
-mention_count: 3
-tags: [entity, place]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# norwood hospital
+# Norwood Hospital
 
-**norwood hospital** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Norwood Hospital** (place) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning norwood hospital
+## Readings mentioning Norwood Hospital
 
-[[3789-1]], [[4343-1]], [[4343-2]]
+[[474-1]], [[4343-2]], [[4958-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

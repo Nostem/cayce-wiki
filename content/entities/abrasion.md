@@ -1,18 +1,21 @@
 ---
 entity: "abrasion"
-entity_type: "condition"
-reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # abrasion
 
-**abrasion** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**abrasion** (condition) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning abrasion
 
-[[84-1]], [[270-36]], [[270-43]], [[585-3]], [[4124-2]], [[5555-5]]
+[[84-1]], [[487-8]], [[569-10]], [[585-3]], [[760-13]], [[3973-1]], [[4117-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

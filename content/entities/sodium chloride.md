@@ -1,18 +1,21 @@
 ---
 entity: "sodium chloride"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 4
-mention_count: 4
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # sodium chloride
 
-**sodium chloride** (remedy) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**sodium chloride** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning sodium chloride
 
-[[72-1]], [[1467-6]], [[1800-22]], [[4283-1]]
+[[72-1]], [[1800-22]], [[1800-26]], [[4283-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

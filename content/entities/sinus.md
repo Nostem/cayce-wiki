@@ -1,18 +1,21 @@
 ---
 entity: "sinus"
-entity_type: "condition"
-reading_count: 15
-mention_count: 15
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # sinus
 
-**sinus** (condition) appears in **15 readings** (15 mentions) — extracted by LLM semantic analysis.
+**sinus** (condition) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning sinus
 
-[[261-3]], [[849-66]], [[849-67]], [[910-2]], [[1118-1]], [[1125-2]], [[1337-1]], [[1472-5]], [[1968-9]], [[3044-2]], [[3127-1]], [[3187-1]], [[3290-1]], [[3413-2]], [[5104-1]]
+[[849-9]], [[1318-1]], [[1387-3]], [[1387-5]], [[2981-3]], [[3290-1]], [[3413-1]], [[3413-2]], [[5104-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

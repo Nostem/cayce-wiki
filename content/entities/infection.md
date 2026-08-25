@@ -1,18 +1,21 @@
 ---
 entity: "infection"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 93
+literal_reading_count: 0
+semantic_reading_count: 93
+literal_mention_count: 0
+semantic_mention_count: 93
+tags: [entity, semantic]
 ---
 
 # infection
 
-**infection** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**infection** (concept, condition) appears in **93 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning infection
 
-[[137-15]], [[363-1]], [[1659-1]], [[2456-1]]
+[[137-15]], [[137-80]], [[137-95]], [[193-1]], [[257-221]], [[314-3]], [[324-3]], [[325-28]], [[326-11]], [[348-22]], [[361-6]], [[409-8]], [[409-16]], [[413-6]], [[415-10]], [[440-17]], [[470-15]], [[480-50]], [[487-26]], [[528-8]], [[566-6]], [[569-14]], [[623-6]], [[630-1]], [[646-4]], [[670-2]], [[759-6]], [[759-18]], [[759-19]], [[808-14]], [[849-24]], [[849-25]], [[852-3]], [[862-3]], [[900-36]], [[900-388]], [[1058-4]], [[1100-11]], [[1208-15]], [[1255-1]], [[1309-3]], [[1315-3]], [[1451-1]], [[1474-2]], [[1512-2]], [[1542-1]], [[1559-1]], [[1623-1]], [[1623-2]], [[1623-3]], [[1640-1]], [[1773-4]], [[1798-3]], [[1878-1]], [[1936-1]], [[1937-1]], [[1953-1]], [[1972-1]], [[2150-1]], [[2227-3]], [[2261-2]], [[2376-7]], [[2456-1]], [[2514-10]], [[2536-1]], [[2595-4]], [[2631-1]], [[2634-2]], [[2640-1]], [[2663-1]], [[2714-1]], [[2748-3]], [[2748-5]], [[2752-4]], [[2831-2]], [[2996-1]], [[3110-2]], [[3120-1]], [[3159-1]], [[3286-2]], [[3306-1]], [[3512-1]], [[3844-1]], [[3918-2]], [[3944-1]], [[4020-1]], [[4024-1]], [[4142-2]], [[4987-2]], [[5135-1]], [[5421-4]], [[5502-1]], [[5700-6]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

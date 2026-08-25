@@ -1,18 +1,21 @@
 ---
-entity: "miss wright"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Miss Wright"
+entity_types: ["person"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# miss wright
+# Miss Wright
 
-**miss wright** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Miss Wright** (person) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning miss wright
+## Readings mentioning Miss Wright
 
-[[164-2]], [[164-3]]
+[[164-2]], [[164-3]], [[5621-2]], [[5622-2]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "cocoa butter massage"
-entity_type: "remedy"
-reading_count: 10
-mention_count: 10
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 76
+literal_reading_count: 0
+semantic_reading_count: 76
+literal_mention_count: 0
+semantic_mention_count: 76
+tags: [entity, semantic]
 ---
 
 # cocoa butter massage
 
-**cocoa butter massage** (remedy) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**cocoa butter massage** (remedy) appears in **76 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning cocoa butter massage
 
-[[325-26]], [[628-6]], [[928-1]], [[1521-7]], [[1690-4]], [[1882-1]], [[2680-1]], [[3429-1]], [[3558-1]], [[3558-2]]
+[[143-6]], [[304-12]], [[361-3]], [[560-10]], [[588-1]], [[608-2]], [[608-3]], [[628-6]], [[711-2]], [[849-30]], [[900-391]], [[934-13]], [[1010-15]], [[1206-15]], [[1223-3]], [[1352-3]], [[1594-1]], [[1594-2]], [[1594-3]], [[1690-4]], [[1788-6]], [[1788-10]], [[1873-1]], [[1882-1]], [[1947-9]], [[2015-4]], [[2078-1]], [[2148-5]], [[2289-1]], [[2289-2]], [[2289-5]], [[2299-1]], [[2542-3]], [[2542-4]], [[2542-5]], [[2595-3]], [[2634-1]], [[2679-1]], [[2680-1]], [[2752-2]], [[2752-4]], [[2781-2]], [[2824-4]], [[2862-2]], [[2877-1]], [[2883-2]], [[3049-1]], [[3291-1]], [[3295-1]], [[3332-1]], [[3405-1]], [[3419-1]], [[3437-1]], [[3444-1]], [[3455-1]], [[3469-1]], [[3482-1]], [[3558-1]], [[3558-2]], [[3670-1]], [[3684-1]], [[3693-1]], [[3701-1]], [[3703-1]], [[4003-1]], [[4019-1]], [[4022-1]], [[4045-1]], [[4058-1]], [[4066-1]], [[4281-12]], [[4611-1]], [[5011-1]], [[5022-1]], [[5128-1]], [[5140-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

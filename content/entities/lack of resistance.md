@@ -1,18 +1,21 @@
 ---
 entity: "lack of resistance"
-entity_type: "condition"
-reading_count: 7
-mention_count: 7
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # lack of resistance
 
-**lack of resistance** (condition) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**lack of resistance** (condition) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning lack of resistance
 
-[[134-2]], [[307-7]], [[307-8]], [[1798-3]], [[1942-1]], [[2985-1]], [[5640-3]]
+[[303-18]], [[307-7]], [[480-57]], [[2432-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

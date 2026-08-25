@@ -1,18 +1,21 @@
 ---
 entity: "mental retardation"
-entity_type: "condition"
-reading_count: 4
-mention_count: 4
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # mental retardation
 
-**mental retardation** (condition) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**mental retardation** (condition) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mental retardation
 
-[[1104-1]], [[1322-2]], [[3208-1]], [[3210-2]]
+[[281-4]], [[395-1]], [[1322-2]], [[1399-1]], [[2663-2]], [[3143-1]], [[3208-1]], [[3302-1]], [[3789-1]], [[5038-1]], [[5576-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

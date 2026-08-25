@@ -1,18 +1,21 @@
 ---
 entity: "pine oil"
-entity_type: "remedy"
-reading_count: 13
-mention_count: 13
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # pine oil
 
-**pine oil** (remedy) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**pine oil** (remedy) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning pine oil
 
-[[618-7]], [[1158-33]], [[1238-2]], [[1472-2]], [[1779-2]], [[1871-1]], [[1890-1]], [[1942-2]], [[2531-1]], [[3026-1]], [[3559-1]], [[3602-2]], [[5054-1]]
+[[1188-4]], [[1710-10]], [[2821-1]], [[2966-1]], [[2975-1]], [[3230-1]], [[3276-2]], [[5380-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

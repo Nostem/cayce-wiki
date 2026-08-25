@@ -1,18 +1,21 @@
 ---
 entity: "cereal"
-entity_type: "remedy"
-reading_count: 4
-mention_count: 4
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # cereal
 
-**cereal** (remedy) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**cereal** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning cereal
 
-[[418-2]], [[795-2]], [[1181-5]], [[4795-1]]
+[[187-2]], [[275-42]], [[326-1]], [[1080-2]], [[4668-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

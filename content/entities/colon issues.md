@@ -1,18 +1,21 @@
 ---
 entity: "colon issues"
-entity_type: "condition"
-reading_count: 4
-mention_count: 4
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 16
+literal_reading_count: 0
+semantic_reading_count: 16
+literal_mention_count: 0
+semantic_mention_count: 16
+tags: [entity, semantic]
 ---
 
 # colon issues
 
-**colon issues** (condition) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**colon issues** (condition) appears in **16 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning colon issues
 
-[[566-2]], [[911-6]], [[1266-4]], [[2018-1]]
+[[294-205]], [[404-14]], [[464-36]], [[779-27]], [[911-6]], [[1010-18]], [[1465-3]], [[3051-6]], [[3400-1]], [[3987-1]], [[4253-1]], [[4300-4]], [[4452-1]], [[5474-1]], [[5671-3]], [[5738-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

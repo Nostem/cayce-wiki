@@ -1,18 +1,21 @@
 ---
-entity: "mildred mary davis"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Mildred Mary Davis"
+entity_types: ["person"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# mildred mary davis
+# Mildred Mary Davis
 
-**mildred mary davis** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Mildred Mary Davis** (person) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning mildred mary davis
+## Readings mentioning Mildred Mary Davis
 
-[[262-65]], [[473-1]]
+[[262-41]], [[262-42]], [[262-62]], [[779-19]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

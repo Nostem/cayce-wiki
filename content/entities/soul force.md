@@ -1,18 +1,21 @@
 ---
 entity: "soul force"
-entity_type: "concept"
+entity_types: ["concept"]
 reading_count: 9
-mention_count: 9
-tags: [entity, concept]
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # soul force
 
-**soul force** (concept) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**soul force** (concept) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning soul force
 
-[[858-1]], [[892-1]], [[1143-2]], [[2481-1]], [[4114-1]], [[4140-1]], [[4217-1]], [[4479-1]], [[4718-1]]
+[[16-1]], [[900-59]], [[900-438]], [[1118-1]], [[2481-1]], [[3744-3]], [[3755-1]], [[4140-1]], [[4755-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

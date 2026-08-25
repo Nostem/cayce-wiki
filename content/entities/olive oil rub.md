@@ -1,18 +1,21 @@
 ---
 entity: "olive oil rub"
-entity_type: "remedy"
-reading_count: 10
-mention_count: 10
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # olive oil rub
 
-**olive oil rub** (remedy) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**olive oil rub** (remedy) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning olive oil rub
 
-[[294-3]], [[326-5]], [[464-21]], [[628-4]], [[852-8]], [[932-2]], [[1100-6]], [[2063-1]], [[2072-14]], [[5591-1]]
+[[326-5]], [[852-8]], [[1049-1]], [[1100-6]], [[1100-24]], [[2063-1]], [[2072-14]], [[2085-5]], [[2582-1]], [[2831-3]], [[5568-3]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

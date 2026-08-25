@@ -1,18 +1,21 @@
 ---
-entity: "frisco"
-entity_type: "place"
+entity: "Frisco"
+entity_types: ["place"]
 reading_count: 6
-mention_count: 6
-tags: [entity, place]
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
-# frisco
+# Frisco
 
-**frisco** (place) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**Frisco** (place) appears in **6 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning frisco
+## Readings mentioning Frisco
 
-[[953-10]], [[1432-1]], [[1554-4]], [[2467-3]], [[2667-6]], [[5639-2]]
+[[165-10]], [[254-57]], [[1432-1]], [[2467-3]], [[2667-6]], [[5639-2]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

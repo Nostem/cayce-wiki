@@ -1,18 +1,21 @@
 ---
 entity: "sympathetic reactions"
-entity_type: "concept"
-reading_count: 14
-mention_count: 14
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # sympathetic reactions
 
-**sympathetic reactions** (concept) appears in **14 readings** (14 mentions) — extracted by LLM semantic analysis.
+**sympathetic reactions** (concept) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning sympathetic reactions
 
-[[259-9]], [[535-1]], [[723-1]], [[987-1]], [[1422-2]], [[1683-1]], [[1843-3]], [[2168-1]], [[2382-1]], [[2558-1]], [[2678-1]], [[2772-2]], [[2830-1]], [[3644-1]]
+[[257-226]], [[259-9]], [[1398-1]], [[1819-2]], [[1906-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

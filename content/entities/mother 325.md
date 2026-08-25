@@ -1,18 +1,21 @@
 ---
-entity: "mother [325]"
-entity_type: "person"
-reading_count: 3
-mention_count: 3
-tags: [entity, person]
+entity: "Mother [325]"
+entity_types: ["person"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
-# mother [325]
+# Mother [325]
 
-**mother [325]** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Mother [325]** (person) appears in **9 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning mother [325]
+## Readings mentioning Mother [325]
 
-[[325-39]], [[459-6]], [[4162-3]]
+[[257-5]], [[257-9]], [[257-15]], [[459-1]], [[459-8]], [[558-1]], [[558-3]], [[558-4]], [[2653-2]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

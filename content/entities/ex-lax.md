@@ -1,18 +1,21 @@
 ---
 entity: "ex-lax"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # ex-lax
 
-**ex-lax** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**ex-lax** (remedy) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning ex-lax
 
-[[409-27]], [[5662-3]]
+[[409-27]], [[608-10]], [[5662-3]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

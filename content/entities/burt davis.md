@@ -1,18 +1,21 @@
 ---
-entity: "burt davis"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Burt Davis"
+entity_types: ["person"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
-# burt davis
+# Burt Davis
 
-**burt davis** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Burt Davis** (person) appears in **9 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning burt davis
+## Readings mentioning Burt Davis
 
-[[254-100]], [[254-101]]
+[[254-100]], [[254-101]], [[294-204]], [[294-212]], [[779-19]], [[849-74]], [[1187-2]], [[1226-3]], [[1963-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

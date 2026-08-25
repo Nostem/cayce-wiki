@@ -1,18 +1,21 @@
 ---
 entity: "x-ray"
-entity_type: "remedy"
-reading_count: 30
-mention_count: 30
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 25
+literal_reading_count: 0
+semantic_reading_count: 25
+literal_mention_count: 0
+semantic_mention_count: 25
+tags: [entity, semantic]
 ---
 
 # x-ray
 
-**x-ray** (remedy) appears in **30 readings** (30 mentions) — extracted by LLM semantic analysis.
+**x-ray** (remedy) appears in **25 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning x-ray
 
-[[23-12]], [[45-6]], [[275-37]], [[325-16]], [[325-18]], [[325-71]], [[440-17]], [[457-4]], [[581-1]], [[589-1]], [[589-2]], [[601-25]], [[601-30]], [[755-2]], [[843-10]], [[1004-2]], [[1465-4]], [[1577-1]], [[1783-2]], [[2204-1]], [[2511-1]], [[3262-2]], [[3400-2]], [[3444-2]], [[3562-1]], [[3616-2]], [[4139-1]], [[4740-2]], [[5491-3]], [[5779-1]]
+[[23-12]], [[165-19]], [[275-29]], [[275-37]], [[325-16]], [[404-13]], [[440-17]], [[457-4]], [[581-1]], [[589-3]], [[601-25]], [[666-2]], [[1004-2]], [[1158-32]], [[1577-1]], [[1790-1]], [[2204-1]], [[3262-2]], [[3293-1]], [[3444-2]], [[4139-1]], [[4156-2]], [[5491-3]], [[5659-1]], [[5779-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "self-indulgence"
-entity_type: "concept"
-reading_count: 56
-mention_count: 56
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # self-indulgence
 
-**self-indulgence** (concept) appears in **56 readings** (56 mentions) — extracted by LLM semantic analysis.
+**self-indulgence** (concept) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning self-indulgence
 
-[[262-78]], [[262-115]], [[263-13]], [[281-33]], [[283-4]], [[294-198]], [[303-10]], [[416-10]], [[518-1]], [[589-4]], [[622-4]], [[781-5]], [[823-1]], [[877-15]], [[880-2]], [[900-351]], [[934-1]], [[958-3]], [[961-1]], [[1135-2]], [[1150-1]], [[1173-11]], [[1193-1]], [[1205-1]], [[1224-1]], [[1226-1]], [[1432-1]], [[1437-1]], [[1447-4]], [[1463-1]], [[1479-1]], [[1499-1]], [[1555-2]], [[1592-1]], [[1643-1]], [[1770-3]], [[1793-2]], [[1856-1]], [[1931-1]], [[1950-1]], [[2000-3]], [[2052-1]], [[2205-3]], [[2476-1]], [[2642-2]], [[2902-1]], [[2919-1]], [[2954-1]], [[2960-1]], [[3063-1]], [[3106-1]], [[3111-1]], [[3151-1]], [[3594-2]], [[5067-1]], [[5123-1]]
+[[257-202]], [[568-1]], [[716-1]], [[1208-18]], [[1298-1]], [[2052-1]], [[2052-3]], [[3151-1]], [[3317-1]], [[5092-1]], [[5123-1]], [[5749-9]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

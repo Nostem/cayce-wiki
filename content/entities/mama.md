@@ -1,18 +1,21 @@
 ---
-entity: "mama"
-entity_type: "person"
-reading_count: 3
-mention_count: 3
-tags: [entity, person]
+entity: "Mama"
+entity_types: ["person"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# mama
+# Mama
 
-**mama** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Mama** (person) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning mama
+## Readings mentioning Mama
 
-[[538-20]], [[538-23]], [[569-22]]
+[[294-90]], [[569-26]], [[4324-2]], [[5756-14]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

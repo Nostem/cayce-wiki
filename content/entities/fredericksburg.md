@@ -1,18 +1,21 @@
 ---
-entity: "fredericksburg"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity: "Fredericksburg"
+entity_types: ["place"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
-# fredericksburg
+# Fredericksburg
 
-**fredericksburg** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Fredericksburg** (place) appears in **10 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning fredericksburg
+## Readings mentioning Fredericksburg
 
-[[1561-5]], [[2205-1]], [[2778-4]]
+[[257-74]], [[560-1]], [[1222-1]], [[1353-1]], [[1532-1]], [[1561-5]], [[2205-1]], [[2308-1]], [[2778-4]], [[3637-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

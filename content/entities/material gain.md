@@ -1,18 +1,21 @@
 ---
 entity: "material gain"
-entity_type: "concept"
-reading_count: 8
-mention_count: 8
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # material gain
 
-**material gain** (concept) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**material gain** (concept) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning material gain
 
-[[137-90]], [[137-91]], [[137-118]], [[254-9]], [[302-3]], [[416-14]], [[551-9]], [[1791-1]]
+[[137-90]], [[137-91]], [[257-41]], [[416-14]], [[459-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

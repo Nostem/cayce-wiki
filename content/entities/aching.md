@@ -1,18 +1,21 @@
 ---
 entity: "aching"
-entity_type: "condition"
-reading_count: 8
-mention_count: 8
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # aching
 
-**aching** (condition) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**aching** (condition) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning aching
 
-[[228-3]], [[303-23]], [[979-8]], [[1151-5]], [[1409-7]], [[2038-1]], [[4300-5]], [[4631-1]]
+[[275-10]], [[286-8]], [[464-18]], [[528-7]], [[528-8]], [[528-10]], [[808-16]], [[979-8]], [[2198-1]], [[2311-1]], [[5601-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

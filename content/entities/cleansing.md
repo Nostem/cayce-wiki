@@ -1,18 +1,21 @@
 ---
 entity: "cleansing"
-entity_type: "concept"
-reading_count: 35
-mention_count: 35
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 19
+literal_reading_count: 0
+semantic_reading_count: 19
+literal_mention_count: 0
+semantic_mention_count: 19
+tags: [entity, semantic]
 ---
 
 # cleansing
 
-**cleansing** (concept) appears in **35 readings** (35 mentions) — extracted by LLM semantic analysis.
+**cleansing** (concept, remedy) appears in **19 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning cleansing
 
-[[19-3]], [[134-1]], [[243-3]], [[257-149]], [[265-5]], [[275-36]], [[295-8]], [[313-17]], [[324-2]], [[363-1]], [[369-11]], [[479-1]], [[528-2]], [[556-3]], [[573-3]], [[601-27]], [[760-10]], [[760-15]], [[900-132]], [[1000-15]], [[1100-18]], [[1308-3]], [[1540-2]], [[1657-1]], [[1659-1]], [[1787-4]], [[1904-1]], [[1938-1]], [[2665-3]], [[4320-2]], [[4762-1]], [[4996-1]], [[5715-2]], [[5720-1]], [[5736-1]]
+[[140-23]], [[262-62]], [[264-45]], [[294-138]], [[341-35]], [[389-3]], [[482-4]], [[533-12]], [[641-4]], [[719-1]], [[759-20]], [[900-463]], [[900-465]], [[1010-15]], [[1152-7]], [[1308-3]], [[2015-6]], [[2992-2]], [[5671-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "expectation"
-entity_type: "concept"
-reading_count: 6
-mention_count: 6
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # expectation
 
-**expectation** (concept) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**expectation** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning expectation
 
-[[348-15]], [[532-2]], [[988-11]], [[2491-5]], [[3071-2]], [[5325-1]]
+[[988-11]], [[2491-5]], [[3071-2]], [[4420-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

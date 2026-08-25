@@ -1,18 +1,21 @@
 ---
-entity: "ellery mann"
-entity_type: "person"
-reading_count: 3
-mention_count: 3
-tags: [entity, person]
+entity: "Ellery Mann"
+entity_types: ["person"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
-# ellery mann
+# Ellery Mann
 
-**ellery mann** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Ellery Mann** (person) appears in **6 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning ellery mann
+## Readings mentioning Ellery Mann
 
-[[257-51]], [[257-52]], [[257-177]]
+[[257-51]], [[257-52]], [[257-77]], [[257-174]], [[257-177]], [[257-181]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

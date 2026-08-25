@@ -1,18 +1,21 @@
 ---
-entity: "dr. o. m. wakefield"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Dr. O. M. Wakefield"
+entity_types: ["person"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
-# dr. o. m. wakefield
+# Dr. O. M. Wakefield
 
-**dr. o. m. wakefield** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Dr. O. M. Wakefield** (person) appears in **12 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning dr. o. m. wakefield
+## Readings mentioning Dr. O. M. Wakefield
 
-[[216-1]], [[288-47]]
+[[216-1]], [[288-47]], [[341-43]], [[576-1]], [[1071-1]], [[1100-38]], [[1541-11]], [[1541-12]], [[1548-6]], [[2051-7]], [[2348-1]], [[2611-2]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

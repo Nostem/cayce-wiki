@@ -1,18 +1,21 @@
 ---
 entity: "mental control"
-entity_type: "concept"
-reading_count: 23
-mention_count: 23
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # mental control
 
-**mental control** (concept) appears in **23 readings** (23 mentions) — extracted by LLM semantic analysis.
+**mental control** (concept, remedy) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mental control
 
-[[221-1]], [[601-27]], [[768-2]], [[900-1]], [[900-328]], [[1001-6]], [[1100-10]], [[1381-3]], [[2501-5]], [[2642-1]], [[2828-6]], [[3127-2]], [[3140-1]], [[3302-1]], [[3786-1]], [[4297-1]], [[4350-1]], [[4718-1]], [[4780-1]], [[4832-1]], [[4850-1]], [[5562-6]], [[5598-1]]
+[[221-1]], [[361-8]], [[440-13]], [[443-5]], [[768-2]], [[1105-1]], [[1330-1]], [[2441-1]], [[4512-2]], [[4871-1]], [[5562-6]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

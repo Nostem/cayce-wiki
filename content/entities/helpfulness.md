@@ -1,18 +1,21 @@
 ---
 entity: "helpfulness"
-entity_type: "concept"
-reading_count: 35
-mention_count: 35
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 19
+literal_reading_count: 0
+semantic_reading_count: 19
+literal_mention_count: 0
+semantic_mention_count: 19
+tags: [entity, semantic]
 ---
 
 # helpfulness
 
-**helpfulness** (concept) appears in **35 readings** (35 mentions) — extracted by LLM semantic analysis.
+**helpfulness** (concept) appears in **19 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning helpfulness
 
-[[165-10]], [[254-102]], [[264-21]], [[295-11]], [[480-19]], [[520-5]], [[589-1]], [[637-1]], [[689-1]], [[798-1]], [[849-36]], [[887-2]], [[887-3]], [[920-1]], [[1100-6]], [[1112-9]], [[1125-3]], [[1223-9]], [[1497-5]], [[1523-11]], [[1540-7]], [[1553-9]], [[1701-1]], [[1749-3]], [[1789-8]], [[2514-11]], [[2847-1]], [[2866-2]], [[2899-1]], [[3002-2]], [[3025-1]], [[3230-1]], [[3383-1]], [[5122-1]], [[5380-1]]
+[[254-102]], [[264-21]], [[295-11]], [[480-42]], [[520-5]], [[637-1]], [[846-1]], [[849-36]], [[849-68]], [[887-2]], [[887-3]], [[1058-3]], [[1112-9]], [[1142-1]], [[2604-2]], [[2849-1]], [[2866-2]], [[3230-1]], [[5431-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

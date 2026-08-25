@@ -1,18 +1,21 @@
 ---
 entity: "stress and strain"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # stress and strain
 
-**stress and strain** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**stress and strain** (concept, condition) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning stress and strain
 
-[[1077-1]], [[1080-1]], [[1187-3]], [[3436-3]]
+[[294-55]], [[304-4]], [[3436-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

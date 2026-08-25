@@ -1,18 +1,21 @@
 ---
-entity: "albany"
-entity_type: "place"
-reading_count: 6
-mention_count: 6
-tags: [entity, place]
+entity: "Albany"
+entity_types: ["place"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
-# albany
+# Albany
 
-**albany** (place) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**Albany** (place) appears in **14 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning albany
+## Readings mentioning Albany
 
-[[254-95]], [[412-2]], [[1000-18]], [[2084-11]], [[3001-1]], [[3253-1]]
+[[257-96]], [[412-2]], [[429-1]], [[429-3]], [[853-11]], [[890-1]], [[1474-1]], [[2084-11]], [[2456-6]], [[2546-1]], [[2679-1]], [[3253-1]], [[3834-1]], [[4589-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

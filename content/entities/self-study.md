@@ -1,18 +1,21 @@
 ---
 entity: "self-study"
-entity_type: "concept"
-reading_count: 7
-mention_count: 7
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # self-study
 
-**self-study** (concept) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**self-study** (concept) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning self-study
 
-[[1554-2]], [[2733-3]], [[3032-2]], [[3483-1]], [[3639-1]], [[4067-1]], [[5086-3]]
+[[137-60]], [[900-49]], [[900-182]], [[900-377]], [[1001-9]], [[2872-3]], [[3509-1]], [[4264-1]], [[5392-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

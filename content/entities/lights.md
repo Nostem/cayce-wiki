@@ -1,18 +1,21 @@
 ---
 entity: "lights"
-entity_type: "remedy"
-reading_count: 8
-mention_count: 8
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # lights
 
-**lights** (remedy) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**lights** (remedy) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning lights
 
-[[257-236]], [[264-36]], [[409-25]], [[632-12]], [[1045-5]], [[2514-11]], [[4430-1]], [[5417-5]]
+[[294-171]], [[632-12]], [[900-356]], [[900-437]], [[1387-1]], [[2189-2]], [[3420-1]], [[4430-1]], [[5417-5]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

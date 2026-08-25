@@ -1,18 +1,21 @@
 ---
 entity: "weight loss"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["condition"]
+reading_count: 65
+literal_reading_count: 0
+semantic_reading_count: 65
+literal_mention_count: 0
+semantic_mention_count: 65
+tags: [entity, semantic]
 ---
 
 # weight loss
 
-**weight loss** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**weight loss** (condition) appears in **65 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning weight loss
 
-[[629-1]], [[4626-1]]
+[[43-1]], [[98-2]], [[185-1]], [[243-37]], [[270-34]], [[274-9]], [[287-15]], [[313-3]], [[313-4]], [[348-1]], [[348-2]], [[357-6]], [[366-4]], [[428-11]], [[480-53]], [[480-57]], [[551-11]], [[591-2]], [[601-26]], [[608-14]], [[649-4]], [[660-1]], [[715-7]], [[779-23]], [[805-2]], [[849-22]], [[850-3]], [[898-2]], [[988-2]], [[1010-20]], [[1101-4]], [[1196-17]], [[1520-2]], [[1536-2]], [[1564-3]], [[1713-15]], [[1794-2]], [[1798-3]], [[1885-1]], [[1919-2]], [[2039-1]], [[2039-2]], [[2183-1]], [[2392-1]], [[2421-1]], [[2426-3]], [[2456-3]], [[2621-2]], [[2985-1]], [[3044-2]], [[3161-1]], [[3385-1]], [[3462-1]], [[3485-1]], [[3607-1]], [[3680-1]], [[4174-1]], [[4280-2]], [[4368-1]], [[5067-1]], [[5116-1]], [[5130-1]], [[5280-1]], [[5408-1]], [[5520-5]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

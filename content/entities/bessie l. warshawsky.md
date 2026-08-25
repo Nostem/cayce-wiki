@@ -1,18 +1,21 @@
 ---
-entity: "bessie l. warshawsky"
-entity_type: "person"
-reading_count: 4
-mention_count: 4
-tags: [entity, person]
+entity: "Bessie L. Warshawsky"
+entity_types: ["person"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
-# bessie l. warshawsky
+# Bessie L. Warshawsky
 
-**bessie l. warshawsky** (person) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Bessie L. Warshawsky** (person) appears in **7 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning bessie l. warshawsky
+## Readings mentioning Bessie L. Warshawsky
 
-[[765-3]], [[795-4]], [[934-3]], [[988-10]]
+[[254-86]], [[254-89]], [[765-3]], [[934-3]], [[988-10]], [[1100-6]], [[1395-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

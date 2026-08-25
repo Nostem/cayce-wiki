@@ -1,18 +1,21 @@
 ---
 entity: "pepsin"
-entity_type: "remedy"
-reading_count: 23
-mention_count: 23
-tags: [entity, remedy]
+entity_types: ["concept", "remedy"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
 # pepsin
 
-**pepsin** (remedy) appears in **23 readings** (23 mentions) — extracted by LLM semantic analysis.
+**pepsin** (concept, remedy) appears in **13 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning pepsin
 
-[[147-37]], [[244-2]], [[264-28]], [[294-86]], [[294-95]], [[294-96]], [[326-8]], [[340-21]], [[538-2]], [[538-3]], [[538-67]], [[556-4]], [[757-4]], [[760-2]], [[899-1]], [[900-357]], [[1100-3]], [[2299-11]], [[3776-4]], [[3776-9]], [[3776-17]], [[4703-1]], [[4841-2]]
+[[205-2]], [[244-2]], [[264-28]], [[294-96]], [[340-1]], [[538-67]], [[757-4]], [[760-2]], [[899-1]], [[900-357]], [[3776-9]], [[4703-1]], [[4834-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

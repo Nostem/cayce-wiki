@@ -1,18 +1,21 @@
 ---
 entity: "physical development"
-entity_type: "concept"
-reading_count: 35
-mention_count: 35
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 38
+literal_reading_count: 0
+semantic_reading_count: 38
+literal_mention_count: 0
+semantic_mention_count: 38
+tags: [entity, semantic]
 ---
 
 # physical development
 
-**physical development** (concept) appears in **35 readings** (35 mentions) — extracted by LLM semantic analysis.
+**physical development** (concept) appears in **38 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning physical development
 
-[[77-2]], [[164-3]], [[259-3]], [[281-47]], [[457-11]], [[512-1]], [[536-1]], [[566-2]], [[758-32]], [[759-7]], [[903-8]], [[903-32]], [[949-1]], [[960-9]], [[1101-1]], [[1322-1]], [[1393-5]], [[1612-2]], [[1947-6]], [[2028-1]], [[2184-1]], [[2231-1]], [[2368-1]], [[3789-1]], [[3856-1]], [[3945-1]], [[4110-1]], [[4237-1]], [[4353-1]], [[4525-1]], [[4577-1]], [[4599-1]], [[4749-1]], [[5500-1]], [[5576-1]]
+[[39-3]], [[77-2]], [[80-1]], [[106-10]], [[136-13]], [[164-3]], [[199-3]], [[233-1]], [[259-3]], [[288-16]], [[299-3]], [[303-10]], [[317-3]], [[318-1]], [[341-14]], [[367-1]], [[512-1]], [[540-6]], [[758-22]], [[900-183]], [[949-1]], [[960-9]], [[1010-5]], [[1186-2]], [[1208-8]], [[1612-2]], [[1713-3]], [[1994-3]], [[2231-1]], [[2653-1]], [[2653-3]], [[2780-1]], [[4148-2]], [[4206-1]], [[4353-3]], [[4756-1]], [[4785-1]], [[5457-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

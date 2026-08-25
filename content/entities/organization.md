@@ -1,18 +1,21 @@
 ---
 entity: "organization"
-entity_type: "concept"
-reading_count: 13
-mention_count: 13
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # organization
 
-**organization** (concept) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**organization** (concept) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning organization
 
-[[254-53]], [[254-56]], [[254-57]], [[254-81]], [[254-92]], [[257-126]], [[358-6]], [[900-30]], [[1927-1]], [[3022-1]], [[3328-1]], [[3812-10]], [[3976-5]]
+[[254-53]], [[254-57]], [[257-99]], [[257-103]], [[516-1]], [[900-30]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

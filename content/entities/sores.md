@@ -1,18 +1,21 @@
 ---
 entity: "sores"
-entity_type: "condition"
-reading_count: 16
-mention_count: 16
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # sores
 
-**sores** (condition) appears in **16 readings** (16 mentions) — extracted by LLM semantic analysis.
+**sores** (condition) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning sores
 
-[[299-4]], [[318-5]], [[670-12]], [[703-1]], [[1069-4]], [[1069-5]], [[1734-5]], [[2157-3]], [[2289-6]], [[2514-2]], [[2514-5]], [[2514-8]], [[2514-9]], [[2884-4]], [[4779-1]], [[5688-1]]
+[[165-7]], [[1553-11]], [[2289-6]], [[2514-2]], [[2514-6]], [[2514-8]], [[2514-9]], [[2526-3]], [[3363-1]], [[4779-1]], [[5688-1]], [[5714-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

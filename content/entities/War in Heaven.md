@@ -1,17 +1,21 @@
 ---
 entity: "War in Heaven"
-mention_count: 3
+entity_types: ["concept"]
 reading_count: 3
-tags: [entity]
+literal_reading_count: 3
+semantic_reading_count: 1
+literal_mention_count: 3
+semantic_mention_count: 1
+tags: [entity, semantic]
 ---
 
 # War in Heaven
 
-**War in Heaven** appears in **3 readings** (3 total mentions) across the corpus.
+**War in Heaven** (concept) appears in **3 readings** — indexed through hybrid literal and LLM extraction.
 
 ## Readings mentioning War in Heaven
 
 [[281-33]], [[1565-1]], [[2897-4]]
 
 ---
-*Auto-generated entity index. 3 readings, 3 mentions.*
+*Auto-generated index. LLM classifications should be verified before citation.*

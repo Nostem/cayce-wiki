@@ -1,18 +1,21 @@
 ---
 entity: "preventative care"
-entity_type: "concept"
-reading_count: 3
-mention_count: 3
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # preventative care
 
-**preventative care** (concept) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**preventative care** (concept) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning preventative care
 
-[[287-9]], [[1275-1]], [[2685-2]]
+[[202-7]], [[257-208]], [[743-1]], [[1173-10]], [[1469-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

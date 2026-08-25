@@ -1,18 +1,21 @@
 ---
 entity: "Myrtle Demaio"
-entity_type: "person"
-reading_count: 3
-mention_count: 3
-tags: [entity, person]
+entity_types: ["person"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # Myrtle Demaio
 
-**Myrtle Demaio** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Myrtle Demaio** (person) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Myrtle Demaio
 
-[[262-64]], [[281-26]], [[1210-1]]
+[[254-86]], [[281-20]], [[281-22]], [[281-26]], [[281-40]], [[857-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

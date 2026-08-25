@@ -1,18 +1,21 @@
 ---
 entity: "spiritual enlightenment"
-entity_type: "concept"
-reading_count: 9
-mention_count: 9
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # spiritual enlightenment
 
-**spiritual enlightenment** (concept) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**spiritual enlightenment** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning spiritual enlightenment
 
-[[254-87]], [[884-1]], [[960-3]], [[1406-1]], [[1472-12]], [[1662-1]], [[1978-1]], [[2072-4]], [[2114-1]]
+[[254-87]], [[960-3]], [[1840-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

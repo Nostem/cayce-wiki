@@ -1,18 +1,21 @@
 ---
-entity: "lake erie"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity: "Lake Erie"
+entity_types: ["place"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
-# lake erie
+# Lake Erie
 
-**lake erie** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Lake Erie** (place) appears in **5 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning lake erie
+## Readings mentioning Lake Erie
 
-[[2530-1]], [[3006-1]], [[4052-1]]
+[[793-2]], [[1248-1]], [[2530-1]], [[3006-1]], [[4052-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

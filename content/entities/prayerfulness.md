@@ -1,18 +1,21 @@
 ---
 entity: "prayerfulness"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # prayerfulness
 
-**prayerfulness** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**prayerfulness** (concept) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning prayerfulness
 
-[[1441-1]], [[1594-2]], [[2606-2]], [[3044-1]]
+[[23-11]], [[631-5]], [[632-8]], [[1441-1]], [[1594-1]], [[1594-2]], [[2102-3]], [[3044-1]], [[3049-2]], [[3095-1]], [[3160-2]], [[3232-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

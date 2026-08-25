@@ -1,18 +1,21 @@
 ---
 entity: "yellow vegetables"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # yellow vegetables
 
-**yellow vegetables** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**yellow vegetables** (remedy) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning yellow vegetables
 
-[[257-220]], [[3085-1]]
+[[257-220]], [[667-15]], [[1013-3]], [[1710-6]], [[2175-7]], [[2423-1]], [[2448-1]], [[3006-2]], [[3122-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "repressions"
-entity_type: "condition"
-reading_count: 7
-mention_count: 7
-tags: [entity, condition]
+entity_types: ["concept", "condition"]
+reading_count: 19
+literal_reading_count: 0
+semantic_reading_count: 19
+literal_mention_count: 0
+semantic_mention_count: 20
+tags: [entity, semantic]
 ---
 
 # repressions
 
-**repressions** (condition) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**repressions** (concept, condition) appears in **19 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning repressions
 
-[[301-1]], [[2353-2]], [[2359-1]], [[4624-1]], [[5411-1]], [[5491-3]], [[5572-1]]
+[[271-1]], [[301-1]], [[349-18]], [[543-19]], [[556-3]], [[589-4]], [[825-1]], [[903-16]], [[1572-1]], [[2200-1]], [[2470-1]], [[3053-1]], [[3074-3]], [[4002-1]], [[4624-1]], [[4723-1]], [[4827-2]], [[5411-1]], [[5491-3]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

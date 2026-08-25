@@ -1,18 +1,21 @@
 ---
-entity: "turkey"
-entity_type: "place"
-reading_count: 9
-mention_count: 9
-tags: [entity, place]
+entity: "Turkey"
+entity_types: ["place", "remedy"]
+reading_count: 32
+literal_reading_count: 0
+semantic_reading_count: 32
+literal_mention_count: 0
+semantic_mention_count: 32
+tags: [entity, semantic]
 ---
 
-# turkey
+# Turkey
 
-**turkey** (place) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**Turkey** (place, remedy) appears in **32 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning turkey
+## Readings mentioning Turkey
 
-[[294-142]], [[718-2]], [[1096-3]], [[1152-11]], [[1235-1]], [[1968-4]], [[3135-1]], [[3908-1]], [[4211-1]]
+[[294-142]], [[416-7]], [[436-2]], [[615-1]], [[718-2]], [[816-4]], [[877-27]], [[997-1]], [[1096-3]], [[1292-1]], [[1430-1]], [[1587-1]], [[1599-1]], [[1604-1]], [[1695-1]], [[1857-2]], [[1968-4]], [[1991-1]], [[2000-3]], [[2174-1]], [[2284-1]], [[2300-1]], [[2337-1]], [[2822-1]], [[2824-1]], [[2890-2]], [[2893-1]], [[3132-1]], [[3135-1]], [[3908-1]], [[4281-9]], [[5395-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

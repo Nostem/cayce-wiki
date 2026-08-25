@@ -1,18 +1,21 @@
 ---
 entity: "x-ray treatments"
-entity_type: "remedy"
-reading_count: 10
-mention_count: 10
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
 # x-ray treatments
 
-**x-ray treatments** (remedy) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**x-ray treatments** (remedy) appears in **14 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning x-ray treatments
 
-[[325-58]], [[601-29]], [[601-31]], [[760-15]], [[1004-1]], [[1359-1]], [[2817-2]], [[4019-1]], [[5051-1]], [[5668-1]]
+[[325-60]], [[403-3]], [[601-27]], [[601-28]], [[601-31]], [[622-5]], [[760-15]], [[1004-1]], [[1359-1]], [[2423-1]], [[2817-2]], [[2945-1]], [[3473-1]], [[4050-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "battle creek"
-entity_type: "place"
-reading_count: 15
-mention_count: 15
-tags: [entity, place]
+entity: "Battle Creek"
+entity_types: ["place"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
-# battle creek
+# Battle Creek
 
-**battle creek** (place) appears in **15 readings** (15 mentions) — extracted by LLM semantic analysis.
+**Battle Creek** (place) appears in **12 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning battle creek
+## Readings mentioning Battle Creek
 
-[[223-1]], [[550-1]], [[654-1]], [[753-1]], [[900-357]], [[1100-13]], [[1545-1]], [[1744-1]], [[3893-1]], [[4148-1]], [[4281-1]], [[4320-2]], [[4517-2]], [[4709-6]], [[5688-1]]
+[[223-1]], [[550-1]], [[753-1]], [[814-1]], [[1045-6]], [[1263-1]], [[1545-1]], [[3893-1]], [[4072-1]], [[4709-6]], [[4859-2]], [[5714-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "coldness"
-entity_type: "condition"
-reading_count: 7
-mention_count: 7
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # coldness
 
-**coldness** (condition) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**coldness** (condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning coldness
 
-[[369-11]], [[372-8]], [[379-4]], [[1688-1]], [[2084-14]], [[2153-4]], [[4761-1]]
+[[136-60]], [[247-1]], [[765-1]], [[1158-11]], [[2067-3]], [[2678-1]], [[4616-1]], [[4761-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "general manipulation"
-entity_type: "remedy"
-reading_count: 5
-mention_count: 5
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # general manipulation
 
-**general manipulation** (remedy) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**general manipulation** (remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning general manipulation
 
-[[413-10]], [[808-4]], [[869-1]], [[1733-1]], [[4532-1]]
+[[808-4]], [[864-2]], [[1733-1]], [[4532-1]], [[4853-2]], [[5655-3]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

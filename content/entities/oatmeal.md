@@ -1,18 +1,21 @@
 ---
 entity: "oatmeal"
-entity_type: "remedy"
-reading_count: 16
-mention_count: 16
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 15
+literal_reading_count: 0
+semantic_reading_count: 15
+literal_mention_count: 0
+semantic_mention_count: 15
+tags: [entity, semantic]
 ---
 
 # oatmeal
 
-**oatmeal** (remedy) appears in **16 readings** (16 mentions) — extracted by LLM semantic analysis.
+**oatmeal** (remedy) appears in **15 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning oatmeal
 
-[[143-3]], [[301-9]], [[307-18]], [[536-3]], [[608-3]], [[852-10]], [[920-12]], [[1208-14]], [[1810-2]], [[2015-5]], [[2067-9]], [[2423-1]], [[2824-4]], [[2942-1]], [[2959-1]], [[3021-2]]
+[[143-3]], [[307-18]], [[340-7]], [[357-11]], [[487-26]], [[650-1]], [[1308-3]], [[2067-9]], [[2148-4]], [[2310-1]], [[2824-4]], [[2942-1]], [[3021-2]], [[3082-1]], [[3419-5]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

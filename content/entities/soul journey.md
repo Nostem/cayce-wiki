@@ -1,18 +1,21 @@
 ---
 entity: "soul journey"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # soul journey
 
-**soul journey** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**soul journey** (concept) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning soul journey
 
-[[294-206]], [[303-31]], [[1472-1]], [[4578-1]]
+[[294-19]], [[303-31]], [[636-1]], [[757-8]], [[1527-2]], [[1911-1]], [[5748-6]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

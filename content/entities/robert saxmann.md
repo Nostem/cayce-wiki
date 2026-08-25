@@ -1,18 +1,21 @@
 ---
 entity: "robert saxmann"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity_types: ["person"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # robert saxmann
 
-**robert saxmann** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**robert saxmann** (person) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning robert saxmann
 
-[[2306-1]], [[4476-1]]
+[[1884-1]], [[2306-1]], [[4476-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

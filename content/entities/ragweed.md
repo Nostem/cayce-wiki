@@ -1,18 +1,21 @@
 ---
 entity: "ragweed"
-entity_type: "remedy"
-reading_count: 9
-mention_count: 9
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # ragweed
 
-**ragweed** (remedy) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**ragweed** (remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning ragweed
 
-[[304-18]], [[379-17]], [[569-9]], [[903-4]], [[953-25]], [[953-26]], [[953-29]], [[4119-1]], [[5642-4]]
+[[304-18]], [[389-3]], [[569-15]], [[601-13]], [[953-25]], [[3841-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

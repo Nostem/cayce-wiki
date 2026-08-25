@@ -1,18 +1,21 @@
 ---
 entity: "vaseline"
-entity_type: "remedy"
-reading_count: 9
-mention_count: 9
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # vaseline
 
-**vaseline** (remedy) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**vaseline** (remedy) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning vaseline
 
-[[257-1]], [[270-32]], [[275-12]], [[275-34]], [[337-25]], [[514-2]], [[641-7]], [[3081-2]], [[3904-1]]
+[[257-22]], [[275-12]], [[337-25]], [[984-3]], [[1208-10]], [[1280-2]], [[1523-3]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

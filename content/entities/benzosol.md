@@ -1,18 +1,21 @@
 ---
 entity: "benzosol"
-entity_type: "remedy"
-reading_count: 24
-mention_count: 24
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 18
+literal_reading_count: 0
+semantic_reading_count: 18
+literal_mention_count: 0
+semantic_mention_count: 18
+tags: [entity, semantic]
 ---
 
 # benzosol
 
-**benzosol** (remedy) appears in **24 readings** (24 mentions) — extracted by LLM semantic analysis.
+**benzosol** (remedy) appears in **18 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning benzosol
 
-[[58-1]], [[120-2]], [[120-3]], [[124-2]], [[137-14]], [[304-7]], [[1730-2]], [[2235-2]], [[3846-1]], [[4123-1]], [[4165-1]], [[4386-1]], [[4401-1]], [[4520-3]], [[4602-1]], [[4802-1]], [[4933-1]], [[5433-1]], [[5436-1]], [[5524-1]], [[5536-1]], [[5618-3]], [[5618-4]], [[5642-1]]
+[[120-2]], [[120-3]], [[124-2]], [[137-77]], [[140-20]], [[230-2]], [[318-5]], [[2103-2]], [[3761-1]], [[3814-1]], [[4520-3]], [[4573-2]], [[5433-1]], [[5524-1]], [[5536-1]], [[5618-3]], [[5642-1]], [[5687-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

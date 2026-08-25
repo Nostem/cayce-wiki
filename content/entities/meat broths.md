@@ -1,18 +1,21 @@
 ---
 entity: "meat broths"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # meat broths
 
-**meat broths** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**meat broths** (remedy) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning meat broths
 
-[[257-7]], [[1401-2]]
+[[142-5]], [[257-7]], [[572-8]], [[779-21]], [[1401-2]], [[2587-1]], [[4848-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

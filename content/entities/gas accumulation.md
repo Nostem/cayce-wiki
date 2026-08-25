@@ -1,18 +1,21 @@
 ---
 entity: "gas accumulation"
-entity_type: "condition"
-reading_count: 5
-mention_count: 5
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # gas accumulation
 
-**gas accumulation** (condition) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**gas accumulation** (condition) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning gas accumulation
 
-[[356-2]], [[920-11]], [[1216-1]], [[2239-2]], [[5236-1]]
+[[356-2]], [[920-11]], [[1196-7]], [[1623-1]], [[2689-1]], [[5641-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "fruit and vegetable diet"
-entity_type: "remedy"
-reading_count: 6
-mention_count: 6
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # fruit and vegetable diet
 
-**fruit and vegetable diet** (remedy) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**fruit and vegetable diet** (remedy) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning fruit and vegetable diet
 
-[[294-165]], [[496-1]], [[1000-11]], [[1112-3]], [[2067-5]], [[4387-1]]
+[[137-19]], [[294-165]], [[496-1]], [[765-1]], [[880-1]], [[1000-11]], [[1112-3]], [[2067-5]], [[2670-1]], [[4174-1]], [[4244-1]], [[4387-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "material welfare"
-entity_type: "concept"
-reading_count: 15
-mention_count: 15
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # material welfare
 
-**material welfare** (concept) appears in **15 readings** (15 mentions) — extracted by LLM semantic analysis.
+**material welfare** (concept) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning material welfare
 
-[[264-42]], [[270-49]], [[349-14]], [[391-8]], [[391-15]], [[416-15]], [[417-6]], [[419-4]], [[666-2]], [[819-1]], [[820-3]], [[1097-5]], [[1388-1]], [[3479-2]], [[5399-2]]
+[[257-96]], [[270-49]], [[288-52]], [[391-15]], [[419-4]], [[554-7]], [[666-2]], [[1097-5]], [[5648-3]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

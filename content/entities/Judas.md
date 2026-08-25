@@ -1,18 +1,21 @@
 ---
-entity: "judas"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Judas"
+entity_types: ["concept", "person"]
+reading_count: 18
+literal_reading_count: 18
+semantic_reading_count: 11
+literal_mention_count: 42
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
-# judas
+# Judas
 
-**judas** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Judas** (concept, person) appears in **18 readings** — indexed through hybrid literal and LLM extraction.
 
-## Readings mentioning judas
+## Readings mentioning Judas
 
-[[5749-1]], [[5749-8]]
+[[137-125]], [[294-161]], [[540-4]], [[1158-4]], [[1158-9]], [[1179-8]], [[1265-1]], [[1265-2]], [[1424-3]], [[1468-3]], [[1541-11]], [[2067-7]], [[2067-12]], [[5257-1]], [[5749-1]], [[5749-8]], [[5752-4]], [[5770-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

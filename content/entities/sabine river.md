@@ -1,18 +1,21 @@
 ---
-entity: "sabine river"
-entity_type: "place"
-reading_count: 2
-mention_count: 2
-tags: [entity, place]
+entity: "Sabine River"
+entity_types: ["place"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
-# sabine river
+# Sabine River
 
-**sabine river** (place) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Sabine River** (place) appears in **5 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning sabine river
+## Readings mentioning Sabine River
 
-[[1097-2]], [[1561-2]]
+[[1097-2]], [[1561-2]], [[1561-4]], [[1561-9]], [[1561-17]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

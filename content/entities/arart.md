@@ -1,18 +1,21 @@
 ---
-entity: "arart"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Arart"
+entity_types: ["person"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
-# arart
+# Arart
 
-**arart** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Arart** (person) appears in **11 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning arart
+## Readings mentioning Arart
 
-[[294-148]], [[341-9]]
+[[165-2]], [[265-2]], [[294-153]], [[341-9]], [[364-4]], [[379-3]], [[900-275]], [[1265-1]], [[1504-1]], [[5748-5]], [[5748-6]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

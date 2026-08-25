@@ -1,18 +1,21 @@
 ---
 entity: "gin"
-entity_type: "remedy"
-reading_count: 21
-mention_count: 21
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 15
+literal_reading_count: 0
+semantic_reading_count: 15
+literal_mention_count: 0
+semantic_mention_count: 15
+tags: [entity, semantic]
 ---
 
 # gin
 
-**gin** (remedy) appears in **21 readings** (21 mentions) — extracted by LLM semantic analysis.
+**gin** (remedy) appears in **15 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning gin
 
-[[97-1]], [[195-2]], [[265-14]], [[265-15]], [[601-13]], [[760-24]], [[900-386]], [[1111-1]], [[3776-12]], [[3776-15]], [[3776-17]], [[4156-2]], [[4332-1]], [[4684-1]], [[4975-1]], [[4992-1]], [[5514-2]], [[5514-4]], [[5553-1]], [[5692-2]], [[5704-1]]
+[[97-1]], [[136-21]], [[226-1]], [[264-26]], [[265-14]], [[325-8]], [[601-13]], [[760-24]], [[816-2]], [[953-19]], [[1739-1]], [[3776-10]], [[3932-1]], [[4134-1]], [[5692-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

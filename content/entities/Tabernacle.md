@@ -1,17 +1,21 @@
 ---
 entity: "Tabernacle"
-mention_count: 91
+entity_types: ["literal"]
 reading_count: 67
-tags: [entity]
+literal_reading_count: 67
+semantic_reading_count: 0
+literal_mention_count: 154
+semantic_mention_count: 0
+tags: [entity, semantic]
 ---
 
 # Tabernacle
 
-**Tabernacle** appears in **67 readings** (91 total mentions) across the corpus.
+**Tabernacle** (literal) appears in **67 readings** — indexed through deterministic literal extraction.
 
 ## Readings mentioning Tabernacle
 
 [[257-201]], [[262-60]], [[281-32]], [[281-36]], [[281-41]], [[281-63]], [[307-1]], [[315-5]], [[325-63]], [[338-3]], [[338-4]], [[440-5]], [[661-4]], [[833-1]], [[877-27]], [[920-10]], [[987-2]], [[987-4]], [[1123-1]], [[1144-2]], [[1201-2]], [[1210-1]], [[1285-1]], [[1348-1]], [[1397-2]], [[1463-1]], [[1468-4]], [[1472-1]], [[1479-1]], [[1523-13]], [[1561-3]], [[1561-18]], [[1581-2]], [[1595-1]], [[1620-2]], [[1632-2]], [[1648-1]], [[1759-1]], [[1771-2]], [[1782-1]], [[1861-12]], [[2067-11]], [[2118-1]], [[2130-1]], [[2153-11]], [[2167-1]], [[2398-2]], [[2416-1]], [[2498-1]], [[2613-1]], [[2622-1]], [[2653-2]], [[2787-1]], [[2798-1]], [[2861-1]], [[2900-2]], [[2905-3]], [[2922-1]], [[3129-1]], [[3152-1]], [[3285-2]], [[3416-1]], [[3706-2]], [[5103-1]], [[5259-1]], [[5322-1]], [[5392-1]]
 
 ---
-*Auto-generated entity index. 67 readings, 91 mentions.*
+*Auto-generated index. LLM classifications should be verified before citation.*

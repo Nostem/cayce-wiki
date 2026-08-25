@@ -1,18 +1,21 @@
 ---
-entity: "amilius"
-entity_type: "person"
-reading_count: 3
-mention_count: 3
-tags: [entity, person]
+entity: "Amilius"
+entity_types: ["concept", "person"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
-# amilius
+# Amilius
 
-**amilius** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Amilius** (concept, person) appears in **9 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning amilius
+## Readings mentioning Amilius
 
-[[364-3]], [[364-4]], [[364-8]]
+[[262-115]], [[262-119]], [[364-3]], [[364-4]], [[364-5]], [[364-6]], [[364-7]], [[364-8]], [[884-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

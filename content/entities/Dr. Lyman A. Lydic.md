@@ -1,18 +1,21 @@
 ---
 entity: "Dr. Lyman A. Lydic"
-entity_type: "person"
-reading_count: 7
-mention_count: 7
-tags: [entity, person]
+entity_types: ["person"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # Dr. Lyman A. Lydic
 
-**Dr. Lyman A. Lydic** (person) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**Dr. Lyman A. Lydic** (person) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Dr. Lyman A. Lydic
 
-[[195-52]], [[337-13]], [[341-5]], [[372-3]], [[409-1]], [[538-11]], [[5479-1]]
+[[195-34]], [[195-52]], [[341-5]], [[409-1]], [[538-11]], [[900-454]], [[2235-3]], [[3775-2]], [[5479-1]], [[5580-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

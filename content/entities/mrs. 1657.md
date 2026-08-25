@@ -1,18 +1,21 @@
 ---
-entity: "mrs. [1657]"
-entity_type: "person"
+entity: "Mrs. 1657"
+entity_types: ["person"]
 reading_count: 3
-mention_count: 3
-tags: [entity, person]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# mrs. [1657]
+# Mrs. 1657
 
-**mrs. [1657]** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Mrs. 1657** (person) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning mrs. [1657]
+## Readings mentioning Mrs. 1657
 
-[[618-4]], [[618-8]], [[624-1]]
+[[618-4]], [[624-1]], [[797-2]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

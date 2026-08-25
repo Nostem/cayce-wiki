@@ -1,18 +1,21 @@
 ---
 entity: "head trouble"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # head trouble
 
-**head trouble** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**head trouble** (condition) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning head trouble
 
-[[1683-2]], [[2868-4]]
+[[464-30]], [[2868-4]], [[3324-1]], [[3556-1]], [[3619-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

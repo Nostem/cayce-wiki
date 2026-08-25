@@ -1,18 +1,21 @@
 ---
 entity: "philanthropy"
-entity_type: "concept"
-reading_count: 9
-mention_count: 9
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # philanthropy
 
-**philanthropy** (concept) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**philanthropy** (concept) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning philanthropy
 
-[[254-35]], [[254-51]], [[1416-1]], [[2380-1]], [[2513-1]], [[2603-1]], [[2855-1]], [[3582-2]], [[4915-1]]
+[[195-48]], [[254-35]], [[1416-1]], [[1800-27]], [[1800-28]], [[3582-2]], [[4915-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

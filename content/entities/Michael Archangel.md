@@ -1,17 +1,21 @@
 ---
 entity: "Michael (Archangel)"
-mention_count: 93
-reading_count: 59
-tags: [entity]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 3
+semantic_reading_count: 1
+literal_mention_count: 3
+semantic_mention_count: 1
+tags: [entity, semantic]
 ---
 
 # Michael (Archangel)
 
-**Michael (Archangel)** appears in **59 readings** (93 total mentions) across the corpus.
+**Michael (Archangel)** (concept) appears in **4 readings** — indexed through hybrid literal and LLM extraction.
 
 ## Readings mentioning Michael (Archangel)
 
-[[133-2]], [[165-2]], [[254-42]], [[254-92]], [[254-107]], [[262-27]], [[262-28]], [[262-29]], [[262-33]], [[262-34]], [[262-47]], [[262-63]], [[281-33]], [[294-208]], [[325-71]], [[410-2]], [[428-15]], [[551-13]], [[585-1]], [[585-2]], [[716-2]], [[849-76]], [[900-422]], [[900-428]], [[900-442]], [[996-12]], [[1341-1]], [[1376-1]], [[1406-1]], [[1430-1]], [[1561-19]], [[1646-2]], [[1767-2]], [[1861-5]], [[1931-3]], [[2017-3]], [[2072-13]], [[2156-2]], [[2448-3]], [[2533-1]], [[2533-6]], [[2582-2]], [[2777-3]], [[2799-1]], [[2897-4]], [[2910-1]], [[3109-1]], [[3182-1]], [[3215-1]], [[3460-1]], [[3541-1]], [[3650-1]], [[3976-7]], [[4876-1]], [[4905-70]], [[5023-2]], [[5749-3]], [[5749-7]], [[5756-1]]
+[[254-92]], [[262-28]], [[262-47]], [[1376-1]]
 
 ---
-*Auto-generated entity index. 59 readings, 93 mentions.*
+*Auto-generated index. LLM classifications should be verified before citation.*

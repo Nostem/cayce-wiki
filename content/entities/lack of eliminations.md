@@ -1,18 +1,21 @@
 ---
 entity: "lack of eliminations"
-entity_type: "condition"
-reading_count: 10
-mention_count: 10
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 25
+literal_reading_count: 0
+semantic_reading_count: 25
+literal_mention_count: 0
+semantic_mention_count: 25
+tags: [entity, semantic]
 ---
 
 # lack of eliminations
 
-**lack of eliminations** (condition) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**lack of eliminations** (condition) appears in **25 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning lack of eliminations
 
-[[470-21]], [[1038-1]], [[1553-7]], [[1625-1]], [[1709-1]], [[1842-3]], [[2015-7]], [[2076-2]], [[3822-1]], [[3931-2]]
+[[106-12]], [[326-11]], [[368-1]], [[378-7]], [[379-15]], [[480-27]], [[533-14]], [[538-55]], [[556-11]], [[849-39]], [[1044-1]], [[1152-6]], [[1433-5]], [[1476-2]], [[1477-1]], [[1553-7]], [[1553-16]], [[1868-1]], [[3531-1]], [[3931-2]], [[4281-6]], [[4307-1]], [[4391-1]], [[4883-2]], [[5315-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

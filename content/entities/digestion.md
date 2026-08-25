@@ -1,18 +1,21 @@
 ---
 entity: "digestion"
-entity_type: "concept"
-reading_count: 54
-mention_count: 54
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # digestion
 
-**digestion** (concept) appears in **54 readings** (54 mentions) — extracted by LLM semantic analysis.
+**digestion** (concept, condition) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning digestion
 
-[[111-1]], [[134-2]], [[142-5]], [[217-1]], [[255-10]], [[257-13]], [[266-1]], [[275-21]], [[288-9]], [[294-86]], [[304-30]], [[307-17]], [[313-6]], [[337-28]], [[340-19]], [[608-1]], [[641-2]], [[767-1]], [[814-2]], [[1191-2]], [[1208-12]], [[1688-1]], [[1724-1]], [[1810-3]], [[1866-4]], [[2085-3]], [[2180-1]], [[2302-2]], [[2394-1]], [[2841-1]], [[3095-1]], [[3172-2]], [[3484-1]], [[3717-2]], [[3867-1]], [[3878-1]], [[4104-1]], [[4144-1]], [[4156-2]], [[4302-1]], [[4303-1]], [[4510-1]], [[4525-1]], [[4535-1]], [[4552-1]], [[4642-1]], [[4727-3]], [[4841-2]], [[4980-1]], [[4984-1]], [[5520-1]], [[5545-4]], [[5555-4]], [[5565-2]]
+[[294-55]], [[416-9]], [[2824-1]], [[3172-2]], [[4435-1]], [[4529-1]], [[4801-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

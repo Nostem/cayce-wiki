@@ -1,18 +1,21 @@
 ---
 entity: "hot and cold baths"
-entity_type: "remedy"
-reading_count: 4
-mention_count: 4
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # hot and cold baths
 
-**hot and cold baths** (remedy) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**hot and cold baths** (remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning hot and cold baths
 
-[[550-9]], [[670-4]], [[808-10]], [[1266-5]]
+[[550-9]], [[670-4]], [[808-10]], [[877-13]], [[1266-5]], [[1897-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

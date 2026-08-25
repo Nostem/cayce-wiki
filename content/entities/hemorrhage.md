@@ -1,18 +1,21 @@
 ---
 entity: "hemorrhage"
-entity_type: "condition"
-reading_count: 35
-mention_count: 35
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 33
+literal_reading_count: 0
+semantic_reading_count: 33
+literal_mention_count: 0
+semantic_mention_count: 33
+tags: [entity, semantic]
 ---
 
 # hemorrhage
 
-**hemorrhage** (condition) appears in **35 readings** (35 mentions) — extracted by LLM semantic analysis.
+**hemorrhage** (condition) appears in **33 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning hemorrhage
 
-[[304-37]], [[325-4]], [[358-4]], [[538-4]], [[585-8]], [[755-2]], [[1004-2]], [[1045-11]], [[1210-4]], [[1242-7]], [[1374-1]], [[1491-1]], [[1551-3]], [[1563-2]], [[1658-1]], [[1724-3]], [[1843-1]], [[1956-3]], [[2046-1]], [[2046-3]], [[2175-4]], [[2227-4]], [[2542-5]], [[2590-4]], [[2943-1]], [[2991-1]], [[3101-1]], [[3140-1]], [[3220-1]], [[3279-2]], [[3354-1]], [[3534-1]], [[3772-1]], [[4363-1]], [[5704-1]]
+[[140-36]], [[325-4]], [[348-25]], [[358-4]], [[474-1]], [[601-31]], [[755-2]], [[900-262]], [[1004-2]], [[1045-11]], [[1374-1]], [[1658-1]], [[1724-3]], [[1787-1]], [[1798-1]], [[1820-2]], [[2046-2]], [[2046-3]], [[2227-4]], [[2590-4]], [[2943-1]], [[2971-1]], [[2991-1]], [[3140-1]], [[3279-2]], [[3354-1]], [[3534-1]], [[3625-1]], [[3772-1]], [[3866-1]], [[4363-1]], [[4627-1]], [[5138-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

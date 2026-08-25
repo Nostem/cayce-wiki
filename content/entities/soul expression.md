@@ -1,18 +1,21 @@
 ---
 entity: "soul expression"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # soul expression
 
-**soul expression** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**soul expression** (concept) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning soul expression
 
-[[319-2]], [[391-16]], [[683-2]], [[1153-1]]
+[[345-4]], [[466-1]], [[557-3]], [[683-2]], [[893-1]], [[1153-1]], [[1210-3]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

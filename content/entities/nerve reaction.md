@@ -1,18 +1,21 @@
 ---
 entity: "nerve reaction"
-entity_type: "concept"
-reading_count: 14
-mention_count: 14
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # nerve reaction
 
-**nerve reaction** (concept) appears in **14 readings** (14 mentions) — extracted by LLM semantic analysis.
+**nerve reaction** (concept, condition) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning nerve reaction
 
-[[73-1]], [[146-5]], [[538-12]], [[569-15]], [[805-2]], [[885-1]], [[953-26]], [[1916-1]], [[2504-2]], [[2519-3]], [[3863-1]], [[4827-1]], [[5572-1]], [[5671-14]]
+[[243-8]], [[308-4]], [[325-22]], [[877-3]], [[1377-6]], [[1713-10]], [[3318-1]], [[3997-1]], [[4125-3]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

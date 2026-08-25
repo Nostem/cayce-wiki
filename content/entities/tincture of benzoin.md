@@ -1,18 +1,21 @@
 ---
 entity: "tincture of benzoin"
-entity_type: "remedy"
-reading_count: 20
-mention_count: 20
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
 # tincture of benzoin
 
-**tincture of benzoin** (remedy) appears in **20 readings** (20 mentions) — extracted by LLM semantic analysis.
+**tincture of benzoin** (remedy) appears in **14 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning tincture of benzoin
 
-[[294-177]], [[307-12]], [[313-8]], [[370-4]], [[418-3]], [[487-15]], [[496-1]], [[514-4]], [[528-3]], [[555-10]], [[572-1]], [[572-6]], [[572-8]], [[584-2]], [[687-1]], [[765-4]], [[949-10]], [[1208-9]], [[1211-2]], [[1282-1]]
+[[243-17]], [[307-12]], [[326-5]], [[341-43]], [[394-5]], [[484-3]], [[487-15]], [[511-1]], [[584-2]], [[666-2]], [[836-1]], [[1199-2]], [[1211-2]], [[2975-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

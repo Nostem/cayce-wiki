@@ -1,18 +1,21 @@
 ---
 entity: "heated salt"
-entity_type: "remedy"
-reading_count: 5
-mention_count: 5
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # heated salt
 
-**heated salt** (remedy) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**heated salt** (remedy) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning heated salt
 
-[[106-1]], [[136-22]], [[340-36]], [[900-463]], [[1223-7]]
+[[601-18]], [[3462-1]], [[3614-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

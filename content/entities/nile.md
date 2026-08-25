@@ -1,18 +1,21 @@
 ---
-entity: "nile"
-entity_type: "place"
-reading_count: 6
-mention_count: 6
-tags: [entity, place]
+entity: "Nile"
+entity_types: ["place"]
+reading_count: 17
+literal_reading_count: 0
+semantic_reading_count: 17
+literal_mention_count: 0
+semantic_mention_count: 17
+tags: [entity, semantic]
 ---
 
-# nile
+# Nile
 
-**nile** (place) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**Nile** (place) appears in **17 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning nile
+## Readings mentioning Nile
 
-[[357-14]], [[364-13]], [[404-11]], [[2072-7]], [[2174-4]], [[5748-1]]
+[[195-41]], [[281-25]], [[294-148]], [[357-14]], [[364-13]], [[404-11]], [[603-1]], [[993-3]], [[1598-1]], [[1709-9]], [[1910-1]], [[2072-7]], [[2677-1]], [[5367-1]], [[5748-1]], [[5748-5]], [[5748-6]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

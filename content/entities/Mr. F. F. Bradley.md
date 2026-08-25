@@ -1,18 +1,21 @@
 ---
 entity: "mr. f. f. bradley"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity_types: ["person"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # mr. f. f. bradley
 
-**mr. f. f. bradley** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**mr. f. f. bradley** (person) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mr. f. f. bradley
 
-[[4565-1]], [[5540-1]]
+[[254-54]], [[409-17]], [[2228-1]], [[4433-1]], [[4565-1]], [[5540-1]], [[5653-2]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

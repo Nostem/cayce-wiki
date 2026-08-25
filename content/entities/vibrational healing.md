@@ -1,18 +1,21 @@
 ---
 entity: "vibrational healing"
-entity_type: "concept"
-reading_count: 26
-mention_count: 26
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 74
+literal_reading_count: 0
+semantic_reading_count: 74
+literal_mention_count: 0
+semantic_mention_count: 74
+tags: [entity, semantic]
 ---
 
 # vibrational healing
 
-**vibrational healing** (concept) appears in **26 readings** (26 mentions) — extracted by LLM semantic analysis.
+**vibrational healing** (concept) appears in **74 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning vibrational healing
 
-[[92-1]], [[129-1]], [[200-1]], [[270-9]], [[306-3]], [[369-2]], [[470-1]], [[1139-1]], [[1199-1]], [[1323-1]], [[2722-2]], [[2963-1]], [[2971-1]], [[3099-1]], [[3593-1]], [[3612-1]], [[3785-1]], [[3854-2]], [[4160-1]], [[4488-1]], [[4574-1]], [[4656-1]], [[4705-1]], [[4782-1]], [[4808-1]], [[5664-7]]
+[[25-1]], [[75-1]], [[121-1]], [[141-1]], [[147-1]], [[224-1]], [[257-222]], [[270-9]], [[434-1]], [[443-5]], [[487-2]], [[538-12]], [[599-5]], [[813-1]], [[923-1]], [[949-12]], [[1026-1]], [[1061-1]], [[1247-1]], [[1372-1]], [[1387-6]], [[1469-2]], [[1500-1]], [[1503-1]], [[1545-1]], [[1800-28]], [[1861-2]], [[1967-1]], [[2215-1]], [[2253-2]], [[2433-1]], [[2478-2]], [[2836-1]], [[2932-1]], [[2999-2]], [[3026-1]], [[3099-1]], [[3119-1]], [[3278-1]], [[3431-1]], [[3580-2]], [[3854-2]], [[3854-4]], [[3854-5]], [[3863-1]], [[3864-1]], [[3885-1]], [[3923-1]], [[3945-1]], [[4101-1]], [[4218-2]], [[4229-1]], [[4371-1]], [[4392-1]], [[4453-2]], [[4464-1]], [[4486-1]], [[4491-1]], [[4501-1]], [[4504-1]], [[4601-1]], [[4709-4]], [[4712-1]], [[4848-4]], [[4902-1]], [[5006-1]], [[5132-1]], [[5309-1]], [[5422-1]], [[5474-1]], [[5483-2]], [[5500-1]], [[5537-1]], [[5731-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

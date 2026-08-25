@@ -1,18 +1,21 @@
 ---
-entity: "suffolk"
-entity_type: "place"
-reading_count: 4
-mention_count: 4
-tags: [entity, place]
+entity: "Suffolk"
+entity_types: ["place"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
-# suffolk
+# Suffolk
 
-**suffolk** (place) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Suffolk** (place) appears in **10 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning suffolk
+## Readings mentioning Suffolk
 
-[[264-35]], [[264-42]], [[264-43]], [[1800-27]]
+[[264-35]], [[264-42]], [[1800-27]], [[1829-1]], [[2072-4]], [[2526-1]], [[2882-1]], [[2994-1]], [[3063-1]], [[3667-2]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

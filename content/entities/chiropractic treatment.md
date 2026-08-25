@@ -1,18 +1,21 @@
 ---
 entity: "chiropractic treatment"
-entity_type: "remedy"
-reading_count: 3
-mention_count: 3
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # chiropractic treatment
 
-**chiropractic treatment** (remedy) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**chiropractic treatment** (remedy) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning chiropractic treatment
 
-[[89-1]], [[1472-8]], [[3930-1]]
+[[25-2]], [[261-23]], [[567-3]], [[2642-2]], [[2966-1]], [[3839-1]], [[3930-1]], [[4751-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

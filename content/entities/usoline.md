@@ -1,18 +1,21 @@
 ---
 entity: "usoline"
-entity_type: "remedy"
-reading_count: 19
-mention_count: 19
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 29
+literal_reading_count: 0
+semantic_reading_count: 29
+literal_mention_count: 0
+semantic_mention_count: 29
+tags: [entity, semantic]
 ---
 
 # usoline
 
-**usoline** (remedy) appears in **19 readings** (19 mentions) — extracted by LLM semantic analysis.
+**usoline** (remedy) appears in **29 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning usoline
 
-[[257-198]], [[286-5]], [[340-32]], [[462-15]], [[540-15]], [[555-7]], [[569-9]], [[573-7]], [[643-1]], [[849-39]], [[1553-4]], [[2014-2]], [[3190-4]], [[3388-2]], [[3776-9]], [[4358-2]], [[4585-1]], [[5060-1]], [[5520-4]]
+[[257-220]], [[286-5]], [[307-14]], [[337-23]], [[379-19]], [[540-15]], [[569-9]], [[569-27]], [[779-24]], [[849-16]], [[849-39]], [[1187-6]], [[1553-4]], [[1656-1]], [[1713-9]], [[1736-5]], [[2014-2]], [[2722-1]], [[3190-4]], [[3356-2]], [[3388-2]], [[3394-1]], [[3566-1]], [[3680-1]], [[3776-9]], [[4358-2]], [[4585-1]], [[5520-4]], [[5714-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "beef broth"
-entity_type: "remedy"
-reading_count: 5
-mention_count: 5
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # beef broth
 
-**beef broth** (remedy) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**beef broth** (remedy) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning beef broth
 
-[[261-20]], [[427-6]], [[838-1]], [[920-4]], [[4744-3]]
+[[261-20]], [[356-1]], [[4744-3]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

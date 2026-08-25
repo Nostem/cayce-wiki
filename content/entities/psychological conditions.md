@@ -1,18 +1,21 @@
 ---
 entity: "psychological conditions"
-entity_type: "concept"
-reading_count: 19
-mention_count: 19
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # psychological conditions
 
-**psychological conditions** (concept) appears in **19 readings** (19 mentions) — extracted by LLM semantic analysis.
+**psychological conditions** (concept) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning psychological conditions
 
-[[106-7]], [[288-38]], [[302-6]], [[411-1]], [[525-1]], [[631-1]], [[900-145]], [[1314-2]], [[2452-1]], [[2710-1]], [[2929-1]], [[3102-1]], [[3421-1]], [[3733-1]], [[3735-1]], [[3802-1]], [[3969-1]], [[4279-1]], [[5502-1]]
+[[106-7]], [[147-15]], [[411-1]], [[2452-1]], [[2551-1]], [[2929-1]], [[2957-1]], [[3568-1]], [[3733-1]], [[3788-1]], [[3793-1]], [[5211-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

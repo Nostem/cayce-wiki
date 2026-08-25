@@ -1,18 +1,21 @@
 ---
 entity: "tolu"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 5
-mention_count: 5
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # tolu
 
-**tolu** (remedy) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**tolu** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning tolu
 
-[[219-3]], [[1005-6]], [[1580-1]], [[4236-1]], [[4247-1]]
+[[219-3]], [[302-8]], [[3922-1]], [[4281-17]], [[5671-8]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

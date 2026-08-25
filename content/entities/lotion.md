@@ -1,18 +1,21 @@
 ---
 entity: "lotion"
-entity_type: "remedy"
-reading_count: 6
-mention_count: 6
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # lotion
 
-**lotion** (remedy) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**lotion** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning lotion
 
-[[275-37]], [[294-24]], [[294-44]], [[760-24]], [[760-27]], [[772-3]]
+[[294-44]], [[480-27]], [[569-16]], [[760-27]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

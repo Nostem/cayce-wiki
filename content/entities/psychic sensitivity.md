@@ -1,18 +1,21 @@
 ---
 entity: "psychic sensitivity"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # psychic sensitivity
 
-**psychic sensitivity** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**psychic sensitivity** (concept) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning psychic sensitivity
 
-[[137-128]], [[949-8]]
+[[137-128]], [[504-3]], [[540-1]], [[559-7]], [[603-1]], [[775-1]], [[2509-1]], [[2556-1]], [[2835-1]], [[3514-1]], [[5141-1]], [[5439-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

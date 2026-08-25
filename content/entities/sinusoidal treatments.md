@@ -1,18 +1,21 @@
 ---
 entity: "sinusoidal treatments"
-entity_type: "remedy"
-reading_count: 9
-mention_count: 9
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 17
+literal_reading_count: 0
+semantic_reading_count: 17
+literal_mention_count: 0
+semantic_mention_count: 17
+tags: [entity, semantic]
 ---
 
 # sinusoidal treatments
 
-**sinusoidal treatments** (remedy) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**sinusoidal treatments** (remedy) appears in **17 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning sinusoidal treatments
 
-[[261-1]], [[393-1]], [[416-5]], [[1320-1]], [[1433-4]], [[1433-5]], [[1688-12]], [[5116-1]], [[5734-1]]
+[[416-5]], [[433-3]], [[480-9]], [[709-1]], [[719-2]], [[723-1]], [[846-1]], [[988-1]], [[1320-1]], [[1433-5]], [[1433-8]], [[1688-12]], [[1734-5]], [[2306-1]], [[3901-2]], [[5116-1]], [[5734-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

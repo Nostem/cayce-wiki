@@ -1,18 +1,21 @@
 ---
 entity: "abdominal massage"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # abdominal massage
 
-**abdominal massage** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**abdominal massage** (remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning abdominal massage
 
-[[1829-1]], [[3247-1]]
+[[1364-1]], [[1594-5]], [[2587-1]], [[3247-2]], [[4677-2]], [[4973-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

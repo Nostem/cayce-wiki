@@ -1,18 +1,21 @@
 ---
-entity: "d.c."
-entity_type: "place"
-reading_count: 2
-mention_count: 2
-tags: [entity, place]
+entity: "D.C."
+entity_types: ["place"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
-# d.c.
+# D.C.
 
-**d.c.** (place) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**D.C.** (place) appears in **5 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning d.c.
+## Readings mentioning D.C.
 
-[[333-8]], [[823-1]]
+[[391-1]], [[843-10]], [[1048-4]], [[1523-6]], [[1553-7]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

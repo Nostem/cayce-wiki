@@ -1,18 +1,21 @@
 ---
 entity: "digestive disturbance"
-entity_type: "condition"
-reading_count: 23
-mention_count: 23
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 85
+literal_reading_count: 0
+semantic_reading_count: 85
+literal_mention_count: 0
+semantic_mention_count: 85
+tags: [entity, semantic]
 ---
 
 # digestive disturbance
 
-**digestive disturbance** (condition) appears in **23 readings** (23 mentions) — extracted by LLM semantic analysis.
+**digestive disturbance** (condition) appears in **85 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning digestive disturbance
 
-[[261-4]], [[416-9]], [[432-1]], [[432-2]], [[482-8]], [[611-1]], [[834-1]], [[974-1]], [[983-1]], [[995-1]], [[1001-1]], [[1080-2]], [[1288-1]], [[1312-5]], [[1467-4]], [[1834-1]], [[2057-1]], [[3462-1]], [[4262-1]], [[4512-1]], [[4572-1]], [[4898-2]], [[5511-1]]
+[[172-1]], [[200-1]], [[257-30]], [[257-129]], [[261-26]], [[273-1]], [[337-2]], [[361-3]], [[372-1]], [[379-2]], [[389-9]], [[432-1]], [[432-2]], [[470-15]], [[482-8]], [[484-1]], [[513-2]], [[515-1]], [[535-1]], [[578-8]], [[620-2]], [[654-9]], [[661-5]], [[667-8]], [[667-15]], [[669-1]], [[679-1]], [[730-1]], [[900-95]], [[942-1]], [[949-5]], [[1023-1]], [[1080-2]], [[1143-1]], [[1196-11]], [[1229-1]], [[1271-1]], [[1312-5]], [[1420-1]], [[1467-4]], [[1514-1]], [[1536-1]], [[1593-1]], [[1656-1]], [[1727-2]], [[1762-1]], [[1787-1]], [[1798-3]], [[1820-1]], [[1834-1]], [[1960-1]], [[2008-1]], [[2051-1]], [[2064-1]], [[2072-3]], [[2157-2]], [[2164-1]], [[2255-1]], [[2360-1]], [[2389-1]], [[2471-1]], [[2548-1]], [[2578-1]], [[2794-1]], [[2952-1]], [[3094-1]], [[3098-1]], [[3356-2]], [[3360-2]], [[3462-1]], [[3867-1]], [[4262-1]], [[4431-1]], [[4480-1]], [[4501-1]], [[4560-1]], [[4863-2]], [[4898-2]], [[4993-1]], [[5445-1]], [[5503-1]], [[5608-1]], [[5632-1]], [[5634-1]], [[5643-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

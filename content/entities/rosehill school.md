@@ -1,18 +1,21 @@
 ---
-entity: "rosehill school"
-entity_type: "place"
-reading_count: 6
-mention_count: 6
-tags: [entity, place]
+entity: "Rosehill School"
+entity_types: ["place"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
-# rosehill school
+# Rosehill School
 
-**rosehill school** (place) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**Rosehill School** (place) appears in **12 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning rosehill school
+## Readings mentioning Rosehill School
 
-[[146-6]], [[243-15]], [[2253-1]], [[2253-2]], [[2253-3]], [[5483-2]]
+[[146-1]], [[146-3]], [[146-6]], [[146-8]], [[146-10]], [[243-15]], [[512-2]], [[758-35]], [[2153-11]], [[2165-1]], [[2253-1]], [[2253-3]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

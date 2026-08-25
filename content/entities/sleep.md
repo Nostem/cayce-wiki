@@ -1,18 +1,21 @@
 ---
 entity: "sleep"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # sleep
 
-**sleep** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**sleep** (concept, remedy) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning sleep
 
-[[5754-1]], [[5754-2]]
+[[243-8]], [[341-32]], [[988-9]], [[1001-3]], [[3980-2]], [[4259-1]], [[5754-2]], [[5754-3]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

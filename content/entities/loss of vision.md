@@ -1,18 +1,21 @@
 ---
 entity: "loss of vision"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # loss of vision
 
-**loss of vision** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**loss of vision** (condition) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning loss of vision
 
-[[409-35]], [[409-36]]
+[[366-1]], [[409-35]], [[409-36]], [[1348-2]], [[1858-1]], [[5086-3]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "bladder irritation"
-entity_type: "condition"
-reading_count: 16
-mention_count: 16
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 79
+literal_reading_count: 0
+semantic_reading_count: 79
+literal_mention_count: 0
+semantic_mention_count: 79
+tags: [entity, semantic]
 ---
 
 # bladder irritation
 
-**bladder irritation** (condition) appears in **16 readings** (16 mentions) — extracted by LLM semantic analysis.
+**bladder irritation** (condition) appears in **79 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning bladder irritation
 
-[[356-1]], [[464-4]], [[492-1]], [[573-1]], [[598-1]], [[791-1]], [[951-6]], [[1315-6]], [[1446-3]], [[1539-3]], [[2195-1]], [[3412-1]], [[3695-1]], [[3986-1]], [[4719-2]], [[5009-1]]
+[[48-1]], [[100-1]], [[165-1]], [[356-1]], [[370-4]], [[432-1]], [[461-1]], [[464-4]], [[464-27]], [[506-1]], [[557-5]], [[573-1]], [[576-1]], [[579-1]], [[601-26]], [[618-1]], [[672-1]], [[703-1]], [[734-1]], [[768-2]], [[791-1]], [[800-1]], [[815-1]], [[822-1]], [[947-1]], [[951-6]], [[1038-1]], [[1055-1]], [[1130-1]], [[1140-2]], [[1236-1]], [[1311-1]], [[1315-6]], [[1333-1]], [[1337-1]], [[1386-1]], [[1446-1]], [[1446-2]], [[1446-3]], [[1472-2]], [[1501-2]], [[1695-2]], [[1850-2]], [[1941-1]], [[2025-2]], [[2027-1]], [[2145-1]], [[2195-1]], [[2349-1]], [[2470-1]], [[2479-1]], [[2534-1]], [[2729-2]], [[2750-2]], [[2843-2]], [[2958-1]], [[3050-1]], [[3381-1]], [[3412-1]], [[3586-1]], [[3695-1]], [[3767-1]], [[3776-15]], [[3986-1]], [[4094-1]], [[4201-1]], [[4235-1]], [[4463-1]], [[4486-1]], [[4503-1]], [[4591-1]], [[4679-1]], [[4975-1]], [[4989-1]], [[5009-1]], [[5419-1]], [[5445-1]], [[5574-1]], [[5704-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

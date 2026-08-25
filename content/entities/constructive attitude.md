@@ -1,18 +1,21 @@
 ---
 entity: "constructive attitude"
-entity_type: "concept"
-reading_count: 17
-mention_count: 17
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 34
+literal_reading_count: 0
+semantic_reading_count: 34
+literal_mention_count: 0
+semantic_mention_count: 34
+tags: [entity, semantic]
 ---
 
 # constructive attitude
 
-**constructive attitude** (concept) appears in **17 readings** (17 mentions) — extracted by LLM semantic analysis.
+**constructive attitude** (concept) appears in **34 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning constructive attitude
 
-[[263-12]], [[264-17]], [[325-65]], [[338-6]], [[379-8]], [[421-15]], [[480-22]], [[480-34]], [[533-14]], [[779-25]], [[1242-6]], [[1424-1]], [[1428-1]], [[2604-2]], [[2957-1]], [[5226-1]], [[5397-1]]
+[[254-97]], [[264-17]], [[270-44]], [[270-47]], [[338-6]], [[357-3]], [[379-8]], [[421-15]], [[462-15]], [[480-22]], [[683-3]], [[779-25]], [[842-1_id4947|842-1]], [[849-33]], [[974-1]], [[1158-36]], [[1375-4]], [[1385-1]], [[1424-1]], [[1428-1]], [[1438-2]], [[1553-17]], [[1628-1]], [[1708-1]], [[1822-1]], [[1844-3]], [[2175-7]], [[2590-3]], [[2604-2]], [[2777-2]], [[2778-5]], [[2957-1]], [[3086-1]], [[3195-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

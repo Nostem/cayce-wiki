@@ -1,18 +1,21 @@
 ---
 entity: "lumbago"
-entity_type: "condition"
-reading_count: 33
-mention_count: 33
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 39
+literal_reading_count: 0
+semantic_reading_count: 39
+literal_mention_count: 0
+semantic_mention_count: 39
+tags: [entity, semantic]
 ---
 
 # lumbago
 
-**lumbago** (condition) appears in **33 readings** (33 mentions) — extracted by LLM semantic analysis.
+**lumbago** (condition) appears in **39 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning lumbago
 
-[[91-1]], [[91-3]], [[288-22]], [[288-39]], [[288-40]], [[288-44]], [[288-46]], [[288-47]], [[288-49]], [[304-30]], [[313-1]], [[348-18]], [[348-20]], [[348-21]], [[370-4]], [[378-7]], [[379-15]], [[404-7]], [[420-1]], [[464-33]], [[538-29]], [[555-7]], [[601-18]], [[619-1]], [[660-1]], [[760-1]], [[779-26]], [[780-8]], [[868-1]], [[1703-1]], [[2589-1]], [[2745-1]], [[4909-1]]
+[[91-1]], [[91-3]], [[288-22]], [[288-40]], [[288-46]], [[288-47]], [[288-49]], [[304-30]], [[313-1]], [[348-18]], [[348-20]], [[348-21]], [[370-4]], [[370-5]], [[370-7]], [[378-7]], [[391-3]], [[391-18]], [[404-7]], [[420-1]], [[464-11]], [[464-15]], [[464-33]], [[538-29]], [[555-7]], [[583-8]], [[601-18]], [[619-1]], [[660-1]], [[760-1]], [[779-21]], [[779-26]], [[780-8]], [[1398-1]], [[1666-1]], [[1703-1]], [[2589-1]], [[3185-1]], [[5161-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

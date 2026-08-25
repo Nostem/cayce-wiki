@@ -1,18 +1,21 @@
 ---
-entity: "austria"
-entity_type: "place"
-reading_count: 4
-mention_count: 4
-tags: [entity, place]
+entity: "Austria"
+entity_types: ["place"]
+reading_count: 15
+literal_reading_count: 0
+semantic_reading_count: 15
+literal_mention_count: 0
+semantic_mention_count: 15
+tags: [entity, semantic]
 ---
 
-# austria
+# Austria
 
-**austria** (place) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Austria** (place) appears in **15 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning austria
+## Readings mentioning Austria
 
-[[261-21]], [[295-1]], [[3570-1]], [[4586-1]]
+[[261-21]], [[341-8]], [[341-17]], [[341-53]], [[416-7]], [[1234-1]], [[2170-1]], [[2584-1]], [[3570-1]], [[3976-13]], [[3976-24]], [[4586-1]], [[5138-1]], [[5140-1]], [[5266-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

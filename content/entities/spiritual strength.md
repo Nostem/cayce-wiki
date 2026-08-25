@@ -1,18 +1,21 @@
 ---
 entity: "spiritual strength"
-entity_type: "concept"
-reading_count: 19
-mention_count: 19
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 18
+literal_reading_count: 0
+semantic_reading_count: 18
+literal_mention_count: 0
+semantic_mention_count: 18
+tags: [entity, semantic]
 ---
 
 # spiritual strength
 
-**spiritual strength** (concept) appears in **19 readings** (19 mentions) — extracted by LLM semantic analysis.
+**spiritual strength** (concept) appears in **18 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning spiritual strength
 
-[[244-4]], [[333-1]], [[378-32]], [[378-34]], [[378-44]], [[428-13]], [[480-47]], [[480-52]], [[599-7]], [[765-4]], [[851-1]], [[900-245]], [[1158-19]], [[2096-1]], [[2565-1]], [[2621-2]], [[3251-1]], [[3787-1]], [[5540-5]]
+[[136-25]], [[262-72]], [[294-48]], [[294-160]], [[303-13]], [[333-1]], [[378-32]], [[378-34]], [[378-37]], [[378-44]], [[428-13]], [[480-40]], [[2033-1]], [[2096-1]], [[3310-1]], [[3370-1]], [[5191-1]], [[5453-7]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

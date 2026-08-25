@@ -1,18 +1,21 @@
 ---
 entity: "ultra violet"
-entity_type: "remedy"
-reading_count: 11
-mention_count: 11
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # ultra violet
 
-**ultra violet** (remedy) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**ultra violet** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning ultra violet
 
-[[275-34]], [[409-7]], [[543-4]], [[569-20]], [[3450-2]], [[3918-2]], [[4224-1]], [[5439-1]], [[5451-6]], [[5611-2]], [[5662-2]]
+[[943-17]], [[2682-4]], [[4224-1]], [[5417-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

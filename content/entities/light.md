@@ -1,18 +1,21 @@
 ---
 entity: "light"
-entity_type: "concept"
-reading_count: 44
-mention_count: 44
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # light
 
-**light** (concept) appears in **44 readings** (44 mentions) — extracted by LLM semantic analysis.
+**light** (concept, remedy) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning light
 
-[[136-26]], [[137-131]], [[262-7]], [[262-27]], [[262-30]], [[262-47]], [[262-67]], [[262-73]], [[262-77]], [[262-91]], [[262-114]], [[262-115]], [[264-16]], [[281-28]], [[281-44]], [[288-27]], [[294-56]], [[303-31]], [[311-8]], [[341-31]], [[378-24]], [[378-27]], [[378-28]], [[378-38]], [[397-2]], [[540-3]], [[632-13]], [[683-2]], [[774-3]], [[900-18]], [[900-159]], [[900-226]], [[900-323]], [[1158-12]], [[2114-1]], [[2441-4]], [[2533-7]], [[3174-1]], [[3213-2]], [[3350-1]], [[3398-1]], [[3491-1]], [[3660-1]], [[5023-2]]
+[[223-1]], [[264-16]], [[378-38]], [[835-1]], [[1472-7]], [[2528-2]], [[3213-2]], [[3432-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

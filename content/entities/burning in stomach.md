@@ -1,18 +1,21 @@
 ---
 entity: "burning in stomach"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # burning in stomach
 
-**burning in stomach** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**burning in stomach** (condition) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning burning in stomach
 
-[[1055-1]], [[1170-4]]
+[[257-228]], [[569-28]], [[1055-1]], [[1170-4]], [[1563-2]], [[1830-1]], [[2680-1]], [[3462-1]], [[5116-1]], [[5592-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

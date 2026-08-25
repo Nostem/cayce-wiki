@@ -1,18 +1,21 @@
 ---
 entity: "poor memory"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # poor memory
 
-**poor memory** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**poor memory** (condition) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning poor memory
 
-[[287-2]], [[287-3]]
+[[69-2]], [[287-3]], [[361-15]], [[666-1]], [[811-1]], [[906-1]], [[1063-1]], [[1609-1]], [[2785-1]], [[4018-1]], [[5161-1]], [[5394-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

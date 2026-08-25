@@ -1,18 +1,21 @@
 ---
 entity: "Mr. Shroyer"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity_types: ["person"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # Mr. Shroyer
 
-**Mr. Shroyer** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Mr. Shroyer** (person) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Mr. Shroyer
 
-[[294-120]], [[4905-69]]
+[[254-59]], [[409-1]], [[779-17]], [[900-464]], [[2504-21]], [[4138-1]], [[4218-3]], [[4905-70]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

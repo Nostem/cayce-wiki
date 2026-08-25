@@ -1,18 +1,21 @@
 ---
 entity: "spiritual influences"
-entity_type: "concept"
-reading_count: 67
-mention_count: 67
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
 # spiritual influences
 
-**spiritual influences** (concept) appears in **67 readings** (67 mentions) — extracted by LLM semantic analysis.
+**spiritual influences** (concept) appears in **14 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning spiritual influences
 
-[[8-1]], [[262-39]], [[262-40]], [[263-13]], [[264-50]], [[272-5]], [[275-32]], [[275-35]], [[275-39]], [[276-7]], [[301-5]], [[303-6]], [[307-1]], [[317-5]], [[341-37]], [[341-50]], [[378-47]], [[404-11]], [[413-13]], [[470-29]], [[504-3]], [[516-3]], [[524-1]], [[553-1]], [[585-8]], [[620-3]], [[678-3]], [[709-1]], [[779-24]], [[779-25]], [[797-1]], [[899-1]], [[1100-27]], [[1146-1]], [[1152-1]], [[1158-3]], [[1195-1]], [[1215-1]], [[1225-2]], [[1245-1]], [[1331-1]], [[1473-1]], [[1486-2]], [[1493-1]], [[1515-1]], [[1527-3]], [[1671-2]], [[1742-2]], [[1815-1]], [[1861-5]], [[1877-2]], [[1917-1]], [[1945-1]], [[1968-2]], [[1969-2]], [[2089-1]], [[2110-1]], [[2116-2]], [[2376-3]], [[2457-2]], [[2642-1]], [[2690-1]], [[3078-1]], [[3976-13]], [[4143-1]], [[5528-1]], [[5749-5]]
+[[317-5]], [[554-5]], [[631-4]], [[753-1]], [[779-24]], [[779-25]], [[1028-1]], [[1074-1]], [[1195-1]], [[1215-1]], [[1245-1]], [[1331-1]], [[1945-1]], [[2078-3]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "superfluous hair"
-entity_type: "condition"
-reading_count: 10
-mention_count: 10
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # superfluous hair
 
-**superfluous hair** (condition) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**superfluous hair** (condition) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning superfluous hair
 
-[[460-4]], [[920-2]], [[2186-4]], [[3012-1]], [[3081-2]], [[3081-3]], [[3081-4]], [[3298-2]], [[3341-1]], [[3583-1]]
+[[263-1]], [[920-2]], [[1947-4]], [[2582-4]], [[3081-4]], [[3341-1]], [[3583-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

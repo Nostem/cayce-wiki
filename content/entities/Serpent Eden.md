@@ -1,17 +1,21 @@
 ---
 entity: "Serpent (Eden)"
-mention_count: 55
+entity_types: ["literal"]
 reading_count: 40
-tags: [entity]
+literal_reading_count: 40
+semantic_reading_count: 0
+literal_mention_count: 93
+semantic_mention_count: 0
+tags: [entity, semantic]
 ---
 
 # Serpent (Eden)
 
-**Serpent (Eden)** appears in **40 readings** (55 total mentions) across the corpus.
+**Serpent (Eden)** (literal) appears in **40 readings** — indexed through deterministic literal extraction.
 
 ## Readings mentioning Serpent (Eden)
 
 [[137-53]], [[140-30]], [[254-35]], [[257-43]], [[257-174]], [[262-52]], [[267-1]], [[281-25]], [[281-26]], [[281-34]], [[281-54]], [[281-63]], [[294-8]], [[294-136]], [[294-206]], [[311-5]], [[345-1]], [[355-1]], [[364-5]], [[364-13]], [[404-11]], [[440-11]], [[454-1]], [[559-7]], [[683-2]], [[812-1]], [[900-217]], [[951-4]], [[993-4]], [[1387-1]], [[1564-1]], [[1861-12]], [[2441-2]], [[2466-1]], [[2522-1]], [[3976-9]], [[3976-29]], [[4757-1]], [[5753-2]], [[5755-2]]
 
 ---
-*Auto-generated entity index. 40 readings, 55 mentions.*
+*Auto-generated index. LLM classifications should be verified before citation.*

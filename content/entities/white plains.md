@@ -1,18 +1,21 @@
 ---
-entity: "white plains"
-entity_type: "place"
-reading_count: 9
-mention_count: 9
-tags: [entity, place]
+entity: "White Plains"
+entity_types: ["place"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
-# white plains
+# White Plains
 
-**white plains** (place) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**White Plains** (place) appears in **14 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning white plains
+## Readings mentioning White Plains
 
-[[136-16]], [[494-5]], [[911-6]], [[1794-1]], [[1874-2]], [[1944-1]], [[1969-1]], [[3372-1]], [[4100-1]]
+[[136-16]], [[257-248]], [[494-5]], [[911-6]], [[1597-2]], [[1794-1]], [[1794-2]], [[1874-2]], [[1880-1]], [[1944-1]], [[1969-1]], [[2836-1]], [[3372-1]], [[4100-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

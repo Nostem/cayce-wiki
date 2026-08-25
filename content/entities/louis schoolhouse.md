@@ -1,18 +1,21 @@
 ---
-entity: "louis schoolhouse"
-entity_type: "person"
-reading_count: 3
-mention_count: 3
-tags: [entity, person]
+entity: "Louis Schoolhouse"
+entity_types: ["person"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
-# louis schoolhouse
+# Louis Schoolhouse
 
-**louis schoolhouse** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Louis Schoolhouse** (person) appears in **5 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning louis schoolhouse
+## Readings mentioning Louis Schoolhouse
 
-[[136-73]], [[140-18]], [[900-342]]
+[[136-73]], [[140-18]], [[900-241]], [[900-342]], [[900-374]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

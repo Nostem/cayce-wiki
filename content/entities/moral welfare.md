@@ -1,18 +1,21 @@
 ---
 entity: "moral welfare"
-entity_type: "concept"
+entity_types: ["concept"]
 reading_count: 3
-mention_count: 3
-tags: [entity, concept]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # moral welfare
 
-**moral welfare** (concept) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**moral welfare** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning moral welfare
 
-[[136-21]], [[877-9]], [[4400-1]]
+[[136-21]], [[257-251]], [[900-53]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

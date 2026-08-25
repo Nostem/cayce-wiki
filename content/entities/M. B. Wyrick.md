@@ -1,18 +1,21 @@
 ---
-entity: "m. b. wyrick"
-entity_type: "person"
-reading_count: 17
-mention_count: 17
-tags: [entity, person]
+entity: "M. B. Wyrick"
+entity_types: ["person"]
+reading_count: 65
+literal_reading_count: 0
+semantic_reading_count: 65
+literal_mention_count: 0
+semantic_mention_count: 65
+tags: [entity, semantic]
 ---
 
-# m. b. wyrick
+# M. B. Wyrick
 
-**m. b. wyrick** (person) appears in **17 readings** (17 mentions) — extracted by LLM semantic analysis.
+**M. B. Wyrick** (person) appears in **65 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning m. b. wyrick
+## Readings mentioning M. B. Wyrick
 
-[[27-1]], [[270-13]], [[4131-1]], [[4350-1]], [[4528-1]], [[4542-1]], [[4905-12]], [[4905-19]], [[4905-20]], [[4905-29]], [[4905-32]], [[4905-33]], [[4905-37]], [[4905-39]], [[4905-51]], [[4905-62]], [[4972-2]]
+[[195-21]], [[254-45]], [[254-49]], [[254-50]], [[254-51]], [[270-11]], [[270-13]], [[294-60]], [[2201-1]], [[4119-1]], [[4131-1]], [[4211-1]], [[4319-1]], [[4357-1]], [[4375-1]], [[4653-1]], [[4772-1]], [[4905-1]], [[4905-2]], [[4905-3]], [[4905-5]], [[4905-6]], [[4905-7]], [[4905-9]], [[4905-14]], [[4905-16]], [[4905-17]], [[4905-18]], [[4905-20]], [[4905-21]], [[4905-22]], [[4905-25]], [[4905-26]], [[4905-28]], [[4905-29]], [[4905-30]], [[4905-31]], [[4905-33]], [[4905-35]], [[4905-36]], [[4905-37]], [[4905-38]], [[4905-39]], [[4905-41]], [[4905-43]], [[4905-45]], [[4905-46]], [[4905-49]], [[4905-50]], [[4905-51]], [[4905-53]], [[4905-55]], [[4905-56]], [[4905-59]], [[4905-61]], [[4905-62]], [[4905-63]], [[4905-64]], [[4905-65]], [[4905-66]], [[4905-67]], [[4905-68]], [[4905-69]], [[4905-70]], [[4972-2]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

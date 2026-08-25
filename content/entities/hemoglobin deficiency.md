@@ -1,18 +1,21 @@
 ---
 entity: "hemoglobin deficiency"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # hemoglobin deficiency
 
-**hemoglobin deficiency** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**hemoglobin deficiency** (condition) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning hemoglobin deficiency
 
-[[4730-1]], [[4975-1]]
+[[1475-1]], [[1639-1]], [[3846-1]], [[3882-1]], [[4260-1]], [[4730-1]], [[4768-1]], [[4854-1]], [[5511-1]], [[5615-1]], [[5677-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

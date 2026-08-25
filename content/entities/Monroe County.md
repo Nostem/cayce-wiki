@@ -1,18 +1,21 @@
 ---
-entity: "monroe county"
-entity_type: "place"
-reading_count: 14
-mention_count: 14
-tags: [entity, place]
+entity: "Monroe County"
+entity_types: ["place"]
+reading_count: 21
+literal_reading_count: 0
+semantic_reading_count: 21
+literal_mention_count: 0
+semantic_mention_count: 21
+tags: [entity, semantic]
 ---
 
-# monroe county
+# Monroe County
 
-**monroe county** (place) appears in **14 readings** (14 mentions) — extracted by LLM semantic analysis.
+**Monroe County** (place) appears in **21 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning monroe county
+## Readings mentioning Monroe County
 
-[[261-30]], [[261-31]], [[1274-9]], [[1274-11]], [[1274-14]], [[1274-15]], [[1274-16]], [[1274-18]], [[1279-1]], [[1279-2]], [[1279-3]], [[1279-4]], [[5637-1]], [[5637-4]]
+[[261-31]], [[943-5]], [[943-9]], [[996-12]], [[1274-3]], [[1274-4]], [[1274-5]], [[1274-9]], [[1274-12]], [[1274-14]], [[1274-15]], [[1274-16]], [[1274-17]], [[1274-18]], [[1279-1]], [[1279-2]], [[1279-3]], [[5637-1]], [[5741-12]], [[5741-14]], [[5741-15]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

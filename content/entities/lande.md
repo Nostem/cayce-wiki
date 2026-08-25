@@ -1,18 +1,21 @@
 ---
-entity: "lande"
-entity_type: "person"
-reading_count: 8
-mention_count: 8
-tags: [entity, person]
+entity: "Lande"
+entity_types: ["person"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
-# lande
+# Lande
 
-**lande** (person) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**Lande** (person) appears in **13 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning lande
+## Readings mentioning Lande
 
-[[257-47]], [[257-51]], [[257-52]], [[257-120]], [[257-123]], [[257-132]], [[257-175]], [[257-178]]
+[[257-46]], [[257-51]], [[257-52]], [[257-120]], [[257-123]], [[257-127]], [[257-128]], [[257-132]], [[257-174]], [[257-175]], [[257-177]], [[257-178]], [[257-192]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "mrs. a. wood gray"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Mrs. A. Wood Gray"
+entity_types: ["person"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
-# mrs. a. wood gray
+# Mrs. A. Wood Gray
 
-**mrs. a. wood gray** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Mrs. A. Wood Gray** (person) appears in **5 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning mrs. a. wood gray
+## Readings mentioning Mrs. A. Wood Gray
 
-[[294-73]], [[2234-1]]
+[[262-8]], [[421-1]], [[421-2]], [[2234-1]], [[4324-2]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

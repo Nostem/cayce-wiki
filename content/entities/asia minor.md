@@ -1,18 +1,21 @@
 ---
-entity: "asia minor"
-entity_type: "place"
-reading_count: 2
-mention_count: 2
-tags: [entity, place]
+entity: "Asia Minor"
+entity_types: ["place"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
-# asia minor
+# Asia Minor
 
-**asia minor** (place) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Asia Minor** (place) appears in **10 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning asia minor
+## Readings mentioning Asia Minor
 
-[[5018-1]], [[5359-1]]
+[[1523-11]], [[1664-2]], [[1842-1]], [[1857-2]], [[2000-3]], [[2385-1]], [[2822-1]], [[4038-1]], [[4084-1]], [[5018-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

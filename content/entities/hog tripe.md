@@ -1,18 +1,21 @@
 ---
 entity: "hog tripe"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 5
-mention_count: 5
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # hog tripe
 
-**hog tripe** (remedy) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**hog tripe** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning hog tripe
 
-[[340-13]], [[602-1]], [[1377-5]], [[2383-1]], [[5671-13]]
+[[318-6]], [[340-13]], [[900-466]], [[4320-2]], [[5671-13]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

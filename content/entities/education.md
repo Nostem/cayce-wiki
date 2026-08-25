@@ -1,18 +1,21 @@
 ---
 entity: "education"
-entity_type: "concept"
-reading_count: 19
-mention_count: 19
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # education
 
-**education** (concept) appears in **19 readings** (19 mentions) — extracted by LLM semantic analysis.
+**education** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning education
 
-[[254-49]], [[254-81]], [[275-38]], [[308-9]], [[318-8]], [[459-13]], [[459-14]], [[670-6]], [[678-3]], [[826-6]], [[845-6]], [[1151-24]], [[2087-1]], [[2087-2]], [[2087-3]], [[2301-2]], [[2779-3]], [[2824-1]], [[3513-1]]
+[[1564-5]], [[2087-2]], [[5666-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

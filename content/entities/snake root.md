@@ -1,18 +1,21 @@
 ---
 entity: "snake root"
-entity_type: "remedy"
-reading_count: 5
-mention_count: 5
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # snake root
 
-**snake root** (remedy) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**snake root** (remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning snake root
 
-[[4-1]], [[207-1]], [[513-2]], [[5664-1]], [[5677-1]]
+[[4-1]], [[207-1]], [[814-1]], [[3922-1]], [[4558-1]], [[5677-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

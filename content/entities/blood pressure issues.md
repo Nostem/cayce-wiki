@@ -1,18 +1,21 @@
 ---
 entity: "blood pressure issues"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # blood pressure issues
 
-**blood pressure issues** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**blood pressure issues** (condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning blood pressure issues
 
-[[1657-4]], [[4219-1]]
+[[257-223]], [[604-1]], [[826-15]], [[2318-1]], [[2384-1]], [[3155-1]], [[5431-2]], [[5555-7]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

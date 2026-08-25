@@ -1,18 +1,21 @@
 ---
-entity: "jeanette fitch"
-entity_type: "person"
-reading_count: 4
-mention_count: 4
-tags: [entity, person]
+entity: "Jeanette Fitch"
+entity_types: ["person"]
+reading_count: 16
+literal_reading_count: 0
+semantic_reading_count: 16
+literal_mention_count: 0
+semantic_mention_count: 16
+tags: [entity, semantic]
 ---
 
-# jeanette fitch
+# Jeanette Fitch
 
-**jeanette fitch** (person) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Jeanette Fitch** (person) appears in **16 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning jeanette fitch
+## Readings mentioning Jeanette Fitch
 
-[[326-15]], [[1170-5]], [[2533-8]], [[3690-1]]
+[[254-114]], [[294-212]], [[459-14]], [[464-37]], [[2533-8]], [[2982-2]], [[3063-3]], [[3168-1]], [[3356-2]], [[3359-1]], [[3374-1]], [[3382-1]], [[3436-1]], [[3477-1]], [[3607-1]], [[3644-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

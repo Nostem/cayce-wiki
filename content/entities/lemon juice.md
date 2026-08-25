@@ -1,18 +1,21 @@
 ---
 entity: "lemon juice"
-entity_type: "remedy"
-reading_count: 10
-mention_count: 10
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # lemon juice
 
-**lemon juice** (remedy) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**lemon juice** (remedy) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning lemon juice
 
-[[307-18]], [[327-1]], [[369-11]], [[418-2]], [[538-44]], [[585-7]], [[979-7]], [[1158-21]], [[1709-10]], [[4999-2]]
+[[74-1]], [[327-1]], [[369-11]], [[433-4]], [[480-25]], [[501-2]], [[538-44]], [[572-8]], [[816-9]], [[973-1]], [[4999-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

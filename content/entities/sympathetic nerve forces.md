@@ -1,18 +1,21 @@
 ---
 entity: "sympathetic nerve forces"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # sympathetic nerve forces
 
-**sympathetic nerve forces** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**sympathetic nerve forces** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning sympathetic nerve forces
 
-[[264-48]], [[1101-4]], [[1645-1]], [[2973-1]], [[3776-8]]
+[[601-12]], [[1010-1]], [[3776-8]], [[4274-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "constructive activity"
-entity_type: "concept"
-reading_count: 8
-mention_count: 8
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 17
+literal_reading_count: 0
+semantic_reading_count: 17
+literal_mention_count: 0
+semantic_mention_count: 18
+tags: [entity, semantic]
 ---
 
 # constructive activity
 
-**constructive activity** (concept) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**constructive activity** (concept, remedy) appears in **17 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning constructive activity
 
-[[271-4]], [[849-75]], [[887-2]], [[1183-2]], [[1676-1]], [[1799-1]], [[2051-3]], [[2086-1]]
+[[257-136]], [[257-187]], [[264-42]], [[496-1]], [[560-4]], [[849-75]], [[853-6]], [[887-2]], [[1189-2]], [[1234-2]], [[1413-3]], [[1511-1]], [[1889-1]], [[2051-3]], [[2843-1]], [[5187-1]], [[5640-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

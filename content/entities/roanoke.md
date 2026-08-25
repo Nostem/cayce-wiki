@@ -1,18 +1,21 @@
 ---
 entity: "Roanoke"
-entity_type: "place"
-reading_count: 5
-mention_count: 5
-tags: [entity, place]
+entity_types: ["place"]
+reading_count: 60
+literal_reading_count: 0
+semantic_reading_count: 60
+literal_mention_count: 0
+semantic_mention_count: 60
+tags: [entity, semantic]
 ---
 
 # Roanoke
 
-**Roanoke** (place) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**Roanoke** (place) appears in **60 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Roanoke
 
-[[254-116]], [[294-42]], [[294-211]], [[4043-1]], [[5178-1]]
+[[254-8]], [[254-115]], [[254-116]], [[294-196]], [[294-211]], [[294-212]], [[310-2]], [[341-28]], [[459-14]], [[477-2]], [[721-2]], [[808-20]], [[984-5]], [[1005-4]], [[1100-38]], [[1541-12]], [[1770-8]], [[1916-1]], [[1916-4]], [[2011-2]], [[2072-16]], [[2154-2]], [[2441-3]], [[2518-1]], [[2518-3]], [[2585-1]], [[2589-1]], [[2602-2]], [[2988-5]], [[3109-1]], [[3137-1]], [[3137-2]], [[3321-1]], [[3368-1]], [[3375-1]], [[3467-1]], [[3533-1]], [[3587-1]], [[3606-1]], [[3607-1]], [[3620-1]], [[3627-1]], [[3796-3]], [[4015-1]], [[4039-1]], [[4048-1]], [[4079-1]], [[4889-1]], [[5091-1]], [[5174-1]], [[5215-1]], [[5232-1]], [[5287-1]], [[5347-1]], [[5376-1]], [[5386-1]], [[5405-1]], [[5408-1]], [[5496-1]], [[5696-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

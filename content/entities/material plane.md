@@ -1,18 +1,21 @@
 ---
 entity: "material plane"
-entity_type: "concept"
-reading_count: 11
-mention_count: 11
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # material plane
 
-**material plane** (concept) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**material plane** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning material plane
 
-[[262-66]], [[294-18]], [[294-83]], [[900-284]], [[900-289]], [[900-353]], [[900-364]], [[2734-1]], [[2910-1]], [[3155-1]], [[4185-2]]
+[[136-50]], [[262-35]], [[294-83]], [[5648-4]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

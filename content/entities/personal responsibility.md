@@ -1,18 +1,21 @@
 ---
 entity: "personal responsibility"
-entity_type: "concept"
-reading_count: 21
-mention_count: 21
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # personal responsibility
 
-**personal responsibility** (concept) appears in **21 readings** (21 mentions) — extracted by LLM semantic analysis.
+**personal responsibility** (concept) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning personal responsibility
 
-[[257-2]], [[257-241]], [[262-121]], [[270-27]], [[303-6]], [[567-9]], [[657-2]], [[877-29]], [[2081-1]], [[2448-2]], [[2642-2]], [[2780-3]], [[3213-1]], [[3689-1]], [[3812-5]], [[3976-16]], [[4090-1]], [[4586-2]], [[5042-2]], [[5079-1]], [[5489-1]]
+[[257-1]], [[270-27]], [[279-15]], [[303-6]], [[349-6]], [[1000-10]], [[1554-7]], [[3976-14]], [[4458-1]], [[4586-4]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

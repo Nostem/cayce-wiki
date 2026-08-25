@@ -1,18 +1,21 @@
 ---
-entity: "neptune influence"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity: "Neptune influence"
+entity_types: ["concept"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
-# neptune influence
+# Neptune influence
 
-**neptune influence** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Neptune influence** (concept) appears in **7 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning neptune influence
+## Readings mentioning Neptune influence
 
-[[585-6]], [[620-1]]
+[[585-6]], [[620-1]], [[900-14]], [[953-13]], [[1223-4]], [[1662-2]], [[5717-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

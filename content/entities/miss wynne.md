@@ -1,18 +1,21 @@
 ---
-entity: "miss wynne"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Miss Wynne"
+entity_types: ["person"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
-# miss wynne
+# Miss Wynne
 
-**miss wynne** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Miss Wynne** (person) appears in **14 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning miss wynne
+## Readings mentioning Miss Wynne
 
-[[294-160]], [[4451-1]]
+[[254-64]], [[262-2]], [[272-9]], [[294-160]], [[294-189]], [[556-1]], [[1747-4]], [[1770-5]], [[2072-16]], [[2366-7]], [[2970-2]], [[3351-1]], [[3356-2]], [[5729-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

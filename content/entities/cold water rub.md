@@ -1,18 +1,21 @@
 ---
 entity: "cold water rub"
-entity_type: "remedy"
-reading_count: 8
-mention_count: 8
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # cold water rub
 
-**cold water rub** (remedy) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**cold water rub** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning cold water rub
 
-[[137-132]], [[183-1]], [[199-1]], [[205-2]], [[270-1]], [[2211-1]], [[3830-1]], [[4899-1]]
+[[205-2]], [[2211-1]], [[3719-1]], [[4839-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "milwaukee"
-entity_type: "place"
-reading_count: 8
-mention_count: 8
-tags: [entity, place]
+entity: "Milwaukee"
+entity_types: ["place"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
-# milwaukee
+# Milwaukee
 
-**milwaukee** (place) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**Milwaukee** (place) appears in **9 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning milwaukee
+## Readings mentioning Milwaukee
 
-[[137-34]], [[883-1]], [[1095-1]], [[2553-8]], [[2843-4]], [[3869-1]], [[3921-1]], [[5034-1]]
+[[165-3]], [[254-63]], [[561-1]], [[883-1]], [[2843-4]], [[3869-1]], [[3921-1]], [[5034-1]], [[5489-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

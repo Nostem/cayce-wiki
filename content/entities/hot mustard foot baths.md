@@ -1,18 +1,21 @@
 ---
 entity: "hot mustard foot baths"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 3
-mention_count: 3
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # hot mustard foot baths
 
-**hot mustard foot baths** (remedy) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**hot mustard foot baths** (remedy) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning hot mustard foot baths
 
-[[413-9]], [[487-3]], [[852-2]]
+[[413-9]], [[487-3]], [[558-4]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

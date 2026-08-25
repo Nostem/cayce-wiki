@@ -1,18 +1,21 @@
 ---
-entity: "hamilton"
-entity_type: "place"
-reading_count: 5
-mention_count: 5
-tags: [entity, place]
+entity: "Hamilton"
+entity_types: ["person", "place"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
-# hamilton
+# Hamilton
 
-**hamilton** (place) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**Hamilton** (person, place) appears in **9 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning hamilton
+## Readings mentioning Hamilton
 
-[[142-1]], [[589-1]], [[2138-2]], [[2671-2]], [[4889-1]]
+[[136-70]], [[257-84]], [[589-1]], [[615-1]], [[1213-1]], [[1266-1]], [[2138-2]], [[2671-2]], [[4889-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

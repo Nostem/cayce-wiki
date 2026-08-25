@@ -1,18 +1,21 @@
 ---
-entity: "mexia"
-entity_type: "place"
-reading_count: 2
-mention_count: 2
-tags: [entity, place]
+entity: "Mexia"
+entity_types: ["place"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# mexia
+# Mexia
 
-**mexia** (place) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Mexia** (place) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning mexia
+## Readings mentioning Mexia
 
-[[1097-2]], [[5628-12]]
+[[1097-1]], [[4905-46]], [[5628-12]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

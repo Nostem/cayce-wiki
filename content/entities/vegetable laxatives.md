@@ -1,18 +1,21 @@
 ---
 entity: "vegetable laxatives"
-entity_type: "remedy"
-reading_count: 9
-mention_count: 9
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 17
+literal_reading_count: 0
+semantic_reading_count: 17
+literal_mention_count: 0
+semantic_mention_count: 17
+tags: [entity, semantic]
 ---
 
 # vegetable laxatives
 
-**vegetable laxatives** (remedy) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**vegetable laxatives** (remedy) appears in **17 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning vegetable laxatives
 
-[[307-14]], [[326-16]], [[772-6]], [[2084-9]], [[2299-11]], [[2778-3]], [[2959-1]], [[3607-2]], [[4074-1]]
+[[307-14]], [[326-16]], [[635-8]], [[759-9]], [[772-6]], [[1000-12]], [[1158-38]], [[1337-2]], [[1409-8]], [[1467-9]], [[2084-9]], [[2299-11]], [[2803-6]], [[2959-1]], [[3607-2]], [[5048-2]], [[5054-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

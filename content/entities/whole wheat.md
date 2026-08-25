@@ -1,18 +1,21 @@
 ---
 entity: "whole wheat"
-entity_type: "remedy"
-reading_count: 34
-mention_count: 34
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 40
+literal_reading_count: 0
+semantic_reading_count: 40
+literal_mention_count: 0
+semantic_mention_count: 40
+tags: [entity, semantic]
 ---
 
 # whole wheat
 
-**whole wheat** (remedy) appears in **34 readings** (34 mentions) — extracted by LLM semantic analysis.
+**whole wheat** (remedy) appears in **40 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning whole wheat
 
-[[32-1]], [[65-1]], [[159-1]], [[304-44]], [[307-18]], [[556-8]], [[556-14]], [[562-5]], [[631-6]], [[853-1]], [[920-12]], [[981-1]], [[1025-1]], [[1188-1]], [[1316-1]], [[1352-6]], [[1401-2]], [[1662-1]], [[1673-2]], [[1688-2]], [[1711-2]], [[1736-5]], [[1762-1]], [[1820-2]], [[1997-2]], [[2013-1]], [[2053-1]], [[2075-2]], [[2169-1]], [[2178-1]], [[3971-1]], [[4280-2]], [[4318-1]], [[5641-2]]
+[[65-1]], [[147-30]], [[205-2]], [[307-10]], [[307-18]], [[330-1]], [[415-5]], [[421-10]], [[487-9]], [[556-14]], [[560-9]], [[562-5]], [[760-2]], [[795-2]], [[800-1]], [[807-1]], [[841-1]], [[988-9]], [[1025-1]], [[1179-1]], [[1206-12]], [[1465-7]], [[1519-4]], [[1662-1]], [[1711-2]], [[1871-1]], [[1997-2]], [[2013-1]], [[2014-1]], [[2016-1]], [[2018-2]], [[2026-1]], [[2053-1]], [[2075-2]], [[2177-1]], [[2348-2]], [[2426-1]], [[2564-1]], [[3776-3]], [[5641-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

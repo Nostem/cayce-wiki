@@ -1,18 +1,21 @@
 ---
 entity: "spiritual attunement"
-entity_type: "concept"
-reading_count: 7
-mention_count: 7
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 72
+literal_reading_count: 0
+semantic_reading_count: 72
+literal_mention_count: 0
+semantic_mention_count: 73
+tags: [entity, semantic]
 ---
 
 # spiritual attunement
 
-**spiritual attunement** (concept) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**spiritual attunement** (concept, remedy) appears in **72 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning spiritual attunement
 
-[[457-1]], [[849-18]], [[900-361]], [[900-363]], [[1007-1]], [[1861-15]], [[3697-1]]
+[[115-1]], [[140-10]], [[195-31]], [[257-191]], [[261-27]], [[262-23]], [[262-87]], [[262-105]], [[270-24]], [[273-1]], [[275-35]], [[279-12]], [[281-10]], [[281-13]], [[281-17]], [[281-18]], [[294-140]], [[341-36]], [[341-37]], [[361-8]], [[412-1]], [[457-1]], [[459-1]], [[540-18]], [[578-3]], [[587-5]], [[599-1]], [[599-5]], [[707-6]], [[774-3]], [[849-18]], [[897-2]], [[900-256]], [[900-361]], [[900-363]], [[900-369]], [[900-440]], [[900-447]], [[1007-1]], [[1135-4]], [[1151-28]], [[1158-37]], [[1183-2]], [[1189-2]], [[1196-10]], [[1330-1]], [[1472-8]], [[1472-14]], [[1646-1]], [[1742-4]], [[1770-4]], [[1861-15]], [[2102-1]], [[2404-1]], [[2475-1]], [[2733-3]], [[2812-1]], [[3044-2]], [[3384-2]], [[3676-1]], [[3697-1]], [[3752-1]], [[4125-5]], [[4400-1]], [[4406-1]], [[4651-1]], [[5037-1]], [[5188-1]], [[5276-1]], [[5639-2]], [[5642-4]], [[5749-4]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "malignant condition"
-entity_type: "condition"
-reading_count: 8
-mention_count: 8
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # malignant condition
 
-**malignant condition** (condition) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**malignant condition** (condition) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning malignant condition
 
-[[538-46]], [[588-1]], [[635-3]], [[1013-3]], [[1280-3]], [[3266-1]], [[3294-1]], [[4752-1]]
+[[538-46]], [[588-1]], [[1013-3]], [[1280-3]], [[2512-2]], [[5521-1]], [[5721-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

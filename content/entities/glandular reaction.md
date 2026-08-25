@@ -1,18 +1,21 @@
 ---
 entity: "glandular reaction"
-entity_type: "concept"
-reading_count: 6
-mention_count: 6
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # glandular reaction
 
-**glandular reaction** (concept) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**glandular reaction** (concept, condition) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning glandular reaction
 
-[[941-1]], [[1296-1]], [[1393-3]], [[1413-1]], [[1468-5]], [[3115-1]]
+[[487-22]], [[569-17]], [[982-5]], [[1139-1]], [[1309-6]], [[2318-1]], [[2899-1]], [[3115-1]], [[3523-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

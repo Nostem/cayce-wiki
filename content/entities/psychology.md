@@ -1,18 +1,21 @@
 ---
 entity: "psychology"
-entity_type: "concept"
-reading_count: 13
-mention_count: 13
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # psychology
 
-**psychology** (concept) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**psychology** (concept, remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning psychology
 
-[[136-11]], [[186-1]], [[204-1]], [[264-32]], [[341-30]], [[345-3]], [[346-1]], [[987-5]], [[2814-1]], [[2984-1]], [[4035-1]], [[5328-1]], [[5358-1]]
+[[264-33]], [[437-5]], [[987-5]], [[2473-1]], [[2733-3]], [[5383-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

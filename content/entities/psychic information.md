@@ -1,18 +1,21 @@
 ---
 entity: "psychic information"
-entity_type: "concept"
-reading_count: 3
-mention_count: 3
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # psychic information
 
-**psychic information** (concept) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**psychic information** (concept) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning psychic information
 
-[[254-74]], [[5752-4]], [[5752-5]]
+[[254-30]], [[254-74]], [[254-100]], [[254-106]], [[364-1]], [[900-195]], [[954-6]], [[5752-6]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

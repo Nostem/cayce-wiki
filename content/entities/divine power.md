@@ -1,18 +1,21 @@
 ---
 entity: "divine power"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
 # divine power
 
-**divine power** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**divine power** (concept) appears in **13 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning divine power
 
-[[77-1]], [[900-254]], [[3086-1]], [[4906-1]]
+[[77-1]], [[863-1]], [[900-269]], [[992-1]], [[1817-2]], [[1865-4]], [[2193-1]], [[3086-1]], [[3865-1]], [[4191-1]], [[4747-2]], [[4844-1]], [[4906-3]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

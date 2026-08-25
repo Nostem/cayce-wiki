@@ -1,18 +1,21 @@
 ---
-entity: "ezekiel"
-entity_type: "person"
-reading_count: 4
-mention_count: 4
-tags: [entity, person]
+entity: "Ezekiel"
+entity_types: ["person"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
-# ezekiel
+# Ezekiel
 
-**ezekiel** (person) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Ezekiel** (person) appears in **12 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning ezekiel
+## Readings mentioning Ezekiel
 
-[[137-121]], [[143-1]], [[900-428]], [[2886-1]]
+[[137-4]], [[137-118]], [[165-2]], [[257-10]], [[257-201]], [[759-1]], [[900-275]], [[900-428]], [[1001-7]], [[1341-1]], [[1499-1]], [[2886-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "gilbert morris"
-entity_type: "person"
-reading_count: 5
-mention_count: 5
-tags: [entity, person]
+entity: "Gilbert Morris"
+entity_types: ["person"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
-# gilbert morris
+# Gilbert Morris
 
-**gilbert morris** (person) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**Gilbert Morris** (person) appears in **6 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning gilbert morris
+## Readings mentioning Gilbert Morris
 
-[[257-126]], [[257-127]], [[257-128]], [[257-134]], [[264-44]]
+[[257-128]], [[257-129]], [[257-131]], [[257-134]], [[257-136]], [[264-44]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

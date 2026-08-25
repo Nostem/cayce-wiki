@@ -1,18 +1,21 @@
 ---
 entity: "thyroid imbalance"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # thyroid imbalance
 
-**thyroid imbalance** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**thyroid imbalance** (condition) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning thyroid imbalance
 
-[[813-2]], [[2315-1]]
+[[136-11]], [[614-1]], [[1074-1]], [[1151-28]], [[1837-2]], [[1866-10]], [[1968-7]], [[2571-2]], [[3495-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

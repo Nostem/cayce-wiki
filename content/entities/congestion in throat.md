@@ -1,18 +1,21 @@
 ---
 entity: "congestion in throat"
-entity_type: "condition"
-reading_count: 5
-mention_count: 5
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 22
+literal_reading_count: 0
+semantic_reading_count: 22
+literal_mention_count: 0
+semantic_mention_count: 22
+tags: [entity, semantic]
 ---
 
 # congestion in throat
 
-**congestion in throat** (condition) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**congestion in throat** (condition) appears in **22 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning congestion in throat
 
-[[252-1]], [[951-3]], [[953-18]], [[1710-1]], [[2243-1]]
+[[136-53]], [[205-1]], [[252-1]], [[264-29]], [[264-42]], [[288-32]], [[294-115]], [[508-1]], [[583-6]], [[599-4]], [[758-28]], [[900-371]], [[951-3]], [[953-15]], [[2402-1]], [[3816-1]], [[4295-1]], [[4329-3]], [[4886-1]], [[5334-1]], [[5618-1]], [[5717-3]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

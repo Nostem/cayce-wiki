@@ -1,18 +1,21 @@
 ---
 entity: "kidney taxation"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # kidney taxation
 
-**kidney taxation** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**kidney taxation** (condition) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning kidney taxation
 
-[[2903-2]], [[5580-1]]
+[[470-7]], [[3776-15]], [[4221-1]], [[4318-1]], [[4586-2]], [[5474-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

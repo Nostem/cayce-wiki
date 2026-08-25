@@ -1,18 +1,21 @@
 ---
 entity: "geological formations"
-entity_type: "concept"
-reading_count: 20
-mention_count: 20
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 26
+literal_reading_count: 0
+semantic_reading_count: 26
+literal_mention_count: 0
+semantic_mention_count: 26
+tags: [entity, semantic]
 ---
 
 # geological formations
 
-**geological formations** (concept) appears in **20 readings** (20 mentions) — extracted by LLM semantic analysis.
+**geological formations** (concept) appears in **26 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning geological formations
 
-[[370-1]], [[1561-13]], [[1561-14]], [[3825-3]], [[3940-2]], [[3940-3]], [[4141-3]], [[4141-4]], [[4398-2]], [[4416-1]], [[4905-48]], [[5548-2]], [[5628-3]], [[5628-5]], [[5637-1]], [[5637-2]], [[5637-3]], [[5741-1]], [[5741-11]], [[5742-1]]
+[[261-30]], [[437-9]], [[1180-1]], [[1180-6]], [[1561-13]], [[3777-12]], [[3940-3]], [[3940-4]], [[4141-3]], [[4203-1]], [[4203-6]], [[4416-1]], [[4905-9]], [[4905-15]], [[4905-16]], [[4905-22]], [[4905-28]], [[4905-36]], [[4905-48]], [[5628-1]], [[5628-3]], [[5628-5]], [[5637-1]], [[5637-3]], [[5741-4]], [[5741-11]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "thickening of tissue"
-entity_type: "condition"
-reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # thickening of tissue
 
-**thickening of tissue** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**thickening of tissue** (condition) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning thickening of tissue
 
-[[523-1]], [[667-1]], [[668-1]], [[843-2]], [[1926-1]], [[4280-5]]
+[[377-1]], [[732-1]], [[772-4]], [[1187-11]], [[4125-1]], [[5285-1]], [[5459-5]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

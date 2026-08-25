@@ -1,18 +1,21 @@
 ---
 entity: "muscular relaxation"
-entity_type: "concept"
+entity_types: ["concept", "remedy"]
 reading_count: 3
-mention_count: 3
-tags: [entity, concept]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # muscular relaxation
 
-**muscular relaxation** (concept) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**muscular relaxation** (concept, remedy) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning muscular relaxation
 
-[[1636-2]], [[2499-1]], [[4814-1]]
+[[243-9]], [[5568-6]], [[5671-3]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

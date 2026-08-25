@@ -1,18 +1,21 @@
 ---
-entity: "charles francis taylor"
-entity_type: "person"
+entity: "Charles Francis Taylor"
+entity_types: ["person"]
 reading_count: 3
-mention_count: 3
-tags: [entity, person]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# charles francis taylor
+# Charles Francis Taylor
 
-**charles francis taylor** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Charles Francis Taylor** (person) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning charles francis taylor
+## Readings mentioning Charles Francis Taylor
 
-[[146-10]], [[264-10]], [[1122-12]]
+[[264-10]], [[1122-12]], [[5636-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

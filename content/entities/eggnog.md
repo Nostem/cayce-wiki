@@ -1,18 +1,21 @@
 ---
 entity: "eggnog"
-entity_type: "remedy"
-reading_count: 10
-mention_count: 10
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
 # eggnog
 
-**eggnog** (remedy) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**eggnog** (remedy) appears in **13 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning eggnog
 
-[[137-80]], [[265-9]], [[274-11]], [[294-190]], [[303-28]], [[357-12]], [[533-16]], [[556-9]], [[916-1]], [[3398-1]]
+[[23-4]], [[137-80]], [[265-8]], [[265-9]], [[294-190]], [[307-10]], [[357-12]], [[538-34]], [[556-9]], [[1409-2]], [[2074-2]], [[2806-1]], [[3398-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

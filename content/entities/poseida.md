@@ -1,18 +1,21 @@
 ---
-entity: "poseida"
-entity_type: "place"
-reading_count: 5
-mention_count: 5
-tags: [entity, place]
+entity: "Poseida"
+entity_types: ["place"]
+reading_count: 21
+literal_reading_count: 0
+semantic_reading_count: 21
+literal_mention_count: 0
+semantic_mention_count: 21
+tags: [entity, semantic]
 ---
 
-# poseida
+# Poseida
 
-**poseida** (place) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**Poseida** (place) appears in **21 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning poseida
+## Readings mentioning Poseida
 
-[[140-3]], [[234-1]], [[364-12]], [[2790-2]], [[4228-1]]
+[[23-1]], [[38-1]], [[240-2]], [[288-10]], [[303-1]], [[329-1]], [[364-1]], [[364-12]], [[413-1]], [[488-5]], [[1102-1]], [[1564-1]], [[1924-1]], [[2122-1]], [[2713-5]], [[2886-1]], [[2894-1]], [[2897-1]], [[4219-3]], [[4228-1]], [[4361-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

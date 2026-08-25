@@ -1,18 +1,21 @@
 ---
-entity: "central park"
-entity_type: "place"
-reading_count: 2
-mention_count: 2
-tags: [entity, place]
+entity: "Central Park"
+entity_types: ["place"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
-# central park
+# Central Park
 
-**central park** (place) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Central Park** (place) appears in **5 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning central park
+## Readings mentioning Central Park
 
-[[137-66]], [[900-185]]
+[[137-66]], [[900-79]], [[900-185]], [[900-205]], [[1838-2]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

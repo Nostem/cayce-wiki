@@ -1,18 +1,21 @@
 ---
 entity: "blood purification"
-entity_type: "concept"
+entity_types: ["concept"]
 reading_count: 8
-mention_count: 8
-tags: [entity, concept]
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # blood purification
 
-**blood purification** (concept) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**blood purification** (concept) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning blood purification
 
-[[243-26]], [[276-5]], [[975-1]], [[2977-1]], [[3122-1]], [[3650-1]], [[3774-1]], [[5704-1]]
+[[211-1]], [[253-2]], [[501-4]], [[528-1]], [[975-1]], [[1521-4]], [[1826-4]], [[5570-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

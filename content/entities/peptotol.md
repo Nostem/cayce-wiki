@@ -1,18 +1,21 @@
 ---
 entity: "peptotol"
-entity_type: "remedy"
-reading_count: 12
-mention_count: 12
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # peptotol
 
-**peptotol** (remedy) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**peptotol** (remedy) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning peptotol
 
-[[28-1]], [[125-1]], [[515-1]], [[4197-1]], [[4377-1]], [[4622-1]], [[4685-4]], [[4695-2]], [[4696-1]], [[5421-3]], [[5618-3]], [[5618-4]]
+[[28-1]], [[125-1]], [[900-294]], [[4235-1]], [[4281-6]], [[4377-1]], [[4622-1]], [[4695-2]], [[5421-3]], [[5524-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

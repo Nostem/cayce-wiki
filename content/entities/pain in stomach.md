@@ -1,18 +1,21 @@
 ---
 entity: "pain in stomach"
-entity_type: "condition"
-reading_count: 5
-mention_count: 5
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # pain in stomach
 
-**pain in stomach** (condition) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**pain in stomach** (condition) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning pain in stomach
 
-[[421-12]], [[1840-1]], [[4266-1]], [[4520-2]], [[4786-1]]
+[[208-1]], [[1149-1]], [[1930-1]], [[2995-1]], [[3768-1]], [[4520-2]], [[5686-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

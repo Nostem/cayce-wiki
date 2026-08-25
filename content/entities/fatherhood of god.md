@@ -1,18 +1,21 @@
 ---
-entity: "fatherhood of god"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity: "fatherhood of God"
+entity_types: ["concept"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
-# fatherhood of god
+# fatherhood of God
 
-**fatherhood of god** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**fatherhood of God** (concept) appears in **5 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning fatherhood of god
+## Readings mentioning fatherhood of God
 
-[[69-3]], [[900-189]], [[1151-23]], [[1151-29]]
+[[294-144]], [[900-189]], [[1151-29]], [[2981-4]], [[3976-24]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

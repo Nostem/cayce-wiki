@@ -1,18 +1,21 @@
 ---
 entity: "marriage"
-entity_type: "concept"
-reading_count: 21
-mention_count: 21
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 28
+literal_reading_count: 0
+semantic_reading_count: 28
+literal_mention_count: 0
+semantic_mention_count: 28
+tags: [entity, semantic]
 ---
 
 # marriage
 
-**marriage** (concept) appears in **21 readings** (21 mentions) — extracted by LLM semantic analysis.
+**marriage** (concept, remedy) appears in **28 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning marriage
 
-[[78-5]], [[257-15]], [[308-13]], [[349-18]], [[427-5]], [[480-14]], [[480-20]], [[538-15]], [[558-2]], [[815-5]], [[900-39]], [[939-1]], [[1733-1]], [[1947-5]], [[1947-8]], [[1947-9]], [[2588-2]], [[2811-3]], [[3915-1]], [[4162-2]], [[4646-5]]
+[[295-3]], [[302-2]], [[341-48]], [[349-17]], [[349-18]], [[349-19]], [[390-1]], [[391-7]], [[391-15]], [[440-20]], [[480-1]], [[480-21]], [[551-8]], [[558-2]], [[622-7]], [[826-6]], [[849-12]], [[903-3]], [[939-1]], [[1089-8]], [[1722-1]], [[1947-8]], [[2588-2]], [[4586-4]], [[4646-5]], [[5594-1]], [[5594-2]], [[5666-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

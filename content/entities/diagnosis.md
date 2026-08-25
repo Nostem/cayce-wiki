@@ -1,18 +1,21 @@
 ---
 entity: "diagnosis"
-entity_type: "concept"
+entity_types: ["concept"]
 reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # diagnosis
 
-**diagnosis** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**diagnosis** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning diagnosis
 
-[[294-1]], [[4970-1]], [[4974-1]], [[5778-1]]
+[[927-1]], [[3751-1]], [[3775-1]], [[4950-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

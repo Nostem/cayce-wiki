@@ -1,18 +1,21 @@
 ---
 entity: "charcoal tablet"
-entity_type: "remedy"
-reading_count: 7
-mention_count: 7
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # charcoal tablet
 
-**charcoal tablet** (remedy) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**charcoal tablet** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning charcoal tablet
 
-[[81-2]], [[283-3]], [[304-27]], [[325-11]], [[371-1]], [[550-1]], [[1158-24]]
+[[81-2]], [[283-3]], [[371-1]], [[3622-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

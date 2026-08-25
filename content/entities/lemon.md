@@ -1,18 +1,21 @@
 ---
 entity: "lemon"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 4
-mention_count: 4
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # lemon
 
-**lemon** (remedy) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**lemon** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning lemon
 
-[[543-14]], [[808-4]], [[1409-7]], [[1553-23]]
+[[307-18]], [[348-12]], [[528-9]], [[543-14]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

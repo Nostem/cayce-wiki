@@ -1,18 +1,21 @@
 ---
 entity: "fainting"
-entity_type: "condition"
-reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # fainting
 
-**fainting** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**fainting** (condition) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning fainting
 
-[[106-11]], [[361-11]], [[414-2]], [[561-3]], [[900-346]], [[4072-1]]
+[[287-13]], [[324-2]], [[361-11]], [[414-2]], [[1673-1]], [[2084-4]], [[2288-1]], [[2617-1]], [[2859-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

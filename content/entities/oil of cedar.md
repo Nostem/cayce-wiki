@@ -1,18 +1,21 @@
 ---
 entity: "oil of cedar"
-entity_type: "remedy"
-reading_count: 8
-mention_count: 8
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # oil of cedar
 
-**oil of cedar** (remedy) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**oil of cedar** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning oil of cedar
 
-[[298-1]], [[327-2]], [[327-4]], [[390-1]], [[949-3]], [[2123-1]], [[2504-20]], [[4754-1]]
+[[327-2]], [[464-15]], [[1187-6]], [[4754-1]], [[4762-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

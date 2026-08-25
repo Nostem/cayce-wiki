@@ -1,18 +1,21 @@
 ---
 entity: "regurgitation"
-entity_type: "condition"
-reading_count: 36
-mention_count: 36
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 50
+literal_reading_count: 0
+semantic_reading_count: 50
+literal_mention_count: 0
+semantic_mention_count: 50
+tags: [entity, semantic]
 ---
 
 # regurgitation
 
-**regurgitation** (condition) appears in **36 readings** (36 mentions) — extracted by LLM semantic analysis.
+**regurgitation** (condition) appears in **50 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning regurgitation
 
-[[39-1]], [[294-111]], [[340-27]], [[389-4]], [[433-1]], [[462-6]], [[502-1]], [[616-1]], [[624-4]], [[667-8]], [[710-1]], [[787-1]], [[815-1]], [[843-2]], [[875-1]], [[943-1]], [[1023-1]], [[1034-1]], [[1208-14]], [[1210-5]], [[1481-1]], [[1565-4]], [[1566-1]], [[1623-4]], [[1697-1]], [[1788-6]], [[1820-3]], [[2225-1]], [[2373-1]], [[2796-2]], [[3054-1]], [[3644-1]], [[4722-1]], [[5541-1]], [[5621-2]], [[5641-4]]
+[[313-18]], [[325-16]], [[325-28]], [[325-52]], [[327-1]], [[340-27]], [[389-4]], [[503-1]], [[616-1]], [[624-4]], [[719-2]], [[760-7]], [[760-8]], [[843-2]], [[852-6]], [[855-1]], [[943-1]], [[961-2]], [[1034-1]], [[1055-1]], [[1241-1]], [[1312-2]], [[1460-1]], [[1565-4]], [[1566-1]], [[1566-2]], [[1623-4]], [[1646-4]], [[1688-3]], [[1693-1]], [[1724-2]], [[1788-6]], [[2085-4]], [[2189-3]], [[2225-1]], [[2373-1]], [[2713-4]], [[2920-1]], [[3054-1]], [[3419-1]], [[3644-1]], [[3739-1]], [[4175-1]], [[4451-1]], [[4452-1]], [[4727-1]], [[5509-1]], [[5541-1]], [[5641-1]], [[5641-4]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

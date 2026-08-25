@@ -1,18 +1,21 @@
 ---
 entity: "bay rum"
-entity_type: "remedy"
-reading_count: 6
-mention_count: 6
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # bay rum
 
-**bay rum** (remedy) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**bay rum** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning bay rum
 
-[[289-1]], [[658-2]], [[658-3]], [[658-5]], [[658-9]], [[1800-29]]
+[[658-2]], [[658-5]], [[658-16]], [[1800-29]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "brace"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # brace
 
-**brace** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**brace** (remedy) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning brace
 
-[[199-1]], [[581-1]]
+[[303-21]], [[367-2]], [[581-1]], [[1384-2]], [[1424-2]], [[3918-2]], [[4630-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

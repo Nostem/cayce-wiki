@@ -1,18 +1,21 @@
 ---
 entity: "oil of white pine"
-entity_type: "remedy"
-reading_count: 9
-mention_count: 9
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # oil of white pine
 
-**oil of white pine** (remedy) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**oil of white pine** (remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning oil of white pine
 
-[[3354-1]], [[4273-1]], [[4517-1]], [[4573-1]], [[4653-1]], [[4790-2]], [[4804-1]], [[4815-2]], [[4838-1]]
+[[3951-1]], [[4273-1]], [[4436-2]], [[4517-1]], [[4573-1]], [[4815-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

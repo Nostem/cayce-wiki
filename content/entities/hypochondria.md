@@ -1,18 +1,21 @@
 ---
 entity: "hypochondria"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # hypochondria
 
-**hypochondria** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**hypochondria** (condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning hypochondria
 
-[[3452-1]], [[3585-1]]
+[[202-1]], [[202-4]], [[202-6]], [[600-2]], [[825-1]], [[2370-1]], [[3452-1]], [[3585-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

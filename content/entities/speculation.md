@@ -1,18 +1,21 @@
 ---
 entity: "speculation"
-entity_type: "concept"
+entity_types: ["concept"]
 reading_count: 11
-mention_count: 11
-tags: [entity, concept]
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # speculation
 
-**speculation** (concept) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**speculation** (concept) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning speculation
 
-[[257-45]], [[257-73]], [[416-11]], [[900-296]], [[900-313]], [[900-432]], [[900-433]], [[900-446]], [[1561-5]], [[2708-3]], [[3818-7]]
+[[137-116]], [[165-9]], [[195-19]], [[195-24]], [[254-28]], [[657-2]], [[657-3]], [[1561-5]], [[2708-3]], [[3818-7]], [[5392-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

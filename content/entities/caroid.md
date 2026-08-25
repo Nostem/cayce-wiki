@@ -1,18 +1,21 @@
 ---
 entity: "caroid"
-entity_type: "remedy"
-reading_count: 11
-mention_count: 11
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # caroid
 
-**caroid** (remedy) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**caroid** (remedy) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning caroid
 
-[[265-8]], [[554-9]], [[573-3]], [[602-6]], [[635-6]], [[930-2]], [[1129-1]], [[1960-1]], [[2057-1]], [[2078-1]], [[2182-1]]
+[[294-193]], [[554-9]], [[5473-7]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

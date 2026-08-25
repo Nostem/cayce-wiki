@@ -1,18 +1,21 @@
 ---
 entity: "courage"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # courage
 
-**courage** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**courage** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning courage
 
-[[165-24]], [[409-17]], [[877-19]], [[1408-2]], [[3013-1]]
+[[165-24]], [[409-17]], [[900-261]], [[5475-7]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

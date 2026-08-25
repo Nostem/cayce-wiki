@@ -1,18 +1,21 @@
 ---
 entity: "nerve taxation"
-entity_type: "concept"
+entity_types: ["condition"]
 reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # nerve taxation
 
-**nerve taxation** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**nerve taxation** (condition) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning nerve taxation
 
-[[2255-1]], [[4105-1]], [[4300-2]], [[5453-1]]
+[[953-1]], [[1005-1]], [[3756-1]], [[4371-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

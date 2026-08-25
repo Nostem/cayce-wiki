@@ -1,18 +1,21 @@
 ---
 entity: "psychopathic effect"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # psychopathic effect
 
-**psychopathic effect** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**psychopathic effect** (concept) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning psychopathic effect
 
-[[392-1]], [[1005-7]], [[2253-2]], [[2504-17]], [[4451-1]]
+[[566-7]], [[656-1]], [[2214-1]], [[2253-2]], [[2504-17]], [[4091-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

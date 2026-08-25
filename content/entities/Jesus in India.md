@@ -1,17 +1,21 @@
 ---
 entity: "Jesus in India"
-mention_count: 2
+entity_types: ["place"]
 reading_count: 1
-tags: [entity]
+literal_reading_count: 1
+semantic_reading_count: 1
+literal_mention_count: 2
+semantic_mention_count: 1
+tags: [entity, semantic]
 ---
 
 # Jesus in India
 
-**Jesus in India** appears in **1 readings** (2 total mentions) across the corpus.
+**Jesus in India** (place) appears in **1 readings** — indexed through hybrid literal and LLM extraction.
 
 ## Readings mentioning Jesus in India
 
 [[2067-7]]
 
 ---
-*Auto-generated entity index. 1 readings, 2 mentions.*
+*Auto-generated index. LLM classifications should be verified before citation.*

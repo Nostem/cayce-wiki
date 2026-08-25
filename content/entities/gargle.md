@@ -1,18 +1,21 @@
 ---
 entity: "gargle"
-entity_type: "remedy"
-reading_count: 5
-mention_count: 5
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # gargle
 
-**gargle** (remedy) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**gargle** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning gargle
 
-[[140-24]], [[288-12]], [[505-1]], [[759-6]], [[1739-7]]
+[[137-85]], [[140-24]], [[195-55]], [[622-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

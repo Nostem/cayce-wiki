@@ -1,18 +1,21 @@
 ---
 entity: "spiritual attitudes"
-entity_type: "concept"
-reading_count: 19
-mention_count: 19
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # spiritual attitudes
 
-**spiritual attitudes** (concept) appears in **19 readings** (19 mentions) — extracted by LLM semantic analysis.
+**spiritual attitudes** (concept) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning spiritual attitudes
 
-[[254-64]], [[255-6]], [[263-8]], [[308-4]], [[480-45]], [[849-34]], [[1231-1]], [[1309-7]], [[1546-1]], [[1770-7]], [[2049-1]], [[2153-10]], [[2276-4]], [[2432-1]], [[2454-1]], [[3142-1]], [[3452-1]], [[3511-1]], [[3527-1]]
+[[257-225]], [[308-4]], [[480-45]], [[849-34]], [[1431-2]], [[2153-10]], [[2527-2]], [[5232-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "brain tumor"
-entity_type: "condition"
-reading_count: 4
-mention_count: 4
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # brain tumor
 
-**brain tumor** (condition) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**brain tumor** (condition) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning brain tumor
 
-[[254-79]], [[1811-2]], [[2996-1]], [[3396-1]]
+[[673-1]], [[1048-1]], [[1121-1]], [[1811-2]], [[3219-1]], [[3396-1]], [[3431-1]], [[5167-1]], [[5238-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

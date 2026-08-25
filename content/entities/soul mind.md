@@ -1,18 +1,21 @@
 ---
 entity: "soul mind"
-entity_type: "concept"
+entity_types: ["concept"]
 reading_count: 3
-mention_count: 3
-tags: [entity, concept]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # soul mind
 
-**soul mind** (concept) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**soul mind** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning soul mind
 
-[[255-12]], [[364-5]], [[5125-1]]
+[[853-8]], [[900-21]], [[900-305]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

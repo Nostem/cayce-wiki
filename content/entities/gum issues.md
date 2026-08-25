@@ -1,18 +1,21 @@
 ---
 entity: "gum issues"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # gum issues
 
-**gum issues** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**gum issues** (condition) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning gum issues
 
-[[1467-4]], [[5345-1]]
+[[199-4]], [[263-20]], [[264-49]], [[283-3]], [[808-3]], [[844-2]], [[2376-3]], [[2533-3]], [[4339-1]], [[5345-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "kindness"
-entity_type: "concept"
-reading_count: 53
-mention_count: 53
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 30
+literal_reading_count: 0
+semantic_reading_count: 30
+literal_mention_count: 0
+semantic_mention_count: 30
+tags: [entity, semantic]
 ---
 
 # kindness
 
-**kindness** (concept) appears in **53 readings** (53 mentions) — extracted by LLM semantic analysis.
+**kindness** (concept, remedy) appears in **30 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning kindness
 
-[[254-97]], [[262-47]], [[262-69]], [[272-9]], [[281-17]], [[307-19]], [[311-5]], [[378-22]], [[378-35]], [[410-2]], [[415-11]], [[470-14]], [[489-1]], [[900-116]], [[1001-5]], [[1072-1]], [[1151-8]], [[1183-3]], [[1551-2]], [[1789-1]], [[1966-1]], [[1990-3]], [[2014-2]], [[2072-15]], [[2127-1]], [[2670-1]], [[2778-2]], [[2778-4]], [[2987-1]], [[3100-1]], [[3129-1]], [[3211-2]], [[3308-1]], [[3341-1]], [[3365-1]], [[3388-1]], [[3647-1]], [[3700-1]], [[3976-17]], [[4065-1]], [[5044-1]], [[5046-1]], [[5098-1]], [[5177-2]], [[5194-1]], [[5206-1]], [[5303-1]], [[5318-1]], [[5350-1]], [[5352-1]], [[5405-1]], [[5452-1]], [[5749-13]]
+[[262-106]], [[262-109]], [[262-110]], [[288-27]], [[294-208]], [[470-14]], [[1001-5]], [[1072-1]], [[1183-3]], [[1789-1]], [[2014-2]], [[2376-3]], [[2670-1]], [[2778-4]], [[2881-3]], [[3169-1]], [[3286-1]], [[3365-1]], [[3382-1]], [[3568-1]], [[3580-1]], [[3685-1]], [[3700-1]], [[3802-1]], [[4002-1]], [[5046-1]], [[5092-1]], [[5268-1]], [[5350-1]], [[5352-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

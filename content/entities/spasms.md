@@ -1,18 +1,21 @@
 ---
 entity: "spasms"
-entity_type: "condition"
-reading_count: 5
-mention_count: 5
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # spasms
 
-**spasms** (condition) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**spasms** (condition) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning spasms
 
-[[627-1]], [[3593-1]], [[3881-1]], [[4072-1]], [[4298-1]]
+[[627-1]], [[1594-1]], [[3146-1]], [[3593-1]], [[3700-1]], [[4443-1]], [[4678-1]], [[5089-4]], [[5579-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "gobi land"
-entity_type: "place"
-reading_count: 8
-mention_count: 8
-tags: [entity, place]
+entity: "Gobi land"
+entity_types: ["place"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# gobi land
+# Gobi land
 
-**gobi land** (place) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**Gobi land** (place) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning gobi land
+## Readings mentioning Gobi land
 
-[[1554-3]], [[2067-4]], [[2746-3]], [[2982-4]], [[3201-2]], [[3617-1]], [[5272-1]], [[5355-1]]
+[[877-12]], [[1554-3]], [[1709-3]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

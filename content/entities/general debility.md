@@ -1,18 +1,21 @@
 ---
 entity: "general debility"
-entity_type: "condition"
-reading_count: 8
-mention_count: 8
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # general debility
 
-**general debility** (condition) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**general debility** (condition) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning general debility
 
-[[2638-1]], [[3913-1]], [[4190-1]], [[4265-1]], [[4467-1]], [[4694-1]], [[4839-1]], [[5297-1]]
+[[301-3]], [[3913-1]], [[4190-1]], [[4265-1]], [[4467-1]], [[4670-1]], [[4694-1]], [[5297-1]], [[5438-1]], [[5529-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

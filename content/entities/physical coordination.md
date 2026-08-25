@@ -1,18 +1,21 @@
 ---
 entity: "physical coordination"
-entity_type: "concept"
-reading_count: 7
-mention_count: 7
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # physical coordination
 
-**physical coordination** (concept) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**physical coordination** (concept) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning physical coordination
 
-[[666-1]], [[744-1]], [[758-36]], [[2153-12]], [[2501-5]], [[3863-2]], [[4712-1]]
+[[325-18]], [[758-9]], [[1553-26]], [[3970-1]], [[4879-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "hannah"
-entity_type: "person"
-reading_count: 6
-mention_count: 6
-tags: [entity, person]
+entity: "Hannah"
+entity_types: ["person"]
+reading_count: 15
+literal_reading_count: 0
+semantic_reading_count: 15
+literal_mention_count: 0
+semantic_mention_count: 15
+tags: [entity, semantic]
 ---
 
-# hannah
+# Hannah
 
-**hannah** (person) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**Hannah** (person) appears in **15 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning hannah
+## Readings mentioning Hannah
 
-[[281-46]], [[404-1]], [[457-10]], [[1472-3]], [[2977-2]], [[5752-2]]
+[[281-46]], [[404-1]], [[457-3]], [[457-10]], [[1367-1]], [[1472-3]], [[1521-1]], [[1521-2]], [[1968-10]], [[2067-11]], [[2282-1]], [[2977-2]], [[3027-2]], [[4562-2]], [[5747-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

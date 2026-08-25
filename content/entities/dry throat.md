@@ -1,18 +1,21 @@
 ---
 entity: "dry throat"
-entity_type: "condition"
-reading_count: 7
-mention_count: 7
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # dry throat
 
-**dry throat** (condition) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**dry throat** (condition) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning dry throat
 
-[[190-1]], [[249-1]], [[340-2]], [[1412-1]], [[2157-2]], [[2360-1]], [[3994-1]]
+[[249-1]], [[257-131]], [[306-1]], [[416-16]], [[1196-4]], [[1276-1]], [[1412-1]], [[2157-2]], [[2243-1]], [[4320-2]], [[5592-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

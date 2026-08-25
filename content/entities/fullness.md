@@ -1,18 +1,21 @@
 ---
 entity: "fullness"
-entity_type: "condition"
-reading_count: 10
-mention_count: 10
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # fullness
 
-**fullness** (condition) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**fullness** (condition) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning fullness
 
-[[623-4]], [[984-2]], [[1158-1]], [[2058-2]], [[4303-1]], [[4498-1]], [[4576-1]], [[4784-1]], [[4887-1]], [[5599-1]]
+[[287-17]], [[421-9]], [[2058-2]], [[4776-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "gordon gin"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 5
-mention_count: 5
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # gordon gin
 
-**gordon gin** (remedy) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**gordon gin** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning gordon gin
 
-[[470-21]], [[502-1]], [[900-382]], [[4378-1]], [[5583-1]]
+[[470-21]], [[481-3]], [[900-382]], [[943-1]], [[953-15]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

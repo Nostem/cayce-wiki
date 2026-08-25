@@ -1,18 +1,21 @@
 ---
 entity: "neuropathic manipulation"
-entity_type: "remedy"
-reading_count: 3
-mention_count: 3
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # neuropathic manipulation
 
-**neuropathic manipulation** (remedy) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**neuropathic manipulation** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning neuropathic manipulation
 
-[[461-1]], [[4682-1]], [[4849-1]]
+[[461-1]], [[1800-16]], [[4260-1]], [[4666-1]], [[4853-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

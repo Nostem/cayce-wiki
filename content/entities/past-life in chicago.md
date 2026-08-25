@@ -1,18 +1,21 @@
 ---
-entity: "past-life in chicago"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity: "past-life in Chicago"
+entity_types: ["concept"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
-# past-life in chicago
+# past-life in Chicago
 
-**past-life in chicago** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**past-life in Chicago** (concept) appears in **7 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning past-life in chicago
+## Readings mentioning past-life in Chicago
 
-[[587-3]], [[1074-2]]
+[[553-1]], [[891-1]], [[990-1]], [[1096-1]], [[1885-2]], [[3205-1]], [[3395-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

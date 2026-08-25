@@ -1,18 +1,21 @@
 ---
 entity: "New Mexico"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity_types: ["place"]
+reading_count: 77
+literal_reading_count: 75
+semantic_reading_count: 50
+literal_mention_count: 130
+semantic_mention_count: 50
+tags: [entity, semantic]
 ---
 
 # New Mexico
 
-**New Mexico** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**New Mexico** (place) appears in **77 readings** — indexed through hybrid literal and LLM extraction.
 
 ## Readings mentioning New Mexico
 
-[[195-13]], [[707-4]], [[1180-9]]
+[[14-1]], [[101-1]], [[165-2]], [[165-5]], [[195-13]], [[195-14]], [[195-41]], [[198-1]], [[257-76]], [[257-133]], [[257-142]], [[257-246]], [[257-247]], [[257-248]], [[262-16]], [[294-19]], [[294-161]], [[294-174]], [[346-2]], [[358-3]], [[656-1]], [[670-1]], [[670-5]], [[688-4]], [[699-1]], [[707-1]], [[707-3]], [[707-4]], [[851-2]], [[900-265]], [[918-1]], [[949-13]], [[962-1]], [[993-1]], [[993-2]], [[1144-2]], [[1180-5]], [[1180-6]], [[1180-7]], [[1180-8]], [[1180-9]], [[1211-1]], [[1252-1]], [[1315-10]], [[1561-11]], [[1565-1]], [[1612-4]], [[1770-7]], [[1912-1]], [[2246-1]], [[2288-2]], [[2519-7]], [[2519-8]], [[2665-2]], [[2822-1]], [[3054-4]], [[3137-1]], [[3211-3]], [[3513-1]], [[3812-18]], [[3823-1]], [[4283-5]], [[4543-2]], [[4621-2]], [[4758-1]], [[4905-58]], [[4954-1]], [[5004-1]], [[5037-2]], [[5055-1]], [[5120-1]], [[5144-1]], [[5272-1]], [[5321-1]], [[5399-2]], [[5729-1]], [[5750-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

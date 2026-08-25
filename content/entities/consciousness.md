@@ -1,18 +1,21 @@
 ---
 entity: "consciousness"
-entity_type: "concept"
-reading_count: 51
-mention_count: 51
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 41
+literal_reading_count: 0
+semantic_reading_count: 41
+literal_mention_count: 0
+semantic_mention_count: 41
+tags: [entity, semantic]
 ---
 
 # consciousness
 
-**consciousness** (concept) appears in **51 readings** (51 mentions) — extracted by LLM semantic analysis.
+**consciousness** (concept) appears in **41 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning consciousness
 
-[[136-12]], [[136-23]], [[137-5]], [[137-88]], [[254-30]], [[262-23]], [[262-33]], [[262-40]], [[262-54]], [[262-56]], [[262-115]], [[262-124]], [[262-126]], [[275-32]], [[281-4]], [[281-33]], [[294-87]], [[341-30]], [[538-28]], [[816-10]], [[826-11]], [[900-26]], [[900-31]], [[900-149]], [[900-168]], [[900-236]], [[900-250]], [[900-280]], [[900-314]], [[900-315]], [[900-342]], [[900-370]], [[900-385]], [[900-396]], [[900-453]], [[1122-13]], [[1122-14]], [[1274-18]], [[1377-1]], [[1472-1]], [[1909-2]], [[1947-3]], [[2072-4]], [[2466-1]], [[2830-2]], [[3817-1]], [[3976-3]], [[4757-1]], [[5749-3]], [[5753-1]], [[5755-1]]
+[[136-39]], [[137-97]], [[195-59]], [[262-54]], [[262-124]], [[262-126]], [[264-9]], [[264-12]], [[275-32]], [[294-87]], [[294-140]], [[552-2]], [[900-26]], [[900-34]], [[900-88]], [[900-127]], [[900-167]], [[900-237]], [[900-240]], [[900-247]], [[900-256]], [[900-257]], [[900-286]], [[900-308]], [[900-331]], [[900-342]], [[900-357]], [[900-367]], [[900-370]], [[900-461]], [[1122-14]], [[2501-7]], [[3399-1]], [[3446-2]], [[4422-1]], [[4478-1]], [[4487-1]], [[4666-3]], [[4907-2]], [[5752-3]], [[5754-3]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

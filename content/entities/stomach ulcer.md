@@ -1,18 +1,21 @@
 ---
 entity: "stomach ulcer"
-entity_type: "condition"
-reading_count: 5
-mention_count: 5
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # stomach ulcer
 
-**stomach ulcer** (condition) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**stomach ulcer** (condition) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning stomach ulcer
 
-[[348-8]], [[348-20]], [[1208-5]], [[1834-1]], [[3249-1]]
+[[348-9]], [[348-17]], [[464-12]], [[482-3]], [[815-7]], [[1834-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

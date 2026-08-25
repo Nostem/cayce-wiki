@@ -1,18 +1,21 @@
 ---
 entity: "spiritual assistance"
-entity_type: "concept"
+entity_types: ["concept", "remedy"]
 reading_count: 6
-mention_count: 6
-tags: [entity, concept]
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # spiritual assistance
 
-**spiritual assistance** (concept) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**spiritual assistance** (concept, remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning spiritual assistance
 
-[[254-15]], [[953-8]], [[1936-1]], [[2897-2]], [[3258-1]], [[4227-1]]
+[[139-10]], [[170-1]], [[294-44]], [[1000-24]], [[1465-2]], [[4478-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

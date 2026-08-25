@@ -1,18 +1,21 @@
 ---
 entity: "business"
-entity_type: "concept"
-reading_count: 3
-mention_count: 3
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # business
 
-**business** (concept) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**business** (concept) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning business
 
-[[391-15]], [[554-5]], [[900-44]]
+[[99-3]], [[1605-1]], [[5417-2]], [[5666-1]], [[5696-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

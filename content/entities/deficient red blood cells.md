@@ -1,18 +1,21 @@
 ---
 entity: "deficient red blood cells"
-entity_type: "condition"
-reading_count: 11
-mention_count: 11
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 24
+literal_reading_count: 0
+semantic_reading_count: 24
+literal_mention_count: 0
+semantic_mention_count: 24
+tags: [entity, semantic]
 ---
 
 # deficient red blood cells
 
-**deficient red blood cells** (condition) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**deficient red blood cells** (condition) appears in **24 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning deficient red blood cells
 
-[[32-1]], [[626-1]], [[2231-1]], [[3279-1]], [[3356-2]], [[3847-1]], [[3962-1]], [[4190-1]], [[4276-1]], [[4718-1]], [[5703-1]]
+[[536-1]], [[624-1]], [[781-1]], [[1739-1]], [[2231-1]], [[2242-1]], [[3279-1]], [[3356-2]], [[3847-1]], [[3921-1]], [[3925-1]], [[3959-1]], [[3962-1]], [[4190-1]], [[4439-1]], [[4481-1]], [[4558-1]], [[4646-1]], [[4699-1]], [[4718-1]], [[4761-1]], [[4868-1]], [[5618-4]], [[5703-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "dr. nona grapes"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Dr. Nona Grapes"
+entity_types: ["person"]
+reading_count: 15
+literal_reading_count: 0
+semantic_reading_count: 15
+literal_mention_count: 0
+semantic_mention_count: 15
+tags: [entity, semantic]
 ---
 
-# dr. nona grapes
+# Dr. Nona Grapes
 
-**dr. nona grapes** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Dr. Nona Grapes** (person) appears in **15 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning dr. nona grapes
+## Readings mentioning Dr. Nona Grapes
 
-[[654-2]], [[1413-2]]
+[[318-5]], [[394-1]], [[394-3]], [[394-10]], [[521-1]], [[654-2]], [[779-28]], [[1187-13]], [[1289-2]], [[1413-1]], [[1413-2]], [[1413-3]], [[1892-1]], [[3383-1]], [[4354-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

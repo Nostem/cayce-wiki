@@ -1,18 +1,21 @@
 ---
 entity: "artistic abilities"
-entity_type: "concept"
-reading_count: 16
-mention_count: 16
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # artistic abilities
 
-**artistic abilities** (concept) appears in **16 readings** (16 mentions) — extracted by LLM semantic analysis.
+**artistic abilities** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning artistic abilities
 
-[[328-1]], [[428-14]], [[718-2]], [[903-2]], [[1353-1]], [[1724-4]], [[1799-1]], [[1823-1]], [[1934-1]], [[2779-1]], [[3407-1]], [[3648-1]], [[4805-1]], [[4900-1]], [[5242-1]], [[5353-1]]
+[[1123-1]], [[1744-1]], [[2398-2]], [[3578-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

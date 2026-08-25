@@ -1,18 +1,21 @@
 ---
 entity: "arthritic tendencies"
-entity_type: "condition"
-reading_count: 12
-mention_count: 12
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # arthritic tendencies
 
-**arthritic tendencies** (condition) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**arthritic tendencies** (condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning arthritic tendencies
 
-[[865-2]], [[1281-1]], [[1756-1]], [[1984-1]], [[2816-1]], [[2923-1]], [[3157-1]], [[3395-1]], [[3413-1]], [[3524-2]], [[4075-1]], [[5215-1]]
+[[1309-7]], [[1811-1]], [[1820-1]], [[1888-1]], [[1984-1]], [[2555-1]], [[3413-1]], [[5215-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

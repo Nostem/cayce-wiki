@@ -1,18 +1,21 @@
 ---
 entity: "warm bath"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # warm bath
 
-**warm bath** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**warm bath** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning warm bath
 
-[[567-7]], [[3419-4]]
+[[2085-5]], [[2148-5]], [[2148-6]], [[3419-4]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

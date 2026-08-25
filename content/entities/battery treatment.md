@@ -1,18 +1,21 @@
 ---
 entity: "battery treatment"
-entity_type: "remedy"
-reading_count: 16
-mention_count: 16
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 19
+literal_reading_count: 0
+semantic_reading_count: 19
+literal_mention_count: 0
+semantic_mention_count: 19
+tags: [entity, semantic]
 ---
 
 # battery treatment
 
-**battery treatment** (remedy) appears in **16 readings** (16 mentions) — extracted by LLM semantic analysis.
+**battery treatment** (remedy) appears in **19 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning battery treatment
 
-[[45-5]], [[306-3]], [[394-8]], [[512-2]], [[599-4]], [[717-2]], [[1000-6]], [[2155-2]], [[2220-1]], [[3868-1]], [[3873-2]], [[4502-1]], [[4531-1]], [[4613-5]], [[4853-2]], [[5715-1]]
+[[147-15]], [[153-2]], [[264-23]], [[264-32]], [[306-3]], [[379-14]], [[394-8]], [[482-4]], [[838-2]], [[1553-12]], [[2155-3]], [[2155-4]], [[2501-3]], [[2675-2]], [[3854-3]], [[3945-1]], [[4453-2]], [[5498-4]], [[5671-12]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

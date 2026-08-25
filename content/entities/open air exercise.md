@@ -1,18 +1,21 @@
 ---
 entity: "open air exercise"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 18
+literal_reading_count: 0
+semantic_reading_count: 18
+literal_mention_count: 0
+semantic_mention_count: 18
+tags: [entity, semantic]
 ---
 
 # open air exercise
 
-**open air exercise** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**open air exercise** (remedy) appears in **18 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning open air exercise
 
-[[2022-1]], [[4266-1]]
+[[270-46]], [[288-11]], [[428-3]], [[440-2]], [[543-7]], [[567-3]], [[1173-10]], [[1179-1]], [[1187-8]], [[3200-1]], [[4110-1]], [[4157-1]], [[4266-1]], [[4982-1]], [[5396-1]], [[5552-1]], [[5616-1]], [[5618-14]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

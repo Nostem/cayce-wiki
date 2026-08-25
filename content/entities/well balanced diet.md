@@ -1,18 +1,21 @@
 ---
 entity: "well balanced diet"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # well balanced diet
 
-**well balanced diet** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**well balanced diet** (concept, remedy) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning well balanced diet
 
-[[781-1]], [[903-6]]
+[[903-6]], [[1102-4]], [[1505-5]], [[3149-2]], [[3666-1]], [[4026-1]], [[4040-1]], [[5064-1]], [[5298-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

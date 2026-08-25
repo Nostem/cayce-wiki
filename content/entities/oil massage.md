@@ -1,18 +1,21 @@
 ---
 entity: "oil massage"
-entity_type: "remedy"
-reading_count: 21
-mention_count: 21
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 24
+literal_reading_count: 0
+semantic_reading_count: 24
+literal_mention_count: 0
+semantic_mention_count: 24
+tags: [entity, semantic]
 ---
 
 # oil massage
 
-**oil massage** (remedy) appears in **21 readings** (21 mentions) — extracted by LLM semantic analysis.
+**oil massage** (remedy) appears in **24 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning oil massage
 
-[[133-5]], [[298-3]], [[336-1]], [[811-3]], [[1084-1]], [[1121-1]], [[1187-8]], [[1356-1]], [[1861-14]], [[1861-17]], [[1861-18]], [[2072-13]], [[2598-1]], [[3244-1]], [[3269-1]], [[3281-2]], [[3287-1]], [[3336-1]], [[3381-1]], [[3413-1]], [[5317-1]]
+[[143-9]], [[298-3]], [[676-1]], [[811-3]], [[927-1]], [[1121-1]], [[1553-26]], [[1861-14]], [[1861-17]], [[1861-18]], [[2812-1]], [[2866-1]], [[3079-3]], [[3118-1]], [[3140-1]], [[3244-1]], [[3281-1]], [[3281-2]], [[3287-1]], [[3336-1]], [[3381-1]], [[3404-1]], [[3413-1]], [[4040-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

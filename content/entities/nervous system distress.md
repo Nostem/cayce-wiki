@@ -1,18 +1,21 @@
 ---
 entity: "nervous system distress"
-entity_type: "condition"
-reading_count: 7
-mention_count: 7
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # nervous system distress
 
-**nervous system distress** (condition) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**nervous system distress** (condition) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning nervous system distress
 
-[[129-1]], [[190-1]], [[272-1]], [[523-1]], [[697-1]], [[2353-2]], [[4778-3]]
+[[1866-7]], [[2353-2]], [[3410-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

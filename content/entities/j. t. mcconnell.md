@@ -1,18 +1,21 @@
 ---
-entity: "j. t. mcconnell"
-entity_type: "person"
-reading_count: 9
-mention_count: 9
-tags: [entity, person]
+entity: "J. T. McConnell"
+entity_types: ["person"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# j. t. mcconnell
+# J. T. McConnell
 
-**j. t. mcconnell** (person) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**J. T. McConnell** (person) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning j. t. mcconnell
+## Readings mentioning J. T. McConnell
 
-[[3751-8]], [[3751-9]], [[3880-1]], [[4276-1]], [[4278-1]], [[4283-1]], [[4302-1]], [[4427-1]], [[4582-1]]
+[[4257-1]], [[4278-1]], [[4427-1]], [[4905-70]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

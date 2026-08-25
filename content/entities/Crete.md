@@ -1,18 +1,21 @@
 ---
-entity: "crete"
-entity_type: "place"
-reading_count: 4
-mention_count: 4
-tags: [entity, place]
+entity: "Crete"
+entity_types: ["place"]
+reading_count: 16
+literal_reading_count: 0
+semantic_reading_count: 16
+literal_mention_count: 0
+semantic_mention_count: 16
+tags: [entity, semantic]
 ---
 
-# crete
+# Crete
 
-**crete** (place) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Crete** (place) appears in **16 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning crete
+## Readings mentioning Crete
 
-[[275-25]], [[462-1]], [[826-5]], [[4898-1]]
+[[268-3]], [[275-25]], [[345-4]], [[350-1]], [[462-1]], [[816-4]], [[820-1]], [[826-5]], [[882-1]], [[2125-1]], [[2457-2]], [[2464-1]], [[2537-1]], [[2541-3]], [[2896-1]], [[4898-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

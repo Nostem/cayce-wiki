@@ -1,18 +1,21 @@
 ---
 entity: "vengeance"
-entity_type: "concept"
+entity_types: ["concept"]
 reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # vengeance
 
-**vengeance** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**vengeance** (concept) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning vengeance
 
-[[263-15]], [[311-2]], [[2122-1]], [[3704-1]], [[4180-1]]
+[[262-65]], [[263-15]], [[3704-1]], [[4180-1]], [[5177-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

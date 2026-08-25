@@ -1,18 +1,21 @@
 ---
-entity: "zebedee"
-entity_type: "person"
-reading_count: 4
-mention_count: 4
-tags: [entity, person]
+entity: "Zebedee"
+entity_types: ["person"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
-# zebedee
+# Zebedee
 
-**zebedee** (person) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Zebedee** (person) appears in **12 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning zebedee
+## Readings mentioning Zebedee
 
-[[420-6]], [[540-4]], [[1151-10]], [[5749-1]]
+[[294-161]], [[420-6]], [[540-4]], [[649-1]], [[1089-3]], [[1151-10]], [[1755-1]], [[2154-1]], [[2794-3]], [[2946-3]], [[5749-1]], [[5749-15]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

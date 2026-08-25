@@ -1,18 +1,21 @@
 ---
-entity: "t. mitchell hastings, jr."
-entity_type: "person"
+entity: "T. Mitchell Hastings Jr."
+entity_types: ["person"]
 reading_count: 3
-mention_count: 3
-tags: [entity, person]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# t. mitchell hastings, jr.
+# T. Mitchell Hastings Jr.
 
-**t. mitchell hastings, jr.** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**T. Mitchell Hastings Jr.** (person) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning t. mitchell hastings, jr.
+## Readings mentioning T. Mitchell Hastings Jr.
 
 [[254-75]], [[264-39]], [[294-169]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

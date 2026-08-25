@@ -1,18 +1,21 @@
 ---
-entity: "dr. m. l. richardson"
-entity_type: "person"
-reading_count: 4
-mention_count: 4
-tags: [entity, person]
+entity: "Dr. M. L. Richardson"
+entity_types: ["person"]
+reading_count: 90
+literal_reading_count: 0
+semantic_reading_count: 90
+literal_mention_count: 0
+semantic_mention_count: 90
+tags: [entity, semantic]
 ---
 
-# dr. m. l. richardson
+# Dr. M. L. Richardson
 
-**dr. m. l. richardson** (person) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Dr. M. L. Richardson** (person) appears in **90 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning dr. m. l. richardson
+## Readings mentioning Dr. M. L. Richardson
 
-[[294-128]], [[533-8]], [[3311-1]], [[3432-1]]
+[[268-2]], [[269-4]], [[288-49]], [[288-55]], [[291-1]], [[294-128]], [[294-182]], [[360-1]], [[391-5]], [[416-3]], [[416-5]], [[477-1]], [[480-3]], [[480-8]], [[487-11]], [[514-1]], [[523-1]], [[525-1]], [[531-2]], [[533-8]], [[538-40]], [[538-66]], [[538-71]], [[560-5]], [[562-1]], [[563-2]], [[565-1]], [[568-5]], [[578-12]], [[584-1]], [[584-2]], [[584-4]], [[584-8]], [[603-3]], [[667-5]], [[671-3]], [[674-1]], [[886-1]], [[903-34]], [[908-4]], [[1052-1]], [[1129-3]], [[1208-16]], [[1309-4]], [[1355-2]], [[1411-1]], [[1446-1]], [[1455-1]], [[1501-1]], [[1523-1]], [[1563-2]], [[1601-1]], [[1652-1]], [[1814-1]], [[1842-2]], [[1947-2]], [[1947-4]], [[1968-6]], [[2008-1]], [[2164-1]], [[2175-4]], [[2273-1]], [[2302-4]], [[2314-1]], [[2343-1]], [[2430-1]], [[2445-1]], [[2474-1]], [[2493-1]], [[2503-1]], [[2515-2]], [[2527-2]], [[2528-1]], [[2533-3]], [[2542-5]], [[2696-1]], [[2732-1]], [[2990-1]], [[3240-1]], [[3311-1]], [[3399-1]], [[3432-1]], [[3490-1]], [[3505-1]], [[3600-1]], [[4125-6]], [[4588-1]], [[5390-1]], [[5610-3]], [[5640-3]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "buckwheat cakes"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # buckwheat cakes
 
-**buckwheat cakes** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**buckwheat cakes** (remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning buckwheat cakes
 
-[[463-1]], [[975-5]]
+[[275-24]], [[278-1]], [[396-1]], [[665-2]], [[2979-1]], [[3876-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "cataracts"
-entity_type: "condition"
-reading_count: 16
-mention_count: 16
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 23
+literal_reading_count: 0
+semantic_reading_count: 23
+literal_mention_count: 0
+semantic_mention_count: 23
+tags: [entity, semantic]
 ---
 
 # cataracts
 
-**cataracts** (condition) appears in **16 readings** (16 mentions) — extracted by LLM semantic analysis.
+**cataracts** (condition) appears in **23 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning cataracts
 
-[[273-2]], [[326-5]], [[326-16]], [[349-25]], [[592-4]], [[1438-2]], [[1861-6]], [[1861-19]], [[1944-1]], [[3168-1]], [[3288-1]], [[3294-1]], [[3312-2]], [[3449-1]], [[3477-1]], [[5388-1]]
+[[326-16]], [[592-4]], [[1438-2]], [[1601-1]], [[1861-1]], [[1861-6]], [[1861-15]], [[1861-19]], [[1944-1]], [[2072-16]], [[2193-1]], [[2445-1]], [[2843-2]], [[2903-2]], [[3168-1]], [[3246-2]], [[3288-1]], [[3312-2]], [[3356-2]], [[3449-1]], [[3477-1]], [[3598-1]], [[5388-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

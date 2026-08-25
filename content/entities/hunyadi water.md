@@ -1,18 +1,21 @@
 ---
 entity: "hunyadi water"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 4
-mention_count: 4
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # hunyadi water
 
-**hunyadi water** (remedy) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**hunyadi water** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning hunyadi water
 
-[[341-25]], [[341-28]], [[361-2]], [[543-13]]
+[[219-1]], [[341-28]], [[543-13]], [[900-382]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

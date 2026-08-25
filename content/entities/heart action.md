@@ -1,18 +1,21 @@
 ---
 entity: "heart action"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # heart action
 
-**heart action** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**heart action** (concept, condition) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning heart action
 
-[[210-1]], [[701-1]], [[1340-1]], [[4836-1]]
+[[125-1]], [[256-3]], [[265-9]], [[470-4]], [[2597-6]], [[4747-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

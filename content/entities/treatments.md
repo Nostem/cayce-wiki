@@ -1,18 +1,21 @@
 ---
 entity: "treatments"
-entity_type: "remedy"
-reading_count: 22
-mention_count: 22
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # treatments
 
-**treatments** (remedy) appears in **22 readings** (22 mentions) — extracted by LLM semantic analysis.
+**treatments** (remedy) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning treatments
 
-[[243-21]], [[264-12]], [[466-2]], [[538-36]], [[558-2]], [[758-3]], [[758-4]], [[759-13]], [[960-3]], [[1108-1]], [[1187-13]], [[1467-15]], [[2376-2]], [[2973-2]], [[3002-1]], [[3854-5]], [[3980-4]], [[4286-2]], [[4571-2]], [[4974-1]], [[5451-5]], [[5609-2]]
+[[264-12]], [[279-9]], [[416-4]], [[622-2]], [[900-437]], [[1001-5]], [[1001-6]], [[3259-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

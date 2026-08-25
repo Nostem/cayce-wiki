@@ -1,18 +1,21 @@
 ---
 entity: "life forces"
-entity_type: "concept"
-reading_count: 8
-mention_count: 8
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # life forces
 
-**life forces** (concept) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**life forces** (concept) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning life forces
 
-[[88-1]], [[301-1]], [[539-3]], [[631-2]], [[632-12]], [[2873-1]], [[5426-1]], [[5585-1]]
+[[106-18]], [[304-31]], [[394-1]], [[539-3]], [[631-2]], [[756-1]], [[898-1]], [[1068-1]], [[2873-1]], [[3278-1]], [[4320-2]], [[5585-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

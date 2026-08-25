@@ -1,18 +1,21 @@
 ---
 entity: "stomach upset"
-entity_type: "condition"
-reading_count: 12
-mention_count: 12
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 16
+literal_reading_count: 0
+semantic_reading_count: 16
+literal_mention_count: 0
+semantic_mention_count: 16
+tags: [entity, semantic]
 ---
 
 # stomach upset
 
-**stomach upset** (condition) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**stomach upset** (condition) appears in **16 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning stomach upset
 
-[[136-75]], [[263-16]], [[325-55]], [[391-4]], [[667-9]], [[1001-2]], [[1158-26]], [[1224-9]], [[1366-1]], [[1958-2]], [[3469-1]], [[3531-1]]
+[[136-75]], [[142-6]], [[325-55]], [[348-3]], [[528-6]], [[976-1]], [[1001-2]], [[1102-2]], [[1158-26]], [[1196-17]], [[1208-5]], [[1208-12]], [[1382-1]], [[1958-2]], [[2514-2]], [[5520-7]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "warm water"
-entity_type: "remedy"
-reading_count: 6
-mention_count: 6
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # warm water
 
-**warm water** (remedy) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**warm water** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning warm water
 
-[[308-5]], [[311-4]], [[779-8]], [[900-220]], [[2843-1]], [[3776-8]]
+[[289-3]], [[308-5]], [[900-220]], [[3798-4]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

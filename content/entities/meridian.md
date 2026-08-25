@@ -1,18 +1,21 @@
 ---
 entity: "Meridian"
-entity_type: "place"
-reading_count: 4
-mention_count: 4
-tags: [entity, place]
+entity_types: ["place"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # Meridian
 
-**Meridian** (place) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Meridian** (place) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Meridian
 
-[[247-1]], [[4278-2]], [[4905-34]], [[4972-1]]
+[[412-2]], [[4133-1]], [[4302-1]], [[4730-1]], [[4769-1]], [[4769-2]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

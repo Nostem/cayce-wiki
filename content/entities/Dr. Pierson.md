@@ -1,18 +1,21 @@
 ---
 entity: "Dr. Pierson"
-entity_type: "person"
+entity_types: ["person"]
 reading_count: 3
-mention_count: 3
-tags: [entity, person]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # Dr. Pierson
 
-**Dr. Pierson** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Dr. Pierson** (person) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Dr. Pierson
 
-[[5473-4]], [[5566-4]], [[5607-1]]
+[[4363-1]], [[5473-4]], [[5566-4]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

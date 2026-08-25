@@ -1,18 +1,21 @@
 ---
 entity: "tingling"
-entity_type: "condition"
-reading_count: 14
-mention_count: 14
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # tingling
 
-**tingling** (condition) appears in **14 readings** (14 mentions) — extracted by LLM semantic analysis.
+**tingling** (condition) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning tingling
 
-[[482-6]], [[631-5]], [[1049-1]], [[1266-4]], [[1424-2]], [[1532-3]], [[2084-4]], [[2130-1]], [[2204-1]], [[3125-1]], [[3125-3]], [[3838-1]], [[4738-1]], [[4882-2]]
+[[2084-4]], [[2130-1]], [[4338-1]], [[4928-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

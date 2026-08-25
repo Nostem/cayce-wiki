@@ -1,18 +1,21 @@
 ---
 entity: "relationship to creative forces"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # relationship to creative forces
 
-**relationship to creative forces** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**relationship to creative forces** (concept) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning relationship to creative forces
 
-[[262-19]], [[294-198]]
+[[1317-1]], [[1474-2]], [[3151-1]], [[3484-1]], [[3526-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

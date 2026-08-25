@@ -1,18 +1,21 @@
 ---
 entity: "outdoor activities"
-entity_type: "concept"
-reading_count: 3
-mention_count: 3
-tags: [entity, concept]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # outdoor activities
 
-**outdoor activities** (concept) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**outdoor activities** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning outdoor activities
 
-[[1339-2]], [[1788-9]], [[2925-1]]
+[[274-4]], [[1814-1]], [[4059-1]], [[5042-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

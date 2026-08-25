@@ -1,18 +1,21 @@
 ---
-entity: "m. l. richardson"
-entity_type: "person"
-reading_count: 5
-mention_count: 5
-tags: [entity, person]
+entity: "M. L. Richardson"
+entity_types: ["person"]
+reading_count: 16
+literal_reading_count: 0
+semantic_reading_count: 16
+literal_mention_count: 0
+semantic_mention_count: 16
+tags: [entity, semantic]
 ---
 
-# m. l. richardson
+# M. L. Richardson
 
-**m. l. richardson** (person) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**M. L. Richardson** (person) appears in **16 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning m. l. richardson
+## Readings mentioning M. L. Richardson
 
-[[304-14]], [[416-16]], [[487-13]], [[578-12]], [[759-8]]
+[[304-14]], [[326-2]], [[339-1]], [[416-16]], [[533-3]], [[543-13]], [[568-2]], [[759-8]], [[911-5]], [[983-1]], [[1130-2]], [[1131-2]], [[1328-1]], [[1925-3]], [[2424-1]], [[4728-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

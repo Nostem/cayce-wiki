@@ -1,18 +1,21 @@
 ---
 entity: "cerebro-spinal forces"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # cerebro-spinal forces
 
-**cerebro-spinal forces** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**cerebro-spinal forces** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning cerebro-spinal forces
 
-[[499-1]], [[4179-1]]
+[[1001-9]], [[4092-1]], [[4179-1]], [[4524-4]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

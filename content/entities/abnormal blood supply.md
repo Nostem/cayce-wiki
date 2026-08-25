@@ -1,18 +1,21 @@
 ---
 entity: "abnormal blood supply"
-entity_type: "condition"
-reading_count: 15
-mention_count: 15
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # abnormal blood supply
 
-**abnormal blood supply** (condition) appears in **15 readings** (15 mentions) — extracted by LLM semantic analysis.
+**abnormal blood supply** (condition) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning abnormal blood supply
 
-[[56-1]], [[157-1]], [[186-1]], [[210-1]], [[747-1]], [[770-1]], [[1245-1]], [[3835-1]], [[4104-1]], [[4290-1]], [[4412-1]], [[4619-1]], [[4696-1]], [[4719-2]], [[5654-1]]
+[[182-1]], [[2355-1]], [[3764-1]], [[3878-1]], [[4138-1]], [[4459-1]], [[4696-1]], [[4746-1]], [[4830-1]], [[4838-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

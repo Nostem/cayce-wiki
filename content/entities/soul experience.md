@@ -1,18 +1,21 @@
 ---
 entity: "soul experience"
-entity_type: "concept"
-reading_count: 8
-mention_count: 8
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # soul experience
 
-**soul experience** (concept) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**soul experience** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning soul experience
 
-[[678-1]], [[776-2]], [[805-4]], [[877-9]], [[1129-2]], [[1648-1]], [[2390-2]], [[2408-1]]
+[[294-131]], [[1006-1]], [[1441-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

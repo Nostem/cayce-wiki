@@ -1,18 +1,21 @@
 ---
 entity: "practical application"
-entity_type: "concept"
-reading_count: 8
-mention_count: 8
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # practical application
 
-**practical application** (concept) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**practical application** (concept, remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning practical application
 
-[[281-52]], [[282-4]], [[333-5]], [[416-2]], [[487-21]], [[487-25]], [[633-5]], [[2405-1]]
+[[262-94]], [[264-53]], [[333-5]], [[487-21]], [[633-5]], [[1773-4]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

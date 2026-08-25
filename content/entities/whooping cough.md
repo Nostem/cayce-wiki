@@ -1,18 +1,21 @@
 ---
 entity: "whooping cough"
-entity_type: "condition"
-reading_count: 14
-mention_count: 14
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
 # whooping cough
 
-**whooping cough** (condition) appears in **14 readings** (14 mentions) — extracted by LLM semantic analysis.
+**whooping cough** (condition) appears in **13 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning whooping cough
 
-[[324-3]], [[566-8]], [[608-6]], [[711-2]], [[1461-2]], [[1715-1]], [[1958-3]], [[2005-3]], [[2299-6]], [[2541-4]], [[4281-16]], [[5520-1]], [[5671-16]], [[5784-1]]
+[[318-6]], [[324-3]], [[566-8]], [[711-2]], [[1177-1]], [[1593-1]], [[1958-3]], [[3193-1]], [[4281-15]], [[4281-16]], [[5520-1]], [[5671-16]], [[5784-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

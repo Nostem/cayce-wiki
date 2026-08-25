@@ -1,18 +1,21 @@
 ---
 entity: "normalcy"
-entity_type: "concept"
-reading_count: 62
-mention_count: 62
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 28
+literal_reading_count: 0
+semantic_reading_count: 28
+literal_mention_count: 0
+semantic_mention_count: 28
+tags: [entity, semantic]
 ---
 
 # normalcy
 
-**normalcy** (concept) appears in **62 readings** (62 mentions) — extracted by LLM semantic analysis.
+**normalcy** (concept) appears in **28 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning normalcy
 
-[[109-1]], [[140-36]], [[146-1]], [[146-3]], [[146-5]], [[201-1]], [[219-2]], [[263-2]], [[264-23]], [[269-4]], [[279-6]], [[282-8]], [[299-2]], [[301-6]], [[313-1]], [[340-31]], [[369-14]], [[409-23]], [[412-10]], [[432-2]], [[512-1]], [[561-2]], [[584-4]], [[598-1]], [[606-1]], [[625-1]], [[663-1]], [[733-1]], [[738-1]], [[758-13]], [[759-7]], [[808-3]], [[808-11]], [[816-8]], [[950-1]], [[953-27]], [[1108-1]], [[1163-2]], [[1190-1]], [[1225-1]], [[1465-1]], [[1732-1]], [[1810-2]], [[1860-1]], [[2373-1]], [[2590-4]], [[2983-1]], [[4178-1]], [[4240-1]], [[5036-1]], [[5432-1]], [[5465-1]], [[5478-1]], [[5481-1]], [[5530-1]], [[5533-1]], [[5562-3]], [[5568-1]], [[5588-2]], [[5606-1]], [[5609-4]], [[5664-6]]
+[[137-113]], [[146-5]], [[256-3]], [[272-6]], [[279-6]], [[279-14]], [[325-28]], [[340-29]], [[340-31]], [[409-23]], [[484-2]], [[561-2]], [[584-4]], [[605-1]], [[759-7]], [[808-3]], [[911-4]], [[934-13]], [[1163-2]], [[2582-2]], [[2590-4]], [[2682-2]], [[2983-1]], [[4240-1]], [[4827-2]], [[5478-1]], [[5613-1]], [[5752-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "gastric flow"
-entity_type: "concept"
-reading_count: 8
-mention_count: 8
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # gastric flow
 
-**gastric flow** (concept) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**gastric flow** (concept) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning gastric flow
 
-[[413-14]], [[416-6]], [[1143-1]], [[1291-2]], [[1485-1]], [[1820-3]], [[2771-2]], [[2866-2]]
+[[464-35]], [[742-2]], [[1291-2]], [[1419-4]], [[1566-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

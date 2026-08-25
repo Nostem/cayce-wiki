@@ -1,18 +1,21 @@
 ---
 entity: "general treatments"
-entity_type: "remedy"
-reading_count: 6
-mention_count: 6
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # general treatments
 
-**general treatments** (remedy) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**general treatments** (remedy) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning general treatments
 
-[[349-22]], [[983-2]], [[1188-10]], [[1268-1]], [[1361-2]], [[5170-1]]
+[[120-1]], [[287-12]], [[852-9]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

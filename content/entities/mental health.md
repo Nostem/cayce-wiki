@@ -1,18 +1,21 @@
 ---
 entity: "mental health"
-entity_type: "concept"
-reading_count: 61
-mention_count: 61
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 15
+literal_reading_count: 0
+semantic_reading_count: 15
+literal_mention_count: 0
+semantic_mention_count: 15
+tags: [entity, semantic]
 ---
 
 # mental health
 
-**mental health** (concept) appears in **61 readings** (61 mentions) — extracted by LLM semantic analysis.
+**mental health** (concept) appears in **15 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mental health
 
-[[165-1]], [[199-2]], [[243-13]], [[251-1]], [[263-21]], [[271-1]], [[285-1]], [[294-52]], [[294-121]], [[315-2]], [[340-30]], [[341-34]], [[387-1]], [[428-1]], [[470-17]], [[480-15]], [[480-40]], [[488-1]], [[543-10]], [[563-4]], [[619-10]], [[715-5]], [[780-9]], [[781-3]], [[851-1]], [[900-287]], [[953-22]], [[1001-2]], [[1133-1]], [[1475-1]], [[1764-2]], [[1789-1]], [[1843-1]], [[1873-1]], [[2099-1]], [[2197-1]], [[2382-1]], [[2533-3]], [[2597-8]], [[2614-1]], [[2663-2]], [[3190-3]], [[3371-1]], [[3871-1]], [[3966-1]], [[3997-1]], [[4002-1]], [[4003-1]], [[4186-1]], [[4290-1]], [[4432-1]], [[4822-1]], [[4879-1]], [[5117-1]], [[5234-1]], [[5314-1]], [[5459-2]], [[5529-4]], [[5545-2]], [[5563-1]], [[5595-1]]
+[[199-2]], [[288-7]], [[288-46]], [[294-106]], [[325-26]], [[349-5]], [[416-4]], [[480-19]], [[780-9]], [[1515-1]], [[1789-2]], [[2675-6]], [[3600-1]], [[3748-1]], [[4189-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

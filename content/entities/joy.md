@@ -1,18 +1,21 @@
 ---
 entity: "joy"
-entity_type: "concept"
-reading_count: 21
-mention_count: 21
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # joy
 
-**joy** (concept) appears in **21 readings** (21 mentions) — extracted by LLM semantic analysis.
+**joy** (concept) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning joy
 
-[[262-33]], [[262-36]], [[262-110]], [[274-4]], [[281-35]], [[281-61]], [[378-49]], [[378-50]], [[397-2]], [[487-5]], [[538-14]], [[552-2]], [[887-3]], [[900-72]], [[1102-3]], [[1158-14]], [[1173-10]], [[1722-1]], [[1900-1]], [[2403-1]], [[5749-10]]
+[[262-110]], [[294-157]], [[433-6]], [[887-3]], [[2995-3]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "impaction"
-entity_type: "condition"
-reading_count: 16
-mention_count: 16
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # impaction
 
-**impaction** (condition) appears in **16 readings** (16 mentions) — extracted by LLM semantic analysis.
+**impaction** (condition) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning impaction
 
-[[15-2]], [[137-123]], [[146-6]], [[146-7]], [[259-9]], [[288-41]], [[294-98]], [[304-17]], [[480-52]], [[558-4]], [[599-11]], [[760-7]], [[1005-7]], [[3410-1]], [[3795-2]], [[4363-1]]
+[[146-7]], [[254-66]], [[294-98]], [[760-7]], [[943-13]], [[1005-7]], [[2402-1]], [[3734-1]], [[4363-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

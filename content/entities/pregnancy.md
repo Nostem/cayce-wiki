@@ -1,18 +1,21 @@
 ---
 entity: "pregnancy"
-entity_type: "concept"
-reading_count: 25
-mention_count: 25
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 51
+literal_reading_count: 0
+semantic_reading_count: 51
+literal_mention_count: 0
+semantic_mention_count: 52
+tags: [entity, semantic]
 ---
 
 # pregnancy
 
-**pregnancy** (concept) appears in **25 readings** (25 mentions) — extracted by LLM semantic analysis.
+**pregnancy** (concept, condition) appears in **51 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning pregnancy
 
-[[136-30]], [[136-42]], [[199-1]], [[301-8]], [[457-12]], [[480-30]], [[480-31]], [[480-49]], [[540-5]], [[578-6]], [[578-8]], [[578-9]], [[780-4]], [[780-5]], [[903-15]], [[934-3]], [[951-7]], [[1352-6]], [[1352-7]], [[1523-1]], [[1523-3]], [[2803-6]], [[4148-2]], [[5387-1]], [[5610-6]]
+[[23-11]], [[23-12]], [[23-13]], [[23-14]], [[23-15]], [[23-16]], [[136-30]], [[136-44]], [[136-47]], [[136-50]], [[136-55]], [[140-15]], [[140-16]], [[140-33]], [[140-34]], [[199-1]], [[301-6]], [[480-28]], [[480-30]], [[480-31]], [[480-36]], [[480-46]], [[480-48]], [[480-49]], [[480-54]], [[578-8]], [[578-9]], [[667-11]], [[711-4]], [[780-5]], [[808-20]], [[903-8]], [[903-14]], [[903-15]], [[934-3]], [[951-7]], [[999-1]], [[1352-7]], [[1352-8]], [[1373-1]], [[1685-1]], [[2336-2]], [[2457-5]], [[2803-6]], [[2921-1]], [[3980-3]], [[4074-1]], [[4148-2]], [[4280-7]], [[4926-1]], [[5610-5]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

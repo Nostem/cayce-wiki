@@ -1,18 +1,21 @@
 ---
 entity: "hot water packs"
-entity_type: "remedy"
-reading_count: 4
-mention_count: 4
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # hot water packs
 
-**hot water packs** (remedy) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**hot water packs** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning hot water packs
 
-[[152-2]], [[2293-1]], [[2748-3]], [[4270-1]]
+[[152-2]], [[394-10]], [[2748-3]], [[3408-1]], [[4270-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

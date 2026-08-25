@@ -1,18 +1,21 @@
 ---
-entity: "oscar gumbinsky"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Oscar Gumbinsky"
+entity_types: ["person"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# oscar gumbinsky
+# Oscar Gumbinsky
 
-**oscar gumbinsky** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Oscar Gumbinsky** (person) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning oscar gumbinsky
+## Readings mentioning Oscar Gumbinsky
 
-[[254-11]], [[5722-1]]
+[[254-9]], [[254-11]], [[4636-1]], [[4905-14]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

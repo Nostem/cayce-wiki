@@ -1,18 +1,21 @@
 ---
 entity: "bran"
-entity_type: "remedy"
-reading_count: 5
-mention_count: 5
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # bran
 
-**bran** (remedy) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**bran** (remedy) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning bran
 
-[[556-14]], [[1713-8]], [[4218-4]], [[4318-1]], [[4795-1]]
+[[421-10]], [[556-14]], [[1713-8]], [[3776-3]], [[4144-1]], [[4218-4]], [[4280-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

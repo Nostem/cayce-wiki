@@ -1,18 +1,21 @@
 ---
 entity: "turnips"
-entity_type: "remedy"
-reading_count: 4
-mention_count: 4
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # turnips
 
-**turnips** (remedy) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**turnips** (remedy) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning turnips
 
-[[255-3]], [[1112-9]], [[1963-2]], [[3218-1]]
+[[415-8]], [[416-17]], [[578-5]], [[1049-1]], [[1512-1]], [[1736-1]], [[2050-1]], [[2175-7]], [[2214-1]], [[2470-2]], [[2504-1]], [[3025-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

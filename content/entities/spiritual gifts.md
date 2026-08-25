@@ -1,18 +1,21 @@
 ---
 entity: "spiritual gifts"
-entity_type: "concept"
-reading_count: 7
-mention_count: 7
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # spiritual gifts
 
-**spiritual gifts** (concept) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**spiritual gifts** (concept) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning spiritual gifts
 
-[[254-31]], [[774-6]], [[900-73]], [[1719-1]], [[3582-1]], [[4492-1]], [[5354-1]]
+[[136-24]], [[254-31]], [[412-7]], [[457-3]], [[1472-3]], [[1900-1]], [[2390-3]], [[2799-1]], [[3374-1]], [[3582-1]], [[4081-1]], [[4492-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

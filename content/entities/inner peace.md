@@ -1,18 +1,21 @@
 ---
 entity: "inner peace"
-entity_type: "concept"
-reading_count: 17
-mention_count: 17
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # inner peace
 
-**inner peace** (concept) appears in **17 readings** (17 mentions) — extracted by LLM semantic analysis.
+**inner peace** (concept) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning inner peace
 
-[[165-21]], [[257-128]], [[281-56]], [[531-8]], [[557-3]], [[827-1]], [[1053-1]], [[1300-1]], [[1740-1]], [[2135-1]], [[2530-1]], [[2970-1]], [[3028-1]], [[3344-1]], [[3409-1]], [[3457-1]], [[3506-1]]
+[[136-2]], [[378-33]], [[815-3]], [[1192-6]], [[1264-1]], [[2390-3]], [[2400-1]], [[2970-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

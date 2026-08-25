@@ -1,18 +1,21 @@
 ---
 entity: "faithfulness"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # faithfulness
 
-**faithfulness** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**faithfulness** (concept) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning faithfulness
 
-[[262-3]], [[262-36]], [[281-17]], [[288-15]]
+[[137-120]], [[254-76]], [[262-47]], [[282-6]], [[288-15]], [[294-137]], [[417-2]], [[4905-25]], [[5541-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

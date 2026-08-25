@@ -1,18 +1,21 @@
 ---
 entity: "resentments"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 15
+literal_reading_count: 0
+semantic_reading_count: 15
+literal_mention_count: 0
+semantic_mention_count: 15
+tags: [entity, semantic]
 ---
 
 # resentments
 
-**resentments** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**resentments** (concept, condition) appears in **15 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning resentments
 
-[[288-44]], [[370-5]]
+[[276-8]], [[288-44]], [[303-21]], [[464-20]], [[470-19]], [[1429-2]], [[1523-17]], [[1553-10]], [[1688-4]], [[2003-1]], [[2051-7]], [[2081-2]], [[3196-1]], [[3248-1]], [[3559-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

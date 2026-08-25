@@ -1,18 +1,21 @@
 ---
 entity: "cooked cereal"
-entity_type: "remedy"
-reading_count: 7
-mention_count: 7
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # cooked cereal
 
-**cooked cereal** (remedy) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**cooked cereal** (remedy) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning cooked cereal
 
-[[462-13]], [[569-25]], [[785-1]], [[786-1]], [[786-2]], [[849-50]], [[5453-12]]
+[[421-8]], [[569-25]], [[728-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

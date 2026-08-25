@@ -1,18 +1,21 @@
 ---
 entity: "gold treatment"
-entity_type: "remedy"
-reading_count: 4
-mention_count: 4
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # gold treatment
 
-**gold treatment** (remedy) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**gold treatment** (remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning gold treatment
 
-[[1512-2]], [[1553-17]], [[2389-2]], [[5690-1]]
+[[1490-3]], [[1512-2]], [[1553-12]], [[1553-17]], [[2389-2]], [[5690-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

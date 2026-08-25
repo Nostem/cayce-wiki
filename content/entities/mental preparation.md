@@ -1,18 +1,21 @@
 ---
 entity: "mental preparation"
-entity_type: "concept"
-reading_count: 3
-mention_count: 3
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # mental preparation
 
-**mental preparation** (concept) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**mental preparation** (concept, remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mental preparation
 
-[[543-4]], [[1523-12]], [[3910-1]]
+[[136-36]], [[257-151]], [[264-32]], [[457-8]], [[717-3]], [[3910-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

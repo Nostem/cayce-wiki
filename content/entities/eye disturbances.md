@@ -1,18 +1,21 @@
 ---
 entity: "eye disturbances"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
 # eye disturbances
 
-**eye disturbances** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**eye disturbances** (condition) appears in **14 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning eye disturbances
 
-[[1861-17]], [[2348-3]]
+[[137-9]], [[189-7]], [[633-11]], [[684-2]], [[718-1]], [[919-1]], [[1370-1]], [[1853-2]], [[1861-17]], [[2185-3]], [[2867-1]], [[2898-1]], [[3407-2]], [[5473-4]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

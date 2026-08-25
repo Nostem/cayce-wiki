@@ -1,18 +1,21 @@
 ---
 entity: "bitters"
-entity_type: "remedy"
-reading_count: 6
-mention_count: 6
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # bitters
 
-**bitters** (remedy) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**bitters** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning bitters
 
-[[146-4]], [[146-7]], [[543-20]], [[4844-3]], [[5562-10]], [[5562-11]]
+[[146-4]], [[146-7]], [[3918-2]], [[4844-2]], [[5562-10]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

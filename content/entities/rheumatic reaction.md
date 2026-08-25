@@ -1,18 +1,21 @@
 ---
 entity: "rheumatic reaction"
-entity_type: "condition"
-reading_count: 8
-mention_count: 8
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # rheumatic reaction
 
-**rheumatic reaction** (condition) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**rheumatic reaction** (condition) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning rheumatic reaction
 
-[[849-24]], [[1287-1]], [[1296-1]], [[1467-7]], [[2392-1]], [[2866-1]], [[2975-1]], [[3706-1]]
+[[531-6]], [[1236-1]], [[1467-7]], [[2852-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

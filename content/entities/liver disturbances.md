@@ -1,18 +1,21 @@
 ---
 entity: "liver disturbances"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # liver disturbances
 
-**liver disturbances** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**liver disturbances** (condition) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning liver disturbances
 
-[[294-199]], [[1882-1]], [[4861-1]]
+[[470-37]], [[844-1]], [[1196-4]], [[2188-2]], [[2620-1]], [[2743-1]], [[3248-1]], [[3268-2]], [[5271-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

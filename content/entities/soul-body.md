@@ -1,18 +1,21 @@
 ---
 entity: "soul-body"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # soul-body
 
-**soul-body** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**soul-body** (concept) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning soul-body
 
-[[294-103]], [[531-2]], [[4061-2]], [[5295-1]]
+[[262-78]], [[262-86]], [[294-103]], [[294-147]], [[531-2]], [[3590-2]], [[5733-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

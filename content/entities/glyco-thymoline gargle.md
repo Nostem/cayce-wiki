@@ -1,18 +1,21 @@
 ---
 entity: "glyco-thymoline gargle"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 23
+literal_reading_count: 0
+semantic_reading_count: 23
+literal_mention_count: 0
+semantic_mention_count: 23
+tags: [entity, semantic]
 ---
 
 # glyco-thymoline gargle
 
-**glyco-thymoline gargle** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**glyco-thymoline gargle** (remedy) appears in **23 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning glyco-thymoline gargle
 
-[[1112-9]], [[4987-2]]
+[[137-112]], [[148-1]], [[261-35]], [[270-4]], [[459-8]], [[623-6]], [[670-12]], [[849-68]], [[850-7]], [[900-391]], [[910-3]], [[1112-9]], [[1309-7]], [[1409-9]], [[1532-5]], [[1688-9]], [[1739-7]], [[1770-6]], [[2941-1]], [[4236-1]], [[4261-1]], [[4758-1]], [[5519-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

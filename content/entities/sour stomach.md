@@ -1,18 +1,21 @@
 ---
 entity: "sour stomach"
-entity_type: "condition"
-reading_count: 23
-mention_count: 23
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 17
+literal_reading_count: 0
+semantic_reading_count: 17
+literal_mention_count: 0
+semantic_mention_count: 17
+tags: [entity, semantic]
 ---
 
 # sour stomach
 
-**sour stomach** (condition) appears in **23 readings** (23 mentions) — extracted by LLM semantic analysis.
+**sour stomach** (condition) appears in **17 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning sour stomach
 
-[[19-1]], [[147-19]], [[228-3]], [[257-170]], [[257-177]], [[274-2]], [[288-12]], [[318-1]], [[342-3]], [[349-16]], [[464-36]], [[998-1]], [[1192-3]], [[1798-3]], [[1955-1]], [[2589-1]], [[3283-1]], [[3607-1]], [[4481-1]], [[4579-1]], [[4795-1]], [[5261-1]], [[5609-4]]
+[[147-19]], [[228-3]], [[257-170]], [[288-12]], [[349-16]], [[464-36]], [[998-1]], [[1079-5]], [[1192-3]], [[1798-3]], [[2589-1]], [[3109-1]], [[3607-1]], [[4579-1]], [[4795-1]], [[5261-1]], [[5609-4]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

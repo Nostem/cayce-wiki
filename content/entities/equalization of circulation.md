@@ -1,18 +1,21 @@
 ---
 entity: "equalization of circulation"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # equalization of circulation
 
-**equalization of circulation** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**equalization of circulation** (concept, remedy) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning equalization of circulation
 
-[[195-71]], [[1713-6]]
+[[195-9]], [[195-71]], [[247-1]], [[358-7]], [[538-7]], [[3830-1]], [[3993-1]], [[4120-1]], [[4838-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "sincerity of purpose"
-entity_type: "concept"
-reading_count: 7
-mention_count: 7
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # sincerity of purpose
 
-**sincerity of purpose** (concept) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**sincerity of purpose** (concept) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning sincerity of purpose
 
-[[254-57]], [[256-4]], [[281-61]], [[317-1]], [[784-1]], [[2444-1]], [[4665-2]]
+[[257-162_id804|257-162]], [[257-171]], [[317-1]], [[1500-4]], [[2444-1]], [[2897-4]], [[4400-1]], [[5447-1]], [[5628-9]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

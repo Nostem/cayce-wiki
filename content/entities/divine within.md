@@ -1,18 +1,21 @@
 ---
 entity: "divine within"
-entity_type: "concept"
-reading_count: 22
-mention_count: 22
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 63
+literal_reading_count: 0
+semantic_reading_count: 63
+literal_mention_count: 0
+semantic_mention_count: 63
+tags: [entity, semantic]
 ---
 
 # divine within
 
-**divine within** (concept) appears in **22 readings** (22 mentions) — extracted by LLM semantic analysis.
+**divine within** (concept) appears in **63 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning divine within
 
-[[254-86]], [[518-2]], [[1198-2]], [[1309-1]], [[1318-1]], [[1769-1]], [[2097-1]], [[2642-1]], [[2964-1]], [[3064-1]], [[3312-1]], [[3384-1]], [[3384-2]], [[3400-1]], [[3430-1]], [[3512-1]], [[3630-2]], [[4001-3]], [[4006-1]], [[5104-2]], [[5200-1]], [[5538-1]]
+[[195-14]], [[222-1]], [[235-1]], [[254-20]], [[254-55]], [[262-40]], [[264-8]], [[276-2]], [[361-13]], [[361-14]], [[412-15]], [[572-5]], [[679-1]], [[705-2]], [[826-14]], [[850-5]], [[900-109]], [[900-190]], [[960-1]], [[1045-5]], [[1089-8]], [[1106-2]], [[1151-5]], [[1152-2]], [[1198-2]], [[1295-1]], [[1309-1]], [[1330-1]], [[1438-3]], [[1553-7]], [[1629-2]], [[1769-1]], [[1838-2]], [[1861-11]], [[2072-14]], [[2097-1]], [[2575-2]], [[2642-1]], [[2665-2]], [[2855-1]], [[3099-1]], [[3210-2]], [[3279-1]], [[3305-1]], [[3384-1]], [[3384-2]], [[3400-1]], [[3430-1]], [[3504-1]], [[3511-1]], [[3512-1]], [[3559-1]], [[3697-1]], [[4006-1]], [[4113-1]], [[4198-2]], [[4364-1]], [[5022-1]], [[5200-1]], [[5469-1]], [[5479-1]], [[5497-1]], [[5639-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

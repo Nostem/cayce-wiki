@@ -1,18 +1,21 @@
 ---
 entity: "extreme nervousness"
-entity_type: "condition"
-reading_count: 5
-mention_count: 5
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # extreme nervousness
 
-**extreme nervousness** (condition) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**extreme nervousness** (condition) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning extreme nervousness
 
-[[458-2]], [[2025-2]], [[2501-12]], [[3358-1]], [[5572-2]]
+[[325-52]], [[2299-10]], [[2470-1]], [[2501-12]], [[2782-1]], [[3386-2]], [[3558-1]], [[3840-1]], [[3969-1]], [[4942-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

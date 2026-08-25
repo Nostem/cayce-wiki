@@ -1,18 +1,21 @@
 ---
 entity: "syrup of horehound"
-entity_type: "remedy"
-reading_count: 15
-mention_count: 15
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
 # syrup of horehound
 
-**syrup of horehound** (remedy) appears in **15 readings** (15 mentions) — extracted by LLM semantic analysis.
+**syrup of horehound** (remedy) appears in **13 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning syrup of horehound
 
-[[243-23]], [[243-31]], [[257-127]], [[257-195]], [[294-209]], [[303-25]], [[340-33]], [[413-4]], [[619-9]], [[979-8]], [[1673-1]], [[1690-3]], [[3053-4]], [[5410-1]], [[5620-1]]
+[[243-23]], [[257-195]], [[303-25]], [[340-33]], [[464-22]], [[538-34]], [[811-5]], [[979-8]], [[1151-5]], [[1364-1]], [[1956-2]], [[4856-1]], [[5410-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

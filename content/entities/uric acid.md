@@ -1,18 +1,21 @@
 ---
 entity: "uric acid"
-entity_type: "condition"
-reading_count: 13
-mention_count: 13
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # uric acid
 
-**uric acid** (condition) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**uric acid** (condition) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning uric acid
 
-[[70-1]], [[342-3]], [[404-7]], [[1060-2]], [[1472-2]], [[2297-1]], [[2504-1]], [[3073-1]], [[3170-1]], [[3190-1]], [[3771-1]], [[3847-1]], [[4529-1]]
+[[313-10]], [[2489-2]], [[3170-1]], [[3316-1]], [[4462-1]], [[4529-1]], [[5375-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

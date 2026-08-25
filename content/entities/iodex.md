@@ -1,18 +1,21 @@
 ---
 entity: "iodex"
-entity_type: "remedy"
-reading_count: 46
-mention_count: 46
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 20
+literal_reading_count: 0
+semantic_reading_count: 20
+literal_mention_count: 0
+semantic_mention_count: 20
+tags: [entity, semantic]
 ---
 
 # iodex
 
-**iodex** (remedy) appears in **46 readings** (46 mentions) — extracted by LLM semantic analysis.
+**iodex** (remedy) appears in **20 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning iodex
 
-[[263-6]], [[270-30]], [[286-6]], [[287-16]], [[288-23]], [[288-38]], [[303-5]], [[303-7]], [[303-8]], [[304-12]], [[304-26]], [[318-5]], [[325-20]], [[325-22]], [[325-30]], [[325-44]], [[325-46]], [[325-57]], [[325-59]], [[325-66]], [[325-70]], [[325-71]], [[511-1]], [[522-4]], [[556-9]], [[556-10]], [[567-4]], [[569-16]], [[569-20]], [[632-17]], [[661-1]], [[677-2]], [[757-7]], [[903-13]], [[1010-11]], [[1325-1]], [[1541-2]], [[1541-3]], [[1711-1]], [[1800-30]], [[3063-2]], [[4218-5]], [[4438-2]], [[4438-4]], [[5662-3]], [[5714-2]]
+[[288-38]], [[304-26]], [[318-5]], [[325-20]], [[325-30]], [[325-47]], [[325-59]], [[325-66]], [[522-4]], [[556-9]], [[556-10]], [[569-16]], [[750-1]], [[1541-3]], [[1711-1]], [[1800-27]], [[1800-30]], [[3063-2]], [[4438-2]], [[5714-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "drainages"
-entity_type: "concept"
-reading_count: 12
-mention_count: 12
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 29
+literal_reading_count: 0
+semantic_reading_count: 29
+literal_mention_count: 0
+semantic_mention_count: 30
+tags: [entity, semantic]
 ---
 
 # drainages
 
-**drainages** (concept) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**drainages** (concept, remedy) appears in **29 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning drainages
 
-[[154-1]], [[264-48]], [[325-60]], [[480-28]], [[556-11]], [[569-22]], [[852-7]], [[1000-9]], [[2295-2]], [[2421-3]], [[5449-4]], [[5611-2]]
+[[154-1]], [[264-2]], [[264-4]], [[264-6]], [[264-48]], [[325-62]], [[508-1]], [[556-9]], [[642-2]], [[667-2]], [[758-26]], [[758-39]], [[988-6]], [[1100-22]], [[1108-1]], [[1281-1]], [[1364-2]], [[1377-10]], [[1545-1]], [[1573-3]], [[2084-5]], [[2101-2]], [[2418-1]], [[3274-2]], [[3588-1]], [[4430-1]], [[5123-1]], [[5427-1]], [[5451-5]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

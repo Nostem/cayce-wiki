@@ -1,18 +1,21 @@
 ---
 entity: "glasses"
-entity_type: "remedy"
-reading_count: 9
-mention_count: 9
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 19
+literal_reading_count: 0
+semantic_reading_count: 19
+literal_mention_count: 0
+semantic_mention_count: 19
+tags: [entity, semantic]
 ---
 
 # glasses
 
-**glasses** (remedy) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**glasses** (remedy) appears in **19 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning glasses
 
-[[49-1]], [[257-208]], [[349-21]], [[538-61]], [[920-13]], [[1005-4]], [[1467-9]], [[2051-4]], [[2394-1]]
+[[23-16]], [[147-22]], [[147-23]], [[147-26]], [[257-208]], [[264-55]], [[288-39]], [[315-8]], [[538-60]], [[540-11]], [[543-12]], [[569-2]], [[920-13]], [[1671-1]], [[1713-12]], [[1713-19]], [[1713-23]], [[2436-6]], [[4391-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

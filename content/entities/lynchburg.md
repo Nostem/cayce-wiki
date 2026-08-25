@@ -1,18 +1,21 @@
 ---
-entity: "lynchburg"
-entity_type: "place"
-reading_count: 4
-mention_count: 4
-tags: [entity, place]
+entity: "Lynchburg"
+entity_types: ["place"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
-# lynchburg
+# Lynchburg
 
-**lynchburg** (place) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Lynchburg** (place) appears in **6 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning lynchburg
+## Readings mentioning Lynchburg
 
-[[1801-1]], [[2586-1]], [[3709-1]], [[5531-1]]
+[[257-74]], [[543-18]], [[1523-17]], [[1801-1]], [[2586-1]], [[3053-2]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

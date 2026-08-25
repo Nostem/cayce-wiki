@@ -1,18 +1,21 @@
 ---
 entity: "Dr. [1397]"
-entity_type: "person"
-reading_count: 3
-mention_count: 3
-tags: [entity, person]
+entity_types: ["person"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # Dr. [1397]
 
-**Dr. [1397]** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Dr. [1397]** (person) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Dr. [1397]
 
-[[1402-2]], [[1966-1]], [[5068-1]]
+[[877-17]], [[1397-3]], [[1402-2]], [[1504-1]], [[1579-1]], [[1966-1]], [[5068-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

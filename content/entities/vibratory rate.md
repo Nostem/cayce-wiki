@@ -1,18 +1,21 @@
 ---
 entity: "vibratory rate"
-entity_type: "concept"
-reading_count: 6
-mention_count: 6
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # vibratory rate
 
-**vibratory rate** (concept) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**vibratory rate** (concept) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning vibratory rate
 
-[[120-2]], [[1242-1]], [[1800-13]], [[1800-17]], [[2084-10]], [[5670-2]]
+[[195-11]], [[1246-1]], [[2084-10]], [[2536-1]], [[3517-1]], [[5585-1]], [[5606-1]], [[5670-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

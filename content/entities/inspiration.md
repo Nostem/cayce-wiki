@@ -1,18 +1,21 @@
 ---
 entity: "inspiration"
-entity_type: "concept"
-reading_count: 6
-mention_count: 6
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # inspiration
 
-**inspiration** (concept) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**inspiration** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning inspiration
 
-[[262-87]], [[480-11]], [[489-4]], [[1001-11]], [[1023-2]], [[1152-12]]
+[[849-76]], [[1001-11]], [[1023-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

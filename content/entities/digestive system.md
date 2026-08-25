@@ -1,18 +1,21 @@
 ---
 entity: "digestive system"
-entity_type: "concept"
-reading_count: 31
-mention_count: 31
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # digestive system
 
-**digestive system** (concept) appears in **31 readings** (31 mentions) — extracted by LLM semantic analysis.
+**digestive system** (concept, condition) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning digestive system
 
-[[209-1]], [[255-1]], [[260-1]], [[264-1]], [[341-32]], [[482-3]], [[488-1]], [[503-1]], [[513-2]], [[556-8]], [[810-1]], [[865-1]], [[920-11]], [[1158-26]], [[1772-1]], [[1959-1]], [[2239-1]], [[2424-1]], [[2710-2]], [[2981-3]], [[4375-1]], [[4638-1]], [[4722-1]], [[4864-1]], [[4977-1]], [[5490-1]], [[5505-1]], [[5567-1]], [[5599-1]], [[5639-1]], [[5667-1]]
+[[206-1]], [[857-1]], [[1208-8]], [[4525-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

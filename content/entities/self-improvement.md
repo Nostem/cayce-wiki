@@ -1,18 +1,21 @@
 ---
 entity: "self-improvement"
-entity_type: "concept"
-reading_count: 59
-mention_count: 59
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 29
+literal_reading_count: 0
+semantic_reading_count: 29
+literal_mention_count: 0
+semantic_mention_count: 29
+tags: [entity, semantic]
 ---
 
 # self-improvement
 
-**self-improvement** (concept) appears in **59 readings** (59 mentions) — extracted by LLM semantic analysis.
+**self-improvement** (concept) appears in **29 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning self-improvement
 
-[[195-27]], [[257-21]], [[257-87]], [[257-191]], [[270-27]], [[270-45]], [[272-8]], [[275-16]], [[378-23]], [[464-10]], [[551-11]], [[551-13]], [[670-6]], [[849-49]], [[849-69]], [[852-17]], [[1213-1]], [[1264-2]], [[1272-2]], [[1414-1]], [[1540-5]], [[1742-1]], [[1968-6]], [[1968-9]], [[2003-1]], [[2275-1]], [[2291-1]], [[2379-1]], [[2453-2]], [[2514-7]], [[2653-4]], [[2653-6]], [[2719-1]], [[2744-2]], [[2778-6]], [[2889-2]], [[3160-2]], [[3226-2]], [[3425-1]], [[3524-2]], [[3528-1]], [[3544-1]], [[3575-2]], [[4001-2]], [[4086-1]], [[4090-1]], [[4123-1]], [[4162-2]], [[4427-1]], [[4822-1]], [[4830-1]], [[4877-2]], [[5190-1]], [[5253-1]], [[5308-1]], [[5318-1]], [[5459-2]], [[5593-1]], [[5732-1]]
+[[162-1]], [[243-8]], [[257-179]], [[270-27]], [[349-5]], [[369-9]], [[480-11]], [[531-3]], [[1000-6]], [[1262-1]], [[1388-1]], [[1540-5]], [[1676-4]], [[1978-1]], [[2514-5]], [[2916-1]], [[3084-1]], [[3130-1]], [[3160-2]], [[3394-2]], [[3489-1]], [[3544-1]], [[3570-1]], [[3752-1]], [[3834-1]], [[4409-1]], [[4458-1]], [[5488-1]], [[5489-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

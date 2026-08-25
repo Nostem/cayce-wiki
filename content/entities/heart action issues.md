@@ -1,18 +1,21 @@
 ---
 entity: "heart action issues"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # heart action issues
 
-**heart action issues** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**heart action issues** (condition) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning heart action issues
 
-[[1100-3]], [[1730-2]]
+[[287-9]], [[304-19]], [[463-1]], [[1636-2]], [[4293-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

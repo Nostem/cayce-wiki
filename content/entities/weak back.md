@@ -1,18 +1,21 @@
 ---
 entity: "weak back"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # weak back
 
-**weak back** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**weak back** (condition) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning weak back
 
-[[464-24]], [[2446-1]], [[5681-1]]
+[[464-24]], [[516-3]], [[1533-2]], [[1620-1]], [[2038-2]], [[5681-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

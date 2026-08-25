@@ -1,18 +1,21 @@
 ---
-entity: "gizeh"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity: "Gizeh"
+entity_types: ["place"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
-# gizeh
+# Gizeh
 
-**gizeh** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Gizeh** (place) appears in **11 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning gizeh
+## Readings mentioning Gizeh
 
-[[378-14]], [[378-16]], [[5748-5]]
+[[195-14]], [[195-41]], [[275-33]], [[378-14]], [[378-16]], [[953-13]], [[1152-3]], [[1220-1]], [[5748-5]], [[5748-6]], [[5749-2]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "honesty"
-entity_type: "concept"
-reading_count: 15
-mention_count: 15
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # honesty
 
-**honesty** (concept) appears in **15 readings** (15 mentions) — extracted by LLM semantic analysis.
+**honesty** (concept) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning honesty
 
-[[254-26]], [[257-162]], [[257-171]], [[257-177]], [[426-1]], [[674-3]], [[1151-18]], [[1226-1]], [[1634-1]], [[2052-2]], [[3001-1]], [[3085-2]], [[3178-1]], [[3317-1]], [[4458-1]]
+[[257-55]], [[257-155]], [[335-4]], [[877-4]], [[1565-3]], [[1634-1]], [[1731-3]], [[4458-1]], [[4570-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

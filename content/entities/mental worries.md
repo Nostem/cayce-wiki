@@ -1,18 +1,21 @@
 ---
 entity: "mental worries"
-entity_type: "concept"
-reading_count: 8
-mention_count: 8
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # mental worries
 
-**mental worries** (concept) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**mental worries** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mental worries
 
-[[294-91]], [[325-4]], [[325-56]], [[1690-1]], [[4538-1]], [[4695-2]], [[5177-2]], [[5475-5]]
+[[264-21]], [[294-91]], [[4538-1]], [[5475-5]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

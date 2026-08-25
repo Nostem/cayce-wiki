@@ -1,18 +1,21 @@
 ---
 entity: "d.d.d. ointment"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # d.d.d. ointment
 
-**d.d.d. ointment** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**d.d.d. ointment** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning d.d.d. ointment
 
-[[1713-20]], [[1904-1]]
+[[410-3]], [[849-46]], [[1541-4]], [[1713-20]], [[1904-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

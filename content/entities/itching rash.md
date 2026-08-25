@@ -1,18 +1,21 @@
 ---
 entity: "itching rash"
-entity_type: "condition"
-reading_count: 4
-mention_count: 4
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # itching rash
 
-**itching rash** (condition) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**itching rash** (condition) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning itching rash
 
-[[538-44]], [[538-47]], [[538-54]], [[3291-2]]
+[[538-8]], [[538-39]], [[538-54]], [[3291-1]], [[3291-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

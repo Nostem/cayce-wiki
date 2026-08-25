@@ -1,18 +1,21 @@
 ---
 entity: "self-responsibility"
-entity_type: "concept"
-reading_count: 7
-mention_count: 7
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # self-responsibility
 
-**self-responsibility** (concept) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**self-responsibility** (concept) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning self-responsibility
 
-[[270-23]], [[758-34]], [[1261-1]], [[1540-6]], [[3289-1]], [[4162-3]], [[5216-1]]
+[[7-1]], [[758-34]], [[992-2]], [[1540-6]], [[1695-4]], [[2642-2]], [[3230-1]], [[4162-3]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

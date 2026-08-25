@@ -1,18 +1,21 @@
 ---
 entity: "increased water intake"
-entity_type: "remedy"
-reading_count: 6
-mention_count: 6
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # increased water intake
 
-**increased water intake** (remedy) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**increased water intake** (remedy) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning increased water intake
 
-[[49-1]], [[381-1]], [[2074-1]], [[4189-2]], [[4322-2]], [[5421-5]]
+[[129-2]], [[142-5]], [[216-1]], [[257-11]], [[381-1]], [[1005-5]], [[2843-1]], [[4244-1]], [[4322-2]], [[4689-1]], [[4843-1]], [[5582-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

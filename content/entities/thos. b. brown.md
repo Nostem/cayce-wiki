@@ -1,18 +1,21 @@
 ---
 entity: "Thos. B. Brown"
-entity_type: "person"
-reading_count: 3
-mention_count: 3
-tags: [entity, person]
+entity_types: ["person"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # Thos. B. Brown
 
-**Thos. B. Brown** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Thos. B. Brown** (person) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Thos. B. Brown
 
-[[254-43]], [[254-49]], [[5413-1]]
+[[118-1]], [[254-43]], [[2343-1]], [[2357-1]], [[4511-1]], [[4905-37]], [[4987-3]], [[5532-1]], [[5578-1]], [[5673-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

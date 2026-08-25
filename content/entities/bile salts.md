@@ -1,18 +1,21 @@
 ---
 entity: "bile salts"
-entity_type: "remedy"
-reading_count: 11
-mention_count: 11
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # bile salts
 
-**bile salts** (remedy) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**bile salts** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning bile salts
 
-[[265-8]], [[265-13]], [[294-186]], [[532-2]], [[573-3]], [[635-6]], [[760-16]], [[1688-12]], [[2057-1]], [[2867-2]], [[5583-2]]
+[[265-14]], [[294-186]], [[760-16]], [[5583-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

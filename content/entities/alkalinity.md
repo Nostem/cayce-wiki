@@ -1,18 +1,21 @@
 ---
 entity: "alkalinity"
-entity_type: "concept"
-reading_count: 19
-mention_count: 19
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 22
+literal_reading_count: 0
+semantic_reading_count: 22
+literal_mention_count: 0
+semantic_mention_count: 22
+tags: [entity, semantic]
 ---
 
 # alkalinity
 
-**alkalinity** (concept) appears in **19 readings** (19 mentions) — extracted by LLM semantic analysis.
+**alkalinity** (concept, condition) appears in **22 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning alkalinity
 
-[[264-51]], [[294-158]], [[294-169]], [[307-9]], [[325-45]], [[462-6]], [[538-39]], [[738-2]], [[808-3]], [[808-5]], [[819-2]], [[975-3]], [[1131-4]], [[1162-1]], [[1179-9]], [[1522-2]], [[1671-1]], [[3823-3]], [[5671-5]]
+[[261-8]], [[264-51]], [[294-158]], [[325-45]], [[330-1]], [[348-19]], [[480-31]], [[601-19]], [[619-1]], [[808-3]], [[808-5]], [[1179-9]], [[1246-1]], [[1337-1]], [[1337-2]], [[1540-6]], [[1635-2]], [[1772-1]], [[2299-10]], [[3334-1]], [[5009-1]], [[5041-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

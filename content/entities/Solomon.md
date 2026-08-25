@@ -1,18 +1,21 @@
 ---
-entity: "solomon"
-entity_type: "person"
-reading_count: 4
-mention_count: 4
-tags: [entity, person]
+entity: "Solomon"
+entity_types: ["person", "place"]
+reading_count: 66
+literal_reading_count: 66
+semantic_reading_count: 20
+literal_mention_count: 108
+semantic_mention_count: 20
+tags: [entity, semantic]
 ---
 
-# solomon
+# Solomon
 
-**solomon** (person) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Solomon** (person, place) appears in **66 readings** — indexed through hybrid literal and LLM extraction.
 
-## Readings mentioning solomon
+## Readings mentioning Solomon
 
-[[257-132]], [[551-3]], [[900-428]], [[2584-1]]
+[[137-84]], [[195-32]], [[254-5]], [[254-20]], [[254-107]], [[257-131]], [[257-132]], [[257-133]], [[257-167]], [[257-244]], [[262-82]], [[281-63]], [[294-53]], [[294-71]], [[325-71]], [[476-1]], [[520-2]], [[531-9]], [[551-3]], [[551-8]], [[601-2]], [[661-4]], [[853-9]], [[900-32]], [[900-33]], [[900-245]], [[900-428]], [[994-1]], [[1089-5]], [[1123-1]], [[1468-3]], [[1472-6]], [[1472-13]], [[1541-11]], [[1788-3]], [[1800-23]], [[1935-2]], [[1957-1]], [[2067-11]], [[2067-12]], [[2072-8]], [[2072-10]], [[2279-1]], [[2316-1]], [[2390-2]], [[2441-2]], [[2576-1]], [[2584-1]], [[2598-2]], [[2598-3]], [[2834-1]], [[2884-1]], [[2925-1]], [[2988-2]], [[3001-1]], [[3361-1]], [[3374-1]], [[3514-1]], [[4430-1]], [[5056-1]], [[5082-1]], [[5188-1]], [[5618-8]], [[5666-1]], [[5755-1]], [[5755-2]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

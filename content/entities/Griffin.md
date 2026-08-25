@@ -1,18 +1,21 @@
 ---
-entity: "griffin"
-entity_type: "place"
-reading_count: 10
-mention_count: 10
-tags: [entity, place]
+entity: "Griffin"
+entity_types: ["place"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# griffin
+# Griffin
 
-**griffin** (place) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**Griffin** (place) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning griffin
+## Readings mentioning Griffin
 
-[[2473-1]], [[4179-1]], [[4188-1]], [[4238-1]], [[4242-1]], [[4281-6]], [[4281-9]], [[4281-11]], [[4281-15]], [[4281-16]]
+[[4281-8]], [[4281-12]], [[4281-14]], [[4281-16]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

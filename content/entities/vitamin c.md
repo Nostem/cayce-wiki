@@ -1,18 +1,21 @@
 ---
 entity: "vitamin c"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # vitamin c
 
-**vitamin c** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**vitamin c** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning vitamin c
 
-[[568-3]], [[3168-1]]
+[[270-26]], [[341-37]], [[568-3]], [[3168-1]], [[5215-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

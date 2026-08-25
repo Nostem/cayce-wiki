@@ -1,18 +1,21 @@
 ---
 entity: "pains"
-entity_type: "condition"
-reading_count: 61
-mention_count: 61
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # pains
 
-**pains** (condition) appears in **61 readings** (61 mentions) — extracted by LLM semantic analysis.
+**pains** (condition) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning pains
 
-[[136-47]], [[136-53]], [[166-1]], [[171-1]], [[243-1]], [[243-17]], [[243-34]], [[257-149]], [[261-26]], [[303-7]], [[303-11]], [[306-3]], [[310-3]], [[313-7]], [[341-36]], [[361-3]], [[377-1]], [[379-17]], [[413-4]], [[779-3]], [[779-16]], [[806-1]], [[808-17]], [[998-1]], [[1079-4]], [[1083-1]], [[1097-3]], [[1100-24]], [[1181-1]], [[1319-1]], [[1352-7]], [[1409-7]], [[1431-2]], [[1523-8]], [[1561-22]], [[1736-2]], [[1854-1]], [[1956-2]], [[2084-5]], [[2084-6]], [[2084-14]], [[2084-15]], [[2085-3]], [[2621-2]], [[2771-2]], [[2828-2]], [[3027-1]], [[3072-1]], [[3296-1]], [[3311-1]], [[3798-4]], [[3919-1]], [[3920-1]], [[3989-1]], [[4091-1]], [[4209-1]], [[4367-1]], [[4579-1]], [[4668-1]], [[5570-1]], [[5656-1]]
+[[274-5]], [[563-3]], [[631-7]], [[712-1]], [[949-8]], [[1306-1]], [[1319-1]], [[2084-5]], [[4629-1]], [[4776-1]], [[4994-1]], [[5422-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

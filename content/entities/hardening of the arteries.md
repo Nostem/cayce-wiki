@@ -1,18 +1,21 @@
 ---
 entity: "hardening of the arteries"
-entity_type: "condition"
-reading_count: 4
-mention_count: 4
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # hardening of the arteries
 
-**hardening of the arteries** (condition) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**hardening of the arteries** (condition) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning hardening of the arteries
 
-[[192-1]], [[3059-1]], [[5299-1]], [[5512-2]]
+[[192-1]], [[742-1]], [[979-7]], [[1961-1]], [[3059-1]], [[5299-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

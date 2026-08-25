@@ -1,18 +1,21 @@
 ---
-entity: "james r. parker"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "James R. Parker"
+entity_types: ["person"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
-# james r. parker
+# James R. Parker
 
-**james r. parker** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**James R. Parker** (person) appears in **6 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning james r. parker
+## Readings mentioning James R. Parker
 
-[[120-5]], [[543-22]]
+[[120-5]], [[254-55]], [[294-205]], [[420-4]], [[636-1]], [[2782-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

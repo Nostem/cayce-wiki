@@ -1,18 +1,21 @@
 ---
-entity: "pasadena"
-entity_type: "place"
-reading_count: 2
-mention_count: 2
-tags: [entity, place]
+entity: "Pasadena"
+entity_types: ["place"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
-# pasadena
+# Pasadena
 
-**pasadena** (place) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Pasadena** (place) appears in **11 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning pasadena
+## Readings mentioning Pasadena
 
-[[2665-3]], [[4075-1]]
+[[294-1]], [[340-30]], [[567-6]], [[567-7]], [[567-8]], [[2345-1]], [[2665-3]], [[3059-1]], [[3515-1]], [[4075-1]], [[5041-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

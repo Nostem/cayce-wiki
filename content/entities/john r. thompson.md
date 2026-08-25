@@ -1,18 +1,21 @@
 ---
-entity: "john r. thompson"
-entity_type: "person"
+entity: "John R. Thompson"
+entity_types: ["person"]
 reading_count: 4
-mention_count: 4
-tags: [entity, person]
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# john r. thompson
+# John R. Thompson
 
-**john r. thompson** (person) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**John R. Thompson** (person) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning john r. thompson
+## Readings mentioning John R. Thompson
 
-[[988-7]], [[988-10]], [[1375-4]], [[1773-1]]
+[[988-7]], [[988-10]], [[1773-1]], [[1788-4]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "infra red ray"
-entity_type: "remedy"
-reading_count: 13
-mention_count: 13
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # infra red ray
 
-**infra red ray** (remedy) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**infra red ray** (remedy) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning infra red ray
 
-[[57-1]], [[275-1]], [[337-14]], [[338-1]], [[757-3]], [[2235-3]], [[4128-1]], [[4164-1]], [[5428-2]], [[5482-1]], [[5568-1]], [[5607-1]], [[5657-3]]
+[[275-1]], [[275-34]], [[337-14]], [[757-6]], [[2235-2]], [[2235-3]], [[5482-1]], [[5524-1]], [[5568-1]], [[5574-1]], [[5607-1]], [[5657-3]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

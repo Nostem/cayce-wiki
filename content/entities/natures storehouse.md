@@ -1,18 +1,21 @@
 ---
 entity: "nature's storehouse"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # nature's storehouse
 
-**nature's storehouse** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**nature's storehouse** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning nature's storehouse
 
-[[1561-6]], [[1561-11]], [[1914-1]], [[2124-1]], [[5400-1]]
+[[1151-1]], [[2124-1]], [[5400-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

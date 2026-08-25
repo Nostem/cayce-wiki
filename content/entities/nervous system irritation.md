@@ -1,18 +1,21 @@
 ---
 entity: "nervous system irritation"
-entity_type: "condition"
-reading_count: 4
-mention_count: 4
-tags: [entity, condition]
+entity_types: ["concept", "condition"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # nervous system irritation
 
-**nervous system irritation** (condition) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**nervous system irritation** (concept, condition) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning nervous system irritation
 
-[[341-34]], [[654-5]], [[1288-1]], [[1419-2]]
+[[91-1]], [[349-16]], [[654-5]], [[781-3]], [[1117-1]], [[1419-2]], [[1594-7]], [[2454-5]], [[4646-1]], [[5671-15]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

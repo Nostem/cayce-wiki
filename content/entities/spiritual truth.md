@@ -1,18 +1,21 @@
 ---
 entity: "spiritual truth"
-entity_type: "concept"
-reading_count: 16
-mention_count: 16
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # spiritual truth
 
-**spiritual truth** (concept) appears in **16 readings** (16 mentions) — extracted by LLM semantic analysis.
+**spiritual truth** (concept) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning spiritual truth
 
-[[254-69]], [[262-94]], [[276-3]], [[294-35]], [[294-204]], [[543-11]], [[900-133]], [[900-232]], [[993-7]], [[1582-2]], [[1751-1]], [[2153-3]], [[2513-1]], [[3377-1]], [[3976-9]], [[5349-1]]
+[[254-26]], [[254-59]], [[254-69]], [[254-108]], [[462-10]], [[900-18]], [[900-232]], [[900-411]], [[3568-1]], [[5349-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

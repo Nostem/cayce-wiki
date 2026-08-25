@@ -1,18 +1,21 @@
 ---
 entity: "fears"
-entity_type: "condition"
-reading_count: 4
-mention_count: 4
-tags: [entity, condition]
+entity_types: ["concept", "condition"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # fears
 
-**fears** (condition) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**fears** (concept, condition) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning fears
 
-[[2308-1]], [[3440-2]], [[3662-1]], [[5459-3]]
+[[843-8]], [[2078-2]], [[2961-1]], [[3110-2]], [[3662-1]], [[5211-1]], [[5459-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

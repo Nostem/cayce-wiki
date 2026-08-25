@@ -1,18 +1,21 @@
 ---
 entity: "spiritual unfoldment"
-entity_type: "concept"
-reading_count: 8
-mention_count: 8
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
 # spiritual unfoldment
 
-**spiritual unfoldment** (concept) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**spiritual unfoldment** (concept, remedy) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning spiritual unfoldment
 
-[[69-6]], [[533-20]], [[1981-2]], [[2390-6]], [[2829-1]], [[2862-1]], [[2892-2]], [[3197-1]]
+[[69-6]], [[281-63]], [[299-1]], [[533-20]], [[1742-1]], [[2390-6]], [[2570-1]], [[2862-1]], [[3140-1]], [[3197-1]], [[3903-1]], [[5245-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

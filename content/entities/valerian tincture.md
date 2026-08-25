@@ -1,18 +1,21 @@
 ---
 entity: "valerian tincture"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # valerian tincture
 
-**valerian tincture** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**valerian tincture** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning valerian tincture
 
-[[560-3]], [[849-10]]
+[[137-1]], [[734-1]], [[900-320]], [[3968-1]], [[4370-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

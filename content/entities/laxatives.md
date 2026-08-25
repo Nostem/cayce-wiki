@@ -1,18 +1,21 @@
 ---
 entity: "laxatives"
-entity_type: "remedy"
-reading_count: 24
-mention_count: 24
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 18
+literal_reading_count: 0
+semantic_reading_count: 18
+literal_mention_count: 0
+semantic_mention_count: 18
+tags: [entity, semantic]
 ---
 
 # laxatives
 
-**laxatives** (remedy) appears in **24 readings** (24 mentions) — extracted by LLM semantic analysis.
+**laxatives** (remedy) appears in **18 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning laxatives
 
-[[91-2]], [[275-9]], [[391-5]], [[470-15]], [[482-11]], [[533-8]], [[608-10]], [[773-21]], [[900-467]], [[1187-9]], [[1308-3]], [[1381-7]], [[1553-18]], [[1844-3]], [[2153-10]], [[2288-2]], [[2518-2]], [[3287-2]], [[3360-2]], [[3499-1]], [[4456-2]], [[5036-1]], [[5058-1]], [[5734-1]]
+[[194-1]], [[275-9]], [[347-1]], [[391-5]], [[482-11]], [[538-29]], [[543-6]], [[758-40]], [[849-39]], [[1308-3]], [[1508-2]], [[2288-2]], [[2866-1]], [[3056-1]], [[4456-2]], [[4882-2]], [[5036-1]], [[5058-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "citro-carbonate"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # citro-carbonate
 
-**citro-carbonate** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**citro-carbonate** (remedy) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning citro-carbonate
 
-[[275-17]], [[275-24]]
+[[257-136]], [[275-24]], [[3097-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

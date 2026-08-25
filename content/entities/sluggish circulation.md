@@ -1,18 +1,21 @@
 ---
 entity: "sluggish circulation"
-entity_type: "condition"
-reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # sluggish circulation
 
-**sluggish circulation** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**sluggish circulation** (condition) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning sluggish circulation
 
-[[32-1]], [[3776-5]], [[3864-1]], [[4520-1]], [[4590-1]], [[4590-2]]
+[[120-1]], [[327-1]], [[370-4]], [[462-2]], [[531-2]], [[646-1]], [[1813-1]], [[4590-2]], [[5634-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

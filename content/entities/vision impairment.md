@@ -1,18 +1,21 @@
 ---
 entity: "vision impairment"
-entity_type: "condition"
-reading_count: 5
-mention_count: 5
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 24
+literal_reading_count: 0
+semantic_reading_count: 24
+literal_mention_count: 0
+semantic_mention_count: 24
+tags: [entity, semantic]
 ---
 
 # vision impairment
 
-**vision impairment** (condition) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**vision impairment** (condition) appears in **24 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning vision impairment
 
-[[1844-3]], [[2302-5]], [[2404-1]], [[2436-5]], [[3553-1]]
+[[2-20]], [[428-1]], [[545-1]], [[1038-1]], [[1844-3]], [[1861-11]], [[1947-6]], [[2302-1]], [[2348-4]], [[2402-1]], [[2436-3]], [[2436-5]], [[2445-1]], [[2543-2]], [[3002-1]], [[3049-1]], [[3117-1]], [[3341-2]], [[3810-3]], [[4061-1]], [[4237-1]], [[4613-5]], [[5457-1]], [[5726-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

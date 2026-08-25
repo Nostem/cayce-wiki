@@ -1,18 +1,21 @@
 ---
 entity: "at-onement"
-entity_type: "concept"
-reading_count: 6
-mention_count: 6
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # at-onement
 
-**at-onement** (concept) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**at-onement** (concept) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning at-onement
 
-[[262-45]], [[264-8]], [[815-7]], [[966-1]], [[1158-9]], [[1861-4]]
+[[136-45]], [[140-36]], [[262-126]], [[264-8]], [[1158-9]], [[1158-22]], [[2174-3]], [[5642-6]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

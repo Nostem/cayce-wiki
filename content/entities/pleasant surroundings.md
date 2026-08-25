@@ -1,18 +1,21 @@
 ---
 entity: "pleasant surroundings"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # pleasant surroundings
 
-**pleasant surroundings** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**pleasant surroundings** (concept, remedy) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning pleasant surroundings
 
-[[960-9]], [[3776-16]]
+[[140-34]], [[409-17]], [[578-9]], [[960-9]], [[1212-1]], [[2642-1]], [[3776-16]], [[4142-1]], [[4467-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

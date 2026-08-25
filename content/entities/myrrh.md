@@ -1,18 +1,21 @@
 ---
 entity: "myrrh"
-entity_type: "remedy"
-reading_count: 11
-mention_count: 11
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # myrrh
 
-**myrrh** (remedy) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**myrrh** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning myrrh
 
-[[137-95]], [[140-27]], [[265-15]], [[480-15]], [[1580-1]], [[1636-2]], [[3353-2]], [[3886-1]], [[4139-1]], [[4868-1]], [[5568-6]]
+[[219-3]], [[538-8]], [[1636-2]], [[4882-2]], [[5568-6]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

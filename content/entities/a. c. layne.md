@@ -1,18 +1,21 @@
 ---
-entity: "a. c. layne"
-entity_type: "person"
+entity: "A. C. Layne"
+entity_types: ["person"]
 reading_count: 4
-mention_count: 4
-tags: [entity, person]
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# a. c. layne
+# A. C. Layne
 
-**a. c. layne** (person) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**A. C. Layne** (person) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning a. c. layne
+## Readings mentioning A. C. Layne
 
 [[1122-1]], [[4179-1]], [[4188-1]], [[4242-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

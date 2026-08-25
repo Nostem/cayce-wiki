@@ -1,18 +1,21 @@
 ---
 entity: "oil enema"
-entity_type: "remedy"
-reading_count: 11
-mention_count: 11
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # oil enema
 
-**oil enema** (remedy) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**oil enema** (remedy) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning oil enema
 
-[[64-2]], [[91-2]], [[257-247]], [[303-32]], [[304-19]], [[340-10]], [[760-7]], [[1409-4]], [[2701-1]], [[3886-1]], [[5565-2]]
+[[64-2]], [[91-2]], [[257-220]], [[303-32]], [[304-19]], [[340-10]], [[1645-1]], [[1656-1]], [[3886-1]], [[5692-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

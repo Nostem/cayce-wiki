@@ -1,18 +1,21 @@
 ---
 entity: "Dr. Backman"
-entity_type: "person"
-reading_count: 4
-mention_count: 4
-tags: [entity, person]
+entity_types: ["person"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # Dr. Backman
 
-**Dr. Backman** (person) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Dr. Backman** (person) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Dr. Backman
 
-[[349-22]], [[352-3]], [[1031-3]], [[1610-1]]
+[[349-21]], [[349-22]], [[352-3]], [[1031-2]], [[1031-3]], [[1387-5]], [[1610-1]], [[2109-2]], [[2394-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

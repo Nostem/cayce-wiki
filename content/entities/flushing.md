@@ -1,18 +1,21 @@
 ---
-entity: "flushing"
-entity_type: "place"
-reading_count: 4
-mention_count: 4
-tags: [entity, place]
+entity: "Flushing"
+entity_types: ["condition", "place"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
-# flushing
+# Flushing
 
-**flushing** (place) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Flushing** (condition, place) appears in **9 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning flushing
+## Readings mentioning Flushing
 
-[[165-13]], [[877-7]], [[2440-2]], [[4639-1]]
+[[165-13]], [[249-1]], [[877-6]], [[877-7]], [[1770-2]], [[1770-4]], [[1770-6]], [[2440-2]], [[4639-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

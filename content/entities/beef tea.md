@@ -1,18 +1,21 @@
 ---
 entity: "beef tea"
-entity_type: "remedy"
-reading_count: 9
-mention_count: 9
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # beef tea
 
-**beef tea** (remedy) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**beef tea** (remedy) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning beef tea
 
-[[136-53]], [[325-52]], [[428-6]], [[533-7]], [[632-17]], [[920-4]], [[1788-10]], [[2565-2]], [[3419-4]]
+[[136-53]], [[261-26]], [[325-49]], [[533-7]], [[1594-2]], [[1788-10]], [[2565-2]], [[3419-4]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

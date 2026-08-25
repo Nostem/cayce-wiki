@@ -1,18 +1,21 @@
 ---
 entity: "prostate disturbances"
-entity_type: "condition"
+entity_types: ["condition"]
 reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # prostate disturbances
 
-**prostate disturbances** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**prostate disturbances** (condition) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning prostate disturbances
 
-[[550-9]], [[584-9]], [[1196-17]]
+[[584-9]], [[3137-1]], [[5447-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

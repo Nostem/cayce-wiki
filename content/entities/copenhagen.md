@@ -1,18 +1,21 @@
 ---
-entity: "copenhagen"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity: "Copenhagen"
+entity_types: ["place"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# copenhagen
+# Copenhagen
 
-**copenhagen** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Copenhagen** (place) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning copenhagen
+## Readings mentioning Copenhagen
 
-[[583-1]], [[583-3]], [[4053-1]]
+[[257-117]], [[583-1]], [[583-3]], [[4053-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

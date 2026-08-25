@@ -1,18 +1,21 @@
 ---
-entity: "rocky pasture"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity: "Rocky Pasture"
+entity_types: ["place"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
-# rocky pasture
+# Rocky Pasture
 
-**rocky pasture** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Rocky Pasture** (place) appears in **7 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning rocky pasture
+## Readings mentioning Rocky Pasture
 
-[[3777-12]], [[5628-10]], [[5628-12]]
+[[3777-12]], [[4906-9]], [[5628-3]], [[5628-9]], [[5628-10]], [[5628-11]], [[5628-12]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

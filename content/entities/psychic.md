@@ -1,18 +1,21 @@
 ---
 entity: "psychic"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # psychic
 
-**psychic** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**psychic** (concept) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning psychic
 
-[[243-7]], [[1265-3]], [[4907-2]], [[5756-5]]
+[[311-11]], [[1210-2]], [[1265-3]], [[2944-1]], [[4907-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

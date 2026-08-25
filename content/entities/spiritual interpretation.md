@@ -1,18 +1,21 @@
 ---
 entity: "spiritual interpretation"
-entity_type: "concept"
-reading_count: 10
-mention_count: 10
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # spiritual interpretation
 
-**spiritual interpretation** (concept) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**spiritual interpretation** (concept) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning spiritual interpretation
 
-[[136-25]], [[1716-1]], [[2282-1]], [[2378-2]], [[2897-3]], [[2909-1]], [[3053-3]], [[3182-1]], [[3356-1]], [[5152-1]]
+[[294-189]], [[900-403]], [[1100-34]], [[5152-1]], [[5206-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

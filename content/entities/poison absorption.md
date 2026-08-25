@@ -1,18 +1,21 @@
 ---
 entity: "poison absorption"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["condition"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # poison absorption
 
-**poison absorption** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**poison absorption** (condition) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning poison absorption
 
-[[563-2]], [[3390-1]]
+[[165-16]], [[563-2]], [[988-7]], [[3928-1]], [[4646-2]], [[4773-1]], [[4779-1]], [[4989-1]], [[5688-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

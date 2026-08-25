@@ -1,18 +1,21 @@
 ---
-entity: "st. vincent's hospital"
-entity_type: "place"
-reading_count: 2
-mention_count: 2
-tags: [entity, place]
+entity: "St. Vincent's Hospital"
+entity_types: ["place"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# st. vincent's hospital
+# St. Vincent's Hospital
 
-**st. vincent's hospital** (place) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**St. Vincent's Hospital** (place) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning st. vincent's hospital
+## Readings mentioning St. Vincent's Hospital
 
-[[1004-2]], [[2366-4]]
+[[1004-2]], [[1594-1]], [[2366-4]], [[4488-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

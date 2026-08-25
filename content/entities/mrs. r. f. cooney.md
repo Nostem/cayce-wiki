@@ -1,18 +1,21 @@
 ---
-entity: "mrs. r. f. cooney"
-entity_type: "person"
-reading_count: 3
-mention_count: 3
-tags: [entity, person]
+entity: "Mrs. R. F. Cooney"
+entity_types: ["person"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# mrs. r. f. cooney
+# Mrs. R. F. Cooney
 
-**mrs. r. f. cooney** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Mrs. R. F. Cooney** (person) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning mrs. r. f. cooney
+## Readings mentioning Mrs. R. F. Cooney
 
-[[1512-1]], [[1570-1]], [[3525-1]]
+[[1512-1]], [[1512-2]], [[1570-1]], [[3525-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

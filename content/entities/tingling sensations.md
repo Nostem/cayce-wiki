@@ -1,18 +1,21 @@
 ---
 entity: "tingling sensations"
-entity_type: "condition"
-reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # tingling sensations
 
-**tingling sensations** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**tingling sensations** (condition) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning tingling sensations
 
-[[166-1]], [[796-1]], [[1055-1]], [[1523-8]], [[4299-2]], [[5640-1]]
+[[796-1]], [[1055-1]], [[1086-1]], [[1254-1]], [[5640-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

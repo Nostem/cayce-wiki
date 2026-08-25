@@ -1,18 +1,21 @@
 ---
 entity: "distribution"
-entity_type: "concept"
-reading_count: 14
-mention_count: 14
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # distribution
 
-**distribution** (concept) appears in **14 readings** (14 mentions) — extracted by LLM semantic analysis.
+**distribution** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning distribution
 
-[[254-112]], [[279-13]], [[313-5]], [[335-4]], [[358-6]], [[370-6]], [[417-7]], [[426-3]], [[1000-23]], [[1564-2]], [[1800-2]], [[1800-12]], [[4362-1]], [[4652-2]]
+[[358-5]], [[943-16]], [[3344-3]], [[4508-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

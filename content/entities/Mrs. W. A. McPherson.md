@@ -1,18 +1,21 @@
 ---
-entity: "mrs. w. a. mcpherson"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Mrs. W. A. McPherson"
+entity_types: ["person"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# mrs. w. a. mcpherson
+# Mrs. W. A. McPherson
 
-**mrs. w. a. mcpherson** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Mrs. W. A. McPherson** (person) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning mrs. w. a. mcpherson
+## Readings mentioning Mrs. W. A. McPherson
 
-[[1400-1]], [[4403-1]]
+[[1054-1]], [[1400-1]], [[1645-2]], [[1956-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

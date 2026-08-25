@@ -1,18 +1,21 @@
 ---
-entity: "carpathian"
-entity_type: "place"
-reading_count: 5
-mention_count: 5
-tags: [entity, place]
+entity: "Carpathian"
+entity_types: ["place"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
-# carpathian
+# Carpathian
 
-**carpathian** (place) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**Carpathian** (place) appears in **13 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning carpathian
+## Readings mentioning Carpathian
 
-[[288-48]], [[585-12]], [[949-12]], [[1472-10]], [[2746-3]]
+[[268-3]], [[553-1]], [[585-12]], [[906-3]], [[1005-12]], [[1135-1]], [[1260-1]], [[1900-1]], [[2006-1]], [[2420-1]], [[2683-1]], [[2746-3]], [[5378-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

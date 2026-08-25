@@ -1,18 +1,21 @@
 ---
 entity: "humbleness"
-entity_type: "concept"
-reading_count: 13
-mention_count: 13
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # humbleness
 
-**humbleness** (concept) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**humbleness** (concept) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning humbleness
 
-[[78-4]], [[290-1]], [[294-153]], [[341-15]], [[1265-2]], [[1409-4]], [[1602-1]], [[1877-1]], [[1924-1]], [[1968-4]], [[3129-1]], [[3548-1]], [[5452-1]]
+[[78-4]], [[270-35]], [[900-142]], [[1265-2]], [[1409-4]], [[1440-2]], [[3548-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

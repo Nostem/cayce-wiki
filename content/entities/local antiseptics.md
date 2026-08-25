@@ -1,18 +1,21 @@
 ---
 entity: "local antiseptics"
-entity_type: "remedy"
-reading_count: 6
-mention_count: 6
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # local antiseptics
 
-**local antiseptics** (remedy) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**local antiseptics** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning local antiseptics
 
-[[438-2]], [[758-28]], [[834-1]], [[1919-1]], [[2511-1]], [[5562-9]]
+[[438-2]], [[758-28]], [[2511-1]], [[5555-5]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

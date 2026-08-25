@@ -1,18 +1,21 @@
 ---
 entity: "elliott machine"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 10
-mention_count: 10
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # elliott machine
 
-**elliott machine** (remedy) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**elliott machine** (remedy) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning elliott machine
 
-[[596-1]], [[1196-11]], [[1196-12]], [[1472-15]], [[1539-3]], [[1606-1]], [[3044-2]], [[3586-1]], [[3658-1]], [[5087-1]]
+[[596-1]], [[598-2]], [[1196-11]], [[1472-14]], [[1472-16]], [[1539-3]], [[1606-1]], [[3044-2]], [[3190-4]], [[3586-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "battle creek sanitarium"
-entity_type: "place"
-reading_count: 5
-mention_count: 5
-tags: [entity, place]
+entity: "Battle Creek Sanitarium"
+entity_types: ["place"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# battle creek sanitarium
+# Battle Creek Sanitarium
 
-**battle creek sanitarium** (place) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**Battle Creek Sanitarium** (place) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning battle creek sanitarium
+## Readings mentioning Battle Creek Sanitarium
 
-[[81-2]], [[283-2]], [[340-21]], [[1742-1]], [[3911-2]]
+[[753-1]], [[1742-1]], [[4657-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "glandular balance"
-entity_type: "concept"
-reading_count: 20
-mention_count: 20
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 24
+literal_reading_count: 0
+semantic_reading_count: 24
+literal_mention_count: 0
+semantic_mention_count: 24
+tags: [entity, semantic]
 ---
 
 # glandular balance
 
-**glandular balance** (concept) appears in **20 readings** (20 mentions) — extracted by LLM semantic analysis.
+**glandular balance** (concept) appears in **24 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning glandular balance
 
-[[252-1]], [[434-1]], [[608-8]], [[881-1]], [[907-1]], [[923-1]], [[1028-1]], [[1158-35]], [[1206-4]], [[1399-1]], [[1625-2]], [[1773-2]], [[1773-4]], [[1904-1]], [[1943-1]], [[2015-5]], [[2582-1]], [[3008-1]], [[3053-1]], [[4630-3]]
+[[319-1]], [[337-1]], [[411-1]], [[465-1]], [[557-6]], [[677-1]], [[808-3]], [[834-1]], [[907-1]], [[923-1]], [[1144-1]], [[1339-1]], [[2084-1]], [[2250-1]], [[2371-1]], [[2518-1]], [[2582-1]], [[2582-2]], [[2833-1]], [[2921-1]], [[3012-1]], [[3204-1]], [[3593-1]], [[3808-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "subconscious reasoning"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # subconscious reasoning
 
-**subconscious reasoning** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**subconscious reasoning** (concept) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning subconscious reasoning
 
-[[137-73]], [[341-20]], [[900-219]], [[900-221]]
+[[136-68]], [[137-42]], [[900-164]], [[900-207]], [[900-213]], [[900-219]], [[900-332]], [[900-363]], [[3937-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

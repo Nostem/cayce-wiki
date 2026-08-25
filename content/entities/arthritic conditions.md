@@ -1,18 +1,21 @@
 ---
 entity: "arthritic conditions"
-entity_type: "condition"
-reading_count: 7
-mention_count: 7
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # arthritic conditions
 
-**arthritic conditions** (condition) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**arthritic conditions** (condition) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning arthritic conditions
 
-[[331-1]], [[678-4]], [[1060-2]], [[2805-1]], [[3006-2]], [[3349-1]], [[5034-1]]
+[[295-2]], [[438-6]], [[2805-1]], [[2819-1]], [[3006-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

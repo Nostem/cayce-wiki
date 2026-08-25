@@ -1,18 +1,21 @@
 ---
 entity: "individual choice"
-entity_type: "concept"
-reading_count: 7
-mention_count: 7
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # individual choice
 
-**individual choice** (concept) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**individual choice** (concept) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning individual choice
 
-[[254-55]], [[262-73]], [[830-2]], [[843-9]], [[900-108]], [[1246-3]], [[2624-1]]
+[[254-102]], [[262-118]], [[830-2]], [[1004-2]], [[1246-3]], [[3915-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

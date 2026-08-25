@@ -1,18 +1,21 @@
 ---
 entity: "application of knowledge"
-entity_type: "concept"
-reading_count: 10
-mention_count: 10
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
 # application of knowledge
 
-**application of knowledge** (concept) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**application of knowledge** (concept) appears in **13 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning application of knowledge
 
-[[39-5]], [[262-104]], [[900-126]], [[900-280]], [[900-307]], [[900-310]], [[900-312]], [[900-323]], [[1837-1]], [[1908-1]]
+[[39-3]], [[137-27]], [[254-93]], [[262-48]], [[262-98]], [[262-104]], [[341-22]], [[345-3]], [[416-2]], [[900-106]], [[900-337]], [[1908-1]], [[5459-6]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

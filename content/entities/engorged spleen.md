@@ -1,18 +1,21 @@
 ---
 entity: "engorged spleen"
-entity_type: "condition"
-reading_count: 22
-mention_count: 22
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 20
+literal_reading_count: 0
+semantic_reading_count: 20
+literal_mention_count: 0
+semantic_mention_count: 20
+tags: [entity, semantic]
 ---
 
 # engorged spleen
 
-**engorged spleen** (condition) appears in **22 readings** (22 mentions) — extracted by LLM semantic analysis.
+**engorged spleen** (condition) appears in **20 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning engorged spleen
 
-[[16-1]], [[49-1]], [[71-2]], [[206-1]], [[221-1]], [[294-13]], [[1323-1]], [[2233-1]], [[3870-1]], [[3883-1]], [[3921-1]], [[4134-1]], [[4213-1]], [[4573-1]], [[4574-1]], [[4619-1]], [[4669-1]], [[4978-1]], [[5446-1]], [[5580-1]], [[5592-1]], [[5689-1]]
+[[26-1]], [[49-1]], [[294-16]], [[361-1]], [[723-1]], [[2229-1]], [[2363-1]], [[3921-1]], [[4105-1]], [[4213-1]], [[4300-1]], [[4311-1]], [[4359-1]], [[4573-1]], [[4619-1]], [[4669-1]], [[4978-1]], [[5580-1]], [[5592-1]], [[5723-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

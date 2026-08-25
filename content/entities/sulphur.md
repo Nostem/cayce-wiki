@@ -1,18 +1,21 @@
 ---
 entity: "sulphur"
-entity_type: "remedy"
-reading_count: 55
-mention_count: 55
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 30
+literal_reading_count: 0
+semantic_reading_count: 30
+literal_mention_count: 0
+semantic_mention_count: 30
+tags: [entity, semantic]
 ---
 
 # sulphur
 
-**sulphur** (remedy) appears in **55 readings** (55 mentions) — extracted by LLM semantic analysis.
+**sulphur** (remedy) appears in **30 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning sulphur
 
-[[136-69]], [[136-74]], [[357-5]], [[357-6]], [[538-8]], [[569-4]], [[569-5]], [[585-8]], [[608-8]], [[670-12]], [[759-16]], [[760-11]], [[760-12]], [[982-1]], [[1005-6]], [[1009-1]], [[1208-15]], [[1208-16]], [[1325-1]], [[1429-1]], [[1532-4]], [[1541-8]], [[1646-3]], [[1709-8]], [[1711-1]], [[1736-1]], [[1739-6]], [[1945-1]], [[1990-1]], [[1992-5]], [[2148-5]], [[2341-1]], [[2342-1]], [[2423-1]], [[2462-3]], [[2674-2]], [[2803-1]], [[2843-3]], [[3081-2]], [[3167-1]], [[3185-1]], [[3673-1]], [[3678-1]], [[4117-1]], [[4812-2]], [[4841-2]], [[4880-1]], [[5012-1]], [[5016-1]], [[5157-1]], [[5203-1]], [[5218-1]], [[5316-1]], [[5357-1]], [[5654-1]]
+[[136-74]], [[322-4]], [[460-4]], [[569-4]], [[760-11]], [[1005-6]], [[1208-15]], [[1208-16]], [[1325-1]], [[1532-4]], [[1711-1]], [[1736-1]], [[1739-6]], [[1945-1]], [[2148-5]], [[2342-1]], [[2423-1]], [[2674-2]], [[3261-1]], [[3673-1]], [[3678-1]], [[4117-1]], [[4571-4]], [[4812-2]], [[4880-1]], [[5012-1]], [[5157-1]], [[5218-1]], [[5316-1]], [[5654-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

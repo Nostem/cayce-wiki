@@ -1,18 +1,21 @@
 ---
 entity: "sensitivity"
-entity_type: "concept"
-reading_count: 31
-mention_count: 31
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # sensitivity
 
-**sensitivity** (concept) appears in **31 readings** (31 mentions) — extracted by LLM semantic analysis.
+**sensitivity** (concept, condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning sensitivity
 
-[[540-1]], [[603-1]], [[665-1]], [[877-28]], [[1179-6]], [[1238-1]], [[1265-3]], [[1292-1]], [[1294-1]], [[1406-1]], [[1626-1]], [[1788-10]], [[2133-1]], [[2148-7]], [[2397-1]], [[2400-1]], [[2559-1]], [[2560-1]], [[2683-1]], [[2741-1]], [[3553-1]], [[3576-1]], [[3637-1]], [[4006-1]], [[5000-2]], [[5118-1]], [[5141-1]], [[5243-1]], [[5367-1]], [[5398-1]], [[5457-2]]
+[[587-2]], [[770-1]], [[1123-1]], [[1265-2]], [[2133-1]], [[2559-1]], [[2783-1]], [[3653-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

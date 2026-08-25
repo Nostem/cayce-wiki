@@ -1,18 +1,21 @@
 ---
-entity: "julia chandler"
-entity_type: "person"
-reading_count: 3
-mention_count: 3
-tags: [entity, person]
+entity: "Julia Chandler"
+entity_types: ["person"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
-# julia chandler
+# Julia Chandler
 
-**julia chandler** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Julia Chandler** (person) appears in **12 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning julia chandler
+## Readings mentioning Julia Chandler
 
-[[254-96]], [[254-100]], [[5025-1]]
+[[254-97]], [[254-100]], [[254-116]], [[457-3]], [[951-4]], [[1772-1]], [[1797-2]], [[2012-1]], [[2291-1]], [[2880-2]], [[2950-1]], [[2988-2]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

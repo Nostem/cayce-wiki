@@ -1,18 +1,21 @@
 ---
 entity: "toothache bark"
-entity_type: "remedy"
-reading_count: 6
-mention_count: 6
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # toothache bark
 
-**toothache bark** (remedy) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**toothache bark** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning toothache bark
 
-[[1005-17]], [[1800-19]], [[3211-1]], [[3910-1]], [[4274-1]], [[4274-2]]
+[[1541-10]], [[1800-21]], [[3211-1]], [[3211-2]], [[4274-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "reconstruction"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # reconstruction
 
-**reconstruction** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**reconstruction** (concept) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning reconstruction
 
-[[341-52]], [[670-11]], [[887-4]], [[3507-1]]
+[[341-52]], [[670-11]], [[789-1]], [[2653-6]], [[3128-2]], [[3507-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

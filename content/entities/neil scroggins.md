@@ -1,18 +1,21 @@
 ---
-entity: "neil scroggins"
-entity_type: "person"
+entity: "Neil Scroggins"
+entity_types: ["person"]
 reading_count: 3
-mention_count: 3
-tags: [entity, person]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# neil scroggins
+# Neil Scroggins
 
-**neil scroggins** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Neil Scroggins** (person) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning neil scroggins
+## Readings mentioning Neil Scroggins
 
 [[5741-8]], [[5741-9]], [[5741-10]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

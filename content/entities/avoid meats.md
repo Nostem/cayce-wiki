@@ -1,18 +1,21 @@
 ---
 entity: "avoid meats"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 22
+literal_reading_count: 0
+semantic_reading_count: 22
+literal_mention_count: 0
+semantic_mention_count: 22
+tags: [entity, semantic]
 ---
 
 # avoid meats
 
-**avoid meats** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**avoid meats** (remedy) appears in **22 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning avoid meats
 
-[[1170-4]], [[2245-1]]
+[[83-1]], [[121-1]], [[207-2]], [[460-3]], [[569-9]], [[599-7]], [[987-5]], [[1134-1]], [[1151-31]], [[1253-1]], [[2026-1]], [[2442-1]], [[3788-1]], [[4102-1]], [[4189-1]], [[4218-1]], [[4251-1]], [[4280-5]], [[4385-1]], [[4596-1]], [[4806-1]], [[5642-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

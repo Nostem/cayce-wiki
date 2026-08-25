@@ -1,18 +1,21 @@
 ---
 entity: "mental satisfaction"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # mental satisfaction
 
-**mental satisfaction** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**mental satisfaction** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mental satisfaction
 
-[[315-1]], [[437-10]], [[900-60]], [[900-202]], [[1183-3]]
+[[315-1]], [[900-202]], [[1151-22]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

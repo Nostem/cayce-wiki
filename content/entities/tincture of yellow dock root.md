@@ -1,18 +1,21 @@
 ---
 entity: "tincture of yellow dock root"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # tincture of yellow dock root
 
-**tincture of yellow dock root** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**tincture of yellow dock root** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning tincture of yellow dock root
 
-[[4637-1]], [[4695-2]]
+[[43-1]], [[192-1]], [[3890-1]], [[4695-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

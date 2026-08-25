@@ -1,18 +1,21 @@
 ---
 entity: "wet cell battery appliance"
-entity_type: "remedy"
-reading_count: 6
-mention_count: 6
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # wet cell battery appliance
 
-**wet cell battery appliance** (remedy) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**wet cell battery appliance** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning wet cell battery appliance
 
-[[756-1]], [[798-1]], [[828-1]], [[860-1]], [[964-1]], [[968-1]]
+[[798-1]], [[828-1]], [[860-1]], [[964-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

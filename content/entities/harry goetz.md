@@ -1,18 +1,21 @@
 ---
-entity: "harry goetz"
-entity_type: "person"
-reading_count: 3
-mention_count: 3
-tags: [entity, person]
+entity: "Harry Goetz"
+entity_types: ["person"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
-# harry goetz
+# Harry Goetz
 
-**harry goetz** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Harry Goetz** (person) appears in **10 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning harry goetz
+## Readings mentioning Harry Goetz
 
-[[254-75]], [[454-5]], [[849-69]]
+[[254-63]], [[254-89]], [[257-96]], [[257-209]], [[317-4]], [[454-5]], [[849-69]], [[3022-1]], [[4297-1]], [[4908-7]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

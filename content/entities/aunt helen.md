@@ -1,18 +1,21 @@
 ---
-entity: "aunt helen"
-entity_type: "person"
+entity: "Aunt Helen"
+entity_types: ["person"]
 reading_count: 3
-mention_count: 3
-tags: [entity, person]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# aunt helen
+# Aunt Helen
 
-**aunt helen** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Aunt Helen** (person) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning aunt helen
+## Readings mentioning Aunt Helen
 
 [[136-12]], [[136-48]], [[136-73]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "liver issues"
-entity_type: "condition"
-reading_count: 17
-mention_count: 17
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 23
+literal_reading_count: 0
+semantic_reading_count: 23
+literal_mention_count: 0
+semantic_mention_count: 23
+tags: [entity, semantic]
 ---
 
 # liver issues
 
-**liver issues** (condition) appears in **17 readings** (17 mentions) — extracted by LLM semantic analysis.
+**liver issues** (condition) appears in **23 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning liver issues
 
-[[28-1]], [[295-3]], [[324-9]], [[464-17]], [[573-6]], [[584-1]], [[1266-4]], [[1697-2]], [[2366-7]], [[2801-1]], [[2803-4]], [[2978-1]], [[4259-1]], [[4466-2]], [[5271-1]], [[5555-1]], [[5735-1]]
+[[94-1]], [[111-1]], [[162-2]], [[270-5]], [[404-14]], [[463-1]], [[464-3]], [[464-17]], [[464-37]], [[584-1]], [[761-1]], [[1100-24]], [[1533-1]], [[3026-1]], [[3968-1]], [[3993-1]], [[4357-1]], [[4441-1]], [[4654-1]], [[4980-1]], [[4984-1]], [[5554-2]], [[5735-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

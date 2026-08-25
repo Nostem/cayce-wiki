@@ -1,18 +1,21 @@
 ---
 entity: "wet heat application"
-entity_type: "remedy"
-reading_count: 19
-mention_count: 19
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
 # wet heat application
 
-**wet heat application** (remedy) appears in **19 readings** (19 mentions) — extracted by LLM semantic analysis.
+**wet heat application** (remedy) appears in **13 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning wet heat application
 
-[[6-1]], [[140-27]], [[394-10]], [[861-1]], [[1008-1]], [[1585-1]], [[1710-1]], [[1710-9]], [[1941-1]], [[2338-1]], [[2693-1]], [[2964-1]], [[3284-1]], [[3609-1]], [[3773-1]], [[4485-1]], [[4527-2]], [[4604-1]], [[5423-1]]
+[[126-1]], [[195-22]], [[302-7]], [[409-31]], [[1710-9]], [[1771-4]], [[2693-1]], [[3153-1]], [[3452-1]], [[3773-1]], [[4451-1]], [[5473-7]], [[5739-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "life-giving forces"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # life-giving forces
 
-**life-giving forces** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**life-giving forces** (concept) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning life-giving forces
 
-[[826-5]], [[4132-1]]
+[[403-2]], [[931-2]], [[951-2]], [[2124-2]], [[4779-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

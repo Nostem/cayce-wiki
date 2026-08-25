@@ -1,18 +1,21 @@
 ---
 entity: "mind"
-entity_type: "concept"
-reading_count: 19
-mention_count: 19
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # mind
 
-**mind** (concept) appears in **19 readings** (19 mentions) — extracted by LLM semantic analysis.
+**mind** (concept) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mind
 
-[[262-75]], [[262-78]], [[262-79]], [[262-80]], [[262-81]], [[262-83]], [[262-123]], [[281-57]], [[378-38]], [[900-19]], [[900-21]], [[900-180]], [[1462-1]], [[1620-1]], [[1788-3]], [[2784-1]], [[3744-2]], [[4083-1]], [[5246-1]]
+[[262-79]], [[262-80]], [[262-81]], [[262-85]], [[262-95]], [[262-123]], [[294-147]], [[378-40]], [[900-19]], [[900-461]], [[3744-2]], [[4779-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

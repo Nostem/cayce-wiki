@@ -1,18 +1,21 @@
 ---
 entity: "energy distribution"
-entity_type: "concept"
-reading_count: 12
-mention_count: 12
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # energy distribution
 
-**energy distribution** (concept) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**energy distribution** (concept) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning energy distribution
 
-[[264-7]], [[296-1]], [[303-2]], [[337-18]], [[480-25]], [[635-5]], [[1201-1]], [[1451-1]], [[1853-1]], [[2587-2]], [[2951-1]], [[5644-1]]
+[[635-5]], [[849-40]], [[1187-10]], [[1201-1]], [[1278-4]], [[1553-8]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "radiation"
-entity_type: "concept"
-reading_count: 7
-mention_count: 7
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # radiation
 
-**radiation** (concept) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**radiation** (concept) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning radiation
 
-[[195-57]], [[443-5]], [[900-22]], [[943-9]], [[1372-1]], [[5686-2]], [[5756-1]]
+[[195-57]], [[569-15]], [[3109-1]], [[3473-1]], [[4173-2]], [[5686-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

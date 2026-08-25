@@ -1,18 +1,21 @@
 ---
 entity: "kidney disorder"
-entity_type: "condition"
-reading_count: 8
-mention_count: 8
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
 # kidney disorder
 
-**kidney disorder** (condition) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**kidney disorder** (condition) appears in **14 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning kidney disorder
 
-[[478-3]], [[675-1]], [[768-2]], [[1956-5]], [[2439-1]], [[2804-1]], [[4452-1]], [[5074-1]]
+[[137-131]], [[404-2]], [[654-4]], [[719-1]], [[768-2]], [[869-1]], [[1038-1]], [[1130-2]], [[1956-5]], [[2424-1]], [[2804-1]], [[3910-1]], [[4452-1]], [[5369-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "cabinet sweat"
-entity_type: "remedy"
-reading_count: 15
-mention_count: 15
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 27
+literal_reading_count: 0
+semantic_reading_count: 27
+literal_mention_count: 0
+semantic_mention_count: 27
+tags: [entity, semantic]
 ---
 
 # cabinet sweat
 
-**cabinet sweat** (remedy) appears in **15 readings** (15 mentions) — extracted by LLM semantic analysis.
+**cabinet sweat** (remedy) appears in **27 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning cabinet sweat
 
-[[404-12]], [[416-16]], [[1038-1]], [[1224-3]], [[1472-4]], [[1772-2]], [[2067-3]], [[2173-2]], [[2250-1]], [[2302-2]], [[2524-2]], [[2581-1]], [[3050-1]], [[3255-1]], [[3596-1]]
+[[404-12]], [[416-16]], [[470-31]], [[1038-1]], [[1158-33]], [[1224-3]], [[1472-4]], [[1567-3]], [[1770-5]], [[1772-2]], [[1968-6]], [[2067-3]], [[2085-5]], [[2250-1]], [[2413-1]], [[2524-2]], [[2526-4]], [[2543-3]], [[2975-1]], [[2981-2]], [[3050-1]], [[3115-1]], [[3255-1]], [[3358-1]], [[3428-1]], [[3582-1]], [[3596-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

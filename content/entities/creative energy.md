@@ -1,18 +1,21 @@
 ---
 entity: "creative energy"
-entity_type: "concept"
-reading_count: 56
-mention_count: 56
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 30
+literal_reading_count: 0
+semantic_reading_count: 30
+literal_mention_count: 0
+semantic_mention_count: 30
+tags: [entity, semantic]
 ---
 
 # creative energy
 
-**creative energy** (concept) appears in **56 readings** (56 mentions) — extracted by LLM semantic analysis.
+**creative energy** (concept) appears in **30 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning creative energy
 
-[[39-3]], [[78-3]], [[136-70]], [[142-2]], [[238-2]], [[254-45]], [[254-46]], [[256-1]], [[264-38]], [[275-43]], [[294-107]], [[341-24]], [[341-27]], [[369-3]], [[426-2]], [[462-12]], [[716-2]], [[731-1]], [[827-1]], [[900-249]], [[900-258]], [[900-269]], [[900-274]], [[900-279]], [[900-282]], [[900-306]], [[900-313]], [[900-328]], [[900-342]], [[900-422]], [[911-2]], [[987-2]], [[1158-6]], [[1245-1]], [[1462-1]], [[1728-2]], [[1742-4]], [[1825-1]], [[2358-1]], [[2483-2]], [[2497-3]], [[2842-2]], [[2897-1]], [[3976-5]], [[4124-1]], [[4159-1]], [[4185-1]], [[4341-1]], [[4557-1]], [[4627-1]], [[4976-1]], [[4991-1]], [[5623-1]], [[5639-2]], [[5752-3]], [[5753-1]]
+[[136-50]], [[142-2]], [[238-2]], [[254-43]], [[254-46]], [[257-63]], [[264-38]], [[900-258]], [[900-273]], [[900-274]], [[900-286]], [[900-322]], [[900-342]], [[900-422]], [[900-426]], [[900-461]], [[1800-15]], [[2497-3]], [[2842-2]], [[2897-1]], [[3608-1]], [[3976-5]], [[4124-1]], [[4341-1]], [[4429-1]], [[4991-1]], [[5485-1]], [[5623-1]], [[5639-1]], [[5639-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

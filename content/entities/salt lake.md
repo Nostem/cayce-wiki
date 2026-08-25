@@ -1,18 +1,21 @@
 ---
-entity: "salt lake"
-entity_type: "place"
-reading_count: 2
-mention_count: 2
-tags: [entity, place]
+entity: "Salt Lake"
+entity_types: ["place"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# salt lake
+# Salt Lake
 
-**salt lake** (place) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Salt Lake** (place) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning salt lake
+## Readings mentioning Salt Lake
 
-[[1432-1]], [[1554-4]]
+[[176-1]], [[270-35]], [[1432-1]], [[2398-2]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

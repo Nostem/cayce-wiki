@@ -1,18 +1,21 @@
 ---
-entity: "spanish land"
-entity_type: "place"
-reading_count: 6
-mention_count: 6
-tags: [entity, place]
+entity: "Spanish land"
+entity_types: ["place"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
-# spanish land
+# Spanish land
 
-**spanish land** (place) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**Spanish land** (place) appears in **5 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning spanish land
+## Readings mentioning Spanish land
 
-[[1228-1]], [[1283-1]], [[1467-3]], [[2916-1]], [[3128-1]], [[3574-2]]
+[[1273-1]], [[2905-3]], [[3541-1]], [[3574-2]], [[5262-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

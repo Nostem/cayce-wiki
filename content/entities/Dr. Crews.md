@@ -1,18 +1,21 @@
 ---
-entity: "dr. crews"
-entity_type: "person"
-reading_count: 8
-mention_count: 8
-tags: [entity, person]
+entity: "Dr. Crews"
+entity_types: ["person"]
+reading_count: 23
+literal_reading_count: 0
+semantic_reading_count: 23
+literal_mention_count: 0
+semantic_mention_count: 23
+tags: [entity, semantic]
 ---
 
-# dr. crews
+# Dr. Crews
 
-**dr. crews** (person) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**Dr. Crews** (person) appears in **23 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning dr. crews
+## Readings mentioning Dr. Crews
 
-[[264-47]], [[295-4]], [[369-8]], [[560-6]], [[758-26]], [[759-8]], [[1005-9]], [[1742-3]]
+[[146-3]], [[154-1]], [[264-47]], [[264-48]], [[295-4]], [[369-8]], [[543-5]], [[560-6]], [[759-8]], [[849-37]], [[849-38]], [[849-42]], [[934-5]], [[1001-12]], [[1005-9]], [[1594-7]], [[1664-1]], [[1693-1]], [[1742-3]], [[2189-4]], [[2504-18]], [[2504-20]], [[2811-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

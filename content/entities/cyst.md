@@ -1,18 +1,21 @@
 ---
 entity: "cyst"
-entity_type: "condition"
-reading_count: 23
-mention_count: 23
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # cyst
 
-**cyst** (condition) appears in **23 readings** (23 mentions) — extracted by LLM semantic analysis.
+**cyst** (condition) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning cyst
 
-[[288-22]], [[288-23]], [[303-3]], [[578-6]], [[661-2]], [[903-34]], [[1118-2]], [[1344-1]], [[1424-4]], [[1429-2]], [[1505-7]], [[2089-1]], [[2455-4]], [[2929-1]], [[3079-2]], [[3090-1]], [[3472-1]], [[3518-1]], [[3774-1]], [[4430-1]], [[4650-1]], [[5202-1]], [[5270-1]]
+[[263-6]], [[303-17]], [[413-3]], [[480-5]], [[1429-2]], [[1436-1]], [[1652-1]], [[2929-1]], [[3518-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

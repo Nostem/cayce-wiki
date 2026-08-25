@@ -1,18 +1,21 @@
 ---
 entity: "skin abrasions"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # skin abrasions
 
-**skin abrasions** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**skin abrasions** (condition) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning skin abrasions
 
-[[475-1]], [[675-1]], [[4302-2]]
+[[86-1]], [[288-34]], [[463-1]], [[592-1]], [[677-2]], [[1935-1]], [[2216-1]], [[4238-1]], [[4302-2]], [[4569-2]], [[5513-1]], [[5521-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

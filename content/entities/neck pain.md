@@ -1,18 +1,21 @@
 ---
 entity: "neck pain"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
 # neck pain
 
-**neck pain** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**neck pain** (condition) appears in **14 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning neck pain
 
-[[631-6]], [[3312-1]], [[4666-4]]
+[[14-1]], [[257-131]], [[279-6]], [[325-22]], [[482-1]], [[599-9]], [[779-6]], [[849-75]], [[967-2]], [[2415-1]], [[2432-1]], [[2644-1]], [[2988-3]], [[5180-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

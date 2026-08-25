@@ -1,18 +1,21 @@
 ---
 entity: "assimilations"
-entity_type: "concept"
+entity_types: ["concept", "remedy"]
 reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # assimilations
 
-**assimilations** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**assimilations** (concept, remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning assimilations
 
-[[480-24]], [[941-1]], [[1393-1]], [[1682-1]], [[2235-1]]
+[[618-2]], [[977-2]], [[1223-1]], [[1849-1]], [[2235-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

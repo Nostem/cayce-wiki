@@ -1,18 +1,21 @@
 ---
 entity: "neurotic"
-entity_type: "condition"
-reading_count: 17
-mention_count: 17
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # neurotic
 
-**neurotic** (condition) appears in **17 readings** (17 mentions) — extracted by LLM semantic analysis.
+**neurotic** (condition) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning neurotic
 
-[[189-2]], [[303-2]], [[306-3]], [[383-1]], [[483-2]], [[486-1]], [[1000-4]], [[1000-10]], [[2189-3]], [[2652-1]], [[2819-1]], [[3721-1]], [[4326-1]], [[4728-1]], [[4848-1]], [[4852-1]], [[5431-2]]
+[[189-2]], [[483-2]], [[1125-3]], [[1415-1]], [[1544-1]], [[1713-18]], [[3664-1]], [[3721-1]], [[4133-1]], [[5567-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

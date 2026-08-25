@@ -1,18 +1,21 @@
 ---
 entity: "ointment"
-entity_type: "remedy"
-reading_count: 11
-mention_count: 11
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # ointment
 
-**ointment** (remedy) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**ointment** (remedy) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning ointment
 
-[[270-42]], [[270-43]], [[270-44]], [[340-7]], [[760-11]], [[900-390]], [[1540-1]], [[2514-10]], [[2711-2]], [[5421-6]], [[5566-5]]
+[[106-14]], [[147-34]], [[270-43]], [[337-20]], [[849-16]], [[900-389]], [[900-390]], [[2514-10]], [[5671-8]], [[5671-13]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

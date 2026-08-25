@@ -1,18 +1,21 @@
 ---
-entity: "damascus"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity: "Damascus"
+entity_types: ["place"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
-# damascus
+# Damascus
 
-**damascus** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Damascus** (place) appears in **8 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning damascus
+## Readings mentioning Damascus
 
-[[366-5]], [[2340-1]], [[2919-1]]
+[[262-57]], [[366-5]], [[900-31]], [[1373-2]], [[2340-1]], [[2454-3]], [[2919-1]], [[5055-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

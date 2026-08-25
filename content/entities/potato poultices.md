@@ -1,18 +1,21 @@
 ---
 entity: "potato poultices"
-entity_type: "remedy"
-reading_count: 4
-mention_count: 4
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # potato poultices
 
-**potato poultices** (remedy) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**potato poultices** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning potato poultices
 
-[[584-3]], [[934-8]], [[3450-1]], [[4017-1]]
+[[318-6]], [[360-6]], [[584-3]], [[934-8]], [[4012-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

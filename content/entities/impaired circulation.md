@@ -1,18 +1,21 @@
 ---
 entity: "impaired circulation"
-entity_type: "condition"
-reading_count: 12
-mention_count: 12
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 28
+literal_reading_count: 0
+semantic_reading_count: 28
+literal_mention_count: 0
+semantic_mention_count: 28
+tags: [entity, semantic]
 ---
 
 # impaired circulation
 
-**impaired circulation** (condition) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**impaired circulation** (condition) appears in **28 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning impaired circulation
 
-[[94-1]], [[198-1]], [[417-2]], [[492-1]], [[731-1]], [[1109-1]], [[1676-1]], [[2237-1]], [[3402-1]], [[4215-1]], [[4577-1]], [[4814-1]]
+[[71-1]], [[94-1]], [[126-1]], [[147-15]], [[198-1]], [[269-1]], [[417-2]], [[539-4]], [[731-1]], [[1181-3]], [[1676-1]], [[1713-12]], [[2237-1]], [[2278-1]], [[2434-1]], [[2514-7]], [[4107-1]], [[4170-1]], [[4215-1]], [[4233-1]], [[4387-1]], [[4393-1]], [[4466-1]], [[4577-1]], [[4751-1]], [[4764-1]], [[4808-1]], [[5740-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "distraughtness"
-entity_type: "condition"
-reading_count: 5
-mention_count: 5
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # distraughtness
 
-**distraughtness** (condition) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**distraughtness** (condition) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning distraughtness
 
-[[569-18]], [[2901-3]], [[4178-1]], [[4621-1]], [[5522-1]]
+[[64-1]], [[109-2]], [[243-3]], [[294-134]], [[814-2]], [[5467-1]], [[5475-3]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

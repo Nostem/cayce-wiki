@@ -1,18 +1,21 @@
 ---
 entity: "memory loss"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # memory loss
 
-**memory loss** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**memory loss** (condition) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning memory loss
 
-[[4822-1]], [[5380-1]]
+[[638-2]], [[1026-1]], [[1711-3]], [[2598-1]], [[3082-1]], [[3098-1]], [[3699-1]], [[5380-1]], [[5506-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

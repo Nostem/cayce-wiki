@@ -1,18 +1,21 @@
 ---
-entity: "past-life in chaldea"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity: "past-life in Chaldea"
+entity_types: ["concept"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
-# past-life in chaldea
+# past-life in Chaldea
 
-**past-life in chaldea** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**past-life in Chaldea** (concept) appears in **12 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning past-life in chaldea
+## Readings mentioning past-life in Chaldea
 
-[[136-1]], [[903-2]]
+[[445-1]], [[478-1]], [[903-2]], [[1293-1]], [[1626-1]], [[1992-1]], [[2132-1]], [[2344-1]], [[2410-1]], [[2559-1]], [[2739-1]], [[4840-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

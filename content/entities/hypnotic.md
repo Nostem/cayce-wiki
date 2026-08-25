@@ -1,18 +1,21 @@
 ---
 entity: "hypnotic"
-entity_type: "remedy"
-reading_count: 11
-mention_count: 11
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # hypnotic
 
-**hypnotic** (remedy) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**hypnotic** (remedy) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning hypnotic
 
-[[374-2]], [[843-6]], [[851-3]], [[988-11]], [[1343-3]], [[1377-7]], [[2639-1]], [[2768-1]], [[3446-2]], [[3453-2]], [[5473-7]]
+[[340-47]], [[374-2]], [[843-6]], [[1280-3]], [[1377-7]], [[2639-1]], [[5473-7]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

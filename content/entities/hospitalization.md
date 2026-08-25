@@ -1,18 +1,21 @@
 ---
 entity: "hospitalization"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 6
-mention_count: 6
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # hospitalization
 
-**hospitalization** (remedy) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**hospitalization** (remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning hospitalization
 
-[[23-10]], [[303-17]], [[494-4]], [[1368-1]], [[1546-1]], [[1866-9]]
+[[23-10]], [[303-17]], [[391-1]], [[1368-1]], [[1866-9]], [[3886-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

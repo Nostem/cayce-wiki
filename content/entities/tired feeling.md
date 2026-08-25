@@ -1,18 +1,21 @@
 ---
 entity: "tired feeling"
-entity_type: "condition"
-reading_count: 13
-mention_count: 13
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 17
+literal_reading_count: 0
+semantic_reading_count: 17
+literal_mention_count: 0
+semantic_mention_count: 17
+tags: [entity, semantic]
 ---
 
 # tired feeling
 
-**tired feeling** (condition) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**tired feeling** (condition) appears in **17 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning tired feeling
 
-[[207-1]], [[246-1]], [[257-212]], [[619-4]], [[647-1]], [[877-8]], [[2211-1]], [[3253-1]], [[3881-1]], [[4247-1]], [[4276-2]], [[4861-1]], [[5146-1]]
+[[260-1]], [[338-5]], [[420-2]], [[533-8]], [[619-4]], [[619-7]], [[772-1]], [[877-8]], [[953-18]], [[979-1]], [[1222-3]], [[1381-1]], [[3211-3]], [[3253-1]], [[4276-2]], [[4761-1]], [[5146-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

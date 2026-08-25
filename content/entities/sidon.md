@@ -1,18 +1,21 @@
 ---
-entity: "sidon"
-entity_type: "place"
-reading_count: 2
-mention_count: 2
-tags: [entity, place]
+entity: "Sidon"
+entity_types: ["place"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
-# sidon
+# Sidon
 
-**sidon** (place) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Sidon** (place) appears in **7 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning sidon
+## Readings mentioning Sidon
 
-[[601-5]], [[1741-1]]
+[[361-4]], [[601-5]], [[619-5]], [[826-5]], [[1301-1]], [[1716-1]], [[1741-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

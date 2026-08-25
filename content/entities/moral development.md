@@ -1,18 +1,21 @@
 ---
 entity: "moral development"
-entity_type: "concept"
-reading_count: 6
-mention_count: 6
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # moral development
 
-**moral development** (concept) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**moral development** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning moral development
 
-[[257-6]], [[678-3]], [[759-23]], [[903-8]], [[1135-6]], [[3704-1]]
+[[288-16]], [[759-23]], [[779-17]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

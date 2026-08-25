@@ -1,18 +1,21 @@
 ---
 entity: "bruises"
-entity_type: "condition"
-reading_count: 9
-mention_count: 9
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # bruises
 
-**bruises** (condition) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**bruises** (condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning bruises
 
-[[288-51]], [[308-12]], [[601-8]], [[618-8]], [[619-6]], [[780-11]], [[1129-1]], [[3336-1]], [[4382-1]]
+[[276-4]], [[288-51]], [[308-12]], [[619-6]], [[780-11]], [[1129-1]], [[2679-1]], [[4382-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

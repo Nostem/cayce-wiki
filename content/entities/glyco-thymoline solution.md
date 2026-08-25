@@ -1,18 +1,21 @@
 ---
 entity: "glyco-thymoline solution"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 4
-mention_count: 4
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # glyco-thymoline solution
 
-**glyco-thymoline solution** (remedy) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**glyco-thymoline solution** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning glyco-thymoline solution
 
-[[410-3]], [[428-11]], [[2083-1]], [[2376-7]]
+[[1834-1]], [[2436-2]], [[2588-1]], [[5700-3]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

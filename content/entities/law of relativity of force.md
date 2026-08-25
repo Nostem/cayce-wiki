@@ -1,18 +1,21 @@
 ---
 entity: "law of relativity of force"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # law of relativity of force
 
-**law of relativity of force** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**law of relativity of force** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning law of relativity of force
 
-[[195-57]], [[900-211]]
+[[195-54]], [[900-211]], [[900-429]], [[1800-15]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

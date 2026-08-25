@@ -1,18 +1,21 @@
 ---
 entity: "gastritis"
-entity_type: "condition"
-reading_count: 28
-mention_count: 28
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 30
+literal_reading_count: 0
+semantic_reading_count: 30
+literal_mention_count: 0
+semantic_mention_count: 30
+tags: [entity, semantic]
 ---
 
 # gastritis
 
-**gastritis** (condition) appears in **28 readings** (28 mentions) — extracted by LLM semantic analysis.
+**gastritis** (condition) appears in **30 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning gastritis
 
-[[261-2]], [[261-3]], [[261-8]], [[261-11]], [[261-12]], [[261-13]], [[261-14]], [[261-17]], [[261-18]], [[261-19]], [[261-20]], [[261-21]], [[261-22]], [[261-23]], [[261-24]], [[303-42]], [[433-2]], [[538-55]], [[538-71]], [[1152-8]], [[1582-1]], [[2356-1]], [[2415-1]], [[4157-1]], [[4183-1]], [[4414-1]], [[4597-1]], [[4709-3]]
+[[64-2]], [[261-1]], [[261-2]], [[261-5]], [[261-8]], [[261-9]], [[261-10]], [[261-11]], [[261-13]], [[261-14]], [[261-16]], [[261-17]], [[261-18]], [[261-19]], [[261-21]], [[261-22]], [[261-23]], [[261-25]], [[261-26]], [[303-41]], [[303-42]], [[433-1]], [[538-71]], [[779-21]], [[1582-1]], [[4157-1]], [[4183-1]], [[4414-1]], [[4597-1]], [[4709-3]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

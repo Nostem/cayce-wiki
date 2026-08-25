@@ -1,18 +1,21 @@
 ---
 entity: "Marcus Skinner"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity_types: ["person"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # Marcus Skinner
 
-**Marcus Skinner** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Marcus Skinner** (person) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Marcus Skinner
 
-[[711-2]], [[4590-1]]
+[[259-6]], [[711-2]], [[1202-2]], [[2605-1]], [[4590-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

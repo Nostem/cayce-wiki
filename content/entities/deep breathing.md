@@ -1,18 +1,21 @@
 ---
 entity: "deep breathing"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["remedy"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # deep breathing
 
-**deep breathing** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**deep breathing** (remedy) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning deep breathing
 
-[[811-7]], [[5693-1]]
+[[64-3]], [[412-1]], [[2519-2]], [[2541-1]], [[3149-2]], [[3776-1]], [[4463-1]], [[4980-1]], [[5291-1]], [[5453-9]], [[5618-14]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

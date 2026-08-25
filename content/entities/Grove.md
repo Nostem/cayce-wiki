@@ -1,18 +1,21 @@
 ---
-entity: "grove"
-entity_type: "person"
-reading_count: 3
-mention_count: 3
-tags: [entity, person]
+entity: "Grove"
+entity_types: ["person"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
-# grove
+# Grove
 
-**grove** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Grove** (person) appears in **9 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning grove
+## Readings mentioning Grove
 
-[[257-38]], [[257-59]], [[257-100]]
+[[257-31]], [[257-38]], [[257-55]], [[257-59]], [[257-65]], [[257-100]], [[257-102]], [[257-103]], [[257-115]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

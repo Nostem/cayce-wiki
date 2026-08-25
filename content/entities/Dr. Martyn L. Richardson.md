@@ -1,18 +1,21 @@
 ---
 entity: "Dr. Martyn L. Richardson"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity_types: ["person"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # Dr. Martyn L. Richardson
 
-**Dr. Martyn L. Richardson** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Dr. Martyn L. Richardson** (person) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Dr. Martyn L. Richardson
 
-[[294-104]], [[303-28]]
+[[251-1]], [[264-60]], [[303-28]], [[675-1]], [[845-2]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

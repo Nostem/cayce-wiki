@@ -1,18 +1,21 @@
 ---
-entity: "walter n. pahnke"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Walter N. Pahnke"
+entity_types: ["person"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
-# walter n. pahnke
+# Walter N. Pahnke
 
-**walter n. pahnke** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Walter N. Pahnke** (person) appears in **9 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning walter n. pahnke
+## Readings mentioning Walter N. Pahnke
 
-[[3071-2]], [[3790-1]]
+[[561-3]], [[1916-5]], [[2153-12]], [[2456-6]], [[3302-1]], [[3790-1]], [[3801-1]], [[3918-2]], [[5642-7]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "opportunity"
-entity_type: "concept"
-reading_count: 31
-mention_count: 31
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 17
+literal_reading_count: 0
+semantic_reading_count: 17
+literal_mention_count: 0
+semantic_mention_count: 17
+tags: [entity, semantic]
 ---
 
 # opportunity
 
-**opportunity** (concept) appears in **31 readings** (31 mentions) — extracted by LLM semantic analysis.
+**opportunity** (concept) appears in **17 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning opportunity
 
-[[257-148]], [[261-7]], [[262-48]], [[262-49]], [[262-50]], [[262-51]], [[262-53]], [[262-54]], [[262-113]], [[262-114]], [[270-28]], [[341-40]], [[361-13]], [[361-16]], [[378-3]], [[412-2]], [[437-3]], [[440-21]], [[457-10]], [[459-4]], [[487-29]], [[1120-3]], [[1208-18]], [[1302-2]], [[1466-3]], [[1874-2]], [[3743-1]], [[3818-2]], [[4341-2]], [[5049-1]], [[5580-2]]
+[[78-4]], [[254-66]], [[262-48]], [[262-49]], [[262-51]], [[262-113]], [[333-6]], [[341-40]], [[440-21]], [[820-3]], [[934-6]], [[1208-18]], [[1424-2]], [[1874-2]], [[4278-2]], [[4586-4]], [[4586-5]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

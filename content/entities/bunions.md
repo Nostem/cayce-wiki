@@ -1,18 +1,21 @@
 ---
 entity: "bunions"
-entity_type: "condition"
-reading_count: 5
-mention_count: 5
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # bunions
 
-**bunions** (condition) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**bunions** (condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning bunions
 
-[[275-4]], [[275-10]], [[275-18]], [[1800-30]], [[2470-2]]
+[[275-4]], [[275-18]], [[276-4]], [[983-1]], [[1800-30]], [[2470-2]], [[2470-3]], [[3353-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "antrum trouble"
-entity_type: "condition"
-reading_count: 7
-mention_count: 7
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # antrum trouble
 
-**antrum trouble** (condition) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**antrum trouble** (condition) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning antrum trouble
 
-[[578-4]], [[900-389]], [[900-450]], [[900-465]], [[2061-1]], [[3994-1]], [[5502-1]]
+[[56-1]], [[408-1]], [[578-4]], [[630-1]], [[634-1]], [[900-450]], [[900-465]], [[2001-1]], [[2061-1]], [[2645-1]], [[2870-1]], [[3994-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

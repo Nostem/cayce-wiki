@@ -1,18 +1,21 @@
 ---
 entity: "constructive thought"
-entity_type: "concept"
+entity_types: ["concept"]
 reading_count: 10
-mention_count: 10
-tags: [entity, concept]
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # constructive thought
 
-**constructive thought** (concept) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**constructive thought** (concept) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning constructive thought
 
-[[23-3]], [[257-168]], [[379-7]], [[578-13]], [[849-19]], [[1117-3]], [[1634-1]], [[1691-1]], [[4757-1]], [[5393-1]]
+[[23-3]], [[257-202]], [[379-7]], [[416-12]], [[528-12]], [[578-13]], [[849-19]], [[1117-3]], [[1439-1]], [[1634-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

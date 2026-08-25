@@ -1,18 +1,21 @@
 ---
 entity: "calcium deposits"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # calcium deposits
 
-**calcium deposits** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**calcium deposits** (condition) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning calcium deposits
 
-[[3543-1]], [[3903-1]], [[5273-1]]
+[[3012-1]], [[3591-1]], [[3903-1]], [[4003-1]], [[5129-1]], [[5144-1]], [[5273-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

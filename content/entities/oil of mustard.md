@@ -1,18 +1,21 @@
 ---
 entity: "oil of mustard"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 6
-mention_count: 6
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # oil of mustard
 
-**oil of mustard** (remedy) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**oil of mustard** (remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning oil of mustard
 
-[[298-1]], [[390-1]], [[949-3]], [[2123-1]], [[2504-20]], [[4754-1]]
+[[737-1]], [[2302-3]], [[2499-1]], [[2590-3]], [[4754-1]], [[4762-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

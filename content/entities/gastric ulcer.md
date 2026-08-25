@@ -1,18 +1,21 @@
 ---
 entity: "gastric ulcer"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # gastric ulcer
 
-**gastric ulcer** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**gastric ulcer** (condition) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning gastric ulcer
 
-[[2043-2]], [[5621-1]]
+[[1734-5]], [[1745-2]], [[2043-1]], [[2043-2]], [[5641-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

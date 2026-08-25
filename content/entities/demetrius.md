@@ -1,18 +1,21 @@
 ---
-entity: "demetrius"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Demetrius"
+entity_types: ["person"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
-# demetrius
+# Demetrius
 
-**demetrius** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Demetrius** (person) appears in **5 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning demetrius
+## Readings mentioning Demetrius
 
-[[311-5]], [[311-6]]
+[[311-1]], [[311-5]], [[311-12]], [[2897-4]], [[3356-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

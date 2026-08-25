@@ -1,18 +1,21 @@
 ---
 entity: "lethargy"
-entity_type: "condition"
-reading_count: 9
-mention_count: 9
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # lethargy
 
-**lethargy** (condition) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**lethargy** (condition) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning lethargy
 
-[[470-6]], [[896-1]], [[900-356]], [[953-26]], [[1086-1]], [[2225-1]], [[2889-2]], [[3752-1]], [[4864-1]]
+[[288-22]], [[288-28]], [[900-356]], [[953-26]], [[2225-1]], [[2889-2]], [[2998-1]], [[3279-1]], [[3484-1]], [[4466-1]], [[4864-1]], [[5683-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

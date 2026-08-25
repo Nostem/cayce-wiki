@@ -1,18 +1,21 @@
 ---
-entity: "talladega"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity: "Talladega"
+entity_types: ["place"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# talladega
+# Talladega
 
-**talladega** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Talladega** (place) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning talladega
+## Readings mentioning Talladega
 
-[[707-2]], [[707-5]], [[4286-3]]
+[[518-1]], [[707-1]], [[707-2]], [[4286-3]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

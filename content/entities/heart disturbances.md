@@ -1,18 +1,21 @@
 ---
 entity: "heart disturbances"
-entity_type: "condition"
+entity_types: ["condition"]
 reading_count: 4
-mention_count: 4
-tags: [entity, condition]
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # heart disturbances
 
-**heart disturbances** (condition) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**heart disturbances** (condition) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning heart disturbances
 
-[[975-4]], [[1010-21]], [[1660-2]], [[3554-1]]
+[[470-37]], [[1010-21]], [[1196-4]], [[1660-2]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

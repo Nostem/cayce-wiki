@@ -1,18 +1,21 @@
 ---
 entity: "enlarged tonsils"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # enlarged tonsils
 
-**enlarged tonsils** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**enlarged tonsils** (condition) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning enlarged tonsils
 
-[[759-4]], [[1490-3]]
+[[324-4]], [[508-1]], [[759-4]], [[1490-3]], [[1958-3]], [[5167-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

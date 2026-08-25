@@ -1,18 +1,21 @@
 ---
 entity: "glandular changes"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 15
+literal_reading_count: 0
+semantic_reading_count: 15
+literal_mention_count: 0
+semantic_mention_count: 15
+tags: [entity, semantic]
 ---
 
 # glandular changes
 
-**glandular changes** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**glandular changes** (concept, condition) appears in **15 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning glandular changes
 
-[[457-8]], [[608-10]]
+[[340-35]], [[415-11]], [[543-3]], [[601-22]], [[608-10]], [[1361-1]], [[1540-4]], [[1770-8]], [[2488-1]], [[2867-2]], [[2939-1]], [[3227-1]], [[3291-1]], [[3303-1]], [[3386-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

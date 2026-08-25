@@ -1,18 +1,21 @@
 ---
-entity: "dr. parker"
-entity_type: "person"
-reading_count: 11
-mention_count: 11
-tags: [entity, person]
+entity: "Dr. Parker"
+entity_types: ["person"]
+reading_count: 62
+literal_reading_count: 0
+semantic_reading_count: 62
+literal_mention_count: 0
+semantic_mention_count: 62
+tags: [entity, semantic]
 ---
 
-# dr. parker
+# Dr. Parker
 
-**dr. parker** (person) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**Dr. Parker** (person) appears in **62 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning dr. parker
+## Readings mentioning Dr. Parker
 
-[[294-122]], [[337-15]], [[409-8]], [[559-3]], [[559-5]], [[667-2]], [[758-7]], [[758-9]], [[1000-5]], [[2235-2]], [[2372-2]]
+[[2-4]], [[2-5]], [[2-6]], [[2-7]], [[99-4]], [[120-6]], [[120-7]], [[202-6]], [[325-28]], [[325-29]], [[325-30]], [[337-10]], [[337-11]], [[340-9]], [[372-3]], [[409-6]], [[409-7]], [[409-8]], [[409-9]], [[433-3]], [[464-11]], [[543-22]], [[559-2]], [[559-3]], [[559-5]], [[758-6]], [[758-7]], [[758-8]], [[758-10]], [[758-11]], [[758-13]], [[900-464]], [[1000-4]], [[1122-2]], [[1122-3]], [[1122-4]], [[1122-5]], [[1122-6]], [[2200-1]], [[2501-2]], [[2504-6]], [[2519-2]], [[2519-3]], [[2519-5]], [[4088-1]], [[5438-2]], [[5509-2]], [[5545-2]], [[5545-3]], [[5555-5]], [[5562-2]], [[5562-3]], [[5588-2]], [[5671-3]], [[5671-6]], [[5671-7]], [[5671-8]], [[5671-10]], [[5671-12]], [[5671-13]], [[5671-14]], [[5671-19]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

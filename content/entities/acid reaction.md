@@ -1,18 +1,21 @@
 ---
 entity: "acid reaction"
-entity_type: "condition"
-reading_count: 5
-mention_count: 5
-tags: [entity, condition]
+entity_types: ["concept", "condition"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # acid reaction
 
-**acid reaction** (condition) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**acid reaction** (concept, condition) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning acid reaction
 
-[[195-55]], [[304-23]], [[772-1]], [[1745-2]], [[5520-5]]
+[[304-23]], [[337-28]], [[562-4]], [[684-1]], [[1745-2]], [[5520-6]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "tumorous conditions"
-entity_type: "condition"
-reading_count: 7
-mention_count: 7
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # tumorous conditions
 
-**tumorous conditions** (condition) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**tumorous conditions** (condition) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning tumorous conditions
 
-[[303-20]], [[635-6]], [[650-2]], [[667-1]], [[889-1]], [[988-2]], [[1445-1]]
+[[303-20]], [[349-21]], [[635-6]], [[889-1]], [[2819-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "thyroid deficiency"
-entity_type: "condition"
-reading_count: 13
-mention_count: 13
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 23
+literal_reading_count: 0
+semantic_reading_count: 23
+literal_mention_count: 0
+semantic_mention_count: 23
+tags: [entity, semantic]
 ---
 
 # thyroid deficiency
 
-**thyroid deficiency** (condition) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**thyroid deficiency** (condition) appears in **23 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning thyroid deficiency
 
-[[536-1]], [[1063-1]], [[1620-3]], [[1765-1]], [[2368-1]], [[2501-1]], [[2515-2]], [[2571-2]], [[2870-1]], [[3062-1]], [[3580-2]], [[3904-1]], [[4128-2]]
+[[130-1]], [[434-1]], [[536-1]], [[665-3]], [[865-2]], [[935-2]], [[954-5]], [[1078-1]], [[1102-2]], [[1179-1]], [[1247-1]], [[1620-3]], [[2072-6]], [[2099-1]], [[2114-1]], [[2368-1]], [[2501-1]], [[2515-1]], [[2870-1]], [[3062-1]], [[3204-1]], [[3436-1]], [[3761-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

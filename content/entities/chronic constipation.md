@@ -1,18 +1,21 @@
 ---
 entity: "chronic constipation"
-entity_type: "condition"
-reading_count: 8
-mention_count: 8
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
 # chronic constipation
 
-**chronic constipation** (condition) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**chronic constipation** (condition) appears in **14 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning chronic constipation
 
-[[255-2]], [[781-3]], [[1553-1]], [[3076-1]], [[3195-1]], [[3464-1]], [[4091-2]], [[5394-1]]
+[[255-2]], [[859-1]], [[869-1]], [[1010-6]], [[1553-1]], [[1620-1]], [[1749-1]], [[2011-2]], [[2016-1]], [[3076-1]], [[3195-1]], [[4091-2]], [[5148-1]], [[5394-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

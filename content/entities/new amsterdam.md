@@ -1,18 +1,21 @@
 ---
-entity: "new amsterdam"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity: "New Amsterdam"
+entity_types: ["place"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
-# new amsterdam
+# New Amsterdam
 
-**new amsterdam** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**New Amsterdam** (place) appears in **8 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning new amsterdam
+## Readings mentioning New Amsterdam
 
-[[384-1]], [[997-1]], [[3246-1]]
+[[384-1]], [[997-1]], [[1021-3]], [[1493-1]], [[2113-1]], [[2411-1]], [[2988-2]], [[3246-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

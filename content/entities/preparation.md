@@ -1,18 +1,21 @@
 ---
 entity: "preparation"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # preparation
 
-**preparation** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**preparation** (concept) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning preparation
 
-[[341-12]], [[538-26]], [[641-3]], [[658-6]]
+[[270-45]], [[341-12]], [[361-12]], [[399-1]], [[462-9]], [[462-11]], [[538-19]], [[670-5]], [[820-3]], [[1066-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

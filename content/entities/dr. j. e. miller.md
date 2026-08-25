@@ -1,18 +1,21 @@
 ---
-entity: "Dr. J. E. Miller"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "dr. j. e. miller"
+entity_types: ["person"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# Dr. J. E. Miller
+# dr. j. e. miller
 
-**Dr. J. E. Miller** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**dr. j. e. miller** (person) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning Dr. J. E. Miller
+## Readings mentioning dr. j. e. miller
 
-[[2-2]], [[5626-1]]
+[[5522-1]], [[5522-2]], [[5626-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

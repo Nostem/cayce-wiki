@@ -1,18 +1,21 @@
 ---
-entity: "akron"
-entity_type: "place"
-reading_count: 6
-mention_count: 6
-tags: [entity, place]
+entity: "Akron"
+entity_types: ["place"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
-# akron
+# Akron
 
-**akron** (place) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**Akron** (place) appears in **12 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning akron
+## Readings mentioning Akron
 
-[[254-104]], [[1158-6]], [[1173-4]], [[1188-10]], [[1206-3]], [[1224-5]]
+[[254-104]], [[311-8]], [[1158-5]], [[1188-10]], [[1224-5]], [[1266-1]], [[1266-3]], [[1527-3]], [[1564-3]], [[1747-3]], [[1749-2]], [[2487-3]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

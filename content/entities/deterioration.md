@@ -1,18 +1,21 @@
 ---
 entity: "deterioration"
-entity_type: "condition"
-reading_count: 14
-mention_count: 14
-tags: [entity, condition]
+entity_types: ["concept", "condition"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # deterioration
 
-**deterioration** (condition) appears in **14 readings** (14 mentions) — extracted by LLM semantic analysis.
+**deterioration** (concept, condition) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning deterioration
 
-[[294-212]], [[360-6]], [[1196-17]], [[1360-1]], [[2240-1]], [[2828-2]], [[3011-1]], [[3083-1]], [[3191-1]], [[3496-1]], [[4059-1]], [[4106-1]], [[4743-1]], [[5083-1]]
+[[3076-1]], [[3365-1]], [[3969-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "gelatine"
-entity_type: "remedy"
-reading_count: 6
-mention_count: 6
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # gelatine
 
-**gelatine** (remedy) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**gelatine** (remedy) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning gelatine
 
-[[849-71]], [[1187-11]], [[1433-9]], [[1710-4]], [[2175-7]], [[2936-1]]
+[[849-71]], [[2175-7]], [[2936-1]], [[2970-2]], [[3224-2]], [[3246-2]], [[5150-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

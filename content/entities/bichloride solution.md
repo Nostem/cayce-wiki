@@ -1,18 +1,21 @@
 ---
 entity: "bichloride solution"
-entity_type: "remedy"
-reading_count: 6
-mention_count: 6
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # bichloride solution
 
-**bichloride solution** (remedy) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**bichloride solution** (remedy) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning bichloride solution
 
-[[337-10]], [[361-6]], [[1375-3]], [[1375-4]], [[1375-5]], [[2514-9]]
+[[337-10]], [[337-14]], [[1375-3]], [[1375-4]], [[1375-5]], [[1541-5]], [[2514-9]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

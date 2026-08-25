@@ -1,18 +1,21 @@
 ---
 entity: "hoarseness"
-entity_type: "condition"
-reading_count: 15
-mention_count: 15
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 31
+literal_reading_count: 0
+semantic_reading_count: 31
+literal_mention_count: 0
+semantic_mention_count: 31
+tags: [entity, semantic]
 ---
 
 # hoarseness
 
-**hoarseness** (condition) appears in **15 readings** (15 mentions) — extracted by LLM semantic analysis.
+**hoarseness** (condition) appears in **31 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning hoarseness
 
-[[264-9]], [[287-15]], [[287-16]], [[287-17]], [[294-115]], [[294-165]], [[307-7]], [[480-25]], [[639-1]], [[779-6]], [[779-7]], [[1713-21]], [[1958-4]], [[4124-1]], [[4691-3]]
+[[264-9]], [[274-11]], [[287-15]], [[287-16]], [[287-17]], [[294-165]], [[304-13]], [[307-7]], [[464-22]], [[480-25]], [[616-1]], [[779-6]], [[779-7]], [[845-3]], [[926-1]], [[976-1]], [[1045-3]], [[1208-4]], [[1676-1]], [[1713-21]], [[1958-4]], [[2782-1]], [[2956-2]], [[3011-2]], [[3246-2]], [[3444-2]], [[3710-1]], [[4124-1]], [[4691-2]], [[4691-3]], [[5239-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

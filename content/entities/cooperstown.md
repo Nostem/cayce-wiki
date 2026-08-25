@@ -1,18 +1,21 @@
 ---
-entity: "cooperstown"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity: "Cooperstown"
+entity_types: ["place"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
-# cooperstown
+# Cooperstown
 
-**cooperstown** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Cooperstown** (place) appears in **4 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning cooperstown
+## Readings mentioning Cooperstown
 
-[[264-43]], [[628-6]], [[798-3]]
+[[261-5]], [[264-43]], [[628-6]], [[798-3]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

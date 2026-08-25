@@ -1,18 +1,21 @@
 ---
-entity: "city of gold"
-entity_type: "place"
+entity: "City of Gold"
+entity_types: ["place"]
 reading_count: 3
-mention_count: 3
-tags: [entity, place]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# city of gold
+# City of Gold
 
-**city of gold** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**City of Gold** (place) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning city of gold
+## Readings mentioning City of Gold
 
-[[826-9]], [[1969-2]], [[3633-1]]
+[[877-27]], [[1423-1]], [[1969-2]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "obedience through suffering"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # obedience through suffering
 
-**obedience through suffering** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**obedience through suffering** (concept) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning obedience through suffering
 
-[[585-4]], [[1527-1]]
+[[25-5]], [[147-18]], [[254-41]], [[262-56]], [[294-155]], [[416-18]], [[560-11]], [[569-27]], [[1445-1]], [[2067-6]], [[3143-1]], [[3382-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

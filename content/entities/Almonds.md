@@ -1,18 +1,21 @@
 ---
-entity: "almonds"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity: "Almonds"
+entity_types: ["remedy"]
+reading_count: 90
+literal_reading_count: 90
+semantic_reading_count: 11
+literal_mention_count: 161
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
-# almonds
+# Almonds
 
-**almonds** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Almonds** (remedy) appears in **90 readings** — indexed through hybrid literal and LLM extraction.
 
-## Readings mentioning almonds
+## Readings mentioning Almonds
 
-[[1158-21]], [[2085-3]]
+[[39-3]], [[120-1]], [[162-3]], [[257-22]], [[271-5]], [[294-71]], [[294-89]], [[299-4]], [[310-4]], [[325-47]], [[361-6]], [[379-1]], [[442-2]], [[442-4]], [[460-4]], [[480-13]], [[480-46]], [[538-34]], [[543-6]], [[543-9]], [[543-18]], [[543-24]], [[560-2]], [[585-3]], [[626-1]], [[642-1]], [[658-2]], [[658-3]], [[659-1]], [[710-1]], [[711-3]], [[755-1]], [[787-1]], [[800-1]], [[808-5]], [[813-2]], [[834-1]], [[900-159]], [[934-3]], [[949-5]], [[954-2]], [[967-2]], [[1000-11]], [[1005-11]], [[1012-1]], [[1045-3]], [[1045-5]], [[1125-2]], [[1131-2]], [[1140-2]], [[1151-2]], [[1158-21]], [[1158-31]], [[1206-13]], [[1208-2]], [[1223-5]], [[1293-2]], [[1296-1]], [[1419-5]], [[1551-1]], [[1713-19]], [[1770-5]], [[1783-3]], [[1787-4]], [[1861-10]], [[2020-1]], [[2028-1]], [[2072-2]], [[2072-3]], [[2072-16]], [[2085-3]], [[2598-3]], [[2976-1]], [[2979-1]], [[3128-1]], [[3180-3]], [[3481-3]], [[3515-1]], [[3521-1]], [[3549-1]], [[3607-1]], [[4218-5]], [[4438-1]], [[4510-1]], [[5009-1]], [[5211-1]], [[5215-1]], [[5403-1]], [[5626-1]], [[5641-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

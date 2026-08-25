@@ -1,18 +1,21 @@
 ---
 entity: "granulated eyelids"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # granulated eyelids
 
-**granulated eyelids** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**granulated eyelids** (condition) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning granulated eyelids
 
-[[409-22]], [[2301-5]]
+[[409-22]], [[2301-5]], [[2815-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

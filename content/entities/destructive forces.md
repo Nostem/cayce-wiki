@@ -1,18 +1,21 @@
 ---
 entity: "destructive forces"
-entity_type: "concept"
-reading_count: 10
-mention_count: 10
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # destructive forces
 
-**destructive forces** (concept) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**destructive forces** (concept, condition) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning destructive forces
 
-[[230-1]], [[341-17]], [[343-2]], [[364-4]], [[374-2]], [[440-5]], [[443-2]], [[1173-2]], [[2894-1]], [[3956-1]]
+[[364-4]], [[374-2]], [[440-5]], [[1069-9]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

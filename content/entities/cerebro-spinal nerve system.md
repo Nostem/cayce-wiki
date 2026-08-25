@@ -1,18 +1,21 @@
 ---
 entity: "cerebro-spinal nerve system"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # cerebro-spinal nerve system
 
-**cerebro-spinal nerve system** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**cerebro-spinal nerve system** (concept, condition) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning cerebro-spinal nerve system
 
-[[4529-1]], [[5475-5]]
+[[188-1]], [[4272-1]], [[4529-1]], [[4764-1]], [[4782-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "jaundice"
-entity_type: "condition"
-reading_count: 5
-mention_count: 5
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
 # jaundice
 
-**jaundice** (condition) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**jaundice** (condition) appears in **14 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning jaundice
 
-[[106-11]], [[464-3]], [[464-30]], [[1196-3]], [[2069-1]]
+[[274-2]], [[464-3]], [[464-30]], [[464-35]], [[1196-3]], [[1649-1]], [[1800-34]], [[1880-1]], [[2069-1]], [[2483-2]], [[2836-1]], [[3140-1]], [[3429-1]], [[3670-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

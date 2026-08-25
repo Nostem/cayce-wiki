@@ -1,18 +1,21 @@
 ---
 entity: "kidney overtaxed"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # kidney overtaxed
 
-**kidney overtaxed** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**kidney overtaxed** (condition) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning kidney overtaxed
 
-[[1089-1]], [[1387-3]]
+[[1089-1]], [[2782-1]], [[3813-1]], [[4132-1]], [[4743-1]], [[4868-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

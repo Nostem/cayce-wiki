@@ -1,18 +1,21 @@
 ---
 entity: "obligations"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # obligations
 
-**obligations** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**obligations** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning obligations
 
-[[257-46]], [[303-13]], [[900-52]], [[2588-2]], [[3242-1]]
+[[391-16]], [[1449-2]], [[2142-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

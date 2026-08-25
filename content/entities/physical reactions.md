@@ -1,18 +1,21 @@
 ---
 entity: "physical reactions"
-entity_type: "concept"
-reading_count: 10
-mention_count: 10
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # physical reactions
 
-**physical reactions** (concept) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**physical reactions** (concept) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning physical reactions
 
-[[106-15]], [[279-2]], [[322-5]], [[758-40]], [[1110-4]], [[1138-1]], [[1398-2]], [[2366-1]], [[4520-1]], [[4693-1]]
+[[139-10]], [[264-46]], [[852-13]], [[1122-4]], [[1127-1]], [[1513-1]], [[4613-3]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

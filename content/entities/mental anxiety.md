@@ -1,18 +1,21 @@
 ---
 entity: "mental anxiety"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # mental anxiety
 
-**mental anxiety** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**mental anxiety** (concept, condition) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mental anxiety
 
-[[457-4]], [[1309-7]]
+[[325-19]], [[379-15]], [[457-4]], [[480-14]], [[1309-7]], [[1375-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "cheerfulness"
-entity_type: "concept"
-reading_count: 12
-mention_count: 12
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # cheerfulness
 
-**cheerfulness** (concept) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**cheerfulness** (concept, remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning cheerfulness
 
-[[540-6]], [[543-15]], [[569-10]], [[591-1]], [[798-1]], [[1343-3]], [[1521-5]], [[1900-1]], [[2514-4]], [[3423-1]], [[4821-1]], [[5107-1]]
+[[23-11]], [[560-8]], [[569-10]], [[591-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

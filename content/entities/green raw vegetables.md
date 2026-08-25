@@ -1,18 +1,21 @@
 ---
 entity: "green raw vegetables"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # green raw vegetables
 
-**green raw vegetables** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**green raw vegetables** (remedy) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning green raw vegetables
 
-[[631-6]], [[1891-2]]
+[[808-3]], [[821-1]], [[1005-11]], [[1891-2]], [[1903-1]], [[2015-10]], [[2026-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

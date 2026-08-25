@@ -1,18 +1,21 @@
 ---
-entity: "st. augustine"
-entity_type: "place"
-reading_count: 2
-mention_count: 2
-tags: [entity, place]
+entity: "St. Augustine"
+entity_types: ["person", "place"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
-# st. augustine
+# St. Augustine
 
-**st. augustine** (place) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**St. Augustine** (person, place) appears in **10 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning st. augustine
+## Readings mentioning St. Augustine
 
-[[519-1]], [[2000-3]]
+[[254-107]], [[319-2]], [[415-1]], [[519-1]], [[608-7]], [[796-1]], [[1492-1]], [[1981-1]], [[2000-3]], [[2399-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "eggs"
-entity_type: "remedy"
-reading_count: 12
-mention_count: 12
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 20
+literal_reading_count: 0
+semantic_reading_count: 20
+literal_mention_count: 0
+semantic_mention_count: 20
+tags: [entity, semantic]
 ---
 
 # eggs
 
-**eggs** (remedy) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**eggs** (remedy) appears in **20 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning eggs
 
-[[199-2]], [[294-95]], [[562-4]], [[1478-1]], [[1662-1]], [[1791-2]], [[2075-2]], [[2929-1]], [[3971-1]], [[4320-1]], [[4821-1]], [[4824-1]]
+[[199-2]], [[257-11]], [[265-9]], [[294-188]], [[325-61]], [[569-21]], [[601-29]], [[1130-2]], [[1512-1]], [[1520-2]], [[1523-3]], [[1662-1]], [[2766-1]], [[2929-1]], [[3054-1]], [[4497-1]], [[4597-1]], [[4668-1]], [[4821-1]], [[4824-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

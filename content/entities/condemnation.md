@@ -1,18 +1,21 @@
 ---
 entity: "condemnation"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 14
+literal_reading_count: 0
+semantic_reading_count: 14
+literal_mention_count: 0
+semantic_mention_count: 15
+tags: [entity, semantic]
 ---
 
 # condemnation
 
-**condemnation** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**condemnation** (concept, condition) appears in **14 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning condemnation
 
-[[140-19]], [[290-1]], [[295-8]], [[538-23]], [[4071-1]]
+[[263-21]], [[264-24]], [[290-1]], [[295-2]], [[538-23]], [[716-1]], [[1073-5]], [[1289-2]], [[1467-9]], [[1561-18]], [[2293-3]], [[3459-1]], [[3513-1]], [[4034-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

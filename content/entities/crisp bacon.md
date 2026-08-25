@@ -1,18 +1,21 @@
 ---
 entity: "crisp bacon"
-entity_type: "remedy"
-reading_count: 3
-mention_count: 3
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 23
+literal_reading_count: 0
+semantic_reading_count: 23
+literal_mention_count: 0
+semantic_mention_count: 23
+tags: [entity, semantic]
 ---
 
 # crisp bacon
 
-**crisp bacon** (remedy) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**crisp bacon** (remedy) appears in **23 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning crisp bacon
 
-[[521-1]], [[556-9]], [[1409-4]]
+[[199-2]], [[306-3]], [[337-22]], [[379-17]], [[432-1]], [[556-9]], [[569-25]], [[602-4]], [[665-2]], [[779-21]], [[898-1]], [[1055-1]], [[1224-4]], [[1352-2]], [[1401-2]], [[1409-4]], [[1955-1]], [[2289-5]], [[2514-14]], [[2899-1]], [[3570-1]], [[3823-3]], [[5566-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

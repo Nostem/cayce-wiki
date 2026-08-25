@@ -1,18 +1,21 @@
 ---
-entity: "atlantean experience"
-entity_type: "concept"
+entity: "Atlantean experience"
+entity_types: ["concept"]
 reading_count: 3
-mention_count: 3
-tags: [entity, concept]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# atlantean experience
+# Atlantean experience
 
-**atlantean experience** (concept) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Atlantean experience** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning atlantean experience
+## Readings mentioning Atlantean experience
 
-[[2746-2]], [[2753-2]], [[2954-1]]
+[[137-126]], [[440-8]], [[4081-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

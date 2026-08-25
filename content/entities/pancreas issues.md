@@ -1,18 +1,21 @@
 ---
 entity: "pancreas issues"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # pancreas issues
 
-**pancreas issues** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**pancreas issues** (condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning pancreas issues
 
-[[4259-1]], [[5602-1]]
+[[322-3]], [[480-42]], [[647-2]], [[1070-1]], [[2085-5]], [[2617-1]], [[4300-4]], [[5540-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "wet heat"
-entity_type: "remedy"
-reading_count: 37
-mention_count: 37
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 35
+literal_reading_count: 0
+semantic_reading_count: 35
+literal_mention_count: 0
+semantic_mention_count: 35
+tags: [entity, semantic]
 ---
 
 # wet heat
 
-**wet heat** (remedy) appears in **37 readings** (37 mentions) — extracted by LLM semantic analysis.
+**wet heat** (remedy) appears in **35 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning wet heat
 
-[[172-2]], [[241-1]], [[325-59]], [[550-9]], [[619-9]], [[849-21]], [[908-4]], [[1158-20]], [[1317-1]], [[1498-1]], [[1610-1]], [[1615-1]], [[1676-2]], [[1771-4]], [[1965-2]], [[2038-2]], [[2130-1]], [[2447-1]], [[2516-2]], [[2519-1]], [[2878-1]], [[3007-1]], [[3082-1]], [[3279-3]], [[3452-1]], [[3521-1]], [[4033-1]], [[4342-1]], [[4391-1]], [[4576-1]], [[4767-1]], [[5196-1]], [[5388-1]], [[5402-1]], [[5471-1]], [[5608-1]], [[5609-1]]
+[[140-27]], [[241-1]], [[268-1]], [[294-210]], [[433-1]], [[550-9]], [[619-9]], [[847-1]], [[885-1]], [[908-4]], [[949-15]], [[1042-1]], [[1122-5]], [[1158-20]], [[1317-1]], [[1498-1]], [[1567-3]], [[1676-2]], [[1873-1]], [[2519-1]], [[2552-1]], [[2825-1]], [[2935-1]], [[3007-1]], [[3086-1]], [[3217-1]], [[3279-3]], [[3284-1]], [[3911-1]], [[4033-1]], [[4150-1]], [[4391-1]], [[4485-1]], [[5402-1]], [[5471-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

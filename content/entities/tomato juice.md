@@ -1,18 +1,21 @@
 ---
 entity: "tomato juice"
-entity_type: "remedy"
-reading_count: 14
-mention_count: 14
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 26
+literal_reading_count: 0
+semantic_reading_count: 26
+literal_mention_count: 0
+semantic_mention_count: 26
+tags: [entity, semantic]
 ---
 
 # tomato juice
 
-**tomato juice** (remedy) appears in **14 readings** (14 mentions) — extracted by LLM semantic analysis.
+**tomato juice** (remedy) appears in **26 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning tomato juice
 
-[[64-3]], [[274-17]], [[421-14]], [[421-15]], [[608-1]], [[608-3]], [[678-4]], [[1045-6]], [[1137-1]], [[1770-6]], [[2148-5]], [[2663-2]], [[5520-1]], [[5520-2]]
+[[64-3]], [[261-20]], [[275-31]], [[306-3]], [[608-1]], [[608-3]], [[852-10]], [[950-1]], [[1045-6]], [[1137-1]], [[1152-11]], [[1309-4]], [[1352-3]], [[1476-2]], [[1713-17]], [[1770-6]], [[1788-7]], [[2148-5]], [[2455-3]], [[2580-1]], [[3414-1]], [[4803-1]], [[4996-1]], [[5520-1]], [[5615-1]], [[5714-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

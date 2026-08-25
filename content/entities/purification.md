@@ -1,18 +1,21 @@
 ---
 entity: "purification"
-entity_type: "concept"
-reading_count: 64
-mention_count: 64
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 29
+literal_reading_count: 0
+semantic_reading_count: 29
+literal_mention_count: 0
+semantic_mention_count: 29
+tags: [entity, semantic]
 ---
 
 # purification
 
-**purification** (concept) appears in **64 readings** (64 mentions) — extracted by LLM semantic analysis.
+**purification** (concept) appears in **29 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning purification
 
-[[262-10]], [[262-23]], [[262-107]], [[264-50]], [[274-15]], [[275-33]], [[275-43]], [[281-25]], [[281-31]], [[281-37]], [[281-41]], [[281-43]], [[281-44]], [[289-8]], [[294-138]], [[294-171]], [[295-9]], [[303-33]], [[349-23]], [[369-12]], [[379-19]], [[413-14]], [[512-3]], [[528-1]], [[538-39]], [[556-10]], [[584-6]], [[585-10]], [[585-12]], [[601-27]], [[623-4]], [[759-22]], [[850-5]], [[1012-1]], [[1070-1]], [[1089-3]], [[1100-18]], [[1100-26]], [[1223-6]], [[1532-5]], [[1548-1]], [[1557-1]], [[1564-2]], [[1711-1]], [[1812-1]], [[2018-2]], [[2070-1]], [[2140-2]], [[2317-1]], [[2423-1]], [[2461-1]], [[2462-3]], [[2514-1]], [[2533-6]], [[2581-2]], [[2868-1]], [[3011-3]], [[3050-1]], [[3094-1]], [[3280-1]], [[3300-1]], [[3808-1]], [[5401-1]], [[5746-1]]
+[[262-107]], [[264-50]], [[281-13]], [[281-41]], [[281-43]], [[281-44]], [[289-8]], [[294-138]], [[294-171]], [[294-174]], [[440-5]], [[443-6]], [[470-13]], [[470-36]], [[616-1]], [[623-4]], [[837-1]], [[1032-1]], [[1100-26]], [[1223-6]], [[1564-2]], [[1813-1]], [[2067-10]], [[2366-3]], [[2441-3]], [[2582-1]], [[3002-2]], [[3011-3]], [[5401-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "lung distress"
-entity_type: "condition"
-reading_count: 4
-mention_count: 4
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # lung distress
 
-**lung distress** (condition) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**lung distress** (condition) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning lung distress
 
-[[418-2]], [[572-1]], [[3776-4]], [[4874-1]]
+[[3160-3]], [[3831-1]], [[4311-1]], [[4763-1]], [[5712-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

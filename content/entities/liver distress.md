@@ -1,18 +1,21 @@
 ---
 entity: "liver distress"
-entity_type: "condition"
-reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 25
+literal_reading_count: 0
+semantic_reading_count: 25
+literal_mention_count: 0
+semantic_mention_count: 25
+tags: [entity, semantic]
 ---
 
 # liver distress
 
-**liver distress** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**liver distress** (condition) appears in **25 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning liver distress
 
-[[106-1]], [[294-55]], [[478-3]], [[505-2]], [[768-3]], [[1964-2]]
+[[152-1]], [[205-2]], [[266-1]], [[303-34]], [[879-1]], [[881-1]], [[1141-1]], [[1186-2]], [[2036-2]], [[2671-1]], [[2903-2]], [[3160-3]], [[3770-1]], [[3838-1]], [[3850-1]], [[3886-1]], [[3890-1]], [[4007-1]], [[4104-1]], [[4177-2]], [[4259-1]], [[4565-1]], [[4779-1]], [[4848-2]], [[5488-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

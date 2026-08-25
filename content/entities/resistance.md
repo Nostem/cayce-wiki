@@ -1,18 +1,21 @@
 ---
 entity: "resistance"
-entity_type: "concept"
-reading_count: 22
-mention_count: 22
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 25
+literal_reading_count: 0
+semantic_reading_count: 25
+literal_mention_count: 0
+semantic_mention_count: 25
+tags: [entity, semantic]
 ---
 
 # resistance
 
-**resistance** (concept) appears in **22 readings** (22 mentions) — extracted by LLM semantic analysis.
+**resistance** (concept) appears in **25 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning resistance
 
-[[19-3]], [[361-15]], [[427-6]], [[538-36]], [[626-1]], [[667-13]], [[965-1]], [[1000-25]], [[1018-1]], [[1070-1]], [[1324-1]], [[1542-1]], [[1560-1]], [[2175-7]], [[2299-10]], [[2360-1]], [[3176-1]], [[3761-1]], [[4133-3]], [[4645-1]], [[4686-1]], [[4985-1]]
+[[142-2]], [[261-8]], [[264-51]], [[289-8]], [[297-1]], [[348-10]], [[501-2]], [[538-36]], [[587-5]], [[591-1]], [[1000-25]], [[1010-2]], [[1013-3]], [[1278-7]], [[1542-1]], [[1553-26]], [[1800-32]], [[1982-1]], [[2748-5]], [[3776-18]], [[4645-1]], [[4669-1]], [[4945-1]], [[4985-1]], [[5535-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

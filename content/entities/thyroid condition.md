@@ -1,18 +1,21 @@
 ---
 entity: "thyroid condition"
-entity_type: "condition"
-reading_count: 9
-mention_count: 9
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
 # thyroid condition
 
-**thyroid condition** (condition) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**thyroid condition** (condition) appears in **13 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning thyroid condition
 
-[[428-8]], [[428-10]], [[704-1]], [[1337-2]], [[1968-6]], [[1968-9]], [[2212-2]], [[3393-1]], [[4176-1]]
+[[155-1]], [[270-16]], [[428-8]], [[428-10]], [[603-3]], [[1337-1]], [[1337-2]], [[2830-1]], [[3796-1]], [[3797-1]], [[5071-1]], [[5215-1]], [[5240-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

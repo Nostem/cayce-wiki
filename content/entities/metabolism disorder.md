@@ -1,18 +1,21 @@
 ---
 entity: "metabolism disorder"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # metabolism disorder
 
-**metabolism disorder** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**metabolism disorder** (condition) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning metabolism disorder
 
-[[662-1]], [[675-1]]
+[[45-1]], [[551-13]], [[4723-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "past-life in spain"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity: "past-life in Spain"
+entity_types: ["concept"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
-# past-life in spain
+# past-life in Spain
 
-**past-life in spain** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**past-life in Spain** (concept) appears in **12 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning past-life in spain
+## Readings mentioning past-life in Spain
 
-[[780-6]], [[2495-1]]
+[[305-3]], [[780-6]], [[1228-1]], [[1492-1]], [[2364-1]], [[2495-1]], [[2901-1]], [[3299-1]], [[4028-1]], [[4900-1]], [[5250-1]], [[5264-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

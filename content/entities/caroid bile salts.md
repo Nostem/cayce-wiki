@@ -1,18 +1,21 @@
 ---
 entity: "caroid bile salts"
-entity_type: "remedy"
-reading_count: 11
-mention_count: 11
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # caroid bile salts
 
-**caroid bile salts** (remedy) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**caroid bile salts** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning caroid bile salts
 
-[[133-3]], [[272-5]], [[272-8]], [[274-6]], [[274-8]], [[294-171]], [[464-13]], [[522-6]], [[558-4]], [[572-2]], [[623-3]]
+[[278-1]], [[294-171]], [[522-6]], [[558-4]], [[572-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

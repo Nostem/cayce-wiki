@@ -1,18 +1,21 @@
 ---
 entity: "throat discomfort"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # throat discomfort
 
-**throat discomfort** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**throat discomfort** (condition) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning throat discomfort
 
-[[301-6]], [[1377-6]], [[2452-1]]
+[[301-6]], [[1377-6]], [[1711-3]], [[2452-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

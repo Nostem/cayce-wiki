@@ -1,18 +1,21 @@
 ---
 entity: "electrical driven vibrator"
-entity_type: "remedy"
-reading_count: 8
-mention_count: 8
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # electrical driven vibrator
 
-**electrical driven vibrator** (remedy) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**electrical driven vibrator** (remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning electrical driven vibrator
 
-[[372-2]], [[436-1]], [[2514-13]], [[3610-1]], [[4741-1]], [[4827-1]], [[4852-1]], [[5449-1]]
+[[372-2]], [[436-1]], [[849-75]], [[4741-1]], [[5449-1]], [[5556-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

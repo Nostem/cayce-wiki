@@ -1,18 +1,21 @@
 ---
 entity: "antiseptic"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["remedy"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # antiseptic
 
-**antiseptic** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**antiseptic** (remedy) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning antiseptic
 
-[[501-4]], [[2383-1]]
+[[294-116]], [[340-46]], [[569-12]], [[847-2]], [[1386-1]], [[2284-1]], [[3844-1]], [[4769-3]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

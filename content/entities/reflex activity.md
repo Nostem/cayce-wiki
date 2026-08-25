@@ -1,18 +1,21 @@
 ---
 entity: "reflex activity"
-entity_type: "concept"
-reading_count: 6
-mention_count: 6
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # reflex activity
 
-**reflex activity** (concept) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**reflex activity** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning reflex activity
 
-[[679-1]], [[758-38]], [[1054-1]], [[1568-5]], [[1697-1]], [[2418-1]]
+[[758-38]], [[1568-5]], [[1997-3]], [[2418-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

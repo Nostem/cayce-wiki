@@ -1,18 +1,21 @@
 ---
 entity: "atropine"
-entity_type: "remedy"
-reading_count: 14
-mention_count: 14
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # atropine
 
-**atropine** (remedy) appears in **14 readings** (14 mentions) — extracted by LLM semantic analysis.
+**atropine** (remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning atropine
 
-[[140-31]], [[474-1]], [[534-1]], [[780-1]], [[1500-1]], [[1534-3]], [[1553-27]], [[3555-1]], [[3751-2]], [[3751-3]], [[3751-15]], [[3751-16]], [[4375-1]], [[4831-1]]
+[[1500-1]], [[1553-27]], [[3751-3]], [[3751-17]], [[4375-1]], [[4831-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "skin blemishes"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # skin blemishes
 
-**skin blemishes** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**skin blemishes** (condition) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning skin blemishes
 
-[[1765-1]], [[2936-1]]
+[[349-12]], [[982-1]], [[1075-1]], [[1206-13]], [[3014-2]], [[3358-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "spiritual-mindedness"
-entity_type: "concept"
-reading_count: 6
-mention_count: 6
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # spiritual-mindedness
 
-**spiritual-mindedness** (concept) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**spiritual-mindedness** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning spiritual-mindedness
 
-[[1409-4]], [[1469-1]], [[1492-1]], [[2248-1]], [[3455-1]], [[5756-14]]
+[[257-58]], [[1409-4]], [[2248-1]], [[3455-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

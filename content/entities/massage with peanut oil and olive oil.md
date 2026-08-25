@@ -1,18 +1,21 @@
 ---
 entity: "massage with peanut oil and olive oil"
-entity_type: "remedy"
-reading_count: 7
-mention_count: 7
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # massage with peanut oil and olive oil
 
-**massage with peanut oil and olive oil** (remedy) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**massage with peanut oil and olive oil** (remedy) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning massage with peanut oil and olive oil
 
-[[1031-4]], [[1553-22]], [[2366-1]], [[2417-1]], [[2453-1]], [[3112-1]], [[3143-1]]
+[[349-23]], [[1031-4]], [[1476-3]], [[2056-3]], [[2088-1]], [[2514-2]], [[2598-1]], [[2743-1]], [[2971-1]], [[3098-1]], [[3143-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

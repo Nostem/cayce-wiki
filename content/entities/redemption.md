@@ -1,18 +1,21 @@
 ---
 entity: "redemption"
-entity_type: "concept"
-reading_count: 6
-mention_count: 6
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # redemption
 
-**redemption** (concept) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**redemption** (concept) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning redemption
 
-[[136-26]], [[378-18]], [[480-37]], [[1226-1]], [[5749-10]], [[5749-13]]
+[[136-26]], [[195-49]], [[254-109]], [[257-123]], [[262-44]], [[262-45]], [[281-36]], [[378-18]], [[589-2]], [[1978-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

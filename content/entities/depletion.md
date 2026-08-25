@@ -1,18 +1,21 @@
 ---
 entity: "depletion"
-entity_type: "condition"
-reading_count: 6
-mention_count: 6
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # depletion
 
-**depletion** (condition) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**depletion** (condition) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning depletion
 
-[[882-2]], [[1040-1]], [[1087-1]], [[2711-2]], [[3011-1]], [[5453-12]]
+[[1739-3]], [[5453-12]], [[5584-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

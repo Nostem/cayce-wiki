@@ -1,18 +1,21 @@
 ---
 entity: "agar"
-entity_type: "remedy"
-reading_count: 13
-mention_count: 13
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # agar
 
-**agar** (remedy) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**agar** (remedy) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning agar
 
-[[255-9]], [[276-5]], [[301-9]], [[340-45]], [[381-2]], [[540-15]], [[543-15]], [[975-6]], [[1100-4]], [[1553-12]], [[1961-1]], [[2827-1]], [[4091-2]]
+[[257-184]], [[340-45]], [[348-18]], [[540-15]], [[543-15]], [[975-6]], [[1961-1]], [[2841-1]], [[4091-2]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

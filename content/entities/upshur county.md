@@ -1,18 +1,21 @@
 ---
 entity: "Upshur County"
-entity_type: "place"
-reading_count: 2
-mention_count: 2
-tags: [entity, place]
+entity_types: ["place"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # Upshur County
 
-**Upshur County** (place) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Upshur County** (place) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Upshur County
 
-[[1561-14]], [[1561-19]]
+[[1561-10]], [[1561-14]], [[1561-19]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

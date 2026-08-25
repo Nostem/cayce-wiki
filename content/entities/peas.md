@@ -1,18 +1,21 @@
 ---
 entity: "peas"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # peas
 
-**peas** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**peas** (remedy) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning peas
 
-[[2320-1]], [[5520-4]]
+[[275-24]], [[391-14]], [[415-7]], [[1179-1]], [[1187-9]], [[1713-14]], [[1747-2]], [[2287-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

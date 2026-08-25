@@ -1,18 +1,21 @@
 ---
 entity: "muscular forces"
-entity_type: "concept"
-reading_count: 22
-mention_count: 22
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # muscular forces
 
-**muscular forces** (concept) appears in **22 readings** (22 mentions) — extracted by LLM semantic analysis.
+**muscular forces** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning muscular forces
 
-[[1-1]], [[95-1]], [[99-2]], [[337-13]], [[372-5]], [[416-9]], [[622-3]], [[760-19]], [[1215-8]], [[1703-1]], [[1710-10]], [[1739-3]], [[3868-1]], [[3919-1]], [[4199-1]], [[4246-1]], [[4293-1]], [[4408-1]], [[4601-1]], [[5418-1]], [[5618-14]], [[5700-3]]
+[[460-5]], [[849-30]], [[3319-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

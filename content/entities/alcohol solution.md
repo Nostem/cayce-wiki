@@ -1,18 +1,21 @@
 ---
 entity: "alcohol solution"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 5
-mention_count: 5
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # alcohol solution
 
-**alcohol solution** (remedy) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**alcohol solution** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning alcohol solution
 
-[[480-45]], [[779-16]], [[3464-1]], [[4877-1]], [[5617-1]]
+[[140-20]], [[480-45]], [[1564-2]], [[2653-3]], [[2657-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

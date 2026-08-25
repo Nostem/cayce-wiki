@@ -1,18 +1,21 @@
 ---
 entity: "N.Y."
-entity_type: "place"
-reading_count: 27
-mention_count: 27
-tags: [entity, place]
+entity_types: ["place"]
+reading_count: 55
+literal_reading_count: 0
+semantic_reading_count: 55
+literal_mention_count: 0
+semantic_mention_count: 55
+tags: [entity, semantic]
 ---
 
 # N.Y.
 
-**N.Y.** (place) appears in **27 readings** (27 mentions) — extracted by LLM semantic analysis.
+**N.Y.** (place) appears in **55 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning N.Y.
 
-[[257-209]], [[321-1]], [[378-19]], [[378-30]], [[378-50]], [[428-15]], [[429-3]], [[430-2]], [[433-3]], [[452-6]], [[507-1]], [[520-5]], [[597-2]], [[632-6]], [[632-7]], [[730-1]], [[733-1]], [[759-14]], [[960-9]], [[1059-1]], [[1062-2]], [[1163-1]], [[2174-1]], [[3040-1]], [[3812-10]], [[4991-1]], [[5042-2]]
+[[257-63]], [[257-159]], [[257-241]], [[264-30]], [[276-4]], [[276-8]], [[321-1]], [[327-5]], [[417-2]], [[428-7]], [[459-8]], [[470-19]], [[480-12]], [[480-39]], [[566-4]], [[597-2]], [[632-1]], [[632-7]], [[670-2]], [[712-1]], [[715-9]], [[723-1]], [[728-1]], [[737-1]], [[758-32]], [[759-16]], [[759-19]], [[788-1]], [[798-1]], [[903-28]], [[927-1]], [[975-5]], [[1158-31]], [[1158-32]], [[1163-2]], [[1179-4]], [[1188-1]], [[1188-5]], [[1298-3]], [[1377-1]], [[1422-2]], [[1498-2]], [[1710-11]], [[1779-4]], [[1894-1]], [[1928-1]], [[2174-2]], [[3158-2]], [[3444-2]], [[4159-1]], [[4665-2]], [[5431-1]], [[5431-4]], [[5546-1]], [[5584-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

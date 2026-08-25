@@ -1,18 +1,21 @@
 ---
 entity: "mental suggestion"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 17
+literal_reading_count: 0
+semantic_reading_count: 17
+literal_mention_count: 0
+semantic_mention_count: 19
+tags: [entity, semantic]
 ---
 
 # mental suggestion
 
-**mental suggestion** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**mental suggestion** (concept, remedy) appears in **17 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mental suggestion
 
-[[458-1]], [[1553-5]], [[3035-1]], [[3920-1]], [[4520-4]]
+[[288-12]], [[294-21]], [[458-1]], [[1553-7]], [[1553-12]], [[2212-1]], [[3035-1]], [[3830-1]], [[3920-1]], [[3921-1]], [[3927-1]], [[3992-1]], [[4260-1]], [[4520-4]], [[4992-1]], [[5612-1]], [[5690-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

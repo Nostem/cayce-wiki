@@ -1,18 +1,21 @@
 ---
 entity: "lack of circulation"
-entity_type: "condition"
-reading_count: 7
-mention_count: 7
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # lack of circulation
 
-**lack of circulation** (condition) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**lack of circulation** (condition) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning lack of circulation
 
-[[1520-1]], [[2883-1]], [[3038-1]], [[3566-1]], [[4497-1]], [[4801-1]], [[4872-1]]
+[[21-1]], [[394-11]], [[822-1]], [[2333-1]], [[3566-1]], [[3911-2]], [[4616-1]], [[4801-1]], [[5434-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

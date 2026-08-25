@@ -1,18 +1,21 @@
 ---
 entity: "gentle manipulations"
-entity_type: "remedy"
-reading_count: 13
-mention_count: 13
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # gentle manipulations
 
-**gentle manipulations** (remedy) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**gentle manipulations** (remedy) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning gentle manipulations
 
-[[550-9]], [[988-12]], [[1045-8]], [[1187-11]], [[1415-1]], [[1491-1]], [[1513-2]], [[1609-1]], [[2429-1]], [[5504-3]], [[5506-1]], [[5575-1]], [[5727-1]]
+[[550-9]], [[988-12]], [[1045-10]], [[1513-2]], [[1609-1]], [[2713-1]], [[5506-1]], [[5727-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

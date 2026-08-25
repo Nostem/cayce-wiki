@@ -1,18 +1,21 @@
 ---
 entity: "diathermy treatments"
-entity_type: "remedy"
-reading_count: 12
-mention_count: 12
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 15
+literal_reading_count: 0
+semantic_reading_count: 15
+literal_mention_count: 0
+semantic_mention_count: 15
+tags: [entity, semantic]
 ---
 
 # diathermy treatments
 
-**diathermy treatments** (remedy) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**diathermy treatments** (remedy) appears in **15 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning diathermy treatments
 
-[[480-6]], [[528-2]], [[605-2]], [[605-4]], [[627-1]], [[774-6]], [[808-2]], [[845-2]], [[1196-13]], [[1418-1]], [[1628-1]], [[1855-1]]
+[[528-2]], [[605-2]], [[605-4]], [[627-1]], [[635-7]], [[661-5]], [[808-4]], [[844-2]], [[845-2]], [[849-10]], [[869-1]], [[1030-1]], [[1196-13]], [[1293-2]], [[1628-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

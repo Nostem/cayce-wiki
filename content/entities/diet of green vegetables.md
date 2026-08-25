@@ -1,18 +1,21 @@
 ---
 entity: "diet of green vegetables"
-entity_type: "remedy"
-reading_count: 8
-mention_count: 8
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
 # diet of green vegetables
 
-**diet of green vegetables** (remedy) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**diet of green vegetables** (remedy) appears in **7 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning diet of green vegetables
 
-[[81-2]], [[2553-7]], [[4171-1]], [[4218-1]], [[4268-1]], [[4491-1]], [[4536-1]], [[4708-1]]
+[[629-1]], [[2504-1]], [[3721-1]], [[4218-1]], [[4385-1]], [[4536-1]], [[4708-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

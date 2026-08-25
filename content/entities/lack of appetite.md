@@ -1,18 +1,21 @@
 ---
 entity: "lack of appetite"
-entity_type: "condition"
-reading_count: 23
-mention_count: 23
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 35
+literal_reading_count: 0
+semantic_reading_count: 35
+literal_mention_count: 0
+semantic_mention_count: 35
+tags: [entity, semantic]
 ---
 
 # lack of appetite
 
-**lack of appetite** (condition) appears in **23 readings** (23 mentions) — extracted by LLM semantic analysis.
+**lack of appetite** (condition) appears in **35 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning lack of appetite
 
-[[244-2]], [[324-2]], [[413-7]], [[566-7]], [[652-1]], [[786-1]], [[1101-4]], [[1131-4]], [[1206-16]], [[1364-2]], [[1467-15]], [[1497-4]], [[1553-13]], [[1557-1]], [[1597-2]], [[1979-1]], [[2148-6]], [[2289-3]], [[2796-2]], [[2870-1]], [[2959-1]], [[3881-1]], [[5453-6]]
+[[244-2]], [[324-2]], [[413-7]], [[508-1]], [[608-9]], [[652-1]], [[671-4]], [[786-1]], [[849-23]], [[926-1]], [[1003-3]], [[1145-2]], [[1206-16]], [[1282-1]], [[1364-2]], [[1405-1]], [[1467-15]], [[1553-13]], [[1597-2]], [[1760-1]], [[1794-1]], [[1958-4]], [[2072-16]], [[2289-3]], [[2302-2]], [[2353-1]], [[2376-1]], [[2595-1]], [[2780-2]], [[2870-1]], [[3881-1]], [[4280-2]], [[4981-1]], [[5139-1]], [[5453-6]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

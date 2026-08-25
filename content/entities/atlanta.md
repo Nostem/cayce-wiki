@@ -1,18 +1,21 @@
 ---
 entity: "Atlanta"
-entity_type: "place"
-reading_count: 9
-mention_count: 9
-tags: [entity, place]
+entity_types: ["place"]
+reading_count: 77
+literal_reading_count: 0
+semantic_reading_count: 77
+literal_mention_count: 0
+semantic_mention_count: 77
+tags: [entity, semantic]
 ---
 
 # Atlanta
 
-**Atlanta** (place) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**Atlanta** (place) appears in **77 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Atlanta
 
-[[80-3]], [[165-11]], [[294-42]], [[843-5]], [[1932-2]], [[1932-3]], [[3768-2]], [[3777-1]], [[4876-1]]
+[[47-1]], [[80-3]], [[161-1]], [[165-11]], [[179-1]], [[254-45]], [[257-59]], [[257-110]], [[257-216]], [[263-4]], [[270-46]], [[294-42]], [[294-212]], [[303-6]], [[342-1]], [[398-1]], [[412-2]], [[412-6]], [[417-3]], [[427-6]], [[531-3]], [[543-2]], [[556-10]], [[567-7]], [[569-14]], [[653-3]], [[654-7]], [[750-1]], [[778-2]], [[779-12]], [[843-4]], [[843-5]], [[849-76]], [[900-32]], [[900-369]], [[979-7]], [[979-8]], [[979-9]], [[979-10]], [[1000-18]], [[1106-2]], [[1720-1]], [[1800-27]], [[1868-1]], [[1932-1]], [[1932-3]], [[2076-1]], [[2094-1]], [[2383-1]], [[2390-9]], [[2511-1]], [[2597-8]], [[2667-6]], [[2671-2]], [[2673-1]], [[2998-2]], [[3065-1]], [[3396-1]], [[3768-2]], [[3777-1]], [[3788-1]], [[3788-2]], [[3794-1]], [[3830-1]], [[3995-1]], [[4065-1]], [[4280-7]], [[4281-12]], [[4436-2]], [[4475-1]], [[4499-2]], [[4678-1]], [[4876-1]], [[5115-1]], [[5520-3]], [[5593-1]], [[5618-15]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "douche with atomidine"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # douche with atomidine
 
-**douche with atomidine** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**douche with atomidine** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning douche with atomidine
 
-[[1563-2]], [[2777-2]]
+[[672-1]], [[959-1]], [[1563-2]], [[1794-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "nervous shock"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # nervous shock
 
-**nervous shock** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**nervous shock** (concept, condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning nervous shock
 
-[[4818-1]], [[5681-1]]
+[[601-8]], [[1254-1]], [[2422-1]], [[3624-1]], [[4829-1]], [[5204-1]], [[5240-1]], [[5529-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

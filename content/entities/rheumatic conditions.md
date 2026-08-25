@@ -1,18 +1,21 @@
 ---
 entity: "rheumatic conditions"
-entity_type: "condition"
-reading_count: 15
-mention_count: 15
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
 # rheumatic conditions
 
-**rheumatic conditions** (condition) appears in **15 readings** (15 mentions) — extracted by LLM semantic analysis.
+**rheumatic conditions** (condition) appears in **13 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning rheumatic conditions
 
-[[331-1]], [[391-13]], [[409-12]], [[409-32]], [[563-2]], [[934-11]], [[1060-2]], [[1633-1]], [[2195-1]], [[2805-1]], [[3586-1]], [[4158-1]], [[4324-1]], [[4989-1]], [[5697-1]]
+[[51-1]], [[295-2]], [[391-13]], [[409-12]], [[415-10]], [[438-6]], [[563-2]], [[934-11]], [[1633-1]], [[1953-1]], [[2805-1]], [[4158-1]], [[5697-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

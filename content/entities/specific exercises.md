@@ -1,18 +1,21 @@
 ---
 entity: "specific exercises"
-entity_type: "remedy"
+entity_types: ["remedy"]
 reading_count: 9
-mention_count: 9
-tags: [entity, remedy]
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # specific exercises
 
-**specific exercises** (remedy) appears in **9 readings** (9 mentions) — extracted by LLM semantic analysis.
+**specific exercises** (remedy) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning specific exercises
 
-[[288-26]], [[341-31]], [[658-1]], [[816-12]], [[893-1]], [[1468-5]], [[1713-2]], [[4212-1]], [[4492-1]]
+[[26-1]], [[288-26]], [[556-16]], [[816-12]], [[1713-2]], [[1733-1]], [[3941-1]], [[4127-1]], [[5695-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

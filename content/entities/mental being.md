@@ -1,18 +1,21 @@
 ---
 entity: "mental being"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # mental being
 
-**mental being** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**mental being** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mental being
 
-[[140-33]], [[264-31]], [[270-17]], [[1083-1]], [[5526-1]]
+[[137-109]], [[625-1]], [[1385-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

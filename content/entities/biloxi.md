@@ -1,18 +1,21 @@
 ---
-entity: "biloxi"
-entity_type: "place"
-reading_count: 4
-mention_count: 4
-tags: [entity, place]
+entity: "Biloxi"
+entity_types: ["place"]
+reading_count: 7
+literal_reading_count: 0
+semantic_reading_count: 7
+literal_mention_count: 0
+semantic_mention_count: 7
+tags: [entity, semantic]
 ---
 
-# biloxi
+# Biloxi
 
-**biloxi** (place) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Biloxi** (place) appears in **7 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning biloxi
+## Readings mentioning Biloxi
 
-[[900-200]], [[900-268]], [[4377-1]], [[5756-13]]
+[[630-2]], [[654-7]], [[900-200]], [[900-268]], [[1523-13]], [[4377-1]], [[5756-13]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

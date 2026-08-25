@@ -1,18 +1,21 @@
 ---
 entity: "glandular disturbances"
-entity_type: "concept"
-reading_count: 4
-mention_count: 4
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 89
+literal_reading_count: 0
+semantic_reading_count: 89
+literal_mention_count: 0
+semantic_mention_count: 89
+tags: [entity, semantic]
 ---
 
 # glandular disturbances
 
-**glandular disturbances** (concept) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**glandular disturbances** (concept, condition) appears in **89 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning glandular disturbances
 
-[[411-1]], [[2702-1]], [[2797-1]], [[2859-1]]
+[[153-1]], [[238-1]], [[282-1]], [[288-55]], [[308-4]], [[335-1]], [[369-14]], [[370-5]], [[411-1]], [[413-14]], [[464-9]], [[531-4]], [[630-3]], [[648-1]], [[665-2]], [[682-1]], [[750-2]], [[808-14]], [[808-17]], [[941-1]], [[983-2]], [[1042-3]], [[1065-1]], [[1078-1]], [[1117-1]], [[1142-1]], [[1162-1]], [[1201-1]], [[1281-1]], [[1302-1]], [[1315-8]], [[1322-1]], [[1342-1]], [[1540-2]], [[1555-1]], [[1566-4]], [[1572-1]], [[1612-2]], [[1621-1]], [[1625-2]], [[1657-2]], [[1679-1]], [[1711-3]], [[1713-22]], [[1773-2]], [[1837-2]], [[1866-9]], [[1887-1]], [[1990-2]], [[2011-2]], [[2020-1]], [[2171-1]], [[2250-1]], [[2315-1]], [[2333-1]], [[2455-1]], [[2525-1]], [[2539-1]], [[2542-3]], [[2551-1]], [[2571-2]], [[2702-1]], [[2777-1]], [[2830-1]], [[2833-1]], [[2859-1]], [[2870-1]], [[2872-1]], [[2936-1]], [[2961-1]], [[2985-1]], [[2990-1]], [[3012-1]], [[3014-1]], [[3064-1]], [[3134-1]], [[3229-1]], [[3247-2]], [[3291-1]], [[3336-1]], [[3386-2]], [[3413-1]], [[3447-1]], [[3583-1]], [[3616-1]], [[3692-1]], [[3868-1]], [[5279-1]], [[5627-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "mr. wyrick"
-entity_type: "person"
-reading_count: 3
-mention_count: 3
-tags: [entity, person]
+entity: "Mr. Wyrick"
+entity_types: ["person"]
+reading_count: 17
+literal_reading_count: 0
+semantic_reading_count: 17
+literal_mention_count: 0
+semantic_mention_count: 17
+tags: [entity, semantic]
 ---
 
-# mr. wyrick
+# Mr. Wyrick
 
-**mr. wyrick** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Mr. Wyrick** (person) appears in **17 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning mr. wyrick
+## Readings mentioning Mr. Wyrick
 
-[[270-16]], [[2265-1]], [[3854-4]]
+[[254-16]], [[254-34]], [[257-13]], [[270-2]], [[270-16]], [[1734-1]], [[2801-5]], [[3854-4]], [[4212-2]], [[4790-1]], [[4905-2]], [[4905-23]], [[4905-24]], [[4905-57]], [[4972-1]], [[5628-2]], [[5628-5]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "cathartic"
-entity_type: "remedy"
-reading_count: 15
-mention_count: 15
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # cathartic
 
-**cathartic** (remedy) appears in **15 readings** (15 mentions) — extracted by LLM semantic analysis.
+**cathartic** (remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning cathartic
 
-[[53-4]], [[136-69]], [[257-186]], [[303-9]], [[349-11]], [[369-8]], [[416-13]], [[678-6]], [[903-4]], [[979-10]], [[1100-20]], [[1739-1]], [[3092-1]], [[3844-1]], [[4124-2]]
+[[257-251]], [[369-8]], [[678-6]], [[979-10]], [[1100-20]], [[3844-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "self-examination"
-entity_type: "concept"
-reading_count: 13
-mention_count: 13
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
 # self-examination
 
-**self-examination** (concept) appears in **13 readings** (13 mentions) — extracted by LLM semantic analysis.
+**self-examination** (concept) appears in **12 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning self-examination
 
-[[262-97]], [[262-108]], [[281-16]], [[1151-12]], [[1376-1]], [[1599-1]], [[1730-1]], [[2067-6]], [[3344-1]], [[3357-2]], [[3376-1]], [[3812-11]], [[5753-2]]
+[[262-24]], [[262-108]], [[289-7]], [[294-72]], [[539-4]], [[1447-4]], [[3100-1]], [[3249-1]], [[3976-14]], [[4429-1]], [[4869-1]], [[5753-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

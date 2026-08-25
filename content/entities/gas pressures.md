@@ -1,18 +1,21 @@
 ---
 entity: "gas pressures"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # gas pressures
 
-**gas pressures** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**gas pressures** (condition) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning gas pressures
 
-[[632-8]], [[1901-2]], [[2180-1]]
+[[501-3]], [[747-1]], [[2072-16]], [[2083-1]], [[2180-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

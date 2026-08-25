@@ -1,18 +1,21 @@
 ---
 entity: "business strategy"
-entity_type: "concept"
-reading_count: 15
-mention_count: 15
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # business strategy
 
-**business strategy** (concept) appears in **15 readings** (15 mentions) — extracted by LLM semantic analysis.
+**business strategy** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning business strategy
 
-[[165-11]], [[257-19]], [[257-74]], [[257-75]], [[257-77]], [[257-151]], [[257-203]], [[257-207]], [[257-254]], [[261-10]], [[412-3]], [[426-3]], [[1800-20]], [[1800-27]], [[3818-4]]
+[[257-82]], [[257-118]], [[257-154]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

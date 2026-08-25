@@ -1,18 +1,21 @@
 ---
 entity: "right thinking"
-entity_type: "concept"
-reading_count: 3
-mention_count: 3
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # right thinking
 
-**right thinking** (concept) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**right thinking** (concept, remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning right thinking
 
-[[1309-7]], [[2455-2]], [[4778-3]]
+[[340-30]], [[539-5]], [[1309-7]], [[5396-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

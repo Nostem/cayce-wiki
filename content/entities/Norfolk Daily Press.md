@@ -1,17 +1,21 @@
 ---
 entity: "Norfolk Daily Press"
-mention_count: 4
+entity_types: ["literal"]
 reading_count: 4
-tags: [entity]
+literal_reading_count: 4
+semantic_reading_count: 0
+literal_mention_count: 4
+semantic_mention_count: 0
+tags: [entity, semantic]
 ---
 
 # Norfolk Daily Press
 
-**Norfolk Daily Press** appears in **4 readings** (4 total mentions) across the corpus.
+**Norfolk Daily Press** (literal) appears in **4 readings** — indexed through deterministic literal extraction.
 
 ## Readings mentioning Norfolk Daily Press
 
 [[438-1]], [[1861-19]], [[3182-1]], [[5541-2]]
 
 ---
-*Auto-generated entity index. 4 readings, 4 mentions.*
+*Auto-generated index. LLM classifications should be verified before citation.*

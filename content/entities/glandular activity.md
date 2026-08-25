@@ -1,18 +1,21 @@
 ---
 entity: "glandular activity"
-entity_type: "concept"
-reading_count: 60
-mention_count: 60
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 36
+literal_reading_count: 0
+semantic_reading_count: 36
+literal_mention_count: 0
+semantic_mention_count: 36
+tags: [entity, semantic]
 ---
 
 # glandular activity
 
-**glandular activity** (concept) appears in **60 readings** (60 mentions) — extracted by LLM semantic analysis.
+**glandular activity** (concept) appears in **36 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning glandular activity
 
-[[333-4]], [[360-4]], [[369-12]], [[449-1]], [[465-1]], [[480-39]], [[493-1]], [[515-1]], [[620-2]], [[665-2]], [[665-3]], [[674-1]], [[717-1]], [[739-1]], [[741-1]], [[767-1]], [[808-10]], [[808-15]], [[844-1]], [[867-1]], [[889-1]], [[902-1]], [[906-1]], [[951-1]], [[995-1]], [[1003-3]], [[1119-1]], [[1123-3]], [[1158-17]], [[1158-22]], [[1173-1]], [[1179-12]], [[1268-2]], [[1370-1]], [[1422-2]], [[1457-1]], [[1459-1]], [[1478-1]], [[1490-1]], [[1535-1]], [[1544-1]], [[1548-3]], [[1553-2]], [[1590-1]], [[1641-2]], [[1709-1]], [[1747-1]], [[1758-2]], [[1773-5]], [[1866-10]], [[2022-1]], [[2070-1]], [[2072-6]], [[2343-1]], [[2448-1]], [[2971-4]], [[3303-1]], [[3401-1]], [[5072-1]], [[5341-1]]
+[[314-2]], [[324-4]], [[360-4]], [[444-2]], [[480-5]], [[480-8]], [[492-1]], [[566-2]], [[601-12]], [[629-2]], [[665-3]], [[693-1]], [[694-1]], [[741-1]], [[758-10]], [[769-1]], [[789-1]], [[839-1]], [[974-1]], [[982-3]], [[1007-2]], [[1158-17]], [[1166-2]], [[1206-16]], [[1422-2]], [[1535-1]], [[1548-3]], [[1756-1]], [[1758-2]], [[1773-5]], [[2022-1]], [[2207-1]], [[3303-1]], [[3496-1]], [[4056-1]], [[5683-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "mrs. kaufman"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Mrs. Kaufman"
+entity_types: ["person"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
-# mrs. kaufman
+# Mrs. Kaufman
 
-**mrs. kaufman** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Mrs. Kaufman** (person) appears in **8 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning mrs. kaufman
+## Readings mentioning Mrs. Kaufman
 
-[[337-7]], [[409-5]]
+[[337-7]], [[337-10]], [[433-3]], [[2682-3]], [[5417-3]], [[5562-9]], [[5664-5]], [[5671-17]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

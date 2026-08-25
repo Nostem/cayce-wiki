@@ -1,18 +1,21 @@
 ---
 entity: "Liverpool"
-entity_type: "place"
-reading_count: 2
-mention_count: 2
-tags: [entity, place]
+entity_types: ["place"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # Liverpool
 
-**Liverpool** (place) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Liverpool** (place) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Liverpool
 
-[[195-40]], [[551-5]]
+[[195-22]], [[195-40]], [[551-5]], [[853-5]], [[943-10]], [[1250-1]], [[1568-3]], [[2880-2]], [[4219-3]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

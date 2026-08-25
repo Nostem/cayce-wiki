@@ -1,18 +1,21 @@
 ---
 entity: "poisoning"
-entity_type: "condition"
-reading_count: 10
-mention_count: 10
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 17
+literal_reading_count: 0
+semantic_reading_count: 17
+literal_mention_count: 0
+semantic_mention_count: 17
+tags: [entity, semantic]
 ---
 
 # poisoning
 
-**poisoning** (condition) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**poisoning** (condition) appears in **17 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning poisoning
 
-[[50-1]], [[294-99]], [[313-2]], [[503-1]], [[1523-9]], [[1523-10]], [[2188-1]], [[2258-1]], [[4646-2]], [[5579-2]]
+[[313-2]], [[409-12]], [[464-35]], [[563-1]], [[569-21]], [[618-4]], [[654-6]], [[849-68]], [[1152-6]], [[1196-3]], [[2067-9]], [[2258-1]], [[3588-1]], [[3628-1]], [[3810-3]], [[5450-1]], [[5636-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "settlement"
-entity_type: "concept"
-reading_count: 7
-mention_count: 7
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # settlement
 
-**settlement** (concept) appears in **7 readings** (7 mentions) — extracted by LLM semantic analysis.
+**settlement** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning settlement
 
-[[195-12]], [[257-67]], [[257-70]], [[257-102]], [[257-111]], [[257-157]], [[257-175]]
+[[195-53]], [[257-68]], [[257-174]], [[257-175]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

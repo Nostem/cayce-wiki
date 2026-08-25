@@ -1,18 +1,21 @@
 ---
-entity: "dr. louis h. backman"
-entity_type: "person"
-reading_count: 2
-mention_count: 2
-tags: [entity, person]
+entity: "Dr. Louis H. Backman"
+entity_types: ["person"]
+reading_count: 12
+literal_reading_count: 0
+semantic_reading_count: 12
+literal_mention_count: 0
+semantic_mention_count: 12
+tags: [entity, semantic]
 ---
 
-# dr. louis h. backman
+# Dr. Louis H. Backman
 
-**dr. louis h. backman** (person) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Dr. Louis H. Backman** (person) appears in **12 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning dr. louis h. backman
+## Readings mentioning Dr. Louis H. Backman
 
-[[1822-1]], [[1938-1]]
+[[257-217]], [[349-20]], [[352-2]], [[877-28]], [[1781-1]], [[1812-1]], [[1837-2]], [[2179-1]], [[2507-1]], [[2552-1]], [[2555-1]], [[2682-5]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

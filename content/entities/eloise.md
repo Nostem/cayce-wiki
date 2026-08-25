@@ -1,18 +1,21 @@
 ---
-entity: "eloise"
-entity_type: "person"
+entity: "Eloise"
+entity_types: ["person"]
 reading_count: 3
-mention_count: 3
-tags: [entity, person]
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
-# eloise
+# Eloise
 
-**eloise** (person) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Eloise** (person) appears in **3 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning eloise
+## Readings mentioning Eloise
 
-[[445-1]], [[2756-1]], [[5091-2]]
+[[1129-2]], [[1391-1]], [[5091-2]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "dandruff"
-entity_type: "condition"
-reading_count: 18
-mention_count: 18
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 35
+literal_reading_count: 0
+semantic_reading_count: 35
+literal_mention_count: 0
+semantic_mention_count: 35
+tags: [entity, semantic]
 ---
 
 # dandruff
 
-**dandruff** (condition) appears in **18 readings** (18 mentions) — extracted by LLM semantic analysis.
+**dandruff** (condition) appears in **35 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning dandruff
 
-[[257-12]], [[261-2]], [[261-3]], [[275-12]], [[808-13]], [[984-5]], [[1523-3]], [[1532-3]], [[1688-8]], [[1709-10]], [[1947-4]], [[2293-3]], [[2293-4]], [[2653-3]], [[2988-1]], [[3077-2]], [[3517-1]], [[5453-6]]
+[[257-12]], [[257-13]], [[257-65]], [[257-173]], [[257-212_id852|257-212]], [[257-228]], [[261-2]], [[261-3]], [[261-9]], [[261-13]], [[275-12]], [[413-3]], [[808-13]], [[850-2]], [[903-16]], [[926-1]], [[984-5]], [[1523-3]], [[1532-3]], [[1597-2]], [[1688-8]], [[1709-10]], [[1713-22]], [[1947-4]], [[2293-3]], [[2293-4]], [[2336-1]], [[2653-3]], [[2982-2]], [[2998-1]], [[3517-1]], [[4722-1]], [[5029-1]], [[5453-6]], [[5730-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

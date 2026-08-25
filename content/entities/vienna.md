@@ -1,18 +1,21 @@
 ---
-entity: "vienna"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity: "Vienna"
+entity_types: ["place"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
-# vienna
+# Vienna
 
-**vienna** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Vienna** (place) appears in **5 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning vienna
+## Readings mentioning Vienna
 
-[[863-1]], [[987-5]], [[2170-1]]
+[[863-1]], [[987-5]], [[1603-1]], [[2170-1]], [[3875-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "brotherhood of man"
-entity_type: "concept"
-reading_count: 8
-mention_count: 8
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # brotherhood of man
 
-**brotherhood of man** (concept) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**brotherhood of man** (concept) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning brotherhood of man
 
-[[649-1]], [[900-189]], [[1151-23]], [[1151-25]], [[1151-29]], [[1152-11]], [[2981-4]], [[5154-1]]
+[[262-130]], [[294-144]], [[866-1]], [[900-189]], [[1151-25]], [[1151-29]], [[1152-11]], [[1757-2]], [[1770-5]], [[2981-4]], [[3976-24]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

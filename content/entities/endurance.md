@@ -1,18 +1,21 @@
 ---
 entity: "endurance"
-entity_type: "concept"
-reading_count: 6
-mention_count: 6
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # endurance
 
-**endurance** (concept) appears in **6 readings** (6 mentions) — extracted by LLM semantic analysis.
+**endurance** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning endurance
 
-[[264-30]], [[288-53]], [[1981-1]], [[2778-2]], [[4329-3]], [[4905-55]]
+[[262-11]], [[264-30]], [[1158-9]], [[4905-55]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

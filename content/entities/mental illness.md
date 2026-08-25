@@ -1,18 +1,21 @@
 ---
 entity: "mental illness"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept", "condition"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 14
+tags: [entity, semantic]
 ---
 
 # mental illness
 
-**mental illness** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**mental illness** (concept, condition) appears in **13 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mental illness
 
-[[3630-1]], [[5061-1]]
+[[300-1]], [[586-1]], [[2241-1]], [[3087-1]], [[3181-1]], [[3371-1]], [[3633-1]], [[3685-1]], [[4004-1]], [[4937-1]], [[5061-1]], [[5088-1]], [[5117-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

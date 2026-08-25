@@ -1,18 +1,21 @@
 ---
-entity: "erie"
-entity_type: "place"
-reading_count: 4
-mention_count: 4
-tags: [entity, place]
+entity: "Erie"
+entity_types: ["place"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
-# erie
+# Erie
 
-**erie** (place) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Erie** (place) appears in **8 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning erie
+## Readings mentioning Erie
 
-[[1173-4]], [[1173-11]], [[1221-1]], [[1483-1]]
+[[254-48]], [[1173-4]], [[1173-11]], [[1219-1]], [[1221-1]], [[1397-1]], [[1483-1]], [[2519-8]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

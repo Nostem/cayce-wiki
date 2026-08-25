@@ -1,18 +1,21 @@
 ---
 entity: "non-eliminations"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # non-eliminations
 
-**non-eliminations** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**non-eliminations** (condition) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning non-eliminations
 
-[[341-31]], [[563-3]], [[1196-4]]
+[[136-3]], [[563-3]], [[2675-6]], [[2985-1]], [[5536-3]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "surroundings"
-entity_type: "concept"
-reading_count: 8
-mention_count: 8
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # surroundings
 
-**surroundings** (concept) appears in **8 readings** (8 mentions) — extracted by LLM semantic analysis.
+**surroundings** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning surroundings
 
-[[230-2]], [[288-13]], [[294-180]], [[325-31]], [[325-41]], [[409-17]], [[1179-5]], [[2912-1]]
+[[287-6]], [[409-17]], [[4631-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

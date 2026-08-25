@@ -1,18 +1,21 @@
 ---
 entity: "Cleburne"
-entity_type: "place"
-reading_count: 3
-mention_count: 3
-tags: [entity, place]
+entity_types: ["place"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
 # Cleburne
 
-**Cleburne** (place) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**Cleburne** (place) appears in **11 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning Cleburne
 
-[[3777-1]], [[4905-48]], [[4965-1]]
+[[2482-1]], [[3777-1]], [[3777-2]], [[3777-3]], [[3777-10]], [[4368-1]], [[4905-46]], [[4905-58]], [[4942-1]], [[4954-1]], [[4965-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

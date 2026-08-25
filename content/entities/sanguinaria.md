@@ -1,18 +1,21 @@
 ---
 entity: "sanguinaria"
-entity_type: "remedy"
-reading_count: 48
-mention_count: 48
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 41
+literal_reading_count: 0
+semantic_reading_count: 41
+literal_mention_count: 0
+semantic_mention_count: 41
+tags: [entity, semantic]
 ---
 
 # sanguinaria
 
-**sanguinaria** (remedy) appears in **48 readings** (48 mentions) — extracted by LLM semantic analysis.
+**sanguinaria** (remedy) appears in **41 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning sanguinaria
 
-[[117-1]], [[136-80]], [[191-1]], [[243-2]], [[257-9]], [[294-21]], [[337-16]], [[341-23]], [[341-43]], [[356-1]], [[390-1]], [[543-9]], [[629-2]], [[760-9]], [[760-13]], [[1013-6]], [[1187-1]], [[1192-2]], [[1635-2]], [[2252-1]], [[2289-5]], [[2451-2]], [[3753-1]], [[3783-1]], [[3859-2]], [[4095-1]], [[4176-1]], [[4177-2]], [[4199-1]], [[4232-1]], [[4299-2]], [[4326-1]], [[4438-3]], [[4466-1]], [[4592-1]], [[4602-1]], [[4634-1]], [[4664-1]], [[4730-2]], [[4751-1]], [[4763-1]], [[4887-1]], [[4897-1]], [[4997-1]], [[5451-4]], [[5495-1]], [[5513-1]], [[5638-1]]
+[[136-80]], [[257-9]], [[257-16]], [[294-21]], [[337-16]], [[341-23]], [[341-43]], [[356-1]], [[369-8]], [[388-1]], [[462-3]], [[543-9]], [[760-9]], [[760-13]], [[760-17]], [[1145-2]], [[1187-1]], [[1635-2]], [[2252-1]], [[2289-5]], [[2451-2]], [[2675-1]], [[2810-1]], [[3783-1]], [[3859-2]], [[3972-1]], [[4095-1]], [[4199-1]], [[4206-2]], [[4299-2]], [[4326-1]], [[4466-1]], [[4664-1]], [[4730-2]], [[4751-1]], [[4763-1]], [[4997-1]], [[5451-4]], [[5495-1]], [[5513-1]], [[5638-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

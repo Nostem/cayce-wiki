@@ -1,18 +1,21 @@
 ---
 entity: "congestions"
-entity_type: "condition"
-reading_count: 60
-mention_count: 60
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 30
+literal_reading_count: 0
+semantic_reading_count: 30
+literal_mention_count: 0
+semantic_mention_count: 30
+tags: [entity, semantic]
 ---
 
 # congestions
 
-**congestions** (condition) appears in **60 readings** (60 mentions) — extracted by LLM semantic analysis.
+**congestions** (condition) appears in **30 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning congestions
 
-[[227-2]], [[243-27]], [[251-1]], [[257-139]], [[257-195]], [[263-11]], [[294-130]], [[294-211]], [[303-33]], [[304-18]], [[304-25]], [[338-1]], [[369-13]], [[379-17]], [[389-3]], [[394-11]], [[462-18]], [[470-16]], [[530-1]], [[569-18]], [[585-5]], [[632-11]], [[632-14]], [[667-3]], [[773-21]], [[814-3]], [[849-75]], [[1009-1]], [[1021-1]], [[1029-1]], [[1071-1]], [[1177-1]], [[1191-3]], [[1313-1]], [[1383-1]], [[1683-1]], [[1688-10]], [[2391-1]], [[3097-1]], [[3254-1]], [[3390-1]], [[3398-1]], [[3484-1]], [[3620-1]], [[3739-1]], [[3783-1]], [[3824-1]], [[3938-1]], [[4072-1]], [[4224-1]], [[4611-1]], [[4721-2]], [[4823-1]], [[4933-1]], [[5020-1]], [[5132-1]], [[5165-1]], [[5199-1]], [[5453-12]], [[5580-1]]
+[[243-27]], [[251-1]], [[257-195]], [[263-11]], [[307-2]], [[394-11]], [[415-3]], [[464-30]], [[470-16]], [[530-1]], [[585-5]], [[1237-2]], [[1313-1]], [[1329-2]], [[1523-2]], [[1566-4]], [[1688-10]], [[1812-1]], [[2077-3]], [[2155-2]], [[2206-1]], [[2391-1]], [[2830-1]], [[3332-1]], [[3429-1]], [[3824-1]], [[3938-1]], [[4072-1]], [[4721-2]], [[5199-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

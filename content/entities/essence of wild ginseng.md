@@ -1,18 +1,21 @@
 ---
 entity: "essence of wild ginseng"
-entity_type: "remedy"
-reading_count: 11
-mention_count: 11
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # essence of wild ginseng
 
-**essence of wild ginseng** (remedy) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**essence of wild ginseng** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning essence of wild ginseng
 
-[[636-1]], [[672-1]], [[941-1]], [[1111-1]], [[1673-1]], [[2503-1]], [[3214-1]], [[3607-1]], [[3842-1]], [[4806-1]], [[5621-1]]
+[[811-5]], [[3607-1]], [[4806-1]], [[5621-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

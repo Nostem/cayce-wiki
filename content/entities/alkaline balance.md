@@ -1,18 +1,21 @@
 ---
 entity: "alkaline balance"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept", "remedy"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
 # alkaline balance
 
-**alkaline balance** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**alkaline balance** (concept, remedy) appears in **6 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning alkaline balance
 
-[[3717-2]], [[3938-1]]
+[[294-169]], [[324-3]], [[623-2]], [[5428-1]], [[5472-1]], [[5611-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

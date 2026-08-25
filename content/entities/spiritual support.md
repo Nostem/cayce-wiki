@@ -1,18 +1,21 @@
 ---
 entity: "spiritual support"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # spiritual support
 
-**spiritual support** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**spiritual support** (concept) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning spiritual support
 
-[[601-31]], [[2517-3]]
+[[325-39]], [[715-8]], [[849-69]], [[3396-1]], [[4278-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

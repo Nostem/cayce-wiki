@@ -1,18 +1,21 @@
 ---
 entity: "uric acid excess"
-entity_type: "condition"
-reading_count: 3
-mention_count: 3
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # uric acid excess
 
-**uric acid excess** (condition) appears in **3 readings** (3 mentions) — extracted by LLM semantic analysis.
+**uric acid excess** (condition) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning uric acid excess
 
-[[464-16]], [[1791-2]], [[2489-2]]
+[[1060-2]], [[1420-1]], [[1703-2]], [[1770-1]], [[2026-1]], [[2511-1]], [[2534-1]], [[2852-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

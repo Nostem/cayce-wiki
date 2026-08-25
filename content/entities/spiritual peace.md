@@ -1,18 +1,21 @@
 ---
 entity: "spiritual peace"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # spiritual peace
 
-**spiritual peace** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**spiritual peace** (concept) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning spiritual peace
 
-[[3976-27]], [[4493-1]]
+[[543-11]], [[1238-3]], [[2551-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

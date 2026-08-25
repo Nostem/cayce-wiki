@@ -1,18 +1,21 @@
 ---
 entity: "deflected circulation"
-entity_type: "condition"
-reading_count: 2
-mention_count: 2
-tags: [entity, condition]
+entity_types: ["concept", "condition"]
+reading_count: 10
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # deflected circulation
 
-**deflected circulation** (condition) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**deflected circulation** (concept, condition) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning deflected circulation
 
-[[1519-7]], [[4701-1]]
+[[148-1]], [[257-8]], [[1519-7]], [[2273-1]], [[2413-1]], [[2867-1]], [[4314-1]], [[4345-2]], [[4583-1]], [[4701-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
-entity: "san diego"
-entity_type: "place"
-reading_count: 5
-mention_count: 5
-tags: [entity, place]
+entity: "San Diego"
+entity_types: ["place"]
+reading_count: 13
+literal_reading_count: 0
+semantic_reading_count: 13
+literal_mention_count: 0
+semantic_mention_count: 13
+tags: [entity, semantic]
 ---
 
-# san diego
+# San Diego
 
-**san diego** (place) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**San Diego** (place) appears in **13 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning san diego
+## Readings mentioning San Diego
 
-[[3053-4]], [[4042-1]], [[4283-5]], [[5421-3]], [[5540-6]]
+[[951-3]], [[961-1]], [[1767-3]], [[1983-1]], [[2454-3]], [[3053-4]], [[3506-1]], [[3789-1]], [[4042-1]], [[4283-5]], [[4856-1]], [[5540-6]], [[5628-8]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

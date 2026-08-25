@@ -1,18 +1,21 @@
 ---
-entity: "central america"
-entity_type: "place"
-reading_count: 2
-mention_count: 2
-tags: [entity, place]
+entity: "Central America"
+entity_types: ["place"]
+reading_count: 11
+literal_reading_count: 0
+semantic_reading_count: 11
+literal_mention_count: 0
+semantic_mention_count: 11
+tags: [entity, semantic]
 ---
 
-# central america
+# Central America
 
-**central america** (place) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**Central America** (place) appears in **11 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning central america
+## Readings mentioning Central America
 
-[[1437-1]], [[2147-1]]
+[[537-1]], [[670-1]], [[801-1]], [[826-2]], [[832-1]], [[845-1]], [[914-1]], [[1437-1]], [[2147-1]], [[5264-1]], [[5750-1]]
 
 ---
-*Auto-generated place index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "duty"
-entity_type: "concept"
-reading_count: 12
-mention_count: 12
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # duty
 
-**duty** (concept) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**duty** (concept) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning duty
 
-[[303-4]], [[378-37]], [[488-3]], [[488-5]], [[517-1]], [[1151-1]], [[1196-2]], [[1532-1]], [[1915-1]], [[2056-1]], [[3545-1]], [[4866-1]]
+[[303-4]], [[323-1]], [[391-16]], [[488-3]], [[2497-2]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

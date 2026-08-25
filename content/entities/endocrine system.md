@@ -1,18 +1,21 @@
 ---
 entity: "endocrine system"
-entity_type: "concept"
+entity_types: ["concept"]
 reading_count: 10
-mention_count: 10
-tags: [entity, concept]
+literal_reading_count: 0
+semantic_reading_count: 10
+literal_mention_count: 0
+semantic_mention_count: 10
+tags: [entity, semantic]
 ---
 
 # endocrine system
 
-**endocrine system** (concept) appears in **10 readings** (10 mentions) — extracted by LLM semantic analysis.
+**endocrine system** (concept) appears in **10 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning endocrine system
 
-[[281-38]], [[281-48]], [[281-49]], [[281-52]], [[281-53]], [[281-54]], [[281-57]], [[281-58]], [[282-1]], [[4432-1]]
+[[281-38]], [[281-47]], [[281-49]], [[281-51]], [[281-53]], [[281-54]], [[281-55]], [[281-57]], [[281-58]], [[2680-1]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

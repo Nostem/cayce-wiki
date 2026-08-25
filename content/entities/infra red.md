@@ -1,18 +1,21 @@
 ---
 entity: "infra red"
-entity_type: "remedy"
-reading_count: 22
-mention_count: 22
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 5
+literal_reading_count: 0
+semantic_reading_count: 5
+literal_mention_count: 0
+semantic_mention_count: 5
+tags: [entity, semantic]
 ---
 
 # infra red
 
-**infra red** (remedy) appears in **22 readings** (22 mentions) — extracted by LLM semantic analysis.
+**infra red** (remedy) appears in **5 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning infra red
 
-[[64-2]], [[165-16]], [[261-4]], [[268-1]], [[275-5]], [[275-9]], [[275-10]], [[275-14]], [[275-29]], [[275-34]], [[281-7]], [[337-13]], [[409-7]], [[409-9]], [[409-16]], [[559-3]], [[757-6]], [[1525-1]], [[5439-1]], [[5446-1]], [[5524-1]], [[5568-4]]
+[[64-2]], [[275-5]], [[275-7]], [[275-9]], [[281-7]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

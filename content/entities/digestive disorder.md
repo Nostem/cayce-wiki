@@ -1,18 +1,21 @@
 ---
 entity: "digestive disorder"
-entity_type: "condition"
-reading_count: 12
-mention_count: 12
-tags: [entity, condition]
+entity_types: ["condition"]
+reading_count: 9
+literal_reading_count: 0
+semantic_reading_count: 9
+literal_mention_count: 0
+semantic_mention_count: 9
+tags: [entity, semantic]
 ---
 
 # digestive disorder
 
-**digestive disorder** (condition) appears in **12 readings** (12 mentions) — extracted by LLM semantic analysis.
+**digestive disorder** (condition) appears in **9 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning digestive disorder
 
-[[45-1]], [[617-1]], [[632-1]], [[658-13]], [[755-1]], [[920-2]], [[1351-1]], [[2064-1]], [[3985-1]], [[5046-1]], [[5570-2]], [[5590-1]]
+[[658-13]], [[694-1]], [[920-2]], [[1351-1]], [[2354-1]], [[2424-1]], [[4142-1]], [[4332-1]], [[5437-1]]
 
 ---
-*Auto-generated condition index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

@@ -1,18 +1,21 @@
 ---
 entity: "mental and physical health"
-entity_type: "concept"
-reading_count: 5
-mention_count: 5
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 8
+literal_reading_count: 0
+semantic_reading_count: 8
+literal_mention_count: 0
+semantic_mention_count: 8
+tags: [entity, semantic]
 ---
 
 # mental and physical health
 
-**mental and physical health** (concept) appears in **5 readings** (5 mentions) — extracted by LLM semantic analysis.
+**mental and physical health** (concept) appears in **8 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning mental and physical health
 
-[[294-210]], [[298-2]], [[540-12]], [[599-5]], [[5120-1]]
+[[257-226]], [[294-33]], [[412-6]], [[551-1]], [[900-287]], [[2998-3]], [[4290-1]], [[5648-4]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

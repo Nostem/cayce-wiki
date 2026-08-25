@@ -1,18 +1,21 @@
 ---
-entity: "miss grapes"
-entity_type: "person"
-reading_count: 4
-mention_count: 4
-tags: [entity, person]
+entity: "Miss Grapes"
+entity_types: ["person"]
+reading_count: 6
+literal_reading_count: 0
+semantic_reading_count: 6
+literal_mention_count: 0
+semantic_mention_count: 6
+tags: [entity, semantic]
 ---
 
-# miss grapes
+# Miss Grapes
 
-**miss grapes** (person) appears in **4 readings** (4 mentions) — extracted by LLM semantic analysis.
+**Miss Grapes** (person) appears in **6 readings** — indexed through LLM semantic extraction.
 
-## Readings mentioning miss grapes
+## Readings mentioning Miss Grapes
 
-[[286-6]], [[654-8]], [[2234-1]], [[3914-1]]
+[[286-6]], [[286-8]], [[654-7]], [[654-8]], [[2234-1]], [[3914-1]]
 
 ---
-*Auto-generated person index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

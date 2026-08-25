@@ -1,18 +1,21 @@
 ---
 entity: "living sacrifice"
-entity_type: "concept"
-reading_count: 2
-mention_count: 2
-tags: [entity, concept]
+entity_types: ["concept"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # living sacrifice
 
-**living sacrifice** (concept) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**living sacrifice** (concept) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning living sacrifice
 
-[[333-1]], [[1106-1]]
+[[254-31]], [[294-139]], [[473-2]], [[4001-3]]
 
 ---
-*Auto-generated concept index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

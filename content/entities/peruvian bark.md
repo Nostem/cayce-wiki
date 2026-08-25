@@ -1,18 +1,21 @@
 ---
 entity: "peruvian bark"
-entity_type: "remedy"
-reading_count: 11
-mention_count: 11
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 3
+literal_reading_count: 0
+semantic_reading_count: 3
+literal_mention_count: 0
+semantic_mention_count: 3
+tags: [entity, semantic]
 ---
 
 # peruvian bark
 
-**peruvian bark** (remedy) appears in **11 readings** (11 mentions) — extracted by LLM semantic analysis.
+**peruvian bark** (remedy) appears in **3 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning peruvian bark
 
-[[26-2]], [[185-1]], [[216-1]], [[2657-1]], [[3798-1]], [[3827-1]], [[4267-1]], [[4608-1]], [[4657-1]], [[4781-1]], [[4984-1]]
+[[2657-1]], [[4598-1]], [[4608-1]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*

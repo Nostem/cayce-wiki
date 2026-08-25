@@ -1,18 +1,21 @@
 ---
 entity: "baked apples"
-entity_type: "remedy"
-reading_count: 2
-mention_count: 2
-tags: [entity, remedy]
+entity_types: ["remedy"]
+reading_count: 4
+literal_reading_count: 0
+semantic_reading_count: 4
+literal_mention_count: 0
+semantic_mention_count: 4
+tags: [entity, semantic]
 ---
 
 # baked apples
 
-**baked apples** (remedy) appears in **2 readings** (2 mentions) — extracted by LLM semantic analysis.
+**baked apples** (remedy) appears in **4 readings** — indexed through LLM semantic extraction.
 
 ## Readings mentioning baked apples
 
-[[2595-2]], [[4281-6]]
+[[294-129]], [[2595-2]], [[4281-3]], [[4281-6]]
 
 ---
-*Auto-generated remedy index via LLM extraction. Verify before citing.*
+*Auto-generated index. LLM classifications should be verified before citation.*
