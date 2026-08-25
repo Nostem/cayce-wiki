@@ -9,7 +9,7 @@ title: The Edgar Cayce Readings Wiki
 ## Browse
 
 - **[[readings/1-1|Readings]]** — all 14,306 readings, one note each, in `readings/`
-- **Entities** — 318 auto-extracted topics, remedies, people, places, and concepts in `entities/`
+- **Entities** — 10,731 hybrid deterministic and LLM-extracted topics, remedies, people, places, and concepts in `entities/`
 - **Series** — 19 subject-matter series in `series/`
 
 ## Major Series
@@ -38,44 +38,44 @@ title: The Edgar Cayce Readings Wiki
 
 - [[Edgar Cayce]] — 14,273 readings
 - [[Gladys Davis]] — 13,283 readings
-- [[Gertrude Cayce]] — 12,065 readings
-- [[Virginia Beach]] — 11,023 readings
-- [[A.R.E. (Association for Research and Enlightenment)]] — 4,735 readings
-- [[New York City]] — 4,337 readings
-- [[Entity (Cayce Term)]] — 4,184 readings
-- [[Physical Body]] — 4,141 readings
-- [[Purpose]] — 3,491 readings
-- [[Osteopathy]] — 3,449 readings
-- [[Vibration]] — 3,386 readings
-- [[Massage Therapy]] — 3,370 readings
-- [[Glands (Esoteric)]] — 3,099 readings
+- [[Gertrude Cayce]] — 12,068 readings
+- [[Virginia Beach]] — 11,306 readings
+- [[A.R.E. Association for Research and Enlightenment|A.R.E. (Association for Research and Enlightenment)]] — 4,735 readings
+- [[New York City]] — 4,723 readings
+- [[Entity Cayce Term|Entity (Cayce Term)]] — 4,184 readings
+- [[Physical Body]] — 4,150 readings
+- [[Purpose]] — 3,508 readings
+- [[Osteopathy]] — 3,452 readings
+- [[Massage Therapy]] — 3,413 readings
+- [[Vibration]] — 3,387 readings
+- [[Glands Esoteric|Glands (Esoteric)]] — 3,099 readings
 - [[Soul]] — 2,974 readings
-- [[Hugh Lynn Cayce]] — 2,279 readings
+- [[Hugh Lynn Cayce]] — 2,287 readings
 - [[Ideal]] — 2,222 readings
-- [[Ohio]] — 2,150 readings
-- [[Incarnation]] — 2,090 readings
+- [[Ohio]] — 2,151 readings
+- [[Incarnation]] — 2,091 readings
+- [[osteopathic adjustments]] — 1,919 readings
+- [[Free Will]] — 1,830 readings
 - [[Resurrection Appearances]] — 1,812 readings
-- [[Free Will]] — 1,794 readings
 - [[Visions]] — 1,784 readings
-- [[Egypt]] — 1,763 readings
-- [[Prayer]] — 1,616 readings
+- [[Egypt]] — 1,765 readings
+- [[Prayer]] — 1,716 readings
+- [[Astrology]] — 1,622 readings
+- [[Healing]] — 1,615 readings
 - [[Dreams]] — 1,614 readings
 - [[Jesus Christ]] — 1,575 readings
-- [[Creative Forces]] — 1,559 readings
-- [[Astrology]] — 1,552 readings
-- [[Olive Oil]] — 1,450 readings
-- [[Healing]] — 1,435 readings
-- [[Records (Atlantean)]] — 1,382 readings
+- [[Creative Forces]] — 1,569 readings
+- [[Olive Oil]] — 1,453 readings
+- [[Records Atlantean|Records (Atlantean)]] — 1,382 readings
 - [[Dayton Ohio]] — 1,247 readings
-- [[Meditation]] — 1,179 readings
-- [[Colon Hydrotherapy]] — 1,163 readings
-- [[Violet Ray]] — 1,122 readings
+- [[Meditation]] — 1,221 readings
+- [[Karma]] — 1,220 readings
+- [[Colon Hydrotherapy]] — 1,166 readings
+- [[Alabama]] — 1,142 readings
+- [[Violet Ray]] — 1,124 readings
+- [[past-life in Egypt]] — 1,111 readings
 - [[Temple of Solomon]] — 1,097 readings
 - [[Cayce Hospital]] — 1,088 readings
-- [[Baking Soda]] — 1,077 readings
-- [[Alabama]] — 1,074 readings
-- [[Atomidine]] — 1,050 readings
-- [[Thomas Sugrue]] — 1,029 readings
 
 ---
-*Auto-generated from the Complete Edgar Cayce Readings (A.R.E., 2006). Entity links are deterministic surface-form matches — verify before citing.*
+*Auto-generated from the Complete Edgar Cayce Readings (A.R.E., 2006). Entity indexes combine deterministic surface-form matches with LLM semantic classifications — verify before citing.*
