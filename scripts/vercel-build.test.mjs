@@ -1,6 +1,7 @@
 import test from "node:test"
 import assert from "node:assert/strict"
 import { readFileSync } from "node:fs"
+import { parse } from "yaml"
 
 const buildScript = readFileSync(new URL("./vercel-build.mjs", import.meta.url), "utf8")
 const outputScript = readFileSync(new URL("./prepare-vercel-output.mjs", import.meta.url), "utf8")
@@ -46,4 +47,64 @@ test("GitHub Actions deploys the completed Quartz build as a prebuilt artifact",
   assert.match(deployWorkflow, /--archive=tgz/)
   assert.match(deployWorkflow, /secrets\.VERCEL_TOKEN/)
   assert.match(deployWorkflow, /VERCEL_PROJECT_ID: prj_qoOG7HRXdkOWcjRhMBdfMPFnVdSl/)
+})
+
+function verificationWorkflow() {
+  return parse(readFileSync(new URL("../.github/workflows/ci.yml", import.meta.url), "utf8"))
+}
+
+const mainOnly = "${{ github.ref == 'refs/heads/main' }}"
+
+test("verification runs for main PRs and can be reused without production secrets", () => {
+  const ci = verificationWorkflow()
+  assert.deepEqual(ci.on.pull_request, { branches: ["main"] })
+  assert.ok(Object.hasOwn(ci.on, "workflow_call"))
+  assert.ok(Object.hasOwn(ci.on, "workflow_dispatch"))
+  assert.deepEqual(ci.permissions, { contents: "read" })
+  assert.ok(!JSON.stringify(ci).includes("secrets."))
+  assert.ok(!JSON.stringify(ci).includes("jackyzha0/quartz"))
+})
+
+test("verification executes the full test suite and typecheck after a clean install", () => {
+  const ci = verificationWorkflow()
+  assert.deepEqual(Object.keys(ci.jobs), ["verify"])
+  const job = ci.jobs.verify
+  assert.equal(job.if, undefined)
+  assert.equal(job.needs, undefined)
+  const commands = job.steps.filter((step) => step.run).map((step) => step.run.trim())
+  assert.deepEqual(commands, ["npm ci", "npm run install-plugins", "npx tsc --noEmit", "npm test"])
+  assert.ok(job.steps.some((step) => step.uses?.startsWith("actions/checkout@")))
+})
+
+test("production builds and uploads depend on the verified same-commit workflow", () => {
+  const deploy = parse(deployWorkflow)
+  assert.deepEqual(deploy.on, { push: { branches: ["main"] }, workflow_dispatch: null })
+  assert.deepEqual(Object.keys(deploy.jobs).sort(), ["deploy", "verify"])
+  assert.equal(deploy.jobs.verify.uses, "./.github/workflows/ci.yml")
+  assert.equal(deploy.jobs.verify.secrets, undefined)
+  assert.equal(deploy.jobs.deploy.needs, "verify")
+  assert.equal(deploy.jobs.deploy.if, mainOnly)
+  const commands = deploy.jobs.deploy.steps.filter((step) => step.run).map((step) => step.run)
+  const build = commands.indexOf("npm run vercel-build")
+  const prepare = commands.indexOf("node scripts/prepare-vercel-output.mjs")
+  const publish = commands.findIndex((command) =>
+    command.startsWith("vercel deploy --prebuilt --prod"),
+  )
+  assert.ok(build >= 0 && prepare > build && publish > prepare)
+})
+
+test("verification and deployment cannot ignore failures or force success after a failed gate", () => {
+  for (const workflow of [verificationWorkflow(), parse(deployWorkflow)]) {
+    assert.equal(workflow.defaults, undefined)
+    for (const [name, job] of Object.entries(workflow.jobs)) {
+      assert.equal(job["continue-on-error"], undefined)
+      assert.equal(job.defaults, undefined)
+      assert.equal(job.if, name === "deploy" ? mainOnly : undefined)
+      for (const step of job.steps ?? []) {
+        assert.equal(step["continue-on-error"], undefined)
+        assert.equal(step.if, undefined)
+        assert.equal(step.shell, undefined)
+      }
+    }
+  }
 })

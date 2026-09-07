@@ -72,6 +72,7 @@ Install the pinned dependencies:
 
 ```bash
 npm ci
+npm run install-plugins
 ```
 
 Run the complete test suite:
@@ -139,6 +140,8 @@ push to main
     ↓
 GitHub Actions
     ↓
+clean install → TypeScript check → full test suite
+    ↓
 npm ci → optimized Quartz build → compact indexes
     ↓
 Vercel Build Output API artifact
@@ -149,6 +152,31 @@ https://cayce-wiki.vercel.app
 ```
 
 The Vercel project's direct Git integration is intentionally disconnected. A direct Vercel Git build repeats the full Quartz build inside Vercel and can exceed Vercel's 45-minute build limit. GitHub Actions builds the site first and uploads the completed static artifact with `vercel deploy --prebuilt --archive=tgz`.
+
+### Required verification gates
+
+`.github/workflows/ci.yml` runs on pull requests targeting `main` and is reused
+by the production workflow for the same commit. It performs a clean install,
+generates the ignored `.quartz/plugins` index with `npm run install-plugins`, then
+runs `npx tsc --noEmit` and `npm test` without production secrets. The deployment job
+requires this verification job to succeed before it starts the expensive build,
+prepares the artifact, or accesses the Vercel token. Manual production dispatches
+are also gated and publish only from `main`.
+
+These gates deliberately do not run whole-corpus formatting: `npm run check`
+includes a separate Prettier audit with existing formatting debt. The CI-equivalent
+local checks are:
+
+```bash
+npm ci
+npm run install-plugins
+npx tsc --noEmit && npm test
+```
+
+The workflow contract is covered by `scripts/vercel-build.test.mjs`. These checks
+do not replace production HTTP/browser verification, and they do not configure
+GitHub branch protection. The optimized build and Vercel prebuilt upload remain
+unchanged; the disconnected direct Git integration is not re-enabled.
 
 ### Required repository secret
 
