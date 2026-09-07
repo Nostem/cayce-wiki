@@ -72,6 +72,7 @@ Install the pinned dependencies:
 
 ```bash
 npm ci
+npm run install-plugins
 ```
 
 Run the complete test suite:
@@ -156,7 +157,8 @@ The Vercel project's direct Git integration is intentionally disconnected. A dir
 
 `.github/workflows/ci.yml` runs on pull requests targeting `main` and is reused
 by the production workflow for the same commit. It performs a clean install,
-`npx tsc --noEmit`, and `npm test` without production secrets. The deployment job
+generates the ignored `.quartz/plugins` index with `npm run install-plugins`, then
+runs `npx tsc --noEmit` and `npm test` without production secrets. The deployment job
 requires this verification job to succeed before it starts the expensive build,
 prepares the artifact, or accesses the Vercel token. Manual production dispatches
 are also gated and publish only from `main`.
@@ -167,6 +169,7 @@ local checks are:
 
 ```bash
 npm ci
+npm run install-plugins
 npx tsc --noEmit && npm test
 ```
 

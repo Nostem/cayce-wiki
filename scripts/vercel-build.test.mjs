@@ -72,7 +72,7 @@ test("verification executes the full test suite and typecheck after a clean inst
   assert.equal(job.if, undefined)
   assert.equal(job.needs, undefined)
   const commands = job.steps.filter((step) => step.run).map((step) => step.run.trim())
-  assert.deepEqual(commands, ["npm ci", "npx tsc --noEmit", "npm test"])
+  assert.deepEqual(commands, ["npm ci", "npm run install-plugins", "npx tsc --noEmit", "npm test"])
   assert.ok(job.steps.some((step) => step.uses?.startsWith("actions/checkout@")))
 })
 
