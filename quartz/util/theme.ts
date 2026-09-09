@@ -49,6 +49,14 @@ export function getFontSpecificationName(spec: FontSpecification): string {
   return spec.name
 }
 
+function sansSerifFallback(spec: FontSpecification): string {
+  const name = getFontSpecificationName(spec)
+  // Local Arial metric overrides are declared in custom.scss for these families.
+  return name === "Schibsted Grotesk" || name === "Source Sans Pro"
+    ? `"${name} Fallback", ${DEFAULT_SANS_SERIF}`
+    : DEFAULT_SANS_SERIF
+}
+
 function formatFontSpecification(
   type: "title" | "header" | "body" | "code",
   spec: FontSpecification,
@@ -114,9 +122,33 @@ const fontMimeMap: Record<string, string> = {
   opentype: "otf",
 }
 
+// Google selects font formats/subsets by User-Agent. Node's default gets full
+// TTFs; pin a WOFF2-capable browser rather than depending on the build runtime.
+const googleFontsHeaders = {
+  "User-Agent":
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+  Accept: "text/css,*/*;q=0.1",
+}
+
+export async function fetchGoogleFonts(
+  url: string,
+  baseUrl: string,
+  fetcher: typeof fetch = fetch,
+) {
+  const response = await fetcher(url, { headers: googleFontsHeaders })
+  if (!response.ok) {
+    throw new Error(`Failed to fetch Google Fonts stylesheet ${url}: HTTP ${response.status}`)
+  }
+  const result = await processGoogleFonts(await response.text(), baseUrl)
+  if (result.fontFiles.some((file) => file.extension !== "woff2")) {
+    throw new Error(`Google Fonts stylesheet did not supply exclusively WOFF2 fonts: ${url}`)
+  }
+  return result
+}
+
 export async function processGoogleFonts(
   stylesheet: string,
-  baseUrl: string,
+  _baseUrl: string,
 ): Promise<{
   processedStylesheet: string
   fontFiles: GoogleFontFile[]
@@ -131,13 +163,26 @@ export async function processGoogleFonts(
     const url = match[1]
     const filename = match[2]
     const extension = fontMimeMap[match[3].toLowerCase()]
-    const staticUrl = `https://${baseUrl}/static/fonts/${filename}.${extension}`
+    // ComponentResources emits the core stylesheet at the output root. Resolve
+    // beside it so previews, localhost and subpath deployments stay same-origin.
+    const staticUrl = `./static/fonts/${filename}.${extension}`
 
     processedStylesheet = processedStylesheet.replace(url, staticUrl)
     fontFiles.push({ url, filename, extension })
   }
 
-  return { processedStylesheet, fontFiles }
+  if (fontFiles.length === 0) {
+    throw new Error("No fonts found in Google Fonts stylesheet")
+  }
+  if (processedStylesheet.includes("https://fonts.gstatic.com/")) {
+    throw new Error("Unprocessed font source in Google Fonts stylesheet")
+  }
+
+  // Keep every unicode-range rule, but download shared variable font files once.
+  return {
+    processedStylesheet,
+    fontFiles: [...new Map(fontFiles.map((file) => [file.url, file])).values()],
+  }
 }
 
 function hexToHsl(hex: string): { h: number; s: number; l: number } {
@@ -188,9 +233,9 @@ ${stylesheet.join("\n\n")}
   --highlight: ${theme.colors.lightMode.highlight};
   --textHighlight: ${theme.colors.lightMode.textHighlight};
 
-  --titleFont: "${getFontSpecificationName(theme.typography.title || theme.typography.header)}", ${DEFAULT_SANS_SERIF};
-  --headerFont: "${getFontSpecificationName(theme.typography.header)}", ${DEFAULT_SANS_SERIF};
-  --bodyFont: "${getFontSpecificationName(theme.typography.body)}", ${DEFAULT_SANS_SERIF};
+  --titleFont: "${getFontSpecificationName(theme.typography.title || theme.typography.header)}", ${sansSerifFallback(theme.typography.title || theme.typography.header)};
+  --headerFont: "${getFontSpecificationName(theme.typography.header)}", ${sansSerifFallback(theme.typography.header)};
+  --bodyFont: "${getFontSpecificationName(theme.typography.body)}", ${sansSerifFallback(theme.typography.body)};
   --codeFont: "${getFontSpecificationName(theme.typography.code)}", ${DEFAULT_MONO};
 }
 

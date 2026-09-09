@@ -1,3 +1,29 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Measured with fontTools from Google Fonts' regular TTFs:
+// Schibsted Grotesk v7 JqzK5SSPQuCQF3t8uOwiUL-taUTtarVKQ9vZ6pJJWlMNIsEATw.ttf
+// Source Sans Pro v23 6xK3dSBYKcSV-LCoeQqfX1RYOo3aPw.ttf
+// Arial: unitsPerEm=2048, sxHeight=1062 (macOS Supplemental/Arial.ttf).
+// size-adjust = (target sxHeight / unitsPerEm) / (1062 / 2048).
+// Overrides = target hhea metric / unitsPerEm / size-adjust.
+// Matching x-height and line metrics reduces fallback reflow, but cannot match
+// every glyph width. If Arial is absent, the normal system stack remains usable.
+@font-face {
+  font-family: "Schibsted Grotesk Fallback";
+  src: local("Arial");
+  // unitsPerEm=2048, sxHeight=1080, hhea=(2000, -528, 0).
+  size-adjust: 101.69492%;
+  ascent-override: 96.02865%;
+  descent-override: 25.35156%;
+  line-gap-override: 0%;
+}
+
+@font-face {
+  font-family: "Source Sans Pro Fallback";
+  src: local("Arial");
+  // unitsPerEm=1000, sxHeight=486, hhea=(984, -273, 0).
+  size-adjust: 93.72203%;
+  ascent-override: 104.99132%;
+  descent-override: 29.12869%;
+  line-gap-override: 0%;
+}

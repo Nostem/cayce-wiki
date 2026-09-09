@@ -14,10 +14,10 @@ import { QuartzComponent } from "../../components/types"
 import { normalizeResource } from "../../util/resources"
 import { componentRegistry } from "../../components/registry"
 import {
+  fetchGoogleFonts,
   googleFontHref,
   googleFontSubsetHref,
   joinStyles,
-  processGoogleFonts,
 } from "../../util/theme"
 import { Features, transform } from "lightningcss"
 import { transform as transpile } from "esbuild"
@@ -285,32 +285,30 @@ export const ComponentResources: QuartzEmitterPlugin = () => {
       } else if (cfg.theme.fontOrigin === "googleFonts" && !cfg.theme.cdnCaching) {
         // when cdnCaching is true, we link to google fonts in Head.tsx
         const theme = ctx.cfg.configuration.theme
-        const response = await fetch(googleFontHref(theme))
-        googleFontsStyleSheet = await response.text()
-
-        if (theme.typography.title) {
-          const title = ctx.cfg.configuration.pageTitle
-          const response = await fetch(googleFontSubsetHref(theme, title))
-          googleFontsStyleSheet += `\n${await response.text()}`
-        }
-
         if (!cfg.baseUrl) {
           throw new Error(
             "baseUrl must be defined when using Google Fonts without cfg.theme.cdnCaching",
           )
         }
 
-        const { processedStylesheet, fontFiles } = await processGoogleFonts(
-          googleFontsStyleSheet,
+        const { processedStylesheet, fontFiles } = await fetchGoogleFonts(
+          googleFontHref(theme),
           cfg.baseUrl,
         )
         googleFontsStyleSheet = processedStylesheet
 
+        if (theme.typography.title) {
+          const title = ctx.cfg.configuration.pageTitle
+          const titleFonts = await fetchGoogleFonts(googleFontSubsetHref(theme, title), cfg.baseUrl)
+          googleFontsStyleSheet += `\n${titleFonts.processedStylesheet}`
+          fontFiles.push(...titleFonts.fontFiles)
+        }
+
         // Download and save font files
-        for (const fontFile of fontFiles) {
+        for (const fontFile of new Map(fontFiles.map((file) => [file.url, file])).values()) {
           const res = await fetch(fontFile.url)
           if (!res.ok) {
-            throw new Error(`Failed to fetch font ${fontFile.filename}`)
+            throw new Error(`Failed to fetch font ${fontFile.url}: HTTP ${res.status}`)
           }
 
           const buf = await res.arrayBuffer()

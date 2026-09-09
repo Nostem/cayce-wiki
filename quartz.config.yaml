@@ -14,7 +14,8 @@ configuration:
     - .obsidian
   theme:
     fontOrigin: googleFonts
-    cdnCaching: true
+    # ComponentResources downloads fonts into the build; Head adds no Google CSS.
+    cdnCaching: false
     typography:
       header: Schibsted Grotesk
       body: Source Sans Pro
@@ -82,7 +83,8 @@ plugins:
     enabled: true
     order: 70
   - source: "@quartz-community/quartz-fonts"
-    enabled: true
+    # Core already supplies these families and the theme's font aliases.
+    enabled: false
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/alias-redirects"
