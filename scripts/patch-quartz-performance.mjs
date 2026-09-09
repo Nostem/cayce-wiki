@@ -64,9 +64,114 @@ const graphAlgorithmAfter =
 const lazyLocalBefore =
   'function uu(){f();var d=++E,w=u();c(w);for(var g=document.querySelectorAll(".graph-container"),m=0;m<g.length;m++)(function(q){D(q,w,d).then(function(x){d===E&&_.push(x)}).catch(function(x){console.error("[Graph] Local render error:",x)})})(g[m])}'
 const lazyLocalAfter =
-  'function uu(){f();var d=++E,w=u();c(w);for(var g=document.querySelectorAll(".graph-container"),m=0;m<g.length;m++)(function(q){ke(q);q.style.display="flex";q.style.alignItems="center";q.style.justifyContent="center";var x=document.createElement("button");x.type="button";x.className="graph-load-button";x.textContent="Load local graph";x.style.padding="0.45rem 0.75rem";x.style.border="1px solid var(--lightgray)";x.style.borderRadius="6px";x.style.background="var(--light)";x.style.color="var(--darkgray)";x.style.cursor="pointer";x.addEventListener("click",function(){ke(q);q.style.display="block";D(q,w,d).then(function(L){d===E&&_.push(L)}).catch(function(L){console.error("[Graph] Local render error:",L);q.textContent="Graph could not load."})},{once:!0});q.appendChild(x)})(g[m])}'
+  'function uu(){f();var d=++E,w=u();c(w);for(var g=document.querySelectorAll(".graph-container"),m=0;m<g.length;m++)(function(q){ke(q);q.style.display="flex";q.style.alignItems="center";q.style.justifyContent="center";var x=document.createElement("button");x.type="button";x.className="graph-load-button";x.textContent="Load local graph";x.style.padding="0.45rem 0.75rem";x.style.border="1px solid var(--lightgray)";x.style.borderRadius="6px";x.style.background="var(--light)";x.style.color="var(--darkgray)";x.style.cursor="pointer";x.addEventListener("click",function(){cayceRender(q,w,d)},{once:!0});q.appendChild(x)})(g[m])}'
+
+// Exact CDN aliases resolved via x-jsd-version headers: D3 7.9.0, Pixi 8.20.1.
+// This function is serialized into the package's template literal. Keep it free
+// of template literals/backslash escapes and of dependencies on build-time scope.
+export function cayceLoadGraphLibraries() {
+  const pending = window.__cayceGraphLibraries || (window.__cayceGraphLibraries = {})
+  return Promise.all(
+    [
+      ["d3", "https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"],
+      ["PIXI", "https://cdn.jsdelivr.net/npm/pixi.js@8.20.1/dist/pixi.min.js"],
+    ].map(function ([name, url]) {
+      if (window[name]) return Promise.resolve()
+      if (!pending[name]) {
+        pending[name] = new Promise(function (resolve, reject) {
+          const script = document.createElement("script")
+          const timer = setTimeout(function () {
+            fail()
+          }, 30000)
+          function fail() {
+            clearTimeout(timer)
+            script.onload = script.onerror = null
+            script.remove()
+            reject(new Error("Could not load graph library: " + name))
+          }
+          script.src = url
+          script.crossOrigin = "anonymous"
+          script.onload = function () {
+            if (!window[name]) return fail()
+            clearTimeout(timer)
+            script.onload = script.onerror = null
+            resolve()
+          }
+          script.onerror = fail
+          document.head.appendChild(script)
+        }).catch(function (error) {
+          delete pending[name]
+          throw error
+        })
+      }
+      return pending[name]
+    }),
+  )
+}
+
+const graphLibrariesBefore =
+  'function e(a){var o=document.querySelector(\'script[src="\'+a+\'"]\');return o?Promise.resolve():new Promise(function(n,s){var c=document.createElement("script");c.src=a,c.crossOrigin="anonymous",c.onload=n,c.onerror=s,document.head.appendChild(c)})}Promise.all([e("https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"),e("https://cdn.jsdelivr.net/npm/pixi.js@8/dist/pixi.js")]).then(function(){t()}).catch(function(a){console.error("[Graph] Failed to load libraries:",a);for(var o=document.querySelectorAll(".graph-container"),n=0;n<o.length;n++)o[n].textContent="Graph could not load. Check your network connection.",o[n].style.display="flex",o[n].style.alignItems="center",o[n].style.justifyContent="center",o[n].style.color="var(--gray)",o[n].style.fontSize="0.9rem"});function t(){var a=window.d3,o=window.PIXI;if(!a||!o){console.error("[Graph] Libraries not loaded");return}'
+const graphLibrariesAfter =
+  cayceLoadGraphLibraries.toString() + ";t();function t(){var a,o,cayceGlobalGeneration=0;"
+
+// UI handlers are installed before dependencies exist. Each attempt captures
+// both route and overlay generations; old work cannot touch a replacement DOM.
+const graphRenderUI =
+  'function cayceRender(d,w,g){var route=E,global=cayceGlobalGeneration;function valid(){return d.isConnected&&route===E&&(g!==void 0||global===cayceGlobalGeneration)}if(!valid())return;ke(d);d.style.display="flex";d.style.alignItems="center";d.style.justifyContent="center";var status=document.createElement("span");status.setAttribute("role","status");status.textContent="Loading graph…";d.appendChild(status);D(d,w,g).then(function(cleanup){if(valid()){(g===void 0?r:_).push(cleanup)}else cleanup()}).catch(function(error){if(!valid())return;console.error("[Graph] Render error:",error);ke(d);var retry=document.createElement("button");retry.type="button";retry.textContent="Graph could not load. Retry graph";retry.addEventListener("click",function(){cayceRender(d,w,g)},{once:!0});d.appendChild(retry)})}'
+const graphRenderBefore = "async function D(d,w,g){var m=Fu(w);"
+const graphRenderAfter =
+  graphRenderUI +
+  "async function D(d,w,g){var cayceRoute=E,cayceGlobal=cayceGlobalGeneration;function cayceValid(){return d.isConnected&&cayceRoute===E&&(g!==void 0||cayceGlobal===cayceGlobalGeneration)}await cayceLoadGraphLibraries();if(!cayceValid())return function(){};a=window.d3;o=window.PIXI;var m=Fu(w);"
+
+// Pixi 8.20.1 treats renderer destroy(true) as releaseGlobalResources too.
+// Its global batch pool retains references to checked-out batches: releasing it
+// nulls textures still used by the other graph's live renderer. Remove only this
+// app's view/resources; Application.destroy already tears down its own ticker.
+const graphDestroyOptions = "{removeView:!0,releaseGlobalResources:!1},{children:!0}"
 
 const graphTransforms = [
+  [graphLibrariesBefore, graphLibrariesAfter, "install graph controls without fetching libraries"],
+  [graphRenderBefore, graphRenderAfter, "load libraries on render with retry feedback"],
+  [
+    "function b(){for(var d=0;",
+    "function b(){cayceGlobalGeneration++;for(var d=0;",
+    "invalidate pending global renders on close or reopen",
+  ],
+  [
+    "function(){f(),b()}",
+    "function(){E++;f(),b()}",
+    "invalidate pending renders before SPA navigation",
+  ],
+  [
+    'D(x,d,void 0).then(function(fu){r.push(fu)}).catch(function(fu){console.error("[Graph] Global render error:",fu)})',
+    "cayceRender(x,d,void 0)",
+    "global graph loading and retry controls",
+  ],
+  [
+    'catch(i){return console.error("[Graph] Error loading data:",i),function(){}}var R=',
+    "catch(i){window.__cayceGraphData=void 0;throw i}if(!cayceValid())return function(){};var R=",
+    "discard stale graph data and permit retry",
+  ],
+  [
+    "}),d.appendChild(Z.canvas);var ou=",
+    '});if(!cayceValid()){Z.destroy(!0);return function(){}}ke(d);d.style.display="block";d.appendChild(Z.canvas);var ou=',
+    "destroy stale Pixi applications before canvas attachment",
+  ],
+  [
+    "if(ke(d),g!==void 0&&g!==E)",
+    "if(g!==void 0&&g!==E)",
+    "retain loading feedback until canvas is ready",
+  ],
+  [
+    "if(!cayceValid()){Z.destroy(!0);return function(){}}",
+    "if(!cayceValid()){Z.destroy(" + graphDestroyOptions + ");return function(){}}",
+    "dispose stale applications without releasing another graph's resources",
+  ],
+  [
+    "try{Z.destroy(!0)}catch{}",
+    "try{Z.destroy(" + graphDestroyOptions + ")}catch{}",
+    "dispose graph children and renderer without clearing global Pixi pools",
+  ],
   [graphFetchBefore, graphFetchAfter, "load the dedicated graph index only when rendering"],
   [graphAlgorithmBefore, graphAlgorithmAfter, "scope local traversal and global entity graph"],
   [lazyLocalBefore, lazyLocalAfter, "render local graph only after user click"],
