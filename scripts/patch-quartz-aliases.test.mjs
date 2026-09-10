@@ -4,6 +4,16 @@ import { readFileSync, mkdtempSync, mkdirSync, writeFileSync, rmSync } from "nod
 import { tmpdir } from "node:os"
 import path from "node:path"
 import vm from "node:vm"
+import { execFileSync } from "node:child_process"
+import { fileURLToPath } from "node:url"
+
+const trackedSources = new Set(
+  execFileSync("git", ["ls-files", "-z", "content/entities"], {
+    cwd: fileURLToPath(new URL("..", import.meta.url)),
+  })
+    .toString()
+    .split("\0"),
+)
 
 const baseline = process.env.ALIASES_BASELINE === "1"
 const patch = baseline ? null : await import("./patch-quartz-aliases.mjs")
@@ -71,10 +81,19 @@ for (const sensitive of [false, true]) {
     const content = [],
       expected = new Map()
     for (const c of collisions) {
-      for (const [slug, source] of [
+      for (const [slug, declaredSource] of [
         [c.route, c.source],
         [c.canonical, c.winner],
       ]) {
+        // These three manifest winners retain historical casing, unlike Git.
+        // Assert exact tracked paths so macOS cannot hide Linux-only fixture errors.
+        const historicalWinnerPaths = new Map([
+          ["entities/Johns-Hopkins.md", "entities/johns-hopkins.md"],
+          ["entities/past-life in Egypt.md", "entities/past-life in egypt.md"],
+          ["entities/past-life in Persia.md", "entities/past-life in persia.md"],
+        ])
+        const source = historicalWinnerPaths.get(declaredSource) ?? declaredSource
+        assert.ok(trackedSources.has(`content/${source}`), `untracked source fixture: ${source}`)
         const markdown = readFileSync(new URL(`../content/${source}`, import.meta.url), "utf8")
         const html = `<main data-source=${JSON.stringify(source)}><pre>${markdown.replaceAll("&", "&amp;").replaceAll("<", "&lt;")}</pre></main>`
         expected.set(slug, html)
