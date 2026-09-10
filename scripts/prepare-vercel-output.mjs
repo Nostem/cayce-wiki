@@ -70,10 +70,11 @@ rmSync(outputRoot, { recursive: true, force: true })
 mkdirSync(outputRoot, { recursive: true })
 cpSync(source, staticTarget, { recursive: true })
 const routes = [...immutableRoutes(staticTarget), { handle: "filesystem" }]
-// Resolve existing resources first. A real generated error page retains HTTP 404;
-// neither it nor arbitrary missing URLs acquire immutable caching.
+// Resolve existing resources first. vercel.json's cleanUrls publishes 404.html
+// at /404, so rewriting to /404.html would itself miss on the hosted deployment.
+// Neither the error page nor arbitrary missing URLs acquire immutable caching.
 if (existsSync(join(staticTarget, "404.html"))) {
-  routes.push({ src: "/(.*)", dest: "/404.html", status: 404 })
+  routes.push({ src: "/(.*)", dest: "/404", status: 404 })
 }
 writeFileSync(
   join(outputRoot, "config.json"),

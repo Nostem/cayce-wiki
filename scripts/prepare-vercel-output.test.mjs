@@ -122,7 +122,8 @@ test("serves a present library 404 after filesystem resolution without caching i
   })
   assert.deepEqual(config.routes.slice(-2), [
     { handle: "filesystem" },
-    { src: "/(.*)", dest: "/404.html", status: 404 },
+    // cleanUrls publishes 404.html at /404; /404.html is not a hosted asset.
+    { src: "/(.*)", dest: "/404", status: 404 },
   ])
   assert.equal(cacheFor(config, "/404.html").length, 0)
   assert.match(readFileSync(join(output, "static/404.html"), "utf8"), /Browse readings/)
