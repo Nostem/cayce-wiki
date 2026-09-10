@@ -1,6 +1,14 @@
 #!/usr/bin/env node
 import { createHash } from "node:crypto"
-import { cpSync, mkdirSync, readFileSync, readdirSync, rmSync, writeFileSync } from "node:fs"
+import {
+  cpSync,
+  existsSync,
+  mkdirSync,
+  readFileSync,
+  readdirSync,
+  rmSync,
+  writeFileSync,
+} from "node:fs"
 import { join } from "node:path"
 
 // Only the paths emitted by ComponentResources qualify. Verify its SHA-256
@@ -61,9 +69,15 @@ const staticTarget = join(outputRoot, "static")
 rmSync(outputRoot, { recursive: true, force: true })
 mkdirSync(outputRoot, { recursive: true })
 cpSync(source, staticTarget, { recursive: true })
+const routes = [...immutableRoutes(staticTarget), { handle: "filesystem" }]
+// Resolve existing resources first. A real generated error page retains HTTP 404;
+// neither it nor arbitrary missing URLs acquire immutable caching.
+if (existsSync(join(staticTarget, "404.html"))) {
+  routes.push({ src: "/(.*)", dest: "/404.html", status: 404 })
+}
 writeFileSync(
   join(outputRoot, "config.json"),
-  `${JSON.stringify({ version: 3, routes: [...immutableRoutes(staticTarget), { handle: "filesystem" }] }, null, 2)}\n`,
+  `${JSON.stringify({ version: 3, routes }, null, 2)}\n`,
 )
 
 const config = JSON.parse(readFileSync(join(outputRoot, "config.json"), "utf8"))

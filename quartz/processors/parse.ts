@@ -14,6 +14,7 @@ import { QuartzLogger } from "../util/log"
 import { trace } from "../util/trace"
 import { BuildCtx, WorkerSerializableBuildCtx } from "../util/ctx"
 import { styleText } from "util"
+import { rewriteSourceWikilinkAst } from "../util/sourceRoutes"
 
 export type QuartzMdProcessor = Processor<MDRoot, MDRoot, MDRoot>
 export type QuartzHtmlProcessor = Processor<undefined, MDRoot, HTMLRoot>
@@ -25,6 +26,9 @@ export function createMdProcessor(ctx: BuildCtx): QuartzMdProcessor {
     unified()
       // base Markdown -> MD AST
       .use(remarkParse)
+      .use(() => (tree: MDRoot) => {
+        rewriteSourceWikilinkAst(tree)
+      })
       // MD AST -> MD AST transforms
       .use(
         transformers.flatMap((plugin) => plugin.markdownPlugins?.(ctx) ?? []),

@@ -2,7 +2,9 @@ import test from "node:test"
 import assert from "node:assert/strict"
 import { readFileSync } from "node:fs"
 import YAML from "yaml"
-import { browseLinks, conceptLinks } from "./index"
+import { h } from "preact"
+import renderToString from "preact-render-to-string"
+import { BrowseSidebar, browseLinks, conceptLinks } from "./index"
 
 const componentSource = readFileSync(new URL("./index.ts", import.meta.url), "utf8")
 const builtComponentSource = readFileSync(
@@ -29,7 +31,7 @@ test("exposes accessible browse and concept navigation", () => {
   )
 })
 
-test("ships the built component and registers it as desktop-only navigation", () => {
+test("ships the built component and registers it at every breakpoint", () => {
   assert.match(builtComponentSource, /Browse the Cayce wiki/)
   assert.doesNotMatch(builtComponentSource, /allFiles|contentIndex|fetchData/)
 
@@ -42,7 +44,7 @@ test("ships the built component and registers it as desktop-only navigation", ()
     layout: {
       position: "left",
       priority: 50,
-      display: "desktop-only",
+      display: "all",
     },
   })
 
@@ -50,4 +52,22 @@ test("ships the built component and registers it as desktop-only navigation", ()
     ({ source }: { source: string }) => source === "@quartz-community/explorer",
   )
   assert.equal(explorer?.enabled, false, "the full 24,000-page Explorer must remain disabled")
+})
+
+test("provides a native mobile disclosure and identifies the current section", () => {
+  const Component = BrowseSidebar()
+  const html = renderToString(h(Component as any, { fileData: { slug: "readings/1527-2" } }))
+  assert.match(html, /<summary>Browse library<\/summary>/)
+  assert.match(html, /href="\/readings"[^>]*aria-current="page"/)
+  assert.doesNotMatch(html, /href="\/"[^>]*aria-current/)
+  assert.match(html, /href="\/help"/)
+})
+
+test("home is current only for the home page, not other index pages", () => {
+  const Component = BrowseSidebar()
+  const home = renderToString(h(Component as any, { fileData: { slug: "index" } }))
+  const entity = renderToString(h(Component as any, { fileData: { slug: "entities/index" } }))
+  assert.match(home, /href="\/"[^>]*aria-current="page"/)
+  assert.doesNotMatch(entity, /href="\/"[^>]*aria-current/)
+  assert.match(entity, /href="\/entities"[^>]*aria-current="page"/)
 })

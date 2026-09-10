@@ -1,0 +1,23 @@
+{
+  "name": "@cayce-wiki/library-catalog",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./dist/index.js",
+    "./package.json": "./package.json"
+  },
+  "scripts": {
+    "build": "../../node_modules/.bin/esbuild src/index.ts --bundle --platform=node --format=esm --outfile=dist/index.js --external:preact && ../../node_modules/.bin/prettier --write dist"
+  },
+  "quartz": {
+    "name": "library-catalog",
+    "displayName": "Library Catalog",
+    "description": "Source-verified bounded static catalogs and complete entity memberships.",
+    "version": "1.0.0",
+    "category": "pageType",
+    "quartzVersion": ">=5.0.0",
+    "defaultEnabled": true,
+    "defaultOrder": 90
+  }
+}

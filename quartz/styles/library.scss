@@ -1,0 +1,230 @@
+@use "./variables.scss" as *;
+
+// Reader resources deliberately live here, not on an unregistered component.
+.reader-skip {
+  position: fixed;
+  top: 0.5rem;
+  left: 0.5rem;
+  z-index: 10000;
+  transform: translateY(-200%);
+  padding: 0.75rem 1rem;
+  background: var(--light);
+  color: var(--dark);
+  border: 1px solid currentColor;
+  &:focus {
+    transform: none;
+  }
+}
+.page > #quartz-body > .reader-main {
+  grid-area: grid-center;
+  min-width: 0;
+  width: 100%;
+  max-width: 72ch;
+  .page-header {
+    margin-top: 3rem;
+  }
+  article {
+    font-size: 1.125rem;
+    line-height: 1.65;
+  }
+  article p {
+    margin: 0 0 1rem;
+  }
+  article h2 {
+    margin: 2rem 0 0.75rem;
+  }
+  article h3 {
+    margin: 1.5rem 0 0.5rem;
+  }
+  article .archival-title {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin: 1.5rem 0 0.75rem;
+    font-weight: 600;
+  }
+  article a.internal {
+    background: transparent;
+    padding: 0;
+    border-radius: 0;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.15em;
+  }
+  h1,
+  h2,
+  h3,
+  a {
+    overflow-wrap: anywhere;
+  }
+  h1 {
+    font-size: 2rem;
+    line-height: 1.2;
+    text-wrap: balance;
+    margin: 1rem 0 0.5rem;
+  }
+  :target {
+    scroll-margin-top: 1rem;
+  }
+}
+.reader-header {
+  margin-bottom: 1.5rem;
+  .reader-identity {
+    margin: 0 0 0.5rem;
+  }
+  .reader-source-note {
+    font-size: 0.875rem;
+    margin: 0 0 0.5rem;
+    color: var(--darkgray);
+  }
+}
+.reader-main details,
+.reader-research details {
+  summary {
+    cursor: pointer;
+    padding: 0.5rem 0;
+    color: var(--darkgray);
+  }
+  summary:focus-visible,
+  a:focus-visible {
+    outline: 2px solid var(--secondary);
+    outline-offset: 3px;
+  }
+}
+.reader-annotation-controls {
+  button {
+    font: inherit;
+    font-size: 0.875rem;
+    padding: 0.5rem 0.75rem;
+    min-height: 44px;
+    border: 1px solid var(--gray);
+    color: var(--dark);
+    background: transparent;
+    border-radius: 0.2rem;
+    cursor: pointer;
+  }
+  button[aria-pressed="true"] {
+    background: var(--highlight);
+  }
+  [data-annotation-status] {
+    font-size: 0.8rem;
+    color: var(--darkgray);
+    margin: 0.5rem 0;
+  }
+}
+.reader-main article a[data-annotation-plain] {
+  color: inherit;
+  text-decoration: none;
+  cursor: text;
+  background: transparent;
+}
+.generated-research-index {
+  margin: 2rem 0;
+  padding: 0.5rem 0;
+  border-block: 1px solid var(--lightgray);
+}
+.reader-sections {
+  display: none;
+}
+.reader-endmatter {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--lightgray);
+  font-size: 1rem;
+  h2 {
+    font-size: 1.25rem;
+  }
+  p {
+    line-height: 1.6;
+  }
+  dl {
+    margin: 0.5rem 0;
+  }
+  dl > div {
+    margin: 0 0 0.75rem;
+  }
+  dt {
+    font-weight: 600;
+  }
+  dd {
+    margin: 0.25rem 0 0;
+    overflow-wrap: anywhere;
+  }
+}
+.page > #quartz-body > .reader-research {
+  padding-top: 3rem;
+  min-width: 0;
+  .reader-research-disclosure {
+    width: 100%;
+    max-height: none;
+  }
+  .reader-research-content {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    padding-top: 1rem;
+  }
+}
+@media all and not ($desktop) {
+  .page > #quartz-body > .reader-research {
+    padding: 1.5rem 0;
+  }
+  .reader-sections {
+    display: block;
+  }
+}
+@media all and ($mobile) {
+  .page > #quartz-body > .sidebar.left {
+    flex-wrap: wrap;
+    min-width: 0;
+    gap: 0.5rem;
+    padding-top: 1.5rem;
+    > .page-title {
+      flex: 0 0 100%;
+      font-size: 1.5rem;
+      line-height: 1.25;
+      margin: 0 0 0.25rem;
+    }
+    > .flex-component {
+      flex: 1 1 auto;
+      min-width: 0;
+    }
+    > .browse-sidebar {
+      flex: 0 0 auto;
+      width: auto;
+    }
+    > .browse-sidebar:has(details[open]) {
+      flex-basis: 100%;
+    }
+    .browse-mobile summary {
+      white-space: nowrap;
+    }
+  }
+  .page > #quartz-body > .reader-main {
+    .page-header {
+      margin-top: 0;
+    }
+    h1 {
+      font-size: 1.75rem;
+    }
+    article {
+      font-size: 1.0625rem;
+    }
+  }
+  // Plugin graph has its own mobile hiding rule: keep the only trigger reachable.
+  .reader-research-content .graph {
+    display: block;
+  }
+  .reader-sections ul {
+    margin: 0;
+    padding-left: 1.25rem;
+  }
+  .reader-sections a {
+    display: inline-block;
+    padding: 0.5rem 0;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}

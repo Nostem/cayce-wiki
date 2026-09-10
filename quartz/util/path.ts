@@ -6,7 +6,6 @@ export {
   isRelativeURL,
   isAbsoluteURL,
   getFullSlug,
-  slugifyFilePath,
   simplifySlug,
   joinSegments,
   endsWith,
@@ -31,6 +30,8 @@ export type {
   RelativeURL,
   TransformOptions,
 } from "@quartz-community/utils"
+
+export { sourceRoute as slugifyFilePath } from "./sourceRoutes"
 
 // --- v5-specific exports below ---
 

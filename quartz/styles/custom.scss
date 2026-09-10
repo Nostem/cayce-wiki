@@ -1,4 +1,6 @@
 @use "./variables.scss" as *;
+@use "./library.scss";
+@use "./catalog.scss";
 
 // Measured with fontTools from Google Fonts' regular TTFs:
 // Schibsted Grotesk v7 JqzK5SSPQuCQF3t8uOwiUL-taUTtarVKQ9vZ6pJJWlMNIsEATw.ttf
@@ -26,4 +28,62 @@
   ascent-override: 104.99132%;
   descent-override: 29.12869%;
   line-gap-override: 0%;
+}
+
+// Functional text stays readable in resting, selected and highlighted states.
+body .search .search-container .search-space .search-layout .result-card .card-description {
+  color: var(--darkgray);
+}
+
+body .search .search-container .search-space .search-layout .highlight,
+body .search .search-container .search-space .search-layout .result-card .highlight {
+  color: var(--dark);
+  background: transparent;
+  text-decoration: underline;
+  text-underline-offset: 0.14em;
+}
+
+body ul.toc-content.overflow > li > a {
+  opacity: 1;
+}
+body ul.toc-content.overflow > li > a.in-view {
+  font-weight: 650;
+}
+body footer {
+  opacity: 1;
+}
+body .callout .callout-title,
+body .callout .callout-title-inner > p {
+  color: var(--dark);
+}
+body footer p,
+body .content-meta {
+  opacity: 1;
+  color: var(--gray);
+}
+
+:where(a, button, input, select, summary):focus-visible {
+  outline: 2px solid var(--secondary);
+  outline-offset: 3px;
+}
+
+.section .desc,
+.section h3,
+.section a,
+article a {
+  overflow-wrap: anywhere;
+  min-width: 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+  }
 }

@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: nostem.github.io/cayce-wiki
+  baseUrl: cayce-wiki.vercel.app
   ignorePatterns:
     - private
     - templates
@@ -24,7 +24,7 @@ configuration:
       lightMode:
         light: "#faf8f8"
         lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
+        gray: "#626266"
         darkgray: "#4e4e4e"
         dark: "#2b2b2b"
         secondary: "#284b63"
@@ -34,7 +34,7 @@ configuration:
       darkMode:
         light: "#161618"
         lightgray: "#393639"
-        gray: "#646464"
+        gray: "#a2a2a8"
         darkgray: "#d4d4d4"
         dark: "#ebebec"
         secondary: "#7b97aa"
@@ -103,15 +103,17 @@ plugins:
   - source: "@quartz-community/content-page"
     enabled: true
   - source: "@quartz-community/folder-page"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/tag-page"
+    enabled: false
+  - source: "./plugins/library-catalog"
     enabled: true
   - source: "./plugins/browse-sidebar"
     enabled: true
     layout:
       position: left
       priority: 50
-      display: desktop-only
+      display: all
   - source: "@quartz-community/explorer"
     enabled: false
   - source: "@quartz-community/graph"
@@ -140,12 +142,12 @@ plugins:
       position: right
       priority: 50
   - source: "@quartz-community/article-title"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 10
   - source: "@quartz-community/content-meta"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 20
@@ -189,7 +191,7 @@ plugins:
         - entities
         - tags
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true
       delimiters: ---
       language: yaml
     order: 5
@@ -214,6 +216,9 @@ layout:
         left: []
         right: []
     content: {}
+    catalog:
+      positions:
+        right: []
     folder:
       exclude:
         - reader-mode

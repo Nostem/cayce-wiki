@@ -18,7 +18,8 @@
     "format": "npx prettier . --write",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
-    "install-plugins": "npx tsx ./quartz/plugins/loader/install-plugins.ts",
+    "install-plugins": "npm run build:local-plugins && npx tsx ./quartz/plugins/loader/install-plugins.ts",
+    "build:local-plugins": "npm run build --prefix plugins/browse-sidebar && npm run build --prefix plugins/library-catalog",
     "prebuild": "npm run install-plugins",
     "vercel-build": "node scripts/vercel-build.mjs"
   },

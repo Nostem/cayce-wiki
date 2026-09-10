@@ -11,6 +11,7 @@
  */
 import { readFileSync, writeFileSync, statSync } from "node:fs"
 import { join } from "node:path"
+import { searchExcerpt } from "./search-excerpt.mjs"
 
 const target = process.argv[2] ?? join("public", "static", "contentIndex.json")
 const EXCERPT = Number(process.argv[3] ?? 180)
@@ -24,16 +25,6 @@ function normalizeSlug(value) {
     .replace(/^\/+/, "")
     .replace(/\.html$/, "")
     .replace(/\/$/, "")
-}
-
-function excerpt(text) {
-  if (typeof text !== "string") return ""
-  const flat = text.replace(/\s+/g, " ").trim()
-  if (flat.length <= EXCERPT) return flat
-  let cut = flat.slice(0, EXCERPT)
-  const lastSpace = cut.lastIndexOf(" ")
-  if (lastSpace > EXCERPT * 0.6) cut = cut.slice(0, lastSpace)
-  return cut + "…"
 }
 
 function bump(map, key, amount = 1) {
@@ -143,7 +134,7 @@ for (const [rawSlug, item] of Object.entries(source)) {
   searchIndex[slug] = {
     title: item.title ?? "",
     tags: item.tags ?? [],
-    content: excerpt(item.content),
+    content: searchExcerpt(slug, item, EXCERPT),
   }
 
   const node = {

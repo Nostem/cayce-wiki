@@ -1,6 +1,22 @@
 import test from "node:test"
 import assert from "node:assert/strict"
 import { readFileSync } from "node:fs"
+import {
+  transforms as accessibilityTransforms,
+  patchSource as patchAccessibility,
+} from "./patch-quartz-accessibility.mjs"
+
+// Installed copies may contain both patches. Undo later transforms first so
+// the performance-only runtime harness really starts from pristine input.
+// Keep exact/count-checked reversals: unknown or duplicated fragments fail.
+function undoAccessibility(source, replaceOnce) {
+  if (!accessibilityTransforms.graph.some(([, after]) => source.includes(after))) return source
+  for (const [before, after, label] of [...accessibilityTransforms.graph].reverse()) {
+    if (source.includes(after)) source = replaceOnce(source, after, before, label)
+    else replaceOnce(source, before, before, label)
+  }
+  return source
+}
 
 // Evaluate declarations only: regression tests must never patch node_modules.
 function graphPatch() {
@@ -21,6 +37,7 @@ test("both packaged graph copies remove eager library initialization exactly onc
       new URL(`../node_modules/@quartz-community/graph/${path}`, import.meta.url),
       "utf8",
     )
+    source = undoAccessibility(source, replaceOnce)
     for (const [before, after] of [...graphTransforms].reverse()) {
       if (source.includes(after)) source = source.replace(after, () => before)
     }
@@ -38,6 +55,29 @@ test("both packaged graph copies remove eager library initialization exactly onc
     assert.match(source, /await cayceLoadGraphLibraries\(\)/)
     assert.match(source, /Loading graph…/)
     assert.match(source, /Retry graph/)
+    assert.equal(
+      undoAccessibility(source, replaceOnce),
+      source,
+      "performance-only fixture is unchanged",
+    )
+    const combined = patchAccessibility(source, "graph")
+    assert.equal(
+      patchAccessibility(combined, "graph"),
+      combined,
+      "combined patch is accessibility-idempotent",
+    )
+    assert.equal(
+      undoAccessibility(combined, replaceOnce),
+      source,
+      "both packaged copies restore the exact performance fixture",
+    )
+    const cleanup = "function(){E++;G();f(),b()}"
+    assert.throws(() => undoAccessibility(combined + cleanup, replaceOnce), /not unique/)
+    assert.throws(
+      () =>
+        undoAccessibility(combined.replace(cleanup, "function(){unknownCleanup()}"), replaceOnce),
+      /not found/,
+    )
   }
 })
 
@@ -86,6 +126,7 @@ function createGraphRuntime({ libraries = {}, graphData, runtimeGlobals = {} } =
     new URL("../node_modules/@quartz-community/graph/dist/index.js", import.meta.url),
     "utf8",
   )
+  source = undoAccessibility(source, replaceOnce)
   for (const [before, after] of [...graphTransforms].reverse()) {
     if (source.includes(after)) source = source.replace(after, () => before)
   }
