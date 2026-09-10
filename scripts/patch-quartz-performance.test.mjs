@@ -514,6 +514,143 @@ test("closing a graph preserves checked-out Pixi batches and the other app's tic
 
 const patchSource = readFileSync(new URL("./patch-quartz-performance.mjs", import.meta.url), "utf8")
 
+function searchFixture(path = "dist/index.js") {
+  const declarations = patchSource
+    .slice(0, patchSource.indexOf('\npatchFile("node_modules/'))
+    .replace(/^#!.*$/gm, "")
+    .replace(/^import .*$/gm, "")
+    .replace(/export /g, "")
+  const { searchTransforms, replaceOnce } = new Function(
+    `${declarations};return {searchTransforms,replaceOnce}`,
+  )()
+  let source = readFileSync(
+    new URL(`../node_modules/@quartz-community/search/${path}`, import.meta.url),
+    "utf8",
+  )
+  for (const [before, after, label] of [...accessibilityTransforms.search].reverse()) {
+    if (source.includes(after)) source = replaceOnce(source, after, before, label)
+  }
+  for (const [before, after, label] of [...searchTransforms].reverse()) {
+    if (source.includes(after)) source = replaceOnce(source, after, before, label)
+  }
+  for (const [before, after, label] of searchTransforms) {
+    source = replaceOnce(source, before, after, label)
+    assert.throws(() => replaceOnce(before + before, before, after, label), /not unique/)
+    assert.throws(() => replaceOnce("", before, after, label), /not found/)
+  }
+  return source
+}
+
+test("both search copies retain exact fail-closed and accessibility-compatible retry patches", () => {
+  for (const path of ["dist/index.js", "dist/components/index.js"]) {
+    const source = searchFixture(path)
+    assert.match(source, /Retry search/)
+    const combined = patchAccessibility(source, "search")
+    assert.equal(patchAccessibility(combined, "search"), combined)
+  }
+})
+
+// Opt-in real Chrome check: no browser download or dependency installation.
+// PLAYWRIGHT_MODULE must point at an existing Playwright ESM entry point.
+test(
+  "Chrome: rendered bootstrap and packaged search recover without reload",
+  {
+    skip: !process.env.PLAYWRIGHT_MODULE,
+  },
+  async () => {
+    const { chromium } = await import(process.env.PLAYWRIGHT_MODULE)
+    const { tsImport } = await import("tsx/esm/api")
+    const { pageResources } = await tsImport("../quartz/components/renderPage.tsx", import.meta.url)
+    const { JSResourceToScriptElement } = await tsImport(
+      "../quartz/util/resources.tsx",
+      import.meta.url,
+    )
+    const { render } = await import("preact-render-to-string")
+    const { Search } = await import(
+      "data:text/javascript;base64," +
+        Buffer.from(patchAccessibility(searchFixture(), "search")).toString("base64")
+    )
+    const component = Search({ enablePreview: false })
+    const markup = render(component({ cfg: { locale: "en-US" } }))
+    const bootstrap = pageResources(".", { css: [], js: [], additionalHead: [] }).js.find(
+      (j) => j.contentType === "inline",
+    )
+    const html =
+      "<!doctype html><html><head>" +
+      render(JSResourceToScriptElement(bootstrap)) +
+      '</head><body data-slug="index">' +
+      markup +
+      '<script type="module">' +
+      component.afterDOMLoaded +
+      ';document.dispatchEvent(new CustomEvent("nav",{detail:{url:"index"}}))</script></body></html>'
+    const browser = await chromium.launch({
+      headless: true,
+      executablePath:
+        process.env.CHROME_PATH || "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+    })
+    try {
+      for (const failure of ["network", "http", "json"]) {
+        for (const retry of ["query", "button"]) {
+          const page = await browser.newPage()
+          let attempts = 0
+          const errors = []
+          page.on("pageerror", (error) => {
+            errors.push(error.message)
+            console.error("Chrome page error:", error.message)
+          })
+          await page.route("**/*", async (route) => {
+            if (route.request().url().endsWith("/static/contentIndex.json")) {
+              attempts++
+              if (attempts === 1) {
+                if (failure === "network") return route.abort("failed")
+                if (failure === "http")
+                  return route.fulfill({ status: 503, contentType: "application/json", body: "{}" })
+                return route.fulfill({ contentType: "application/json", body: "invalid JSON" })
+              }
+              return route.fulfill({
+                contentType: "application/json",
+                body: JSON.stringify({
+                  "readings/1527-2": {
+                    title: "Reading 1527-2",
+                    content: "Atlantis reading",
+                    tags: [],
+                    links: [],
+                  },
+                }),
+              })
+            }
+            return route.fulfill({ contentType: "text/html", body: html })
+          })
+          await page.goto("http://cayce.test/")
+          assert.equal(attempts, 0)
+          await page.locator(".search-button").click()
+          await page.locator(".search-bar").fill("Atlantis")
+          await page.getByRole("alert").waitFor({ timeout: 5000 })
+          assert.match(await page.getByRole("alert").innerText(), /Change your query or retry/)
+          if (retry === "query") await page.locator(".search-bar").fill("1527-2")
+          else await page.getByRole("button", { name: "Retry search" }).click()
+          await page.locator("a.result-card").first().waitFor({ timeout: 5000 })
+          assert.match(await page.locator("a.result-card").first().innerText(), /1527-2/)
+          await page.locator(".search-bar").fill("Reading")
+          await page.locator("a.result-card").first().waitFor()
+          assert.equal(attempts, 2, `${failure}/${retry} fetch count`)
+          assert.deepEqual(errors, [], `${failure}/${retry} unhandled errors`)
+          assert.equal(
+            await page.evaluate(() => performance.getEntriesByType("navigation").length),
+            1,
+          )
+          console.log(
+            `Chrome verified ${failure}/${retry}: requests=${attempts}, results visible, no reload/errors`,
+          )
+          await page.close()
+        }
+      }
+    } finally {
+      await browser.close()
+    }
+  },
+)
+
 function searchInitializerSource() {
   const match = patchSource.match(/export const searchInitAfter =\s*(["'])(.*?)\1/s)
   assert.ok(match, "the search initializer replacement must be exported for regression testing")
@@ -559,7 +696,7 @@ test("coalesces concurrent search initialization into one index build", async ()
 
 test("guards concurrent input before search and stale results after search", () => {
   assert.match(patchSource, /window\.__cayceSearchRequest=\(window\.__cayceSearchRequest\|\|0\)\+1/)
-  assert.equal(patchSource.match(/cayceRequest!==window\.__cayceSearchRequest/g)?.length, 2)
+  assert.equal(patchSource.match(/cayceRequest!==window\.__cayceSearchRequest/g)?.length, 4)
   assert.match(patchSource, /discard stale asynchronous search results/)
   assert.match(patchSource, /Loading search…/)
 })

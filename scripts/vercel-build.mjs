@@ -29,7 +29,9 @@ run("npm", ["run", "build:local-plugins"])
 run(process.execPath, ["scripts/patch-quartz-performance.mjs"])
 run(process.execPath, ["scripts/patch-quartz-accessibility.mjs"])
 run(process.execPath, ["scripts/patch-quartz-backlinks.mjs"])
+run(process.execPath, ["scripts/patch-quartz-aliases.mjs"])
 run("npx", ["quartz", "build"])
+run("npx", ["tsx", "scripts/verify-source-output.ts", "public"])
 run(process.execPath, [
   "scripts/strip-content-index.mjs",
   "public/static/contentIndex.json",

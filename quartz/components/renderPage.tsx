@@ -76,7 +76,13 @@ export function pageResources(
     let promise
     return {
       then(resolve, reject) {
-        promise ??= fetch("${contentIndexPath}").then(data => data.json())
+        promise ??= fetch("${contentIndexPath}").then(data => {
+          if (!data.ok) throw new Error("content index " + data.status)
+          return data.json()
+        }).catch(error => {
+          promise = undefined
+          throw error
+        })
         return promise.then(resolve, reject)
       }
     }

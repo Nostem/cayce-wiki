@@ -49,6 +49,11 @@ const searchTransforms = [
   ],
   [searchInputBefore, searchInputAfter, "initialize search once and keep only the latest query"],
   [searchResultsBefore, searchResultsAfter, "discard stale asynchronous search results"],
+  [
+    "await Ti();if(cayceRequest!==window.__cayceSearchRequest)return;",
+    'try{await Ti()}catch(cayceError){if(cayceRequest===window.__cayceSearchRequest&&i.isConnected){f.textContent="";h&&(h.textContent="");y=null;var cayceStatus=document.createElement("p");cayceStatus.setAttribute("role","alert");cayceStatus.textContent="Search could not load. Change your query or retry.";var cayceRetry=document.createElement("button");cayceRetry.type="button";cayceRetry.textContent="Retry search";cayceRetry.addEventListener("click",()=>{i.focus();nt({target:i})},{once:!0});f.append(cayceStatus,cayceRetry)}return}if(cayceRequest!==window.__cayceSearchRequest)return;',
+    "show accessible index failure and allow input or button retry",
+  ],
 ]
 
 const graphFetchBefore = "var Ku=await fetchData;eu=new Map;for(var Ju in Ku)eu.set(Fu(Ju),Ku[Ju])"

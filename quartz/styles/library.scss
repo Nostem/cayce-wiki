@@ -19,7 +19,10 @@
   grid-area: grid-center;
   min-width: 0;
   width: 100%;
-  max-width: 72ch;
+  // 72 × Source Sans Pro's zero advance (0.497em), at the inherited 1rem.
+  // Unlike ch, rem does not resize/recenter the whole column when fonts swap.
+  // Retain the loaded reading measure while still scaling with user text size.
+  max-width: 35.784rem;
   .page-header {
     margin-top: 3rem;
   }

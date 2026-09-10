@@ -268,6 +268,48 @@ describe("renderTranscludes", () => {
   })
 })
 
+describe("content index bootstrap recovery", () => {
+  for (const failure of ["network", "http", "json"]) {
+    test(`retries ${failure} failure while coalescing consumers and caching success`, async () => {
+      const resource = pageResources("." as FullSlug, {
+        css: [],
+        js: [],
+        additionalHead: [],
+      }).js.find((j) => j.contentType === "inline")!
+      assert.ok("script" in resource)
+      let attempts = 0
+      const data = { reading: { title: "Reading" } }
+      const fetch = async () => {
+        attempts++
+        if (attempts === 1) {
+          if (failure === "network") throw new Error("network failed")
+          return {
+            ok: failure !== "http",
+            status: 503,
+            json: async () => {
+              if (failure === "json") throw new SyntaxError("invalid JSON")
+              return data
+            },
+          }
+        }
+        return { ok: true, json: async () => data }
+      }
+      const index = new Function("fetch", `${resource.script};return fetchData`)(fetch)
+      assert.equal(attempts, 0)
+      const first = await Promise.allSettled([Promise.resolve(index), Promise.resolve(index)])
+      assert.ok(first.every((r) => r.status === "rejected"))
+      assert.equal(attempts, 1)
+      assert.deepEqual(await Promise.all([Promise.resolve(index), Promise.resolve(index)]), [
+        data,
+        data,
+      ])
+      assert.equal(attempts, 2)
+      assert.equal(await index, data)
+      assert.equal(attempts, 2)
+    })
+  }
+})
+
 describe("pageResources", () => {
   const emptyResources: StaticResources = {
     css: [],
