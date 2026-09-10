@@ -127,6 +127,10 @@ function populateVirtualPageHtmlAst(
 ) {
   const cfg = ctx.cfg.configuration
   for (const ve of virtualEntries) {
+    // Unlisted catalog pages are emitted normally in Phase 3, but retaining their
+    // rendered bodies for transclusion exhausts the heap on large catalogs.
+    if (ve.vfile.data.unlisted === true && ve.vfile.data.libraryCatalog === true) continue
+
     const BodyComponent = ve.layout.pageBody
     const externalResources = pageResources(pathToRoot(ve.vpSlug), resources, ctx)
     const componentData: QuartzComponentProps = {
