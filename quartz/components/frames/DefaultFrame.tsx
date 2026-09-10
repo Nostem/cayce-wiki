@@ -1,5 +1,7 @@
 import { PageFrame, PageFrameProps } from "./types"
 import HeaderConstructor from "../Header"
+import { ReaderHeader, ReaderEndMatter } from "../library/ReaderHeader"
+import { readerTree } from "../library/reading"
 
 const Header = HeaderConstructor()
 
@@ -21,14 +23,25 @@ export const DefaultFrame: PageFrame = {
     right,
     footer,
   }: PageFrameProps) {
+    const readerData = {
+      ...componentData,
+      tree: readerTree(
+        componentData.tree,
+        componentData.fileData.frontmatter,
+        componentData.fileData.slug,
+      ),
+    }
     return (
       <>
+        <a class="reader-skip" href="#main-content">
+          Skip to content
+        </a>
         <div class="left sidebar">
           {left.map((BodyComponent) => (
             <BodyComponent {...componentData} />
           ))}
         </div>
-        <div class="center">
+        <main class="center reader-main" id="main-content" tabIndex={-1}>
           <div class="page-header">
             <Header {...componentData}>
               {header.map((HeaderComponent) => (
@@ -40,20 +53,29 @@ export const DefaultFrame: PageFrame = {
                 <BodyComponent {...componentData} />
               ))}
             </div>
+            <ReaderHeader {...componentData} />
           </div>
-          <Content {...componentData} />
+          <Content {...readerData} />
+          <ReaderEndMatter {...componentData} />
           <hr />
           <div class="page-footer">
             {afterBody.map((BodyComponent) => (
               <BodyComponent {...componentData} />
             ))}
           </div>
-        </div>
-        <div class="right sidebar">
-          {right.map((BodyComponent) => (
-            <BodyComponent {...componentData} />
-          ))}
-        </div>
+        </main>
+        <aside class="right sidebar reader-research" aria-label="Related research">
+          {right.length > 0 && (
+            <details class="reader-research-disclosure">
+              <summary>Research tools</summary>
+              <div class="reader-research-content">
+                {right.map((BodyComponent) => (
+                  <BodyComponent {...componentData} />
+                ))}
+              </div>
+            </details>
+          )}
+        </aside>
         {footer.map((FooterComponent) => (
           <FooterComponent {...componentData} />
         ))}

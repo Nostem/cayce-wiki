@@ -4,6 +4,7 @@ import type {
   QuartzComponentProps,
 } from "@quartz-community/types"
 import { h } from "preact"
+import { attachAnnotationControl } from "../../../../quartz/components/library/annotations"
 
 export type BrowseLink = {
   label: string
@@ -30,42 +31,101 @@ export const conceptLinks: BrowseLink[] = [
   { label: "Jesus Christ", href: "/entities/jesus-christ" },
 ]
 
-const list = (links: BrowseLink[], className: string) =>
+const list = (links: BrowseLink[], className: string, current: string) =>
   h(
     "ul",
     { class: className },
-    links.map(({ label, href }) => h("li", null, h("a", { href, class: "internal" }, label))),
+    links.map(({ label, href }) =>
+      h(
+        "li",
+        null,
+        h(
+          "a",
+          { href, class: "internal", "aria-current": href === current ? "page" : undefined },
+          label,
+        ),
+      ),
+    ),
   )
 
 export const BrowseSidebar: QuartzComponentConstructor = () => {
-  const Component: QuartzComponent = ({ displayClass }: QuartzComponentProps) =>
-    h(
+  const Component: QuartzComponent = ({ displayClass, fileData }: QuartzComponentProps) => {
+    const slug = String(fileData?.slug ?? "index")
+    const section = slug.split("/")[0]
+    const current =
+      slug === "index"
+        ? "/"
+        : ["readings", "entities", "series"].includes(section)
+          ? `/${section}`
+          : ""
+    const help = h(
+      "a",
+      { href: "/help", class: "browse-help internal" },
+      "Reading & citation guide",
+    )
+    return h(
       "nav",
       {
         class: [displayClass, "browse-sidebar"].filter(Boolean).join(" "),
         "aria-label": "Browse the Cayce wiki",
       },
-      h("h2", null, "Browse"),
-      list(browseLinks, "browse-sections"),
+      h(
+        "div",
+        { class: "browse-desktop" },
+        h("h2", null, "Browse"),
+        list(browseLinks, "browse-sections", current),
+        h(
+          "details",
+          null,
+          h("summary", null, "Key concepts"),
+          list(conceptLinks, "browse-concepts", current),
+        ),
+        help,
+      ),
       h(
         "details",
-        { open: true },
-        h("summary", null, "Key concepts"),
-        list(conceptLinks, "browse-concepts"),
+        { class: "browse-mobile" },
+        h("summary", null, "Browse library"),
+        list(browseLinks, "browse-sections", current),
+        help,
       ),
     )
+  }
 
+  Component.afterDOMLoaded = `
+(() => {
+  const attach = ${attachAnnotationControl.toString()};
+  let cleanup = () => {};
+  document.addEventListener("nav", () => {
+    cleanup();
+    const scope = document.querySelector(".reader-main");
+    cleanup = scope ? attach(scope) : () => {};
+    window.addCleanup(() => { cleanup(); cleanup = () => {}; });
+  });
+})();
+`
   Component.css = `
 .browse-sidebar { margin-top: 1.25rem; }
 .browse-sidebar h2 { margin: 0 0 0.5rem; font-size: 1rem; color: var(--dark); }
 .browse-sidebar ul { list-style: none; margin: 0; padding: 0; }
 .browse-sidebar li { margin: 0; }
-.browse-sidebar a { display: block; padding: 0.22rem 0; color: var(--darkgray); font-size: 0.92rem; line-height: 1.35; text-decoration: none; }
-.browse-sidebar a:hover { color: var(--secondary); }
+.browse-sidebar a { display: block; padding: 0.4rem 0.5rem; color: var(--darkgray); font-size: 0.95rem; line-height: 1.4; text-decoration: none; background: transparent; border-radius: 0.2rem; }
+.browse-sidebar a:hover { color: var(--secondary); text-decoration: underline; }
+.browse-sidebar a[aria-current="page"] { color: var(--dark); background: var(--highlight); font-weight: 650; }
 .browse-sidebar .browse-sections { padding-bottom: 0.65rem; border-bottom: 1px solid var(--lightgray); }
 .browse-sidebar details { margin-top: 0.65rem; }
-.browse-sidebar summary { color: var(--dark); font-size: 0.88rem; font-weight: 600; cursor: pointer; user-select: none; }
-.browse-sidebar .browse-concepts { margin-top: 0.35rem; padding-left: 0.85rem; border-left: 1px solid var(--lightgray); }
+.browse-sidebar summary { padding: 0.5rem; color: var(--dark); font-size: 0.95rem; font-weight: 600; cursor: pointer; }
+.browse-sidebar .browse-concepts { margin-top: 0.35rem; padding-left: 0.5rem; }
+.browse-sidebar .browse-help { margin-top: 1rem; font-size: 0.9rem; }
+.browse-mobile { display: none; }
+@media (max-width: 800px) {
+  .browse-sidebar { flex-basis: 100%; width: 100%; margin: 0; }
+  .browse-desktop { display: none; }
+  .browse-mobile { display: block; }
+  .browse-sidebar .browse-mobile { margin: 0; }
+  .browse-mobile summary, .browse-mobile a { min-height: 44px; box-sizing: border-box; display: flex; align-items: center; }
+  .browse-mobile summary { display: list-item; line-height: 28px; }
+}
 `
 
   return Component

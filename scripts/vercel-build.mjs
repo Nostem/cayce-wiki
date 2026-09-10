@@ -25,7 +25,10 @@ if (deploymentHost) {
   console.log(`Building Quartz for https://${deploymentHost}`)
 }
 
+run("npm", ["run", "build:local-plugins"])
 run(process.execPath, ["scripts/patch-quartz-performance.mjs"])
+run(process.execPath, ["scripts/patch-quartz-accessibility.mjs"])
+run(process.execPath, ["scripts/patch-quartz-backlinks.mjs"])
 run("npx", ["quartz", "build"])
 run(process.execPath, [
   "scripts/strip-content-index.mjs",

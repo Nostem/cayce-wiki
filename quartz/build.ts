@@ -9,8 +9,9 @@ import { parseMarkdown } from "./processors/parse"
 import { filterContent } from "./processors/filter"
 import { emitContent } from "./processors/emit"
 import cfg from "../quartz"
-import { FilePath, joinSegments, slugifyFilePath } from "./util/path"
+import { FilePath, joinSegments } from "./util/path"
 import { detectSlugCollisions, formatCollisionWarning } from "./util/slugCollisions"
+import { sourceRouteMap } from "./util/sourceRoutes"
 import chokidar from "chokidar"
 import { ProcessedContent } from "./plugins/vfile"
 import { Argv, BuildCtx } from "./util/ctx"
@@ -88,7 +89,7 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
 
   const filePaths = markdownPaths.map((fp) => joinSegments(argv.directory, fp) as FilePath)
   ctx.allFiles = allFiles
-  ctx.allSlugs = allFiles.map((fp) => slugifyFilePath(fp as FilePath))
+  ctx.allSlugs = [...sourceRouteMap(allFiles).values()]
 
   const parsedFiles = await parseMarkdown(ctx, filePaths)
   reportSlugCollisions(parsedFiles)
@@ -283,7 +284,7 @@ async function rebuild(changes: ChangeEvent[], clientRefresh: () => void, buildD
 
     // update allFiles and then allSlugs with the consistent view of content map
     ctx.allFiles = Array.from(contentMap.keys())
-    ctx.allSlugs = ctx.allFiles.map((fp) => slugifyFilePath(fp as FilePath))
+    ctx.allSlugs = [...sourceRouteMap(ctx.allFiles).values()]
 
     const markdownContent = Array.from(contentMap.values())
       .filter((file) => file.type === "markdown")

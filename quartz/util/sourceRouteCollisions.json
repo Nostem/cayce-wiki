@@ -1,0 +1,257 @@
+{
+  "provenance": "Baseline 20a102c67edfde28df1f606a20c520eba3177259; 42 reviewed whitespace/hyphen pairs. Historical winner is the last source in sorted Markdown iteration (quartz/build.ts), not filesystem enumeration. Johns-Hopkins.md on case-insensitive checkout is tracked as johns-hopkins.md; both spellings retain the canonical route. Suffix is first 12 SHA-256 hex digits of exact content-relative source path, including .md. No source files changed.",
+  "collisions": [
+    {
+      "source": "entities/Johns Hopkins.md",
+      "route": "entities/johns-hopkins--3ce2b7dd9012",
+      "canonical": "entities/johns-hopkins",
+      "winner": "entities/Johns-Hopkins.md"
+    },
+    {
+      "source": "entities/alkalin reacting diet.md",
+      "route": "entities/alkalin-reacting-diet--41e319ff0a94",
+      "canonical": "entities/alkalin-reacting-diet",
+      "winner": "entities/alkalin-reacting diet.md"
+    },
+    {
+      "source": "entities/b complex vitamins.md",
+      "route": "entities/b-complex-vitamins--7171720b9b39",
+      "canonical": "entities/b-complex-vitamins",
+      "winner": "entities/b-complex vitamins.md"
+    },
+    {
+      "source": "entities/bed wetting.md",
+      "route": "entities/bed-wetting--92f1b0af5d8e",
+      "canonical": "entities/bed-wetting",
+      "winner": "entities/bed-wetting.md"
+    },
+    {
+      "source": "entities/blood building diet.md",
+      "route": "entities/blood-building-diet--e9f0c4906670",
+      "canonical": "entities/blood-building-diet",
+      "winner": "entities/blood-building diet.md"
+    },
+    {
+      "source": "entities/coca cola.md",
+      "route": "entities/coca-cola--f1709216fe69",
+      "canonical": "entities/coca-cola",
+      "winner": "entities/coca-cola.md"
+    },
+    {
+      "source": "entities/cocoa butter massage.md",
+      "route": "entities/cocoa-butter-massage--6dd8cd113005",
+      "canonical": "entities/cocoa-butter-massage",
+      "winner": "entities/cocoa-butter massage.md"
+    },
+    {
+      "source": "entities/fume bath with witch hazel.md",
+      "route": "entities/fume-bath-with-witch-hazel--419dac0ee921",
+      "canonical": "entities/fume-bath-with-witch-hazel",
+      "winner": "entities/fume bath with witch-hazel.md"
+    },
+    {
+      "source": "entities/infra red lamp.md",
+      "route": "entities/infra-red-lamp--3489af6240db",
+      "canonical": "entities/infra-red-lamp",
+      "winner": "entities/infra-red lamp.md"
+    },
+    {
+      "source": "entities/infra red light treatments.md",
+      "route": "entities/infra-red-light-treatments--f7f2854c2d1c",
+      "canonical": "entities/infra-red-light-treatments",
+      "winner": "entities/infra-red light treatments.md"
+    },
+    {
+      "source": "entities/infra red light.md",
+      "route": "entities/infra-red-light--35759960bacf",
+      "canonical": "entities/infra-red-light",
+      "winner": "entities/infra-red light.md"
+    },
+    {
+      "source": "entities/infra red ray.md",
+      "route": "entities/infra-red-ray--59171f34ded7",
+      "canonical": "entities/infra-red-ray",
+      "winner": "entities/infra-red ray.md"
+    },
+    {
+      "source": "entities/infra red treatments.md",
+      "route": "entities/infra-red-treatments--62e9c3fe32e3",
+      "canonical": "entities/infra-red-treatments",
+      "winner": "entities/infra-red treatments.md"
+    },
+    {
+      "source": "entities/infra red.md",
+      "route": "entities/infra-red--66e06dc5044e",
+      "canonical": "entities/infra-red",
+      "winner": "entities/infra-red.md"
+    },
+    {
+      "source": "entities/low starch diet.md",
+      "route": "entities/low-starch-diet--9bda1ab94719",
+      "canonical": "entities/low-starch-diet",
+      "winner": "entities/low-starch diet.md"
+    },
+    {
+      "source": "entities/low sugar diet.md",
+      "route": "entities/low-sugar-diet--b2a7c05b69a9",
+      "canonical": "entities/low-sugar-diet",
+      "winner": "entities/low-sugar diet.md"
+    },
+    {
+      "source": "entities/one a day tablets.md",
+      "route": "entities/one-a-day-tablets--76881cc2b8b7",
+      "canonical": "entities/one-a-day-tablets",
+      "winner": "entities/one-a-day tablets.md"
+    },
+    {
+      "source": "entities/open air exercise.md",
+      "route": "entities/open-air-exercise--12aaa4fc6455",
+      "canonical": "entities/open-air-exercise",
+      "winner": "entities/open-air exercise.md"
+    },
+    {
+      "source": "entities/over acid condition.md",
+      "route": "entities/over-acid-condition--2496a6cff727",
+      "canonical": "entities/over-acid-condition",
+      "winner": "entities/over-acid condition.md"
+    },
+    {
+      "source": "entities/over acidity.md",
+      "route": "entities/over-acidity--ef091dfea2c4",
+      "canonical": "entities/over-acidity",
+      "winner": "entities/over-acidity.md"
+    },
+    {
+      "source": "entities/past life in Egypt.md",
+      "route": "entities/past-life-in-egypt--d98fb28dca6a",
+      "canonical": "entities/past-life-in-egypt",
+      "winner": "entities/past-life in Egypt.md"
+    },
+    {
+      "source": "entities/past life in Persia.md",
+      "route": "entities/past-life-in-persia--54d00e6f9430",
+      "canonical": "entities/past-life-in-persia",
+      "winner": "entities/past-life in Persia.md"
+    },
+    {
+      "source": "entities/radio active appliance.md",
+      "route": "entities/radio-active-appliance--01b5240a1c12",
+      "canonical": "entities/radio-active-appliance",
+      "winner": "entities/radio-active appliance.md"
+    },
+    {
+      "source": "entities/radio active battery.md",
+      "route": "entities/radio-active-battery--5c50b16ab4bf",
+      "canonical": "entities/radio-active-battery",
+      "winner": "entities/radio-active battery.md"
+    },
+    {
+      "source": "entities/run down condition.md",
+      "route": "entities/run-down-condition--e9cca83d4a4b",
+      "canonical": "entities/run-down-condition",
+      "winner": "entities/run-down condition.md"
+    },
+    {
+      "source": "entities/setting up exercises.md",
+      "route": "entities/setting-up-exercises--0e771a7422da",
+      "canonical": "entities/setting-up-exercises",
+      "winner": "entities/setting-up exercises.md"
+    },
+    {
+      "source": "entities/short wave electrical treatments.md",
+      "route": "entities/short-wave-electrical-treatments--ed74efccc98a",
+      "canonical": "entities/short-wave-electrical-treatments",
+      "winner": "entities/short-wave electrical treatments.md"
+    },
+    {
+      "source": "entities/short wave therapy.md",
+      "route": "entities/short-wave-therapy--ca4da8384486",
+      "canonical": "entities/short-wave-therapy",
+      "winner": "entities/short-wave therapy.md"
+    },
+    {
+      "source": "entities/short wave treatment.md",
+      "route": "entities/short-wave-treatment--071fb00cca3c",
+      "canonical": "entities/short-wave-treatment",
+      "winner": "entities/short-wave treatment.md"
+    },
+    {
+      "source": "entities/short wave treatments.md",
+      "route": "entities/short-wave-treatments--2ba15f0174d6",
+      "canonical": "entities/short-wave-treatments",
+      "winner": "entities/short-wave treatments.md"
+    },
+    {
+      "source": "entities/soul body.md",
+      "route": "entities/soul-body--b0348762288b",
+      "canonical": "entities/soul-body",
+      "winner": "entities/soul-body.md"
+    },
+    {
+      "source": "entities/soul mind.md",
+      "route": "entities/soul-mind--bc9a2375f12f",
+      "canonical": "entities/soul-mind",
+      "winner": "entities/soul-mind.md"
+    },
+    {
+      "source": "entities/soy bean milk.md",
+      "route": "entities/soy-bean-milk--9f71389847f2",
+      "canonical": "entities/soy-bean-milk",
+      "winner": "entities/soy-bean milk.md"
+    },
+    {
+      "source": "entities/stepping stones.md",
+      "route": "entities/stepping-stones--02f34bcc2d8a",
+      "canonical": "entities/stepping-stones",
+      "winner": "entities/stepping-stones.md"
+    },
+    {
+      "source": "entities/ultra violet light.md",
+      "route": "entities/ultra-violet-light--c5c5f4f5918c",
+      "canonical": "entities/ultra-violet-light",
+      "winner": "entities/ultra-violet light.md"
+    },
+    {
+      "source": "entities/ultra violet ray treatment.md",
+      "route": "entities/ultra-violet-ray-treatment--b52ad9442974",
+      "canonical": "entities/ultra-violet-ray-treatment",
+      "winner": "entities/ultra-violet ray treatment.md"
+    },
+    {
+      "source": "entities/ultra violet ray treatments.md",
+      "route": "entities/ultra-violet-ray-treatments--a995621516db",
+      "canonical": "entities/ultra-violet-ray-treatments",
+      "winner": "entities/ultra-violet ray treatments.md"
+    },
+    {
+      "source": "entities/ultra violet ray.md",
+      "route": "entities/ultra-violet-ray--9eee20d6974f",
+      "canonical": "entities/ultra-violet-ray",
+      "winner": "entities/ultra-violet ray.md"
+    },
+    {
+      "source": "entities/ultra violet rays.md",
+      "route": "entities/ultra-violet-rays--d2613d2152db",
+      "canonical": "entities/ultra-violet-rays",
+      "winner": "entities/ultra-violet rays.md"
+    },
+    {
+      "source": "entities/vitamin b complex.md",
+      "route": "entities/vitamin-b-complex--f4cfd91e5d2b",
+      "canonical": "entities/vitamin-b-complex",
+      "winner": "entities/vitamin b-complex.md"
+    },
+    {
+      "source": "entities/well balanced diet.md",
+      "route": "entities/well-balanced-diet--23614a777e1f",
+      "canonical": "entities/well-balanced-diet",
+      "winner": "entities/well-balanced diet.md"
+    },
+    {
+      "source": "entities/well cooked vegetables.md",
+      "route": "entities/well-cooked-vegetables--d00d2c625214",
+      "canonical": "entities/well-cooked-vegetables",
+      "winner": "entities/well-cooked vegetables.md"
+    }
+  ]
+}

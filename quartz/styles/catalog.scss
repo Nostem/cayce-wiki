@@ -1,0 +1,93 @@
+// Compact, unboxed catalog rows; structure and typography carry the hierarchy.
+.library-catalog {
+  --catalog-gap: 1rem;
+  font-size: 1rem;
+  .catalog-count {
+    color: var(--darkgray);
+    font-weight: 600;
+    margin: 1.25rem 0 0.75rem;
+  }
+  nav {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem 1rem;
+    margin: 0.75rem 0;
+  }
+  nav a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 2.5rem;
+  }
+  nav [aria-current] {
+    color: var(--dark);
+    font-weight: 650;
+  }
+  .catalog-filters {
+    margin: 1rem 0;
+  }
+  .catalog-filters summary {
+    cursor: pointer;
+    min-height: 2.5rem;
+  }
+  .catalog-filters ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 1rem;
+    list-style: none;
+    padding: 0;
+  }
+  .catalog-filters a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 2.5rem;
+  }
+  .catalog-rows {
+    list-style: none;
+    margin: 1rem 0 1.5rem;
+    padding: 0;
+  }
+  .catalog-row {
+    padding: var(--catalog-gap) 0;
+    border-bottom: 1px solid var(--lightgray);
+  }
+  .catalog-row:first-child {
+    border-top: 1px solid var(--lightgray);
+  }
+  .catalog-row h3 {
+    font-size: 1.075rem;
+    line-height: 1.45;
+    margin: 0 0 0.35rem;
+  }
+  .catalog-row a {
+    background: transparent;
+    text-decoration: underline;
+    text-underline-offset: 0.15em;
+  }
+  .catalog-row p {
+    line-height: 1.5;
+    margin: 0.25rem 0 0;
+  }
+  .catalog-context {
+    font-size: 0.875rem;
+    color: var(--darkgray);
+  }
+  .catalog-summary {
+    font-size: 0.925rem;
+    max-width: 68ch;
+  }
+  .catalog-summary strong {
+    font-weight: 500;
+  }
+  .catalog-fallback {
+    color: var(--gray);
+    font-size: 0.875rem;
+    margin-top: 1.5rem;
+  }
+}
+@media (max-width: 800px) {
+  .library-catalog nav a,
+  .library-catalog .catalog-filters a {
+    min-height: 44px;
+  }
+}
