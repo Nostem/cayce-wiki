@@ -15,11 +15,15 @@ const packageJson = JSON.parse(readFileSync(new URL("../package.json", import.me
 test("Vercel build preserves the large-vault optimization pipeline", () => {
   const patch = buildScript.indexOf("patch-quartz-performance.mjs")
   const build = buildScript.indexOf('["quartz", "build"]')
+  const sourceGate = buildScript.indexOf("verify-source-output.ts")
+  const topicGate = buildScript.indexOf("verify-topic-groups.ts")
   const strip = buildScript.indexOf("strip-content-index.mjs")
 
   assert.ok(patch >= 0, "performance patches run before the Quartz build")
   assert.ok(build > patch, "Quartz builds after performance patching")
-  assert.ok(strip > build, "search and graph indexes shrink after the Quartz build")
+  assert.ok(sourceGate > build, "source identity is checked after final emission")
+  assert.ok(topicGate > sourceGate, "consolidated pages are verified after the source gate")
+  assert.ok(strip > topicGate, "search projection follows both output verification gates")
 })
 
 test("Vercel build uses the production deployment host as Quartz baseUrl", () => {

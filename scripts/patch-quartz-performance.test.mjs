@@ -1,6 +1,7 @@
 import test from "node:test"
 import assert from "node:assert/strict"
 import { readFileSync } from "node:fs"
+import { searchFixture } from "./test-helpers/search-fixture.mjs"
 import {
   transforms as accessibilityTransforms,
   patchSource as patchAccessibility,
@@ -513,33 +514,6 @@ test("closing a graph preserves checked-out Pixi batches and the other app's tic
 })
 
 const patchSource = readFileSync(new URL("./patch-quartz-performance.mjs", import.meta.url), "utf8")
-
-function searchFixture(path = "dist/index.js") {
-  const declarations = patchSource
-    .slice(0, patchSource.indexOf('\npatchFile("node_modules/'))
-    .replace(/^#!.*$/gm, "")
-    .replace(/^import .*$/gm, "")
-    .replace(/export /g, "")
-  const { searchTransforms, replaceOnce } = new Function(
-    `${declarations};return {searchTransforms,replaceOnce}`,
-  )()
-  let source = readFileSync(
-    new URL(`../node_modules/@quartz-community/search/${path}`, import.meta.url),
-    "utf8",
-  )
-  for (const [before, after, label] of [...accessibilityTransforms.search].reverse()) {
-    if (source.includes(after)) source = replaceOnce(source, after, before, label)
-  }
-  for (const [before, after, label] of [...searchTransforms].reverse()) {
-    if (source.includes(after)) source = replaceOnce(source, after, before, label)
-  }
-  for (const [before, after, label] of searchTransforms) {
-    source = replaceOnce(source, before, after, label)
-    assert.throws(() => replaceOnce(before + before, before, after, label), /not unique/)
-    assert.throws(() => replaceOnce("", before, after, label), /not found/)
-  }
-  return source
-}
 
 test("both search copies retain exact fail-closed and accessibility-compatible retry patches", () => {
   for (const path of ["dist/index.js", "dist/components/index.js"]) {

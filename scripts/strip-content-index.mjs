@@ -3,21 +3,26 @@
  * Split Quartz's monolithic contentIndex.json for large-vault performance.
  *
  * Output:
- *   contentIndex.json — compact search data (title, tags, short excerpt)
+ *   contentIndex.json — compact search data (full aliases for combined topics)
  *   graphIndex.json   — links/tags plus a curated global entity graph
  *
  * Search is lazy-loaded by patch-quartz-performance.mjs. The graph index is
  * fetched only when a local/global graph is requested.
+ * Run after catalog HTML emission, including in preview/local build QA.
+ * Optional sixth CLI argument overrides the repository topic manifest for fixtures.
  */
 import { readFileSync, writeFileSync, statSync } from "node:fs"
-import { join } from "node:path"
+import { dirname, join } from "node:path"
 import { searchExcerpt } from "./search-excerpt.mjs"
+import { topicSearchProjection } from "./topic-search.mjs"
 
 const target = process.argv[2] ?? join("public", "static", "contentIndex.json")
 const EXCERPT = Number(process.argv[3] ?? 180)
 const GLOBAL_ENTITY_LIMIT = Number(process.argv[4] ?? 120)
 const GLOBAL_NEIGHBORS = Number(process.argv[5] ?? 4)
 const SERIES_NEIGHBORS = Number(process.argv[6] ?? 8)
+const manifestPath =
+  process.argv[7] ?? new URL("../plugins/library-catalog/data/topic-groups.json", import.meta.url)
 const graphTarget = join(target.slice(0, target.lastIndexOf("/") + 1), "graphIndex.json")
 
 function normalizeSlug(value) {
@@ -34,6 +39,12 @@ function bump(map, key, amount = 1) {
 const before = statSync(target).size
 const source = JSON.parse(readFileSync(target, "utf8"))
 const slugs = new Set(Object.keys(source).map(normalizeSlug))
+const topics = topicSearchProjection(
+  source,
+  JSON.parse(readFileSync(manifestPath, "utf8")),
+  dirname(dirname(target)),
+  slugs,
+)
 const localAdjacency = new Map([...slugs].map((slug) => [slug, new Set()]))
 const entityCounts = new Map()
 const readingEntities = new Map()
@@ -131,11 +142,12 @@ const searchIndex = {}
 const graphIndex = {}
 for (const [rawSlug, item] of Object.entries(source)) {
   const slug = normalizeSlug(rawSlug)
-  searchIndex[slug] = {
-    title: item.title ?? "",
-    tags: item.tags ?? [],
-    content: searchExcerpt(slug, item, EXCERPT),
-  }
+  if (!topics.members.has(rawSlug))
+    searchIndex[slug] = {
+      title: item.title ?? "",
+      tags: item.tags ?? [],
+      content: searchExcerpt(slug, item, EXCERPT),
+    }
 
   const node = {
     title: item.title ?? "",
@@ -149,6 +161,7 @@ for (const [rawSlug, item] of Object.entries(source)) {
   graphIndex[slug] = node
 }
 
+Object.assign(searchIndex, topics.documents)
 writeFileSync(target, JSON.stringify(searchIndex))
 writeFileSync(graphTarget, JSON.stringify(graphIndex))
 const searchSize = statSync(target).size
