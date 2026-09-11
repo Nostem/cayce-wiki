@@ -4,6 +4,7 @@ import { mkdtempSync, mkdirSync, readFileSync, rmSync, writeFileSync, existsSync
 import { join } from "node:path"
 import { tmpdir } from "node:os"
 import { spawnSync } from "node:child_process"
+import { searchFixture } from "./test-helpers/search-fixture.mjs"
 
 const script = new URL("./strip-content-index.mjs", import.meta.url).pathname
 const route = "topics/acidity-and-alkalinity"
@@ -153,7 +154,7 @@ test("real installed lazy FlexSearch indexes late aliases to the canonical route
   if (!existsSync(pkg)) return t.skip("Installed Quartz search package unavailable")
   const result = run()
   assert.equal(result.status, 0, result.stderr)
-  const packaged = readFileSync(pkg, "utf8")
+  const packaged = searchFixture()
   const literal = packaged.match(/var search_inline_default = (`[\s\S]*?`);/)[1]
   const runtime = new Function("return " + literal)().replace(
     /import\.meta/g,
