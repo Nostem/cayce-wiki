@@ -19,9 +19,19 @@ function runIndex(source) {
   try {
     const path = join(dir, "contentIndex.json")
     writeFileSync(path, JSON.stringify(source))
+    const manifest = join(dir, "topic-groups.json")
+    writeFileSync(manifest, JSON.stringify({ version: 1, groups: [] }))
     const run = spawnSync(
       process.execPath,
-      [new URL("./strip-content-index.mjs", import.meta.url).pathname, path],
+      [
+        new URL("./strip-content-index.mjs", import.meta.url).pathname,
+        path,
+        "180",
+        "120",
+        "4",
+        "8",
+        manifest,
+      ],
       { encoding: "utf8" },
     )
     assert.equal(run.status, 0, run.stderr)

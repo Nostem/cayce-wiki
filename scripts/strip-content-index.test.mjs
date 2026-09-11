@@ -49,11 +49,17 @@ test("splits search data from a scoped graph index", () => {
     },
   }
   writeFileSync(contentPath, JSON.stringify(source))
+  const manifestPath = join(dir, "topic-groups.json")
+  writeFileSync(manifestPath, JSON.stringify({ version: 1, groups: [] }))
 
   try {
-    const run = spawnSync(process.execPath, [script, contentPath, "24", "2", "1", "2"], {
-      encoding: "utf8",
-    })
+    const run = spawnSync(
+      process.execPath,
+      [script, contentPath, "24", "2", "1", "2", manifestPath],
+      {
+        encoding: "utf8",
+      },
+    )
     assert.equal(run.status, 0, run.stderr || run.stdout)
 
     const search = JSON.parse(readFileSync(contentPath, "utf8"))

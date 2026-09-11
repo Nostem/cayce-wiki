@@ -61,16 +61,7 @@ test("real packaged OFM preserves labels, aliases, anchors and code while resolv
 })
 
 test("full source coverage, all memberships, immutable bytes and distinct known pairs", () => {
-  const paths = ["readings", "entities", "series"].flatMap((kind) =>
-    fs
-      .readdirSync(`content/${kind}`)
-      .filter((name) => name.endsWith(".md") && name !== "index.md")
-      .map((name) => `${kind}/${name}`),
-  )
-  assert.equal(paths.length, 25056)
-  assert.equal(paths.filter((p) => p.startsWith("entities/")).length, 10731)
-  const routes = sourceRouteMap(paths)
-  assert.equal(routes.size, 25056)
+  // Exact Git spelling is authoritative: macOS can retain an earlier filename's case.
   const tracked = execFileSync("git", [
     "ls-files",
     "-z",
@@ -81,7 +72,11 @@ test("full source coverage, all memberships, immutable bytes and distinct known 
     .toString()
     .split("\0")
     .filter((p) => p.endsWith(".md") && !p.endsWith("/index.md"))
-  assert.equal(sourceRouteMap(tracked.map((p) => p.slice(8))).size, 25056)
+  const paths = tracked.map((p) => p.slice(8))
+  assert.equal(paths.length, 25056)
+  assert.equal(paths.filter((p) => p.startsWith("entities/")).length, 10731)
+  const routes = sourceRouteMap(paths)
+  assert.equal(routes.size, 25056)
   const before = new Map<string, string>()
   const content: ProcessedContent[] = paths.map((relative) => {
     const path = `content/${relative}`

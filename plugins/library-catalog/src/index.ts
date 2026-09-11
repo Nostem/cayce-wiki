@@ -1,8 +1,14 @@
 import fs from "node:fs"
+import path from "node:path"
 import { h } from "preact"
 import type { QuartzPageTypePlugin, VirtualPage } from "../../../quartz/plugins/types"
 import type { QuartzComponent } from "../../../quartz/components/types"
-import { resolveRelative, slugifyFilePath } from "../../../quartz/util/path"
+import {
+  resolveRelative,
+  slugifyFilePath,
+  isRelativeURL,
+  simplifySlug,
+} from "../../../quartz/util/path"
 import type { FullSlug, FilePath } from "../../../quartz/util/path"
 import {
   catalogRecord,
@@ -13,12 +19,21 @@ import {
 } from "../../../quartz/components/library/catalog"
 import type { CatalogRecord, CatalogSort } from "../../../quartz/components/library/catalog"
 import recovered from "../data/complete-memberships.json"
+import topicManifest from "../data/topic-groups.json"
+import {
+  buildTopicGroups,
+  parseTopicManifest,
+  type TopicGroupDefinition,
+  type TopicGroup,
+} from "../../../quartz/components/library/topics"
 
 interface Collection {
   base: string
   title: string
   rows: CatalogRecord[]
   description: string
+  topic?: TopicGroup
+  combined?: TopicGroup
   filters?: { label: string; base: string }[]
 }
 interface Page {
@@ -43,7 +58,10 @@ function outputSlug(slug: string) {
 }
 
 /** Owns folder/tag catalogs and entity/series bodies; disable packaged folder/tag generators. */
-export const LibraryCatalog: QuartzPageTypePlugin<{ verifyCorpus?: boolean }> = (opts) => {
+export const LibraryCatalog: QuartzPageTypePlugin<{
+  verifyCorpus?: boolean
+  topicGroups?: TopicGroupDefinition[]
+}> = (opts) => {
   let pages = new Map<string, Page>()
   const Body: QuartzComponent = ({ fileData }) => {
     const key = String(fileData.slug).replace(/\/index$/, "")
@@ -73,6 +91,46 @@ export const LibraryCatalog: QuartzPageTypePlugin<{ verifyCorpus?: boolean }> = 
       "section",
       { class: "library-catalog", "aria-label": collection.title },
       h("p", null, collection.description),
+      collection.combined &&
+        h(
+          "p",
+          { class: "catalog-combined" },
+          h(
+            "strong",
+            null,
+            link(
+              collection.combined.row.slug,
+              `View combined topic: ${collection.combined.row.label}`,
+            ),
+          ),
+        ),
+      collection.topic &&
+        number === 1 &&
+        sort === "id" &&
+        h(
+          "section",
+          { "aria-label": "Source terms" },
+          h("h2", null, "Source terms"),
+          h(
+            "ul",
+            null,
+            collection.topic.sources
+              .slice(0, 8)
+              .map((source) =>
+                h(
+                  "li",
+                  { class: "topic-source", key: source.slug },
+                  link(source.slug, source.label),
+                  ` · ${source.count ?? 0} readings`,
+                ),
+              ),
+          ),
+          collection.topic.sources.length > 8 &&
+            link(
+              `${collection.topic.row.slug}/source-terms`,
+              `View all ${collection.topic.sources.length} source terms`,
+            ),
+        ),
       h(
         "p",
         { class: "catalog-count" },
@@ -165,11 +223,20 @@ export const LibraryCatalog: QuartzPageTypePlugin<{ verifyCorpus?: boolean }> = 
       const records = new Map<string, CatalogRecord>()
       const raw = new Map<string, string>()
       const metadata = new Map<string, Record<string, unknown>>()
+      const verifiedMembers = new Map<string, string[]>()
       const existing = new Set<string>()
+      const reservedAliases = new Set<string>()
       for (const [, file] of content) {
         const slug = String(file.data.slug)
         if (existing.has(slug)) throw new Error(`Duplicate source output ${slug}`)
         existing.add(slug)
+        for (const alias of file.data.aliases ?? []) {
+          reservedAliases.add(
+            isRelativeURL(alias)
+              ? path.posix.normalize(path.posix.join(simplifySlug(file.data.slug!), "..", alias))
+              : alias,
+          )
+        }
         if (
           slug.endsWith("/index") ||
           /\/(?:by-date\/)?page\/\d+$/.test(slug) ||
@@ -225,6 +292,7 @@ export const LibraryCatalog: QuartzPageTypePlugin<{ verifyCorpus?: boolean }> = 
           )
           if (prefix.some((id) => !checked.has(id)))
             throw new Error(`${identity}: recovered membership disagrees with source links`)
+          verifiedMembers.set(row.slug, [...checked])
         }
       }
       for (const row of staged) records.set(row.slug, catalogRecord(row.data, row.source))
@@ -233,13 +301,21 @@ export const LibraryCatalog: QuartzPageTypePlugin<{ verifyCorpus?: boolean }> = 
           .filter(([, r]) => r.kind === "readings")
           .map(([slug, r]) => [slug.slice("readings/".length), r]),
       )
-      const available = new Set(readings.keys())
-      const seriesMembers = new Map<string, string[]>()
-      for (const [id, row] of readings) {
-        const key = String(metadata.get(row.slug)?.series)
-        if (!seriesMembers.has(key)) seriesMembers.set(key, [])
-        seriesMembers.get(key)!.push(id)
-      }
+      const topics = buildTopicGroups(
+        opts?.topicGroups ??
+          (opts?.verifyCorpus === false ? [] : parseTopicManifest(topicManifest)),
+        new Map(
+          staged
+            .filter((row) => row.slug.startsWith("entities/"))
+            .map((row) => [
+              String(row.data.relativePath ?? row.slug + ".md"),
+              records.get(row.slug)!,
+            ]),
+        ),
+        verifiedMembers,
+        readings,
+        new Set([...existing, ...reservedAliases]),
+      )
       const collections: Collection[] = []
       for (const kind of ["readings", "entities", "series"])
         collections.push({
@@ -250,10 +326,12 @@ export const LibraryCatalog: QuartzPageTypePlugin<{ verifyCorpus?: boolean }> = 
               : kind === "series"
                 ? "Read a series"
                 : "Browse readings",
-          rows: [...records.values()].filter((r) => r.kind === kind && !r.slug.endsWith("/index")),
+          rows: topics.project(
+            [...records.values()].filter((r) => r.kind === kind && !r.slug.endsWith("/index")),
+          ),
           description:
             kind === "entities"
-              ? "Generated topic indexes combine literal mentions and machine classifications. Verify associations in the source before citation."
+              ? "Consolidated topic indexes retain original source terms separately. Editorial grouping is not historical wording or a medical equivalence judgment. Verify associations in the source before citation."
               : kind === "series"
                 ? "Series titles and membership follow the source index."
                 : "Readings in natural number order, with original dates and source metadata. Synopses are machine-generated, not archival text.",
@@ -278,28 +356,11 @@ export const LibraryCatalog: QuartzPageTypePlugin<{ verifyCorpus?: boolean }> = 
             types.get(key)!.push(row)
           }
         if (!["entities", "series"].includes(row.kind) || row.slug.endsWith("/index")) continue
-        const expected = fm.reading_count
-        if (typeof expected !== "number")
-          throw new Error(`${slug}: missing declared membership count`)
-
-        // Recovery keys use source filenames; Quartz slugs replace spaces with hyphens.
-        const recoveredKey = Object.hasOwn(complete, slug) ? slug : recoverySlugs.get(slug)
-        const prefix = [...raw.get(slug)!.matchAll(/\[\[([^\]|]+)(?:\|[^\]]+)?\]\]/g)].map((m) =>
-          m[1].replace(/^readings\//, ""),
-        )
-        const members =
-          row.kind === "series"
-            ? (seriesMembers.get(String(fm.series)) ?? [])
-            : recoveredKey
-              ? complete[recoveredKey]
-              : prefix
-        const checked = verifyMembership(row.label, members, expected, available)
-        const membership = new Set(checked)
-        if (prefix.some((id) => !membership.has(id)))
-          throw new Error(`${slug}: recovered membership disagrees with source links`)
+        const checked = verifiedMembers.get(slug)!
         collections.push({
           base: slug,
           title: row.label,
+          combined: topics.bySourceRoute.get(slug),
           rows: checked.map((id) => readings.get(id)!),
           description:
             row.kind === "entities"
@@ -312,13 +373,13 @@ export const LibraryCatalog: QuartzPageTypePlugin<{ verifyCorpus?: boolean }> = 
           base: `tags/${tag}`,
           title: `Tag: ${tag}`,
           rows,
-          description: `Records carrying the source tag ${tag}, including its sub-tags.`,
+          description: `Source-record catalog: records carrying the source tag ${tag}, including its sub-tags. Original entity records are not consolidated in tag catalogs.`,
         })
       for (const [type, rows] of types)
         collections.push({
           base: `catalog/entity-types/${encodeURIComponent(type)}`,
           title: `Topics: ${type}`,
-          rows,
+          rows: topics.project(rows),
           description: `Generated entity classification: ${type}. Verify against the readings.`,
         })
       collections[0].filters = [...tags.keys()]
@@ -340,6 +401,24 @@ export const LibraryCatalog: QuartzPageTypePlugin<{ verifyCorpus?: boolean }> = 
         })),
       })
       const virtual: VirtualPage[] = []
+      for (const topic of topics.groups) {
+        collections.push({
+          base: topic.row.slug,
+          title: topic.row.label,
+          rows: topic.readings,
+          topic,
+          description: `${topic.readings.length.toLocaleString("en-US")} readings from ${topic.sources.length.toLocaleString("en-US")} original source terms. ${topic.definition.kind === "umbrella" ? "Related terms are grouped for browsing, not treated as identical." : "Alternate names are combined for browsing."} Original entries remain available below.`,
+        })
+        if (topic.sources.length > 8)
+          collections.push({
+            base: `${topic.row.slug}/source-terms`,
+            title: `${topic.row.label} — Source terms`,
+            rows: topic.sources,
+            combined: topic,
+            description:
+              "Original source labels and original reading counts. Each source retains its own reading associations.",
+          })
+      }
       for (const collection of collections) {
         for (const sort of (collection.rows.length > 40 &&
         collection.rows.some((r) => r.kind === "readings")
@@ -352,6 +431,14 @@ export const LibraryCatalog: QuartzPageTypePlugin<{ verifyCorpus?: boolean }> = 
             if (pages.has(slug)) throw new Error(`Duplicate catalog route ${slug}`)
             pages.set(slug, { collection: sorted, sort, number })
             const output = outputSlug(slug)
+            if (
+              collection.base.startsWith("topics/") &&
+              (existing.has(output) ||
+                existing.has(`${output}/index`) ||
+                reservedAliases.has(output) ||
+                reservedAliases.has(`${output}/index`))
+            )
+              throw new Error(`Colliding topic route: ${output}`)
             const title = `${collection.title}${sort === "date" ? " — Original date" : ""}${number > 1 ? ` — Page ${number}` : ""}`
             if (!existing.has(output))
               virtual.push({ slug: output, title, data: { unlisted: true, libraryCatalog: true } })
@@ -363,7 +450,8 @@ export const LibraryCatalog: QuartzPageTypePlugin<{ verifyCorpus?: boolean }> = 
         const state = pages.get(String(file.data.slug).replace(/\/index$/, ""))
         if (state) {
           file.data.libraryCatalog = true
-          if (file.data.frontmatter) file.data.frontmatter.title = state.collection.title
+          if (file.data.frontmatter && !raw.has(String(file.data.slug)))
+            file.data.frontmatter.title = state.collection.title
         }
       }
       return virtual

@@ -8,6 +8,14 @@ title: Reading and citation guide
 
 Search accepts words and reading identifiers, such as `1527-2`. A topic result is an index of associations; open the linked readings and examine their context before drawing conclusions.
 
+## Combined topics and original terms
+
+The [topic directory](/entities) combines alternate names and closely related subjects under clearer headings. A combined topic lists each reading once and shows the original **Source terms**, with links to their individual indexes. Longer lists have a **View all source terms** link.
+
+Original topic pages, labels and reading memberships remain unchanged. Their **View combined topic** link opens the broader reading list. Search includes the original terms but presents the combined heading rather than redundant member results.
+
+Some headings combine equivalent names; others bring related subtopics together for browsing. A grouping does not establish medical equivalence or change the historical wording. Check each reading's context before relying on an association.
+
 ## Understand a reading page
 
 The reading number identifies the historical record. Keep it exactly as shown, including any disambiguating suffix. The original date, when recoverable from the source, is different from the date a web page was updated.

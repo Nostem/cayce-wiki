@@ -32,6 +32,7 @@ run(process.execPath, ["scripts/patch-quartz-backlinks.mjs"])
 run(process.execPath, ["scripts/patch-quartz-aliases.mjs"])
 run("npx", ["quartz", "build"])
 run("npx", ["tsx", "scripts/verify-source-output.ts", "public"])
+run("npx", ["tsx", "scripts/verify-topic-groups.ts", "public"])
 run(process.execPath, [
   "scripts/strip-content-index.mjs",
   "public/static/contentIndex.json",
