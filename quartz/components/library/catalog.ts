@@ -17,12 +17,36 @@ export interface CatalogRecord {
   count?: number
   literalCount?: number
   semanticCount?: number
+  /** Detected from source preamble, e.g. Physical / Life / Dream. */
+  readingType?: string
+  /** On entity topic lists: literal (named in reading entities) vs semantic/indexed. */
+  association?: "literal" | "semantic"
 }
 export type CatalogSort = "id" | "date" | "count"
 export const naturalCompare = (a: string, b: string) =>
   a.localeCompare(b, "en", { numeric: true, sensitivity: "base" }) || a.localeCompare(b)
 const text = (value: unknown) => (typeof value === "string" ? value : undefined)
 const countOf = (value: unknown) => (typeof value === "number" ? value : undefined)
+
+/** Source-backed reading type label from the archival preamble (not LLM). */
+const READING_TYPE_PATTERNS: [RegExp, string][] = [
+  [/\(\s*Check\s+Physical[^)]*\)/i, "Physical"],
+  [/\(\s*Physical\s+Suggestion\s*\)/i, "Physical"],
+  [/\(\s*Physical\s+Reading\s*\)/i, "Physical"],
+  [/\(\s*Life\s+Reading\s*\)/i, "Life"],
+  [/\(\s*Business\s+Reading\s*\)/i, "Business"],
+  [/\(\s*Dream\s+Reading\s*\)/i, "Dream"],
+  [/\(\s*Mental[-\s]?Spiritual[^)]*\)/i, "Mental-Spiritual"],
+  [/\(\s*Aura\s+Chart[^)]*\)/i, "Aura"],
+]
+
+export function detectReadingType(source: string): string | undefined {
+  const textSection = source.split(/\n##\s+Reports\b|\n##\s+Background\b/)[0] ?? source
+  for (const [pattern, label] of READING_TYPE_PATTERNS) {
+    if (pattern.test(textSection)) return label
+  }
+  return undefined
+}
 
 export function originalDate(source: string): string | undefined {
   const header = source.split(/\n\s*1\.\s/)[0]
@@ -58,10 +82,15 @@ export function catalogRecord(source: CatalogSource, raw = ""): CatalogRecord {
     count: countOf(fm.reading_count),
     literalCount: countOf(fm.literal_reading_count),
     semanticCount: countOf(fm.semantic_reading_count),
+    readingType: kind === "readings" ? detectReadingType(raw) : undefined,
   }
 }
 export function compareCatalog(sort: CatalogSort) {
   return (a: CatalogRecord, b: CatalogRecord) => {
+    // Prefer strong (literal) associations ahead of indexed/semantic on topic lists.
+    if (a.association && b.association && a.association !== b.association) {
+      return a.association === "literal" ? -1 : 1
+    }
     if (sort === "count") {
       const ac = a.count ?? -1
       const bc = b.count ?? -1
@@ -126,4 +155,17 @@ export function verifyMembership(
 export function readingCaseId(reading: string): string | undefined {
   const match = reading.match(/^(.+)-(\d+)$/)
   return match ? match[1] : undefined
+}
+
+/** True when this is the first reading in a case (e.g. 1527-1). */
+export function isCaseOpening(reading: string): boolean {
+  return /^(.+)-1$/.test(reading) && !reading.includes("_")
+}
+
+/** Stable slug for a reading-type catalog filter. */
+export function readingTypeSlug(type: string): string {
+  return type
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "")
 }
