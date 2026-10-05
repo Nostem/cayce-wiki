@@ -13,12 +13,42 @@ export default (() => {
     ctx,
   }: QuartzComponentProps) => {
     const titleSuffix = cfg.pageTitleSuffix ?? ""
+    const fm = fileData.frontmatter ?? {}
+    const slug = String(fileData.slug ?? "")
+    const readingId = typeof fm.reading === "string" ? fm.reading : undefined
+    const isReading = slug.startsWith("readings/") && !!readingId
+    const seriesTitle = typeof fm.series_title === "string" ? fm.series_title : undefined
+    const year = fm.year !== undefined && fm.year !== null ? String(fm.year) : undefined
+    const summary = typeof fm.summary === "string" ? fm.summary.trim() : undefined
+    const readingTitle = isReading
+      ? [
+          `Reading ${readingId}`,
+          year,
+          seriesTitle && seriesTitle.length < 80 ? seriesTitle : undefined,
+        ]
+          .filter(Boolean)
+          .join(" · ")
+      : undefined
+    const fallbackDescription =
+      slug === "index"
+        ? "A reading library for exploring the Edgar Cayce transcripts, following subjects through the archive, and returning to the source."
+        : slug === "entities" || slug.startsWith("entities/")
+          ? "Browse people, places, concepts and remedies indexed across the Cayce readings. Indexes are research aids, not claims."
+          : slug === "readings" || slug.startsWith("readings/")
+            ? "Browse the Edgar Cayce readings by number or jump to a known identifier."
+            : slug === "series" || slug.startsWith("series/")
+              ? "Series titles and membership follow the source index of the Cayce readings."
+              : i18n(cfg.locale).propertyDefaults.description
     const title =
-      (fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title) + titleSuffix
+      (readingTitle ??
+        (typeof fm.title === "string" ? fm.title : undefined) ??
+        i18n(cfg.locale).propertyDefaults.title) + titleSuffix
+    const extracted = unescapeHTML(fileData.description?.trim() || "")
     const description =
-      fileData.frontmatter?.socialDescription ??
-      fileData.frontmatter?.description ??
-      unescapeHTML(fileData.description?.trim() ?? i18n(cfg.locale).propertyDefaults.description)
+      (typeof fm.socialDescription === "string" ? fm.socialDescription : undefined) ??
+      (typeof fm.description === "string" ? fm.description : undefined) ??
+      (isReading && summary ? summary : undefined) ??
+      (extracted || fallbackDescription)
 
     const { css, js, additionalHead } = externalResources
 
@@ -76,7 +106,7 @@ export default (() => {
             <meta name="twitter:image" content={ogImageDefaultPath} />
             <meta
               property="og:image:type"
-              content={`image/${getFileExtension(ogImageDefaultPath) ?? "png"}`}
+              content={`image/${(getFileExtension(ogImageDefaultPath) ?? ".png").replace(/^\./, "")}`}
             />
           </>
         )}
