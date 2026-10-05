@@ -191,6 +191,7 @@ export function createCatalogBody(): QuartzComponent {
                       ? `Source year: ${row.year}; full date unavailable`
                       : "Original date unavailable"
                     : undefined,
+                row.readingType ? `Type: ${row.readingType}` : undefined,
                 row.context,
                 row.count === undefined
                   ? undefined
@@ -199,10 +200,25 @@ export function createCatalogBody(): QuartzComponent {
                 .filter(Boolean)
                 .join(" · "),
             ),
-            (row.literalCount !== undefined || row.semanticCount !== undefined) &&
+            (row.literalCount !== undefined ||
+              row.semanticCount !== undefined ||
+              row.association) &&
               h(
                 "p",
                 { class: "catalog-association-badges" },
+                row.association === "literal" &&
+                  h(
+                    "span",
+                    { class: "catalog-badge catalog-badge-literal" },
+                    "Strong match (about this subject)",
+                  ),
+                row.association === "semantic" &&
+                  h(
+                    "span",
+                    { class: "catalog-badge catalog-badge-semantic" },
+                    "Indexed mention (verify)",
+                  ),
+                " ",
                 row.literalCount !== undefined &&
                   h(
                     "span",
