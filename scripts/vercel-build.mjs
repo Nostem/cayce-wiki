@@ -41,3 +41,4 @@ run(process.execPath, [
   "4",
   "8",
 ])
+run(process.execPath, ["scripts/prioritize-sitemap.mjs", "public/sitemap.xml"])

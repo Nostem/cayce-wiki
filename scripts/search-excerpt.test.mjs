@@ -4,6 +4,7 @@ import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { tmpdir } from "node:os"
 import { spawnSync } from "node:child_process"
+import { detectReadingType, searchTitle, searchExcerpt } from "./search-excerpt.mjs"
 
 // Source Markdown rendered to a simple raw-content model, not a full Quartz index.
 const raw = readFileSync(new URL("../content/readings/1-1.md", import.meta.url), "utf8")
@@ -69,13 +70,15 @@ test("CLI adds source date and numbered transcript without changing membership o
   assert.deepEqual(Object.keys(search), Object.keys(source))
   for (const [key, entry] of Object.entries(search)) {
     assert.deepEqual(Object.keys(entry).sort(), ["content", "tags", "title"])
-    assert.equal(entry.title, source[key].title)
     assert.deepEqual(entry.tags, source[key].tags)
-    assert.ok(entry.content.length <= 180)
   }
+  assert.equal(search["readings/1-1"].title, "Reading 1-1")
+  assert.equal(search["readings/2-1"].title, "Reading 2-1")
+  assert.match(search["readings/1-1"].content, /1-1/)
   assert.match(search["readings/1-1"].content, /8\/15\/1923 \(approximate\)/)
   assert.match(search["readings/1-1"].content, /Transcript: EC: Yes, we have the body here/)
-  assert.match(search["readings/2-1"].content, /^6\/20\/1934 · Transcript: EC: We have/)
+  assert.match(search["readings/2-1"].content, /2-1 · 2 ·/)
+  assert.match(search["readings/2-1"].content, /6\/20\/1934 · Transcript: EC: We have/)
   assert.doesNotMatch(search["readings/2-1"].content, /1960|Next paragraph/)
   assert.match(search["topics/health"].content, /Health concerns physical/)
   assert.doesNotMatch(search["topics/health"].content, /1-1 2-1/)
@@ -98,12 +101,13 @@ test("actual Quartz list text keeps transcript after ordinal markers are strippe
   const content =
     "TEXT OF READING 1527-2 M 19\nReading 1527-2 · Series: 1501-2000 · Year: 1938 · Sex: M\nText\nDate: 4/8/1938  Sex: M  Age: 19  ReadingID: 7447\nThis Psychic Reading given by Edgar Cayce.\nTime of Reading\n3:35 to 3:50 P. M.\n(Physical Suggestion)\n\n\nEC:  Yes.\n\n\nAs we find, conditions are greatly improved.\n\n\nWhile the lesions in the right side have in the greater part been broken up.\nReports\nLater correspondence."
   const { search } = runIndex({ "readings/1527-2": { title: "1527-2", content } })
+  assert.equal(search["readings/1527-2"].title, "Reading 1527-2")
+  assert.match(search["readings/1527-2"].content, /1527-2 · 1527 ·/)
   assert.match(
     search["readings/1527-2"].content,
-    /^4\/8\/1938 · Transcript: EC: Yes\. As we find, conditions are greatly improved\./,
+    /4\/8\/1938 · Physical · Transcript: EC: Yes\. As we find, conditions are greatly improved\./,
   )
   assert.doesNotMatch(search["readings/1527-2"].content, /Later correspondence/)
-  assert.ok(search["readings/1527-2"].content.length <= 180)
 })
 
 test("report dates and report numbering are never reading context", () => {
@@ -115,4 +119,18 @@ test("report dates and report numbering are never reading context", () => {
     },
   })
   assert.doesNotMatch(search["readings/3-1"].content, /1960|Letter from a reader/)
+})
+
+test("searchTitle and detectReadingType helpers", () => {
+  assert.equal(searchTitle("readings/1527-2", { title: "1527-2" }), "Reading 1527-2")
+  assert.equal(searchTitle("entities/Atlantis", { title: "Atlantis" }), "Atlantis")
+  assert.equal(detectReadingType("(Physical Suggestion)"), "Physical")
+  assert.equal(detectReadingType("(Life Reading)"), "Life")
+  assert.match(
+    searchExcerpt("readings/x", {
+      content:
+        "Date: 1/1/1930 Sex: M ReadingID: 1 (Dream Reading) EC: Yes we have the dream.",
+    }),
+    /Dream/,
+  )
 })

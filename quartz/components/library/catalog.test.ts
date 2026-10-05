@@ -1,6 +1,17 @@
 import test from "node:test"
 import assert from "node:assert/strict"
-import { catalogRecord, compareCatalog, paginate, verifyMembership } from "./catalog"
+import {
+  catalogRecord,
+  compareCatalog,
+  paginate,
+  verifyMembership,
+  readingCaseId,
+  defaultCatalogSort,
+  pageSlug,
+  detectReadingType,
+  isCaseOpening,
+  readingTypeSlug,
+} from "./catalog"
 test("uncertain archival dates are not presented as exact", () => {
   assert.equal(
     catalogRecord(
@@ -62,5 +73,84 @@ test("membership fails closed on capped, dangling, or mismatched reconstruction"
   assert.deepEqual(
     verifyMembership("Atlantis", ["2-1", "1-1", "1-1"], 2, new Set(["1-1", "2-1"])),
     ["1-1", "2-1"],
+  )
+})
+
+test("entity catalogs sort by reading count descending", () => {
+  const rows = [
+    catalogRecord({ slug: "entities/a", frontmatter: { entity: "[23]", reading_count: 4 } }),
+    catalogRecord({ slug: "entities/b", frontmatter: { entity: "Atlantis", reading_count: 875 } }),
+    catalogRecord({ slug: "entities/c", frontmatter: { entity: "Dreams", reading_count: 100 } }),
+  ]
+  assert.deepEqual(
+    rows.sort(compareCatalog("count")).map((r) => r.label),
+    ["Atlantis", "Dreams", "[23]"],
+  )
+})
+test("readingCaseId and entity default sort helpers", () => {
+  assert.equal(readingCaseId("294-12"), "294")
+  assert.equal(readingCaseId("1527-2"), "1527")
+  assert.equal(readingCaseId("364"), undefined)
+  assert.equal(defaultCatalogSort("entities"), "count")
+  assert.equal(defaultCatalogSort("readings"), "id")
+  assert.equal(pageSlug("entities", 1, "count", "count"), "entities")
+  assert.equal(pageSlug("entities", 1, "id", "count"), "entities/by-name")
+  assert.equal(pageSlug("readings", 2, "id", "id"), "readings/page/2")
+})
+
+test("detectReadingType from archival suggestion lines", () => {
+  assert.equal(detectReadingType("Time of Reading\n(Physical Suggestion)\n\n1. EC:"), "Physical")
+  assert.equal(detectReadingType("(Life Reading)"), "Life")
+  assert.equal(detectReadingType("(Business Reading)"), "Business")
+  assert.equal(detectReadingType("(Dream Reading)"), "Dream")
+  assert.equal(detectReadingType("no type here"), undefined)
+  assert.equal(
+    catalogRecord(
+      { slug: "readings/1527-2", frontmatter: { reading: "1527-2" } },
+      "(Physical Suggestion)\n1. EC: Yes.",
+    ).readingType,
+    "Physical",
+  )
+})
+
+test("the export's usual '(Life Reading Suggestion)' line is detected as Life", () => {
+  assert.equal(
+    detectReadingType("Time of Reading 11:25 to 12:05 Noon.\n(Life Reading Suggestion)\nEC: Yes"),
+    "Life",
+  )
+  assert.equal(detectReadingType("(Business Reading Suggestion)"), "Business")
+  assert.equal(detectReadingType("(Physical Reading Suggestion)"), "Physical")
+  // Report correspondence never decides the type.
+  assert.equal(detectReadingType("1. EC: Yes.\n## Reports\n(Life Reading Suggestion)"), undefined)
+})
+
+test("case openings and type slug helpers", () => {
+  assert.equal(isCaseOpening("1527-1"), true)
+  assert.equal(isCaseOpening("1527-2"), false)
+  assert.equal(isCaseOpening("257-162_id8"), false)
+  assert.equal(readingTypeSlug("Mental-Spiritual"), "mental-spiritual")
+})
+
+test("literal associations sort ahead of semantic on topic lists", () => {
+  const rows = [
+    { slug: "readings/2-1", label: "2-1", kind: "readings", association: "semantic" as const },
+    { slug: "readings/1-1", label: "1-1", kind: "readings", association: "literal" as const },
+    { slug: "readings/3-1", label: "3-1", kind: "readings", association: "literal" as const },
+  ]
+  assert.deepEqual(
+    rows.sort(compareCatalog("id")).map((r) => r.label),
+    ["1-1", "3-1", "2-1"],
+  )
+})
+
+test("name-only mislink rows sort after literal and semantic rows", () => {
+  const rows = [
+    { slug: "readings/1-1", label: "1-1", kind: "readings", association: "name-only" as const },
+    { slug: "readings/2-1", label: "2-1", kind: "readings", association: "semantic" as const },
+    { slug: "readings/3-1", label: "3-1", kind: "readings", association: "literal" as const },
+  ]
+  assert.deepEqual(
+    rows.sort(compareCatalog("id")).map((r) => r.label),
+    ["3-1", "2-1", "1-1"],
   )
 })

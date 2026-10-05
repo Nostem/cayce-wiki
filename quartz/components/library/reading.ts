@@ -77,6 +77,40 @@ export function readingIdentity(
   }
 }
 
+
+/** Stable citation anchors: #p3 for transcript paragraphs, #r1 for Reports. Copy-on-write. */
+function withPermalinkAnchors(tree: Root): Root {
+  function visit(node: Node): Node {
+    if (!("children" in node)) return node
+    const children = (node.children as Node[]).map((child) => {
+      if (child.type !== "element") return visit(child)
+      const el = child as Element
+      if (el.tagName === "p" && !el.properties.id) {
+        const text = sourceText(el).trim()
+        const paragraph = text.match(/^(\d+)\.\s/)
+        if (paragraph) {
+          return {
+            ...el,
+            properties: { ...el.properties, id: `p${paragraph[1]}` },
+            children: el.children.map((c) => visit(c)),
+          } as Element
+        }
+        const report = text.match(/^R(\d+)\.\s/i)
+        if (report) {
+          return {
+            ...el,
+            properties: { ...el.properties, id: `r${report[1]}` },
+            children: el.children.map((c) => visit(c)),
+          } as Element
+        }
+      }
+      return visit(child)
+    })
+    return { ...node, children } as Node
+  }
+  return visit(tree) as Root
+}
+
 /** Copy-on-write presentation only: never mutate the archival tree or source file. */
 export function readerTree(tree: Node, metadata: Record<string, unknown> = {}, slug = ""): Node {
   if (tree.type !== "root") return tree
@@ -124,5 +158,6 @@ export function readerTree(tree: Node, metadata: Record<string, unknown> = {}, s
     return [copy]
   })
   const presented = { ...root, children } as Root
-  return identity.isReading ? annotationTree(presented, identity.reading!) : presented
+  const annotated = identity.isReading ? annotationTree(presented, identity.reading!) : presented
+  return identity.isReading ? withPermalinkAnchors(annotated as Root) : annotated
 }

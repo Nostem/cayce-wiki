@@ -75,3 +75,20 @@ for (const id of ["1527-2", "1-1"])
         /approximate; exact date unknown/,
       )
   })
+
+test("permalink anchors for transcript paragraphs and reports", () => {
+  const tree: Root = {
+    type: "root",
+    children: [
+      p("1. EC: Yes."),
+      p("2. (Q) Why?"),
+      p("R1. Later note."),
+      p("Unnumbered prose."),
+    ],
+  }
+  const result = readerTree(tree, { reading: "1-1", series: "1", year: 1938, sex: "M" }, "readings/1-1") as Root
+  const ids = result.children
+    .filter((n): n is Element => n.type === "element")
+    .map((n) => n.properties.id)
+  assert.deepEqual(ids, ["p1", "p2", "r1", undefined])
+})
