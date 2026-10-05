@@ -8,6 +8,9 @@ import {
   readingCaseId,
   defaultCatalogSort,
   pageSlug,
+  detectReadingType,
+  isCaseOpening,
+  readingTypeSlug,
 } from "./catalog"
 test("uncertain archival dates are not presented as exact", () => {
   assert.equal(
@@ -93,4 +96,38 @@ test("readingCaseId and entity default sort helpers", () => {
   assert.equal(pageSlug("entities", 1, "count", "count"), "entities")
   assert.equal(pageSlug("entities", 1, "id", "count"), "entities/by-name")
   assert.equal(pageSlug("readings", 2, "id", "id"), "readings/page/2")
+})
+
+test("detectReadingType from archival suggestion lines", () => {
+  assert.equal(detectReadingType("Time of Reading\n(Physical Suggestion)\n\n1. EC:"), "Physical")
+  assert.equal(detectReadingType("(Life Reading)"), "Life")
+  assert.equal(detectReadingType("(Business Reading)"), "Business")
+  assert.equal(detectReadingType("(Dream Reading)"), "Dream")
+  assert.equal(detectReadingType("no type here"), undefined)
+  assert.equal(
+    catalogRecord(
+      { slug: "readings/1527-2", frontmatter: { reading: "1527-2" } },
+      "(Physical Suggestion)\n1. EC: Yes.",
+    ).readingType,
+    "Physical",
+  )
+})
+
+test("case openings and type slug helpers", () => {
+  assert.equal(isCaseOpening("1527-1"), true)
+  assert.equal(isCaseOpening("1527-2"), false)
+  assert.equal(isCaseOpening("257-162_id8"), false)
+  assert.equal(readingTypeSlug("Mental-Spiritual"), "mental-spiritual")
+})
+
+test("literal associations sort ahead of semantic on topic lists", () => {
+  const rows = [
+    { slug: "readings/2-1", label: "2-1", kind: "readings", association: "semantic" as const },
+    { slug: "readings/1-1", label: "1-1", kind: "readings", association: "literal" as const },
+    { slug: "readings/3-1", label: "3-1", kind: "readings", association: "literal" as const },
+  ]
+  assert.deepEqual(
+    rows.sort(compareCatalog("id")).map((r) => r.label),
+    ["1-1", "3-1", "2-1"],
+  )
 })
