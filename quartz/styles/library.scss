@@ -253,3 +253,29 @@
     scroll-behavior: auto;
   }
 }
+
+.reader-related {
+  margin: 1.5rem 0 0;
+  padding-top: 1rem;
+  border-top: 1px solid var(--lightgray);
+  h2 {
+    font-size: 1.15rem;
+    margin: 0 0 0.5rem;
+  }
+  ul {
+    margin: 0.5rem 0 0;
+    padding-left: 1.25rem;
+  }
+  li {
+    margin: 0.35rem 0;
+  }
+}
+.reader-related-note {
+  font-size: 0.875rem;
+  color: var(--darkgray);
+  margin: 0 0 0.5rem;
+}
+.reader-related-meta {
+  font-size: 0.85rem;
+  color: var(--darkgray);
+}
