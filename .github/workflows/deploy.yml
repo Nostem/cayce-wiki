@@ -20,8 +20,8 @@ jobs:
     needs: verify
     if: ${{ github.ref == 'refs/heads/main' }}
     runs-on: ubuntu-22.04
-    # Full Quartz builds regularly approach an hour; keep headroom above prior cancel/timeout.
-    timeout-minutes: 90
+    # Full-corpus Quartz build now exceeds ~90m on hosted runners; leave headroom for prepare + vercel upload.
+    timeout-minutes: 150
     steps:
       - uses: actions/checkout@v4
         with:
