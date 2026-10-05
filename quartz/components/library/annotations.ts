@@ -1,15 +1,20 @@
 import type { Element, Node, Root, RootContent, Text } from "hast"
+import { givenNameMislink, hrefEntityKey, isGivenNameTarget, type GivenNameAudit } from "./mislinks"
 
 const words = (node: Node): string =>
   node.type === "text"
     ? (node as Text).value
-    : "children" in node
-      ? (node.children as Node[]).map(words).join("")
-      : ""
-const generatedHeading = (node: RootContent) =>
-  node.type === "element" &&
-  /^h[2-3]$/.test(node.tagName) &&
-  ["Index (LLM-extracted)", "Linked Entities"].includes(words(node).trim())
+    : node.type === "element" && (node as Element).tagName === "br"
+      ? "\n"
+      : "children" in node
+        ? (node.children as Node[]).map(words).join("")
+        : ""
+const GENERATED_HEADINGS = ["Index (LLM-extracted)", "Linked Entities"]
+/** Generated index sections (collapsed) plus the generated "Mentioned Entities" list. */
+const INDEX_HEADINGS = [...GENERATED_HEADINGS, "Mentioned Entities"]
+const headingText = (node: RootContent) =>
+  node.type === "element" && /^h[2-3]$/.test(node.tagName) ? words(node).trim() : undefined
+const generatedHeading = (node: RootContent) => GENERATED_HEADINGS.includes(headingText(node) ?? "")
 function entityTarget(href: unknown): string | undefined {
   if (typeof href !== "string" || /^(?:[a-z]+:|\/\/|#)/i.test(href)) return
   try {
@@ -19,49 +24,97 @@ function entityTarget(href: unknown): string | undefined {
     return
   }
 }
+/** Classify an anchor among its siblings; undefined when it is not a given-name mislink. */
+function mislinkAt(siblings: Node[], index: number) {
+  const anchor = siblings[index] as Element
+  const key = hrefEntityKey(anchor.properties.href)
+  if (!isGivenNameTarget(key)) return { key: undefined, reason: undefined }
+  const before = siblings.slice(0, index).map(words).join("")
+  const after = siblings
+    .slice(index + 1)
+    .map(words)
+    .join("")
+  return { key, reason: givenNameMislink(key, words(anchor), before, after) }
+}
+const suppressed = (anchor: Element, reason: string): Element => ({
+  type: "element",
+  tagName: "span",
+  properties: {
+    "data-suppressed-association": reason,
+    title: "Generated link removed: here the name refers to someone or something else.",
+  },
+  children: anchor.children,
+})
 
-/** Render-only, narrowly scoped correction; original nodes and words remain intact. */
-export function annotationTree(tree: Node, reading: string): Node {
+/** Count flagged vs kept given-name target links in the transcript (non-index) sections. */
+function auditTree(children: RootContent[]): Map<string, GivenNameAudit> {
+  const audit = new Map<string, GivenNameAudit>()
+  function visit(node: Node) {
+    if (!("children" in node)) return
+    const siblings = node.children as Node[]
+    siblings.forEach((child, index) => {
+      if (child.type === "element" && (child as Element).tagName === "a") {
+        const { key, reason } = mislinkAt(siblings, index)
+        if (key) {
+          const row = audit.get(key) ?? { flagged: 0, kept: 0 }
+          if (reason) row.flagged++
+          else row.kept++
+          audit.set(key, row)
+        }
+        return
+      }
+      visit(child)
+    })
+  }
+  let inIndex = false
+  for (const node of children) {
+    const heading = headingText(node)
+    if (heading !== undefined) inIndex = INDEX_HEADINGS.includes(heading)
+    if (!inIndex) visit(node)
+  }
+  return audit
+}
+
+/**
+ * Render-only, narrowly scoped correction; original nodes and words remain intact.
+ * Given-name mislinks ("Dr. Mary Miller" → Virgin Mary) become plain text. When every
+ * transcript link to such a target was a mislink, the generated index entry for it is
+ * also shown as plain text so the page does not assert an unsupported association.
+ */
+export function annotationTree(tree: Node, _reading: string): Node {
   if (tree.type !== "root") return tree
-  function visit(node: Node): Node {
+  const audit = auditTree((tree as Root).children)
+  const nameOnly = new Set(
+    [...audit].filter(([, row]) => row.flagged > 0 && row.kept === 0).map(([key]) => key),
+  )
+  function visit(node: Node, inIndex: boolean): Node {
     if (!("children" in node)) return node
     const original = node.children as Node[]
     const children = original.map((child, index) => {
       if (child.type === "element" && (child as Element).tagName === "a") {
         const anchor = child as Element
-        const target = entityTarget(anchor.properties.href)
-        // Match the complete local name, not Mary generally or other readings.
-        const suffix = original
-          .slice(index + 1)
-          .map(words)
-          .join("")
-        const href = String(anchor.properties.href ?? "")
-        const virginMaryTarget =
-          /^(?:(?:\.\.\/)+|\/?entities\/)(?:entities\/)?virgin[- ]mary(?:\.html)?$/i.test(href)
-        if (
-          ["1527-1", "1527-2"].includes(reading) &&
-          virginMaryTarget &&
-          words(anchor) === "Mary" &&
-          /^ C\. Clendenin(?:\b|$)/.test(suffix)
-        ) {
-          return {
-            type: "element",
-            tagName: "span",
-            properties: { "data-suppressed-association": "known-mislink" },
-            children: anchor.children,
-          } as Element
-        }
-        if (target)
+        const { key, reason } = mislinkAt(original, index)
+        if (reason) return suppressed(anchor, "known-mislink")
+        if (inIndex && key && nameOnly.has(key)) return suppressed(anchor, "name-only")
+        if (entityTarget(anchor.properties.href))
           return {
             ...anchor,
             properties: { ...anchor.properties, "data-generated-annotation": "true" },
           }
       }
-      return visit(child)
+      return visit(child, inIndex)
     })
     return { ...node, children } as Node
   }
-  const root = visit(tree) as Root
+  let inIndex = false
+  const root = {
+    ...(tree as Root),
+    children: (tree as Root).children.map((node) => {
+      const heading = headingText(node)
+      if (heading !== undefined) inIndex = INDEX_HEADINGS.includes(heading)
+      return visit(node, inIndex) as RootContent
+    }),
+  } as Root
   const children: RootContent[] = []
   for (let i = 0; i < root.children.length; i++) {
     const node = root.children[i]

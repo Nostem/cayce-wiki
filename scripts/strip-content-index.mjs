@@ -13,7 +13,7 @@
  */
 import { readFileSync, writeFileSync, statSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { searchExcerpt } from "./search-excerpt.mjs"
+import { searchContent, searchTitle } from "./search-excerpt.mjs"
 import { topicSearchProjection } from "./topic-search.mjs"
 
 const target = process.argv[2] ?? join("public", "static", "contentIndex.json")
@@ -144,9 +144,9 @@ for (const [rawSlug, item] of Object.entries(source)) {
   const slug = normalizeSlug(rawSlug)
   if (!topics.members.has(rawSlug))
     searchIndex[slug] = {
-      title: item.title ?? "",
+      title: searchTitle(slug, item),
       tags: item.tags ?? [],
-      content: searchExcerpt(slug, item, EXCERPT),
+      content: searchContent(slug, item, EXCERPT),
     }
 
   const node = {
@@ -170,7 +170,7 @@ const globalEdges = [...globalLinks.values()].reduce((sum, links) => sum + links
 
 console.log(
   `contentIndex.json: ${(before / 1024 / 1024).toFixed(1)} MB -> ${(searchSize / 1024 / 1024).toFixed(1)} MB ` +
-    `(lazy search, ${EXCERPT}-char excerpts)`,
+    `(lazy search, ${EXCERPT}-char excerpts, reading-number titles)`,
 )
 console.log(
   `graphIndex.json: ${(graphSize / 1024 / 1024).toFixed(1)} MB, lazy; ` +

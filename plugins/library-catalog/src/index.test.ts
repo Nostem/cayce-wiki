@@ -194,3 +194,85 @@ test("existing catalog shells are excluded from membership and retitled", () => 
     /0–0 of 0 records/,
   )
 })
+
+test("reading type facets, case openings, and association labels on entity lists", () => {
+  const plugin = LibraryCatalog({ verifyCorpus: false })
+  const content = [
+    file(
+      "readings/10-1",
+      { reading: "10-1", year: 1930, entities: ["Atlantis"], tags: ["reading"] },
+      "Date: 1/1/1930 Sex: M ReadingID: 10\n(Physical Suggestion)\n1. EC: Yes.",
+    ),
+    file(
+      "readings/10-2",
+      { reading: "10-2", year: 1931, entities: ["Dreams"], tags: ["reading"] },
+      "Date: 2/1/1931 Sex: F ReadingID: 11\n(Life Reading)\n1. EC: Yes.",
+    ),
+    file(
+      "readings/11-1",
+      { reading: "11-1", year: 1932, tags: ["reading"] },
+      "Date: 3/1/1932 Sex: M ReadingID: 12\n(Dream Reading)\n1. EC: Yes.",
+    ),
+    file(
+      "entities/Atlantis",
+      {
+        entity: "Atlantis",
+        reading_count: 2,
+        literal_reading_count: 1,
+        semantic_reading_count: 1,
+        entity_types: ["concept"],
+      },
+      "[[10-1]], [[10-2]]",
+    ),
+  ]
+  const generated = plugin.generate!({ content } as never)
+  assert.ok(generated.some((p) => p.slug === "catalog/reading-types/physical"))
+  assert.ok(generated.some((p) => p.slug === "catalog/reading-types/life"))
+  assert.ok(generated.some((p) => p.slug === "catalog/reading-types/dream"))
+  assert.ok(generated.some((p) => p.slug === "catalog/case-openings"))
+  const Body = plugin.body(undefined)
+  const readingsHome = render(h(Body, { fileData: { slug: "readings/index" } } as never))
+  assert.match(readingsHome, /Case openings|Physical|Life/)
+  const entity = render(h(Body, { fileData: { slug: "entities/Atlantis" } } as never))
+  assert.match(entity, /Strong match \(about this subject\)/)
+  assert.match(entity, /Indexed mention \(verify\)/)
+  const openings = render(h(Body, { fileData: { slug: "catalog/case-openings" } } as never))
+  assert.match(openings, /Reading 10-1/)
+  assert.match(openings, /Reading 11-1/)
+  assert.doesNotMatch(openings, /Reading 10-2/)
+})
+
+test("given-name mislinks demote a literal entity row to name-only, never remove it", () => {
+  const plugin = LibraryCatalog({ verifyCorpus: false })
+  const content = [
+    file(
+      "readings/1527-2",
+      { reading: "1527-2", entities: ["Virgin Mary"], tags: ["reading"] },
+      "## Text\n\nDate: 4/8/1938  Sex: M  Age: 19  ReadingID: 7447\n\na copy of the Reading is being sent to Miss [[Virgin Mary|Mary]] C. Clendenin\n\n## Mentioned Entities\n\n[[Virgin Mary]]",
+    ),
+    file(
+      "readings/5749-7",
+      { reading: "5749-7", entities: ["Virgin Mary"], tags: ["reading"] },
+      "## Text\n\n7. Among them was [[Virgin Mary|Mary]], the beloved, the chosen one;\n\n## Mentioned Entities\n\n[[Virgin Mary]]",
+    ),
+    file(
+      "entities/fixture-virgin-mary",
+      {
+        entity: "Virgin Mary",
+        reading_count: 2,
+        literal_reading_count: 2,
+        semantic_reading_count: 0,
+        entity_types: ["person"],
+      },
+      "[[1527-2]], [[5749-7]]",
+    ),
+  ]
+  plugin.generate!({ content } as never)
+  const Body = plugin.body(undefined)
+  const html = render(h(Body, { fileData: { slug: "entities/fixture-virgin-mary" } } as never))
+  assert.match(html, /1–2 of 2 records/)
+  assert.match(html, /Strong match \(about this subject\)/)
+  assert.match(html, /Name match only \(likely a different person\)/)
+  assert.match(html, /Name-match-only rows/)
+  assert.ok(html.indexOf("Reading 5749-7") < html.indexOf("Reading 1527-2"))
+})
