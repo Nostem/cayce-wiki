@@ -1,6 +1,7 @@
 import type { QuartzComponentProps } from "../types"
 import { readingIdentity } from "./reading"
 import { naturalCompare, readingCaseId } from "./catalog"
+import { relatedReadingsFor } from "./related"
 
 function caseSpine(reading: string, allFiles: QuartzComponentProps["allFiles"], fm: Record<string, unknown>) {
   const caseId = readingCaseId(reading)
@@ -132,9 +133,10 @@ export function ReaderHeader({ tree, fileData, allFiles = [] }: QuartzComponentP
   )
 }
 
-export function ReaderEndMatter({ tree, fileData }: QuartzComponentProps) {
+export function ReaderEndMatter({ tree, fileData, allFiles = [] }: QuartzComponentProps) {
   const identity = readingIdentity(tree, fileData.frontmatter, fileData.slug)
-  if (!identity.isReading) return null
+  if (!identity.isReading || !identity.reading) return null
+  const related = relatedReadingsFor(identity.reading, allFiles)
   return (
     <section class="reader-endmatter" aria-labelledby="citation-heading">
       <h2 id="citation-heading">Citation and provenance</h2>
@@ -150,6 +152,29 @@ export function ReaderEndMatter({ tree, fileData }: QuartzComponentProps) {
         synopsis are research aids, not part of the original reading; associations may be mistaken.
         Historical medical material is not current treatment guidance.
       </p>
+      {related.length > 0 && (
+        <nav class="reader-related" aria-labelledby="related-readings-heading">
+          <h2 id="related-readings-heading">Related readings</h2>
+          <p class="reader-related-note">
+            Compact overlaps from shared named topics in reading metadata — not a claim that the
+            cases are the same. Verify in the source. The full graph remains optional exploration.
+          </p>
+          <ul>
+            {related.map((item) => (
+              <li key={item.id}>
+                <a class="internal" href={`/${item.slug}`}>
+                  Reading {item.id}
+                </a>
+                <span class="reader-related-meta">
+                  {" "}
+                  · {item.score} shared topic{item.score === 1 ? "" : "s"}
+                  {item.shared.length ? ` (${item.shared.join(", ")})` : ""}
+                </span>
+              </li>
+            ))}
+          </ul>
+        </nav>
+      )}
       <details class="reader-properties">
         <summary>Technical properties</summary>
         <dl>
