@@ -5,6 +5,8 @@ import {
   naturalCompare,
   defaultCatalogSort,
   pageSlug,
+  isCaseOpening,
+  readingTypeSlug,
 } from "../../../quartz/components/library/catalog"
 import type { CatalogRecord, CatalogSort } from "../../../quartz/components/library/catalog"
 import type { TopicGroupDefinition } from "../../../quartz/components/library/topics"
@@ -15,6 +17,28 @@ import {
   type Collection,
 } from "./catalog-state"
 import { prepareCatalogContext } from "./catalog-context"
+
+function annotateEntityMembership(
+  entityLabel: string,
+  readingId: string,
+  reading: CatalogRecord,
+  metadata: Map<string, Record<string, unknown>>,
+): CatalogRecord {
+  const fm = metadata.get(`readings/${readingId}`) ?? {}
+  const named = Array.isArray(fm.entities)
+    ? fm.entities.map((value) => String(value))
+    : []
+  const literal = named.some(
+    (name) => name === entityLabel || name.toLowerCase() === entityLabel.toLowerCase(),
+  )
+  return {
+    ...reading,
+    association: literal ? "literal" : "semantic",
+    context: literal
+      ? [reading.context, "Strong match (named in reading entities)"].filter(Boolean).join(" · ")
+      : [reading.context, "Indexed association (verify in source)"].filter(Boolean).join(" · "),
+  }
+}
 
 export function generateCatalogPages(
   content: [string, { data: any; value?: unknown }][],
@@ -48,10 +72,12 @@ export function generateCatalogPages(
           ? "Topics ordered by how often they appear across the archive (highest first). Opaque person stubs still exist under Name (A–Z) or person filters. Editorial grouping is not historical wording or a medical equivalence judgment. Verify associations in the source before citation."
           : kind === "series"
             ? "Series titles and membership follow the source index. Short URLs such as /series/364 also work."
-            : "Readings in natural number order, with original dates and source metadata. Use Jump to reading for a known identifier. Synopses are machine-generated, not archival text.",
+            : "Readings in natural number order, with original dates and source metadata. Use Jump to reading for a known identifier. Filter by reading type or case openings when available. Synopses are machine-generated, not archival text.",
     })
   const tags = new Map<string, CatalogRecord[]>()
   const types = new Map<string, CatalogRecord[]>()
+  const readingTypes = new Map<string, CatalogRecord[]>()
+  const caseOpenings: CatalogRecord[] = []
   for (const [slug, row] of records) {
     const fm = metadata.get(slug)!
     const seen = new Set<string>()
@@ -69,9 +95,19 @@ export function generateCatalogPages(
         if (!types.has(key)) types.set(key, [])
         types.get(key)!.push(row)
       }
+    if (row.kind === "readings") {
+      if (row.readingType) {
+        if (!readingTypes.has(row.readingType)) readingTypes.set(row.readingType, [])
+        readingTypes.get(row.readingType)!.push(row)
+      }
+      if (isCaseOpening(row.label)) caseOpenings.push(row)
+    }
     if (!["entities", "series"].includes(row.kind) || row.slug.endsWith("/index")) continue
     const checked = verifiedMembers.get(slug)!
-    const memberRows = checked.map((id) => readings.get(id)!)
+    const memberRows =
+      row.kind === "entities"
+        ? checked.map((id) => annotateEntityMembership(row.label, id, readings.get(id)!, metadata))
+        : checked.map((id) => readings.get(id)!)
     collections.push({
       base: slug,
       title: row.label,
@@ -79,7 +115,7 @@ export function generateCatalogPages(
       rows: memberRows,
       description:
         row.kind === "entities"
-          ? `${row.label}: ${fm.literal_reading_count ?? 0} literal and ${fm.semantic_reading_count ?? 0} semantic reading associations (overlap counted once). Generated classifications require verification before citation.`
+          ? `${row.label}: ${fm.literal_reading_count ?? 0} literal and ${fm.semantic_reading_count ?? 0} semantic reading associations (overlap counted once). Strong-match rows are named in the reading’s entity list; Indexed associations may be name-drops or LLM indexes — verify before citation.`
           : `Series ${fm.series}: ${row.label}. Source index year span: ${fm.year_span ?? "not recorded"}.`,
     })
     if (row.kind === "series" && fm.series != null) {
@@ -114,10 +150,49 @@ export function generateCatalogPages(
       rows: topics.project(rows),
       description: `Generated entity classification: ${type}. Verify against the readings.`,
     })
-  collections[0].filters = [...tags.keys()]
+  for (const [type, rows] of readingTypes)
+    collections.push({
+      base: `catalog/reading-types/${readingTypeSlug(type)}`,
+      title: `Readings: ${type}`,
+      rows,
+      description: `${type} readings detected from the archival suggestion line in the source transcript (for example “(Physical Suggestion)” or “(Life Reading)”). Not an A.R.E. catalog facet — verify in the preamble.`,
+    })
+  if (caseOpenings.length)
+    collections.push({
+      base: "catalog/case-openings",
+      title: "Start of a case",
+      rows: caseOpenings,
+      description:
+        "First reading in each case number (identifiers ending in -1). Useful for beginning a series chronologically within a person/case.",
+    })
+  const yearFilters = [...tags.keys()]
     .filter((t) => t.startsWith("year/"))
     .sort(naturalCompare)
     .map((t) => ({ label: t.slice(5), base: `tags/${t}` }))
+  const typeReadingFilters = [...readingTypes.keys()]
+    .sort(naturalCompare)
+    .map((t) => ({
+      label: t,
+      base: `catalog/reading-types/${readingTypeSlug(t)}`,
+    }))
+  collections[0].filters = [
+    ...typeReadingFilters,
+    ...(caseOpenings.length
+      ? [{ label: "Start of a case (*-1)", base: "catalog/case-openings" }]
+      : []),
+    ...yearFilters,
+  ]
+  collections[0].preferredFilters = [
+    ...["Physical", "Life", "Business", "Dream"]
+      .filter((t) => readingTypes.has(t))
+      .map((t) => ({
+        label: t,
+        base: `catalog/reading-types/${readingTypeSlug(t)}`,
+      })),
+    ...(caseOpenings.length
+      ? [{ label: "Case openings", base: "catalog/case-openings" }]
+      : []),
+  ]
   const typeFilters = [...types.keys()]
     .sort(naturalCompare)
     .map((t) => ({ label: t, base: `catalog/entity-types/${encodeURIComponent(t)}` }))
