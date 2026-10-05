@@ -11,6 +11,7 @@ import {
   verifyMembership,
 } from "../../../quartz/components/library/catalog"
 import type { CatalogRecord } from "../../../quartz/components/library/catalog"
+import { nameOnlyTargets } from "../../../quartz/components/library/mislinks"
 import recovered from "../data/complete-memberships.json"
 import topicManifest from "../data/topic-groups.json"
 import {
@@ -38,6 +39,8 @@ export function prepareCatalogContext(
   const raw = new Map<string, string>()
   const metadata = new Map<string, Record<string, unknown>>()
   const verifiedMembers = new Map<string, string[]>()
+  /** Reading id → given-name targets whose only in-text links were mislinks. */
+  const nameOnly = new Map<string, Set<string>>()
   const existing = new Set<string>()
   const reservedAliases = new Set<string>()
   for (const [, file] of content) {
@@ -66,6 +69,10 @@ export function prepareCatalogContext(
       throw new Error(`Source route mismatch: ${relative} -> ${slug}`)
     staged.push({ slug, source, data: file.data })
     if (slug.startsWith("entities/") || slug.startsWith("series/")) raw.set(slug, source)
+    if (slug.startsWith("readings/")) {
+      const targets = nameOnlyTargets(source)
+      if (targets.size) nameOnly.set(slug.slice("readings/".length), targets)
+    }
     metadata.set(slug, (file.data.frontmatter ?? {}) as Record<string, unknown>)
   }
   const stagedReadings = staged.filter((row) => row.slug.startsWith("readings/"))
@@ -130,6 +137,7 @@ export function prepareCatalogContext(
     raw,
     metadata,
     verifiedMembers,
+    nameOnly,
     existing,
     reservedAliases,
     readings,

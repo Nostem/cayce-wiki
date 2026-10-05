@@ -113,6 +113,17 @@ test("detectReadingType from archival suggestion lines", () => {
   )
 })
 
+test("the export's usual '(Life Reading Suggestion)' line is detected as Life", () => {
+  assert.equal(
+    detectReadingType("Time of Reading 11:25 to 12:05 Noon.\n(Life Reading Suggestion)\nEC: Yes"),
+    "Life",
+  )
+  assert.equal(detectReadingType("(Business Reading Suggestion)"), "Business")
+  assert.equal(detectReadingType("(Physical Reading Suggestion)"), "Physical")
+  // Report correspondence never decides the type.
+  assert.equal(detectReadingType("1. EC: Yes.\n## Reports\n(Life Reading Suggestion)"), undefined)
+})
+
 test("case openings and type slug helpers", () => {
   assert.equal(isCaseOpening("1527-1"), true)
   assert.equal(isCaseOpening("1527-2"), false)
@@ -129,5 +140,17 @@ test("literal associations sort ahead of semantic on topic lists", () => {
   assert.deepEqual(
     rows.sort(compareCatalog("id")).map((r) => r.label),
     ["1-1", "3-1", "2-1"],
+  )
+})
+
+test("name-only mislink rows sort after literal and semantic rows", () => {
+  const rows = [
+    { slug: "readings/1-1", label: "1-1", kind: "readings", association: "name-only" as const },
+    { slug: "readings/2-1", label: "2-1", kind: "readings", association: "semantic" as const },
+    { slug: "readings/3-1", label: "3-1", kind: "readings", association: "literal" as const },
+  ]
+  assert.deepEqual(
+    rows.sort(compareCatalog("id")).map((r) => r.label),
+    ["3-1", "2-1", "1-1"],
   )
 })

@@ -6,6 +6,7 @@ export interface CatalogSource {
   frontmatter?: Record<string, unknown>
   dates?: unknown
 }
+export type CatalogAssociation = "literal" | "semantic" | "name-only"
 export interface CatalogRecord {
   slug: string
   label: string
@@ -19,8 +20,11 @@ export interface CatalogRecord {
   semanticCount?: number
   /** Detected from source preamble, e.g. Physical / Life / Dream. */
   readingType?: string
-  /** On entity topic lists: literal (named in reading entities) vs semantic/indexed. */
-  association?: "literal" | "semantic"
+  /**
+   * On entity topic lists: literal (named in reading entities), semantic/indexed, or
+   * name-only (the only in-text links were given-name mislinks such as "Dr. Mary Miller").
+   */
+  association?: CatalogAssociation
 }
 export type CatalogSort = "id" | "date" | "count"
 export const naturalCompare = (a: string, b: string) =>
@@ -32,10 +36,11 @@ const countOf = (value: unknown) => (typeof value === "number" ? value : undefin
 const READING_TYPE_PATTERNS: [RegExp, string][] = [
   [/\(\s*Check\s+Physical[^)]*\)/i, "Physical"],
   [/\(\s*Physical\s+Suggestion\s*\)/i, "Physical"],
-  [/\(\s*Physical\s+Reading\s*\)/i, "Physical"],
-  [/\(\s*Life\s+Reading\s*\)/i, "Life"],
-  [/\(\s*Business\s+Reading\s*\)/i, "Business"],
-  [/\(\s*Dream\s+Reading\s*\)/i, "Dream"],
+  [/\(\s*Physical\s+Reading(?:\s+Suggestion)?\s*\)/i, "Physical"],
+  // The export usually writes "(Life Reading Suggestion)"; "(Life Reading)" is rare.
+  [/\(\s*Life\s+Reading(?:\s+Suggestion)?\s*\)/i, "Life"],
+  [/\(\s*Business\s+Reading(?:\s+Suggestion)?\s*\)/i, "Business"],
+  [/\(\s*Dream\s+Reading(?:\s+Suggestion)?\s*\)/i, "Dream"],
   [/\(\s*Mental[-\s]?Spiritual[^)]*\)/i, "Mental-Spiritual"],
   [/\(\s*Aura\s+Chart[^)]*\)/i, "Aura"],
 ]
@@ -85,11 +90,16 @@ export function catalogRecord(source: CatalogSource, raw = ""): CatalogRecord {
     readingType: kind === "readings" ? detectReadingType(raw) : undefined,
   }
 }
+const ASSOCIATION_RANK: Record<CatalogAssociation, number> = {
+  literal: 0,
+  semantic: 1,
+  "name-only": 2,
+}
 export function compareCatalog(sort: CatalogSort) {
   return (a: CatalogRecord, b: CatalogRecord) => {
-    // Prefer strong (literal) associations ahead of indexed/semantic on topic lists.
+    // Strong (literal) associations first, then indexed/semantic, then name-only mislinks.
     if (a.association && b.association && a.association !== b.association) {
-      return a.association === "literal" ? -1 : 1
+      return ASSOCIATION_RANK[a.association] - ASSOCIATION_RANK[b.association]
     }
     if (sort === "count") {
       const ac = a.count ?? -1

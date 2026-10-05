@@ -9,6 +9,7 @@ import {
   readingTypeSlug,
 } from "../../../quartz/components/library/catalog"
 import type { CatalogRecord, CatalogSort } from "../../../quartz/components/library/catalog"
+import { entityKey, isGivenNameTarget } from "../../../quartz/components/library/mislinks"
 import type { TopicGroupDefinition } from "../../../quartz/components/library/topics"
 import {
   catalogPages,
@@ -23,6 +24,7 @@ function annotateEntityMembership(
   readingId: string,
   reading: CatalogRecord,
   metadata: Map<string, Record<string, unknown>>,
+  nameOnly: ReadonlyMap<string, ReadonlySet<string>>,
 ): CatalogRecord {
   const fm = metadata.get(`readings/${readingId}`) ?? {}
   const named = Array.isArray(fm.entities)
@@ -31,6 +33,19 @@ function annotateEntityMembership(
   const literal = named.some(
     (name) => name === entityLabel || name.toLowerCase() === entityLabel.toLowerCase(),
   )
+  // A "literal" match whose only in-text links were a bare given name used for someone
+  // else (e.g. "Dr. Mary Miller" → Virgin Mary) is kept in the list but not called strong.
+  if (literal && nameOnly.get(readingId)?.has(entityKey(entityLabel)))
+    return {
+      ...reading,
+      association: "name-only",
+      context: [
+        reading.context,
+        "Name match only (the reading’s links used this given name for a different person)",
+      ]
+        .filter(Boolean)
+        .join(" · "),
+    }
   return {
     ...reading,
     association: literal ? "literal" : "semantic",
@@ -49,6 +64,7 @@ export function generateCatalogPages(
     raw,
     metadata,
     verifiedMembers,
+    nameOnly,
     existing,
     reservedAliases,
     readings,
@@ -106,8 +122,14 @@ export function generateCatalogPages(
     const checked = verifiedMembers.get(slug)!
     const memberRows =
       row.kind === "entities"
-        ? checked.map((id) => annotateEntityMembership(row.label, id, readings.get(id)!, metadata))
+        ? checked.map((id) =>
+            annotateEntityMembership(row.label, id, readings.get(id)!, metadata, nameOnly),
+          )
         : checked.map((id) => readings.get(id)!)
+    const nameOnlyNote =
+      row.kind === "entities" && isGivenNameTarget(entityKey(row.label))
+        ? " Name-match-only rows: the reading’s only links to this entry used a bare given name for someone else (for example “Dr. Mary Miller” or “Mr. David E. Kahn”); they stay listed for provenance."
+        : ""
     collections.push({
       base: slug,
       title: row.label,
@@ -115,7 +137,7 @@ export function generateCatalogPages(
       rows: memberRows,
       description:
         row.kind === "entities"
-          ? `${row.label}: ${fm.literal_reading_count ?? 0} literal and ${fm.semantic_reading_count ?? 0} semantic reading associations (overlap counted once). Strong-match rows are named in the reading’s entity list; Indexed associations may be name-drops or LLM indexes — verify before citation.`
+          ? `${row.label}: ${fm.literal_reading_count ?? 0} literal and ${fm.semantic_reading_count ?? 0} semantic reading associations (overlap counted once). Strong-match rows are named in the reading’s entity list; Indexed associations may be name-drops or LLM indexes — verify before citation.${nameOnlyNote}`
           : `Series ${fm.series}: ${row.label}. Source index year span: ${fm.year_span ?? "not recorded"}.`,
     })
     if (row.kind === "series" && fm.series != null) {
@@ -155,7 +177,7 @@ export function generateCatalogPages(
       base: `catalog/reading-types/${readingTypeSlug(type)}`,
       title: `Readings: ${type}`,
       rows,
-      description: `${type} readings detected from the archival suggestion line in the source transcript (for example “(Physical Suggestion)” or “(Life Reading)”). Not an A.R.E. catalog facet — verify in the preamble.`,
+      description: `${type} readings detected from the archival suggestion line in the source transcript (for example “(Physical Suggestion)” or “(Life Reading Suggestion)”). Readings without such a line are not listed, so this is a partial view. Not an A.R.E. catalog facet — verify in the preamble.`,
     })
   if (caseOpenings.length)
     collections.push({
