@@ -13,7 +13,7 @@ export default (() => {
     ctx,
   }: QuartzComponentProps) => {
     const titleSuffix = cfg.pageTitleSuffix ?? ""
-    const fm = fileData.frontmatter ?? {}
+    const fm = (fileData.frontmatter ?? {}) as Record<string, unknown>
     const slug = String(fileData.slug ?? "")
     const readingId = typeof fm.reading === "string" ? fm.reading : undefined
     const isReading = slug.startsWith("readings/") && !!readingId
