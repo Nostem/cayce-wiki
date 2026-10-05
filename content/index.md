@@ -1,5 +1,6 @@
 ---
 title: The Cayce Readings
+description: A reading library for exploring the Edgar Cayce transcripts, following subjects through the archive, and returning to the source.
 ---
 
 A reading library for exploring the Edgar Cayce transcripts, following subjects through the archive, and returning to the source.
@@ -16,16 +17,21 @@ Use **Search** to find a reading number such as `1527-2`, or a subject such as `
 
 These links open indexes, not summaries of what the readings establish. Associations may come from literal mentions or machine-generated classification.
 
-- **[[entities/Meditation|Meditation]]**
-- **[[entities/Dreams|Dreams]]**
-- **[[entities/Healing|Healing]]**
 - **[[entities/Atlantis|Atlantis]]**
+- **[[entities/Reincarnation|Reincarnation]]**
+- **[[entities/Dreams|Dreams]]**
+- **[[entities/Castor Oil|Castor oil]]**
+- **[[entities/Cayce Hospital|The Cayce Hospital]]**
+- **[[entities/Meditation|Meditation]]**
+- **[[entities/Healing|Healing]]**
+- Life readings vs physical readings: **[Life readings (series 282–363)](/series/282-363)** · **[Early physical readings (series 1–199)](/series/1-199)**
+- Edgar Cayce’s own case: **[Reading 294-1](/readings/294-1)** (case 294)
 
 ## Read with the source in view
 
 Readings retain their identifying numbers and historical wording. Reports and Background are separate from the main transcript. Modern descriptions, topic links and generated indexes are research aids, not part of the original reading.
 
-Before quoting or relying on an association, check the surrounding source text. [About annotations and responsible citation](/help#source-text-and-annotations).
+Before quoting or relying on an association, check the surrounding source text. Prefer the **Unannotated view** on a reading page when quoting. [About annotations and responsible citation](/help#source-text-and-annotations).
 
 ## About this collection
 
