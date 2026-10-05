@@ -23,6 +23,7 @@
     ".quartz/**/src/**",
     ".quartz/**/test/**",
     "node_modules/**",
-    "quartz/cli/tui/**"
+    "quartz/cli/tui/**",
+    "plugins/**"
   ]
 }
