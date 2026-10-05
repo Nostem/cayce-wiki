@@ -194,3 +194,50 @@ test("existing catalog shells are excluded from membership and retitled", () => 
     /0–0 of 0 records/,
   )
 })
+
+test("reading type facets, case openings, and association labels on entity lists", () => {
+  const plugin = LibraryCatalog({ verifyCorpus: false })
+  const content = [
+    file(
+      "readings/10-1",
+      { reading: "10-1", year: 1930, entities: ["Atlantis"], tags: ["reading"] },
+      "Date: 1/1/1930 Sex: M ReadingID: 10\n(Physical Suggestion)\n1. EC: Yes.",
+    ),
+    file(
+      "readings/10-2",
+      { reading: "10-2", year: 1931, entities: ["Dreams"], tags: ["reading"] },
+      "Date: 2/1/1931 Sex: F ReadingID: 11\n(Life Reading)\n1. EC: Yes.",
+    ),
+    file(
+      "readings/11-1",
+      { reading: "11-1", year: 1932, tags: ["reading"] },
+      "Date: 3/1/1932 Sex: M ReadingID: 12\n(Dream Reading)\n1. EC: Yes.",
+    ),
+    file(
+      "entities/Atlantis",
+      {
+        entity: "Atlantis",
+        reading_count: 2,
+        literal_reading_count: 1,
+        semantic_reading_count: 1,
+        entity_types: ["concept"],
+      },
+      "[[10-1]], [[10-2]]",
+    ),
+  ]
+  const generated = plugin.generate!({ content } as never)
+  assert.ok(generated.some((p) => p.slug === "catalog/reading-types/physical"))
+  assert.ok(generated.some((p) => p.slug === "catalog/reading-types/life"))
+  assert.ok(generated.some((p) => p.slug === "catalog/reading-types/dream"))
+  assert.ok(generated.some((p) => p.slug === "catalog/case-openings"))
+  const Body = plugin.body(undefined)
+  const readingsHome = render(h(Body, { fileData: { slug: "readings/index" } } as never))
+  assert.match(readingsHome, /Case openings|Physical|Life/)
+  const entity = render(h(Body, { fileData: { slug: "entities/Atlantis" } } as never))
+  assert.match(entity, /Strong match \(about this subject\)/)
+  assert.match(entity, /Indexed mention \(verify\)/)
+  const openings = render(h(Body, { fileData: { slug: "catalog/case-openings" } } as never))
+  assert.match(openings, /Reading 10-1/)
+  assert.match(openings, /Reading 11-1/)
+  assert.doesNotMatch(openings, /Reading 10-2/)
+})
