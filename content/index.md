@@ -20,12 +20,13 @@ These links open indexes, not summaries of what the readings establish. Associat
 - **[[entities/Atlantis|Atlantis]]**
 - **[[entities/Reincarnation|Reincarnation]]**
 - **[[entities/Dreams|Dreams]]**
-- **[[entities/Castor Oil|Castor oil]]**
-- **[[entities/Cayce Hospital|The Cayce Hospital]]**
+- **[[entities/Castor Oil|Castor oil]]** · [Castor oil packs](/topics/castor-oil-packs) (pack variants grouped)
+- **[[entities/Cayce Hospital|The Cayce Hospital]]** — includes readings given at the hospital as well as readings about it
 - **[[entities/Meditation|Meditation]]**
 - **[[entities/Healing|Healing]]**
-- Life readings vs physical readings: **[Life readings (series 282–363)](/series/282-363)** · **[Early physical readings (series 1–199)](/series/1-199)**
-- Edgar Cayce’s own case: **[Reading 294-1](/readings/294-1)** (case 294)
+- **[Jesus Christ](/topics/jesus-christ)** (combined with “Jesus of Nazareth”)
+- Life readings vs physical readings: **[Life readings (series 282–363)](/series/282-363)** · **[Early physical readings (series 1–199)](/series/1-199)** · or browse by the archival suggestion line: [Life](/catalog/reading-types/life) · [Physical](/catalog/reading-types/physical) (partial: only readings whose transcript records the line)
+- Edgar Cayce’s own case: **[Reading 294-1](/readings/294-1)** (case 294). Mentions of “[294]” in other readings are indexed under [Person \[294\]](/topics/294).
 
 ## Read with the source in view
 

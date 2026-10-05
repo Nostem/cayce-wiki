@@ -218,6 +218,16 @@ export function createCatalogBody(): QuartzComponent {
                     { class: "catalog-badge catalog-badge-semantic" },
                     "Indexed mention (verify)",
                   ),
+                row.association === "name-only" &&
+                  h(
+                    "span",
+                    {
+                      class: "catalog-badge catalog-badge-name-only",
+                      title:
+                        "The reading’s only links to this entry used the given name for a different person.",
+                    },
+                    "Name match only (likely a different person)",
+                  ),
                 " ",
                 row.literalCount !== undefined &&
                   h(

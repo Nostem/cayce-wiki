@@ -29,6 +29,27 @@ export default (() => {
           .filter(Boolean)
           .join(" · ")
       : undefined
+    // Entity notes carry their display label in `entity`; collision-suffixed filenames
+    // (e.g. 294--3a085d1b) must never surface as the page or social title.
+    const entityLabel =
+      slug.startsWith("entities/") && typeof fm.entity === "string" && fm.entity.trim()
+        ? fm.entity.trim()
+        : undefined
+    const entityTypes = Array.isArray(fm.entity_types) ? fm.entity_types.map(String) : []
+    const personNumber = entityLabel?.match(/^\[?(\d+)\]?$/)?.[1]
+    const entityTitle = entityLabel
+      ? personNumber && entityTypes.includes("person")
+        ? `Person [${personNumber}] — references in the readings`
+        : entityLabel
+      : undefined
+    const countText = (value: unknown) =>
+      typeof value === "number" ? value.toLocaleString("en-US") : undefined
+    const entityReadings = countText(fm.reading_count)
+    const entityDescription =
+      entityTitle && entityReadings
+        ? `${entityTitle}${entityTypes.length ? ` (${entityTypes.join(", ")})` : ""}: indexed in ${entityReadings} Cayce readings — ${countText(fm.literal_reading_count) ?? "0"} literal and ${countText(fm.semantic_reading_count) ?? "0"} machine-classified associations. A research index, not a claim; verify in the source before citing.`
+        : undefined
+    const pageTitle = typeof fm.title === "string" ? fm.title : undefined
     const fallbackDescription =
       slug === "index"
         ? "A reading library for exploring the Edgar Cayce transcripts, following subjects through the archive, and returning to the source."
@@ -38,16 +59,20 @@ export default (() => {
             ? "Browse the Edgar Cayce readings by number or jump to a known identifier."
             : slug === "series" || slug.startsWith("series/")
               ? "Series titles and membership follow the source index of the Cayce readings."
-              : i18n(cfg.locale).propertyDefaults.description
+              : slug.startsWith("topics/")
+                ? `${pageTitle ?? "Topic"}: combined index of Cayce readings across alternate source names for this subject. Grouping is editorial; verify associations in the source.`
+                : slug.startsWith("catalog/")
+                  ? `${pageTitle ?? "Catalog"}: a filtered view of the Cayce readings archive. Verify facets against the source text.`
+                  : i18n(cfg.locale).propertyDefaults.description
     const title =
-      (readingTitle ??
-        (typeof fm.title === "string" ? fm.title : undefined) ??
-        i18n(cfg.locale).propertyDefaults.title) + titleSuffix
+      (readingTitle ?? entityTitle ?? pageTitle ?? i18n(cfg.locale).propertyDefaults.title) +
+      titleSuffix
     const extracted = unescapeHTML(fileData.description?.trim() || "")
     const description =
       (typeof fm.socialDescription === "string" ? fm.socialDescription : undefined) ??
       (typeof fm.description === "string" ? fm.description : undefined) ??
       (isReading && summary ? summary : undefined) ??
+      entityDescription ??
       (extracted || fallbackDescription)
 
     const { css, js, additionalHead } = externalResources

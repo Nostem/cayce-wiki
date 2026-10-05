@@ -241,3 +241,38 @@ test("reading type facets, case openings, and association labels on entity lists
   assert.match(openings, /Reading 11-1/)
   assert.doesNotMatch(openings, /Reading 10-2/)
 })
+
+test("given-name mislinks demote a literal entity row to name-only, never remove it", () => {
+  const plugin = LibraryCatalog({ verifyCorpus: false })
+  const content = [
+    file(
+      "readings/1527-2",
+      { reading: "1527-2", entities: ["Virgin Mary"], tags: ["reading"] },
+      "## Text\n\nDate: 4/8/1938  Sex: M  Age: 19  ReadingID: 7447\n\na copy of the Reading is being sent to Miss [[Virgin Mary|Mary]] C. Clendenin\n\n## Mentioned Entities\n\n[[Virgin Mary]]",
+    ),
+    file(
+      "readings/5749-7",
+      { reading: "5749-7", entities: ["Virgin Mary"], tags: ["reading"] },
+      "## Text\n\n7. Among them was [[Virgin Mary|Mary]], the beloved, the chosen one;\n\n## Mentioned Entities\n\n[[Virgin Mary]]",
+    ),
+    file(
+      "entities/fixture-virgin-mary",
+      {
+        entity: "Virgin Mary",
+        reading_count: 2,
+        literal_reading_count: 2,
+        semantic_reading_count: 0,
+        entity_types: ["person"],
+      },
+      "[[1527-2]], [[5749-7]]",
+    ),
+  ]
+  plugin.generate!({ content } as never)
+  const Body = plugin.body(undefined)
+  const html = render(h(Body, { fileData: { slug: "entities/fixture-virgin-mary" } } as never))
+  assert.match(html, /1–2 of 2 records/)
+  assert.match(html, /Strong match \(about this subject\)/)
+  assert.match(html, /Name match only \(likely a different person\)/)
+  assert.match(html, /Name-match-only rows/)
+  assert.ok(html.indexOf("Reading 5749-7") < html.indexOf("Reading 1527-2"))
+})
