@@ -1,6 +1,14 @@
 import test from "node:test"
 import assert from "node:assert/strict"
-import { catalogRecord, compareCatalog, paginate, verifyMembership } from "./catalog"
+import {
+  catalogRecord,
+  compareCatalog,
+  paginate,
+  verifyMembership,
+  readingCaseId,
+  defaultCatalogSort,
+  pageSlug,
+} from "./catalog"
 test("uncertain archival dates are not presented as exact", () => {
   assert.equal(
     catalogRecord(
@@ -63,4 +71,26 @@ test("membership fails closed on capped, dangling, or mismatched reconstruction"
     verifyMembership("Atlantis", ["2-1", "1-1", "1-1"], 2, new Set(["1-1", "2-1"])),
     ["1-1", "2-1"],
   )
+})
+
+test("entity catalogs sort by reading count descending", () => {
+  const rows = [
+    catalogRecord({ slug: "entities/a", frontmatter: { entity: "[23]", reading_count: 4 } }),
+    catalogRecord({ slug: "entities/b", frontmatter: { entity: "Atlantis", reading_count: 875 } }),
+    catalogRecord({ slug: "entities/c", frontmatter: { entity: "Dreams", reading_count: 100 } }),
+  ]
+  assert.deepEqual(
+    rows.sort(compareCatalog("count")).map((r) => r.label),
+    ["Atlantis", "Dreams", "[23]"],
+  )
+})
+test("readingCaseId and entity default sort helpers", () => {
+  assert.equal(readingCaseId("294-12"), "294")
+  assert.equal(readingCaseId("1527-2"), "1527")
+  assert.equal(readingCaseId("364"), undefined)
+  assert.equal(defaultCatalogSort("entities"), "count")
+  assert.equal(defaultCatalogSort("readings"), "id")
+  assert.equal(pageSlug("entities", 1, "count", "count"), "entities")
+  assert.equal(pageSlug("entities", 1, "id", "count"), "entities/by-name")
+  assert.equal(pageSlug("readings", 2, "id", "id"), "readings/page/2")
 })
