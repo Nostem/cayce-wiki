@@ -98,7 +98,7 @@ export function searchContent(slug, item, excerptLimit = 180) {
   const id = slug.slice("readings/".length)
   const caseId = id.match(/^(.+)-\d+$/)?.[1]
   const tokens = [...new Set([id, caseId].filter(Boolean))]
-  const prefix = tokens.join(" ")
+  const prefix = tokens.join(" · ")
   if (!prefix) return excerpt
   // Ids lead for ranking; SOURCE date/type/transcript remain in the visible snippet.
   // Allow a small budget over excerptLimit so the prefix is never truncated away.

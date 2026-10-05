@@ -66,7 +66,9 @@ test("splits search data from a scoped graph index", () => {
     const graph = JSON.parse(readFileSync(join(dir, "graphIndex.json"), "utf8"))
 
     assert.deepEqual(Object.keys(search["readings/1-1"]).sort(), ["content", "tags", "title"])
-    assert.ok(search["readings/1-1"].content.length <= 25)
+    // searchContent may exceed excerptLimit by the reading-id prefix budget
+    assert.match(search["readings/1-1"].content, /^1-1 · 1 ·/)
+    assert.ok(search["readings/1-1"].content.length <= 24 + 20)
     assert.deepEqual(graph["readings/1-1"].links.sort(), [
       "entities/a",
       "entities/b",

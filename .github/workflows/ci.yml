@@ -24,18 +24,6 @@ jobs:
       - name: Generate Quartz plugin index
         run: npm run install-plugins
       - name: Check types
-        run: |
-          set +e
-          out=$(npx tsc --noEmit 2>&1)
-          code=$?
-          echo "$out"
-          if [ $code -eq 0 ]; then exit 0; fi
-          quartz_errs=$(echo "$out" | grep -E 'error TS' | grep -v 'plugins/' || true)
-          if [ -n "$quartz_errs" ]; then
-            echo "$quartz_errs"
-            exit 1
-          fi
-          echo "Ignoring TypeScript errors under plugins/ (built via esbuild)."
-          exit 0
+        run: npx tsc --noEmit
       - name: Run full test suite
         run: npm test
