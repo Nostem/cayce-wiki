@@ -1,4 +1,5 @@
 import { h } from "preact"
+import type { ComponentChild } from "preact"
 import type { QuartzComponent } from "../../../quartz/components/types"
 import { resolveRelative } from "../../../quartz/util/path"
 import type { FullSlug } from "../../../quartz/util/path"
@@ -35,7 +36,7 @@ export function createCatalogBody(): QuartzComponent {
       number < result.pages &&
         link(pageSlug(collection.base, result.pages, sort, preferredSort), "Last page"),
     )
-    const sortLinks: (ReturnType<typeof h> | string)[] = []
+    const sortLinks: ComponentChild[] = []
     if (catalogPages.has(pageSlug(collection.base, 1, "count", preferredSort))) {
       sortLinks.push(
         link(pageSlug(collection.base, 1, "count", preferredSort), "Most readings", {
@@ -271,7 +272,7 @@ document.addEventListener("nav", () => {
     const input = form.querySelector("input");
     const raw = (input && "value" in input ? String(input.value) : "").trim();
     if (!raw) return;
-    const reading = raw.match(/^(\\d+(?:-\\d+)?)$/);
+    const reading = raw.match(/^(\d+(?:-\d+)?)$/);
     if (reading) {
       const id = reading[1];
       if (!id.includes("-")) {
