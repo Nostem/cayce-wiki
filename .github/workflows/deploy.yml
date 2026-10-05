@@ -20,7 +20,8 @@ jobs:
     needs: verify
     if: ${{ github.ref == 'refs/heads/main' }}
     runs-on: ubuntu-22.04
-    timeout-minutes: 60
+    # Full Quartz builds regularly approach an hour; keep headroom above prior cancel.
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
         with:
