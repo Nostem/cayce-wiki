@@ -8,12 +8,12 @@ const configPath = fileURLToPath(new URL("../quartz.config.yaml", import.meta.ur
 const deploymentHost = process.env.VERCEL_PROJECT_PRODUCTION_URL || process.env.VERCEL_URL
 const nodeOptions = process.env.NODE_OPTIONS || "--max-old-space-size=12288"
 
-function run(command, args, label = `${command} ${args.join(" ")}`) {
+function run(command, args, label = `${command} ${args.join(" ")}`, extraEnv = {}) {
   const started = Date.now()
   console.log(`[vercel-build] start ${label} @ ${new Date().toISOString()}`)
   const result = spawnSync(command, args, {
     cwd: root,
-    env: { ...process.env, NODE_OPTIONS: nodeOptions },
+    env: { ...process.env, NODE_OPTIONS: nodeOptions, ...extraEnv },
     stdio: "inherit",
   })
   const elapsed = ((Date.now() - started) / 1000).toFixed(1)
@@ -36,7 +36,10 @@ run(process.execPath, ["scripts/patch-quartz-accessibility.mjs"], "patch-quartz-
 run(process.execPath, ["scripts/patch-quartz-backlinks.mjs"], "patch-quartz-backlinks")
 run(process.execPath, ["scripts/patch-quartz-aliases.mjs"], "patch-quartz-aliases")
 // Cap workers so concurrent page emits do not fight a large shared heap.
-run("npx", ["quartz", "build", "--concurrency=2"], "quartz build")
+// Lean catalog: hubs/facets/topics only (skip ~10k membership + tag virtual pages).
+run("npx", ["quartz", "build", "--concurrency=2"], "quartz build", {
+  CAYCE_LEAN_CATALOG: "1",
+})
 run("npx", ["tsx", "scripts/verify-source-output.ts", "public"], "verify-source-output")
 run("npx", ["tsx", "scripts/verify-topic-groups.ts", "public"], "verify-topic-groups")
 run(
