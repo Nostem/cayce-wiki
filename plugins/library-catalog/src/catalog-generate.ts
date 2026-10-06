@@ -1,1 +1,1 @@
-PLACEHOLDER
+{{file:/workspace/cayce-edits/catalog-generate.ts}}
