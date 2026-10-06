@@ -255,15 +255,9 @@ export function generateCatalogPages(
   }
   for (const collection of collections) {
     const preferredSort = defaultCatalogSort(collection.base)
-    const sorts = (
-      collection.rows.length > 40 && collection.rows.some((r) => r.kind === "readings")
-        ? preferredSort === "count"
-          ? ["count", "id", "date"]
-          : ["id", "date"]
-        : preferredSort === "count"
-          ? ["count", "id"]
-          : ["id"]
-    ) as CatalogSort[]
+    // Prod emit: default sort only. Secondary by-date / by-name duplicates roughly
+    // doubled catalog virtual URLs without enough navigation value to justify the cost.
+    const sorts = [preferredSort] as CatalogSort[]
     for (const sort of sorts) {
       const sorted = { ...collection, rows: [...collection.rows].sort(compareCatalog(sort)) }
       const count = paginate(sorted.rows).pages

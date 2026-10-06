@@ -57,14 +57,14 @@ test("entity display metadata never changes hashed identity", () => {
 })
 test("bounded pages reconcile complete unique membership and reject invalid pages", () => {
   const rows = Array.from({ length: 875 }, (_, i) => i)
-  const pages = Array.from({ length: 22 }, (_, i) => paginate(rows, i + 1))
-  assert.equal(pages[0].rows.length, 40)
+  const pages = Array.from({ length: 18 }, (_, i) => paginate(rows, i + 1))
+  assert.equal(pages[0].rows.length, 50)
   assert.deepEqual(
     pages.flatMap((p) => p.rows),
     rows,
   )
   assert.throws(() => paginate(rows, 0))
-  assert.throws(() => paginate(rows, 23))
+  assert.throws(() => paginate(rows, 19))
   assert.throws(() => paginate(rows, 1, 400))
 })
 test("membership fails closed on capped, dangling, or mismatched reconstruction", () => {

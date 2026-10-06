@@ -130,7 +130,7 @@ export function pageSlug(
   if (sort === "count") return page === 1 ? `${base}/by-count` : `${base}/by-count/page/${page}`
   return page === 1 ? `${base}/by-name` : `${base}/by-name/page/${page}`
 }
-export function paginate<T>(rows: readonly T[], page = 1, size = 40) {
+export function paginate<T>(rows: readonly T[], page = 1, size = 50) {
   if (!Number.isInteger(size) || size < 25 || size > 50)
     throw new Error("Catalog page size must be 25–50")
   const pages = Math.max(1, Math.ceil(rows.length / size))
