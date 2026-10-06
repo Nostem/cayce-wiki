@@ -19,17 +19,20 @@ jobs:
   deploy:
     needs: verify
     if: ${{ github.ref == 'refs/heads/main' }}
+    # Keep ubuntu-22.04 (no documented larger runner for this org); raise heap instead.
     runs-on: ubuntu-22.04
-    # Full-corpus Quartz build now exceeds ~90m on hosted runners; leave headroom for prepare + vercel upload.
+    # Safety ceiling only — primary fix is heap + concurrency + no git dates + fewer catalog pages.
     timeout-minutes: 150
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          # CreatedModifiedDate no longer uses git; shallow clone is enough.
+          fetch-depth: 1
 
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+          cache: npm
 
       - name: Install dependencies
         run: npm ci
@@ -37,7 +40,7 @@ jobs:
       - name: Build optimized Quartz site for Vercel
         run: npm run vercel-build
         env:
-          NODE_OPTIONS: "--max-old-space-size=6144"
+          NODE_OPTIONS: "--max-old-space-size=12288"
           VERCEL_PROJECT_PRODUCTION_URL: cayce-wiki.vercel.app
 
       - name: Prepare Vercel Build Output API artifact
