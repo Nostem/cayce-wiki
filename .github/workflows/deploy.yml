@@ -24,12 +24,12 @@ jobs:
     # Safety ceiling only — primary fix is heap + concurrency + no git dates + fewer catalog pages.
     timeout-minutes: 150
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           # CreatedModifiedDate no longer uses git; shallow clone is enough.
           fetch-depth: 1
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v6
         with:
           node-version: 22
           cache: npm
